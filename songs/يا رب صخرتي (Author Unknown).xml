@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>يا رب صخرتي<br/>إليك صرختي فأنت مخلصي<br/>في ضعف قوتي أقول ثابت قلبي</lines>
+      <lines>يا رب صخرتي newline إليك صرختي فأنت مخلصي newline في ضعف قوتي أقول ثابت قلبي</lines>
     </verse>
     <verse name="v1b">
-      <lines>ثابت قلبي في ضعفي سأسمع<br/>تكفيك نعمتي<br/>ثابت قلبي</lines>
+      <lines>ثابت قلبي في ضعفي سأسمع newline تكفيك نعمتي newline ثابت قلبي</lines>
     </verse>
   </lyrics>
 </song>

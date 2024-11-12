@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>We wish you a Merry Christmas;<br/>We wish you a Merry Christmas;<br/>We wish you a Merry Christmas<br/>and a Happy New Year.</lines>
+      <lines>We wish you a Merry Christmas; newline We wish you a Merry Christmas; newline We wish you a Merry Christmas newline and a Happy New Year.</lines>
     </verse>
     <verse name="v2">
-      <lines>Good tidings we bring<br/>to you and your kin;<br/>Good tidings for Christmas<br/>and a Happy New Year.</lines>
+      <lines>Good tidings we bring newline to you and your kin; newline Good tidings for Christmas newline and a Happy New Year.</lines>
     </verse>
   </lyrics>
 </song>

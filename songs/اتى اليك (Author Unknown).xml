@@ -10,22 +10,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>آتي إليك يا يسوعي<br/>أنت المريح<br/>آتي إليك بدموعي<br/>وبقلب جريح</lines>
+      <lines>آتي إليك يا يسوعي newline أنت المريح newline آتي إليك بدموعي newline وبقلب جريح</lines>
     </verse>
     <verse name="c1">
-      <lines>آتي إليك ... أنا آتي إليك <br/>أنا آتي إليك<br/>و أنا لي مين غيرك<br/>و أروح لمين غيرك<br/>أنا آتي إليك ... أنا آتي إليك</lines>
+      <lines>آتي إليك ... أنا آتي إليك  newline أنا آتي إليك newline و أنا لي مين غيرك newline و أروح لمين غيرك newline أنا آتي إليك ... أنا آتي إليك</lines>
     </verse>
     <verse name="v2">
-      <lines>آتي إليك يا حبيبي<br/>يا أعز حبيب<br/>آتي إليك بذنوبي<br/>عند الصليب</lines>
+      <lines>آتي إليك يا حبيبي newline يا أعز حبيب newline آتي إليك بذنوبي newline عند الصليب</lines>
     </verse>
     <verse name="v3">
-      <lines>آتي إليك يا راعي<br/>في كل الظروف<br/>إن سرتُ حتى في الوادي<br/>لا يوجد خوف</lines>
+      <lines>آتي إليك يا راعي newline في كل الظروف newline إن سرتُ حتى في الوادي newline لا يوجد خوف</lines>
     </verse>
     <verse name="v4">
-      <lines>آتي إليك فكرسني<br/>وامسح شفتاي<br/>واملأني بروح الطاعة<br/>وقد خُطاي</lines>
+      <lines>آتي إليك فكرسني newline وامسح شفتاي newline واملأني بروح الطاعة newline وقد خُطاي</lines>
     </verse>
     <verse name="v5">
-      <lines>آتي إليك فاحميني<br/>من كل ذات<br/>آتي إليك فارفعني<br/>فوق الضعفات</lines>
+      <lines>آتي إليك فاحميني newline من كل ذات newline آتي إليك فارفعني newline فوق الضعفات</lines>
     </verse>
   </lyrics>
 </song>

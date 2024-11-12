@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>O the height and depth of mercy!<br/>O the length and breadth of love!<br/>O the fullness of redemption,<br/>Pledge of endless life above!</lines>
+      <lines>O the height and depth of mercy! newline O the length and breadth of love! newline O the fullness of redemption, newline Pledge of endless life above!</lines>
     </verse>
     <verse name="v1">
-      <lines>Take the world but give me Jesus.<br/>All its joys are but a name;<br/>But His love abideth ever,<br/>Through eternal years the same.</lines>
+      <lines>Take the world but give me Jesus. newline All its joys are but a name; newline But His love abideth ever, newline Through eternal years the same.</lines>
     </verse>
     <verse name="v2">
-      <lines>Take the world but give me Jesus.<br/>Sweetest comfort of my soul;<br/>With my Savior watching o'er me,<br/>I can sing though billows roll.</lines>
+      <lines>Take the world but give me Jesus. newline Sweetest comfort of my soul; newline With my Savior watching o'er me, newline I can sing though billows roll.</lines>
     </verse>
     <verse name="v3">
-      <lines>Take the world but give me Jesus.<br/>Let me view His constant smile;<br/>Then throughout my pilgrim journey<br/>Light will cheer me all the while.</lines>
+      <lines>Take the world but give me Jesus. newline Let me view His constant smile; newline Then throughout my pilgrim journey newline Light will cheer me all the while.</lines>
     </verse>
     <verse name="v4">
-      <lines>Take the world but give me Jesus.<br/>In His cross my trust shall be,<br/>Till with clearer brighter vision,<br/>Face to face my Lord I see.</lines>
+      <lines>Take the world but give me Jesus. newline In His cross my trust shall be, newline Till with clearer brighter vision, newline Face to face my Lord I see.</lines>
     </verse>
   </lyrics>
 </song>

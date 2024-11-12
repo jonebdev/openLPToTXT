@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>What to say Lord,<br/>It's you who gave me life and I<br/>Can't explain just how<br/>Much you mean to me now that<br/>You have saved me Lord<br/>I give all that I am to You<br/>that everyday I can<br/>Be a light that shines your name</lines>
+      <lines>What to say Lord, newline It's you who gave me life and I newline Can't explain just how newline Much you mean to me now that newline You have saved me Lord newline I give all that I am to You newline that everyday I can newline Be a light that shines your name</lines>
     </verse>
     <verse name="v2">
-      <lines>Everday Lord I'll<br/>learn to stand upon your word<br/>And I pray that I<br/>That I might come to know you More<br/>That you would guide me<br/>In every single step I take<br/>that everday I can<br/>Be your light unto the world</lines>
+      <lines>Everday Lord I'll newline learn to stand upon your word newline And I pray that I newline That I might come to know you More newline That you would guide me newline In every single step I take newline that everday I can newline Be your light unto the world</lines>
     </verse>
     <verse name="v3">
-      <lines>Everyday<br/>It's you I'll live for<br/>Everyday<br/>I'll follow after you<br/>Everyday<br/>I'll walk with you my Lord</lines>
+      <lines>Everyday newline It's you I'll live for newline Everyday newline I'll follow after you newline Everyday newline I'll walk with you my Lord</lines>
     </verse>
     <verse name="v4">
-      <lines>It's you I live for everyday<br/>It's you I live for everyday<br/>It's you I live for everday</lines>
+      <lines>It's you I live for everyday newline It's you I live for everyday newline It's you I live for everday</lines>
     </verse>
   </lyrics>
 </song>

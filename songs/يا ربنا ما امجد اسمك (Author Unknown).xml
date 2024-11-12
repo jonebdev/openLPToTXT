@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="i1">
-      <lines>يا ربنا ما أمجد اسمك<br/>في كل الأرض<br/>(Ya rabbana ma amjad asmaka fee kullil ard)2</lines>
+      <lines>يا ربنا ما أمجد اسمك newline في كل الأرض newline (Ya rabbana ma amjad asmaka fee kullil ard)2</lines>
     </verse>
     <verse name="e1">
-      <lines>من أنا يا رب حتى تذكرني<br/>من أنا حتى تفتقدني<br/>بمجد وبهاء تكللني<br/>تسلطني على كل شيء<br/>Man ana ya rabbu hatta tathkurany man ana hatta taftakidany bimajdin wa baha'in tukalliluny tusalituny ala kully shay'</lines>
+      <lines>من أنا يا رب حتى تذكرني newline من أنا حتى تفتقدني newline بمجد وبهاء تكللني newline تسلطني على كل شيء newline Man ana ya rabbu hatta tathkurany man ana hatta taftakidany bimajdin wa baha'in tukalliluny tusalituny ala kully shay'</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>يا اللي أمامك حياتي<br/>من قبل تكويني<br/>مكشوفة ليك يا جبلني<br/>أيامي وسنيني</lines>
+      <lines>يا اللي أمامك حياتي newline من قبل تكويني newline مكشوفة ليك يا جبلني newline أيامي وسنيني</lines>
     </verse>
     <verse name="c1">
-      <lines>بارتاح علي صدرك<br/>واتدفي بالحنان<br/>ترويني من نهرك<br/>راحة وفرحة وأمان 2</lines>
+      <lines>بارتاح علي صدرك newline واتدفي بالحنان newline ترويني من نهرك newline راحة وفرحة وأمان 2</lines>
     </verse>
     <verse name="v2">
-      <lines>عديت عظامي وعارفني<br/>بطباعي وصفاتي<br/>ضحكي ودمعي وأصغر<br/>تفاصيل حياتي</lines>
+      <lines>عديت عظامي وعارفني newline بطباعي وصفاتي newline ضحكي ودمعي وأصغر newline تفاصيل حياتي</lines>
     </verse>
   </lyrics>
 </song>

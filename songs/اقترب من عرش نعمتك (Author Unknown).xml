@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>اقترب من عرش نعمتك<br/>شهوتي آن آبقى قربك</lines>
+      <lines>اقترب من عرش نعمتك newline شهوتي آن آبقى قربك</lines>
     </verse>
     <verse name="v2">
-      <lines>لتدخلني لمياه الراحة<br/>وتعرفني مقدار حبك</lines>
+      <lines>لتدخلني لمياه الراحة newline وتعرفني مقدار حبك</lines>
     </verse>
     <verse name="v3">
-      <lines>حبك يسري في أعماقي<br/>يفيض فيَ بالشفا<br/>حبك يسري في أعماقي الآن<br/>يفيض فيَ بالسلام</lines>
+      <lines>حبك يسري في أعماقي newline يفيض فيَ بالشفا newline حبك يسري في أعماقي الآن newline يفيض فيَ بالسلام</lines>
     </verse>
     <verse name="v4">
-      <lines>يسوع ... حبك عجيب<br/>يسوع ... آنت الحياة<br/>يسوع ... آغلى حبيب<br/>يسوع ... أنت مشتهاي</lines>
+      <lines>يسوع ... حبك عجيب newline يسوع ... آنت الحياة newline يسوع ... آغلى حبيب newline يسوع ... أنت مشتهاي</lines>
     </verse>
   </lyrics>
 </song>

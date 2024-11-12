@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I will celebrate, sing unto the Lord<br/>Sing to the Lord a new song.<br/>I will celebrate, sing unto the Lord<br/>Sing to the Lord a new song.</lines>
+      <lines>I will celebrate, sing unto the Lord newline Sing to the Lord a new song. newline I will celebrate, sing unto the Lord newline Sing to the Lord a new song.</lines>
     </verse>
     <verse name="v2">
-      <lines>With my heart, rejoicing within<br/>With my mind focused on Him<br/>With my hands, raised to the heavens<br/>All I am, Worshipping Him.</lines>
+      <lines>With my heart, rejoicing within newline With my mind focused on Him newline With my hands, raised to the heavens newline All I am, Worshipping Him.</lines>
     </verse>
   </lyrics>
 </song>

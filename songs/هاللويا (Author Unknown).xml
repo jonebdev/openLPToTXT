@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>هاللويا هاللويا هاللويا<br/>هالويا هاللويا</lines>
+      <lines>هاللويا هاللويا هاللويا newline هالويا هاللويا</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>As the morning dawns and evening fades<br/>You inspire songs of praise<br/>That rise from earth to touch Your heart<br/>And glorify Your name</lines>
+      <lines>As the morning dawns and evening fades newline You inspire songs of praise newline That rise from earth to touch Your heart newline And glorify Your name</lines>
     </verse>
     <verse name="v2">
-      <lines>Your name<br/>is a strong and mighty tower<br/>Your name<br/>is a shelter like no other<br/>Your name<br/>let the nations sing it louder<br/>'Cause nothin has the power to save but<br/>Your name</lines>
+      <lines>Your name newline is a strong and mighty tower newline Your name newline is a shelter like no other newline Your name newline let the nations sing it louder newline 'Cause nothin has the power to save but newline Your name</lines>
     </verse>
     <verse name="v3">
-      <lines>Jesus in Your name we pray<br/>Come and fill our hearts today<br/>Lord give us strength to live for You<br/>And glorify Your name</lines>
+      <lines>Jesus in Your name we pray newline Come and fill our hearts today newline Lord give us strength to live for You newline And glorify Your name</lines>
     </verse>
   </lyrics>
 </song>

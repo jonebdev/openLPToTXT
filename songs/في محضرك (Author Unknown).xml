@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>في محضرك يهرب الخوف<br/>في محضرك سلام</lines>
+      <lines>في محضرك يهرب الخوف newline في محضرك سلام</lines>
     </verse>
     <verse name="v2">
-      <lines>في محضرك تذوب الجبال<br/>في محضرك يسوع</lines>
+      <lines>في محضرك تذوب الجبال newline في محضرك يسوع</lines>
     </verse>
     <verse name="v3">
-      <lines>الكل قائل مجدا مجدا للحمل<br/>الكل قائل مجدا مجدا ليسوع</lines>
+      <lines>الكل قائل مجدا مجدا للحمل newline الكل قائل مجدا مجدا ليسوع</lines>
     </verse>
   </lyrics>
 </song>

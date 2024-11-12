@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>تعال تعال تعال<br/>اغمرنا بمياهك 3</lines>
+      <lines>تعال تعال تعال newline اغمرنا بمياهك 3</lines>
     </verse>
   </lyrics>
 </song>

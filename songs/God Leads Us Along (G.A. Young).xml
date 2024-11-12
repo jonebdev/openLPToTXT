@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Some thro' the waters,<br/>Some thro' the flood,<br/>Some thro' the fire,<br/>But all thro' the blood;<br/>Some thro' great sorrow,<br/>But God gives a song,<br/>In the night season,<br/>And all the day long.</lines>
+      <lines>Some thro' the waters, newline Some thro' the flood, newline Some thro' the fire, newline But all thro' the blood; newline Some thro' great sorrow, newline But God gives a song, newline In the night season, newline And all the day long.</lines>
     </verse>
     <verse name="v1">
-      <lines>In shady, green pastures,<br/>So rich and so sweet,<br/>God leads His dear children along;<br/>Where the water's cool flow<br/>Bathes the weary one's feet,<br/>God leads His dear children along.</lines>
+      <lines>In shady, green pastures, newline So rich and so sweet, newline God leads His dear children along; newline Where the water's cool flow newline Bathes the weary one's feet, newline God leads His dear children along.</lines>
     </verse>
     <verse name="v2">
-      <lines>Sometimes on the mount<br/>Where the sun shines so bright,<br/>God leads His dear children along;<br/>Sometimes in the valley,<br/>In darkest of night,<br/>God leads His dear children along.</lines>
+      <lines>Sometimes on the mount newline Where the sun shines so bright, newline God leads His dear children along; newline Sometimes in the valley, newline In darkest of night, newline God leads His dear children along.</lines>
     </verse>
     <verse name="v3">
-      <lines>Though sorrows befall us<br/>And Satan oppose,<br/>God leads His dear children along;<br/>Through grace we can conquer,<br/>Defeat all our foes,<br/>God leads His dear children along.</lines>
+      <lines>Though sorrows befall us newline And Satan oppose, newline God leads His dear children along; newline Through grace we can conquer, newline Defeat all our foes, newline God leads His dear children along.</lines>
     </verse>
     <verse name="v4">
-      <lines>Away from the mire<br/>And away from the clay,<br/>God leads His dear children along;<br/>Away up in glory, eternity's day<br/>God leads His dear children along.</lines>
+      <lines>Away from the mire newline And away from the clay, newline God leads His dear children along; newline Away up in glory, eternity's day newline God leads His dear children along.</lines>
     </verse>
   </lyrics>
 </song>

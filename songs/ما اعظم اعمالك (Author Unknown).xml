@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>والآن أسبح<br/> أعظم وأحمد ملك السماء<br/>أسبح ... أعظم ملك السماء<br/>Wall'ana usabihu u'athimu wa ahmadu malikal sama usabihu u'athimu malikal sama</lines>
+      <lines>والآن أسبح newline  أعظم وأحمد ملك السماء newline أسبح ... أعظم ملك السماء newline Wall'ana usabihu u'athimu wa ahmadu malikal sama usabihu u'athimu malikal sama</lines>
     </verse>
     <verse name="v2">
-      <lines>الذي كل أعماله حق<br/>الذي كل طرقه عدل)2<br/>(allathy kullu a'malihy hakkun...allathy kullu turukihy adlun)2Verse 1</lines>
+      <lines>الذي كل أعماله حق newline الذي كل طرقه عدل)2 newline (allathy kullu a'malihy hakkun...allathy kullu turukihy adlun)2Verse 1</lines>
     </verse>
     <verse name="v3">
-      <lines>ما أعظم أعمالك<br/>يا رب ما أعظمها<br/>وأعمق جدا أفكارك<br/>ما أعظم أعمالك<br/>Ma athama amalaka ya rabbu ma athamaha wa amaka jiddan afkaraka ma athama amalaka</lines>
+      <lines>ما أعظم أعمالك newline يا رب ما أعظمها newline وأعمق جدا أفكارك newline ما أعظم أعمالك newline Ma athama amalaka ya rabbu ma athamaha wa amaka jiddan afkaraka ma athama amalaka</lines>
     </verse>
     <verse name="v4">
-      <lines>لأنك فرحتني<br/>يا رب بصنائعك<br/>بإعمال يديك أبتهج<br/>أبتهج ... أبتهج<br/>Li'anaka farahtany ya rabbu bisanai'ik bi'amaly yadayka (abtahiju)3</lines>
+      <lines>لأنك فرحتني newline يا رب بصنائعك newline بإعمال يديك أبتهج newline أبتهج ... أبتهج newline Li'anaka farahtany ya rabbu bisanai'ik bi'amaly yadayka (abtahiju)3</lines>
     </verse>
   </lyrics>
 </song>

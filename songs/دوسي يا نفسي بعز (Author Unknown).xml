@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>دوسي يا نفسي بعز<br/>دوما على الشيطان<br/>مش ممكن راح أهتز<br/>ده يسوع اداني إيمان</lines>
+      <lines>دوسي يا نفسي بعز newline دوما على الشيطان newline مش ممكن راح أهتز newline ده يسوع اداني إيمان</lines>
     </verse>
     <verse name="c1">
-      <lines>وإن هاجت الدنيا حوالي<br/>إبليس مش راح يقوى على<br/>ربي يسوع ماسك بإيدي<br/>ده إيماني إن ذراعه قوية</lines>
+      <lines>وإن هاجت الدنيا حوالي newline إبليس مش راح يقوى على newline ربي يسوع ماسك بإيدي newline ده إيماني إن ذراعه قوية</lines>
     </verse>
     <verse name="v2">
-      <lines>بيسوع أتحدى النار<br/>وأمشي وسط الأتون<br/>إيماني يهد أسور<br/>ويهدم الحصون</lines>
+      <lines>بيسوع أتحدى النار newline وأمشي وسط الأتون newline إيماني يهد أسور newline ويهدم الحصون</lines>
     </verse>
     <verse name="v3">
-      <lines>مش راح أنكس رأسي<br/>ووعود ربي بترفعني<br/>ده يسوع ترسي وخلاصي<br/>قوة روحه تشجعني</lines>
+      <lines>مش راح أنكس رأسي newline ووعود ربي بترفعني newline ده يسوع ترسي وخلاصي newline قوة روحه تشجعني</lines>
     </verse>
     <verse name="v4">
-      <lines>ربي يسوع راح يتمجد<br/>مجد من غير حدود<br/>هامشي من غير ما أتردد<br/>وها تنهار السدود</lines>
+      <lines>ربي يسوع راح يتمجد newline مجد من غير حدود newline هامشي من غير ما أتردد newline وها تنهار السدود</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>The splendor of a King, clothed in majesty,<br/>Let all the earth rejoice, all the earth rejoice,<br/>he wraps himself in light,<br/>and darkness tries to hide<br/>and trembles at his voice, trembles at his voice</lines>
+      <lines>The splendor of a King, clothed in majesty, newline Let all the earth rejoice, all the earth rejoice, newline he wraps himself in light, newline and darkness tries to hide newline and trembles at his voice, trembles at his voice</lines>
     </verse>
     <verse name="v2">
-      <lines>How Great is our God, sing with me,<br/>How great is our God, all will see<br/>How great, how great is our God</lines>
+      <lines>How Great is our God, sing with me, newline How great is our God, all will see newline How great, how great is our God</lines>
     </verse>
     <verse name="v3">
-      <lines>Age to age he stands, and time is in his hands,<br/>beginning and the end, beginning and the end.<br/>The godhead, three in one: father, spirit, and son<br/>The lion and the lamb, the lion and the lamb</lines>
+      <lines>Age to age he stands, and time is in his hands, newline beginning and the end, beginning and the end. newline The godhead, three in one: father, spirit, and son newline The lion and the lamb, the lion and the lamb</lines>
     </verse>
     <verse name="v4">
-      <lines>Name above all Names<br/>Worthy of all Praise<br/>and My heart will sing<br/>How Great Is Our God</lines>
+      <lines>Name above all Names newline Worthy of all Praise newline and My heart will sing newline How Great Is Our God</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I'm trading my sorrow<br/>I'm trading my shame<br/>I'm laying them down for the joy of the Lord</lines>
+      <lines>I'm trading my sorrow newline I'm trading my shame newline I'm laying them down for the joy of the Lord</lines>
     </verse>
     <verse name="v2">
-      <lines>I'm trading my sickness<br/>I'm trading my pain<br/>I'm laying them down for the joy of the Lord</lines>
+      <lines>I'm trading my sickness newline I'm trading my pain newline I'm laying them down for the joy of the Lord</lines>
     </verse>
     <verse name="v3">
-      <lines>We say:<br/>Yes Lord (repeat)<br/>Amen</lines>
+      <lines>We say: newline Yes Lord (repeat) newline Amen</lines>
     </verse>
     <verse name="v4">
-      <lines>I am pressed but not crushed<br/>Persecuted not abandoned<br/>Struck down but not destroyed<br/>I am blessed beyond the curse<br/>For His promise will endure<br/>And His joy's gonna be my strength</lines>
+      <lines>I am pressed but not crushed newline Persecuted not abandoned newline Struck down but not destroyed newline I am blessed beyond the curse newline For His promise will endure newline And His joy's gonna be my strength</lines>
     </verse>
     <verse name="v5">
-      <lines>Though the sorrow may last for the night<br/>His joy comes with the morning</lines>
+      <lines>Though the sorrow may last for the night newline His joy comes with the morning</lines>
     </verse>
   </lyrics>
 </song>

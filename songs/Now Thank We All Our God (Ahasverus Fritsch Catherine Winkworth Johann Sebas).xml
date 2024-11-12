@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Now thank we all our God,<br/>With heart, and hands, and voices,<br/>Who wondrous things hath done,<br/>In whom His world rejoices;<br/>Who from our mother's arms<br/>Hath blessed us on our way<br/>With countless gifts of love,<br/>And still is ours today.</lines>
+      <lines>Now thank we all our God, newline With heart, and hands, and voices, newline Who wondrous things hath done, newline In whom His world rejoices; newline Who from our mother's arms newline Hath blessed us on our way newline With countless gifts of love, newline And still is ours today.</lines>
     </verse>
     <verse name="v2">
-      <lines>O may this bounteous God<br/>Thro' all our life be near us,<br/>With ever joyful hearts<br/>And blessed peace to cheer us;<br/>And keep us in His grace,<br/>And guide us when perplexed,<br/>And free us from all ills,<br/>In this world and the next.</lines>
+      <lines>O may this bounteous God newline Thro' all our life be near us, newline With ever joyful hearts newline And blessed peace to cheer us; newline And keep us in His grace, newline And guide us when perplexed, newline And free us from all ills, newline In this world and the next.</lines>
     </verse>
     <verse name="v3">
-      <lines>All praise and thanks to God<br/>The Father now be given, the Son,<br/>And Him who reigns with them<br/>In highest heaven,<br/>The one eternal God,<br/>Whom earth and heav'n adore;<br/>For thus it was, is now,<br/>And shall be evermore.</lines>
+      <lines>All praise and thanks to God newline The Father now be given, the Son, newline And Him who reigns with them newline In highest heaven, newline The one eternal God, newline Whom earth and heav'n adore; newline For thus it was, is now, newline And shall be evermore.</lines>
     </verse>
   </lyrics>
 </song>

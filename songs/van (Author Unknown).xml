@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Black van outside about to be towed<br/>Please move it.</lines>
+      <lines>Black van outside about to be towed newline Please move it.</lines>
     </verse>
   </lyrics>
 </song>

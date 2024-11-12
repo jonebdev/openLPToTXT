@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v2a">
-      <lines>أيا مؤمنون ألا تصحبونا بناى وعود الى بيت لحم<br/>طفل أتانا يريد فدانا</lines>
+      <lines>أيا مؤمنون ألا تصحبونا بناى وعود الى بيت لحم newline طفل أتانا يريد فدانا</lines>
     </verse>
     <verse name="c1">
-      <lines>تعالوا و أعبدوة)3 )<br/>يسوع المسيح</lines>
+      <lines>تعالوا و أعبدوة)3 ) newline يسوع المسيح</lines>
     </verse>
     <verse name="v2b">
-      <lines>أيا منأتيت تركت سماك<br/>أنت إلهي وربى المجيد<br/>أهديك حمدا لأجل فداك</lines>
+      <lines>أيا منأتيت تركت سماك newline أنت إلهي وربى المجيد newline أهديك حمدا لأجل فداك</lines>
     </verse>
   </lyrics>
 </song>

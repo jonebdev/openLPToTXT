@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>تسبيحك يملا الكون<br/>أناشيد تعلي وهتاف<br/>وعدك صادق مضمون<br/>مسلوب يرجع أضعاف 2</lines>
+      <lines>تسبيحك يملا الكون newline أناشيد تعلي وهتاف newline وعدك صادق مضمون newline مسلوب يرجع أضعاف 2</lines>
     </verse>
     <verse name="v1">
-      <lines>افرحنا معاك هتدوم<br/>وفي قلب النار عابرين<br/>وعدك هنشوفه اليوم<br/>بيعوض السنين 2</lines>
+      <lines>افرحنا معاك هتدوم newline وفي قلب النار عابرين newline وعدك هنشوفه اليوم newline بيعوض السنين 2</lines>
     </verse>
     <verse name="v2">
-      <lines>وحدك عننا بتحارب<br/>في الصعب وفي الأزمات<br/>عندك شفاء وعجائب<br/>وإيديك تصنع آيات 2</lines>
+      <lines>وحدك عننا بتحارب newline في الصعب وفي الأزمات newline عندك شفاء وعجائب newline وإيديك تصنع آيات 2</lines>
     </verse>
     <verse name="v3">
-      <lines>الريح لو صعب عنيد<br/>فيها بسلطان تسود<br/>راح تيجي بفجر جديد<br/>ونحطم القيود</lines>
+      <lines>الريح لو صعب عنيد newline فيها بسلطان تسود newline راح تيجي بفجر جديد newline ونحطم القيود</lines>
     </verse>
   </lyrics>
 </song>

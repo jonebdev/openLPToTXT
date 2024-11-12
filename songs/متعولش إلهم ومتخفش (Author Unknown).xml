@@ -10,25 +10,25 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>متعولش الهم و متخفش ربّك موجود<br/>ده إلهك حيّ ما بينمش و ملهش حدود</lines>
+      <lines>متعولش الهم و متخفش ربّك موجود newline ده إلهك حيّ ما بينمش و ملهش حدود</lines>
     </verse>
     <verse name="v1a">
-      <lines>اطمن روح لطبيب الروح<br/>ده الباب مفتوح بابه مش مسدود</lines>
+      <lines>اطمن روح لطبيب الروح newline ده الباب مفتوح بابه مش مسدود</lines>
     </verse>
     <verse name="v1b">
-      <lines>و يا ريت تناديله أو تسمع صوته<br/>الشوك هيشيله وده يبقي ورود<br/>ربك موجود</lines>
+      <lines>و يا ريت تناديله أو تسمع صوته newline الشوك هيشيله وده يبقي ورود newline ربك موجود</lines>
     </verse>
     <verse name="v2a">
-      <lines>يا طوباك يا هناك طول ما هو وياك<br/>عايش جواك و عليك بيسود</lines>
+      <lines>يا طوباك يا هناك طول ما هو وياك newline عايش جواك و عليك بيسود</lines>
     </verse>
     <verse name="v2b">
-      <lines>خليه مسؤول عنك على طول<br/>الهم يزول و الفرح يعود<br/>ربك موجد</lines>
+      <lines>خليه مسؤول عنك على طول newline الهم يزول و الفرح يعود newline ربك موجد</lines>
     </verse>
     <verse name="v3a">
-      <lines>لو ماسك بيه و مسلّم ليه<br/>و العمر عليه دايما مسنود</lines>
+      <lines>لو ماسك بيه و مسلّم ليه newline و العمر عليه دايما مسنود</lines>
     </verse>
     <verse name="v3b">
-      <lines>شرك يمحيه خوفك يداريه<br/>على طول تلاقيه جنبك موجود<br/>ربك موجود</lines>
+      <lines>شرك يمحيه خوفك يداريه newline على طول تلاقيه جنبك موجود newline ربك موجود</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>اله الحب نجانى<br/>بموت الصلب أحيانى<br/>بروح القدس يهدينى )<br/>يعزينى ويرعانى)2</lines>
+      <lines>اله الحب نجانى newline بموت الصلب أحيانى newline بروح القدس يهدينى ) newline يعزينى ويرعانى)2</lines>
     </verse>
     <verse name="v1">
-      <lines>فهل يا قوم من حب<br/>نظير ذلك الحب<br/>برغم الشر والبعد)<br/>لأجلى مات بالصلب)2</lines>
+      <lines>فهل يا قوم من حب newline نظير ذلك الحب newline برغم الشر والبعد) newline لأجلى مات بالصلب)2</lines>
     </verse>
     <verse name="v2">
-      <lines>غدا ماضى مستورا<br/>وصار الاثم مغفورا<br/>وفاض القلب تسبيحا)<br/>2(وتهليلا وتقديرا</lines>
+      <lines>غدا ماضى مستورا newline وصار الاثم مغفورا newline وفاض القلب تسبيحا) newline 2(وتهليلا وتقديرا</lines>
     </verse>
     <verse name="v3">
-      <lines>تعالوا واشهدوا الحب<br/>وذوقوا وانظروا الرب<br/>الى الحياة يدعوكم)<br/>فلبوا وافتحوا القلب)2</lines>
+      <lines>تعالوا واشهدوا الحب newline وذوقوا وانظروا الرب newline الى الحياة يدعوكم) newline فلبوا وافتحوا القلب)2</lines>
     </verse>
   </lyrics>
 </song>

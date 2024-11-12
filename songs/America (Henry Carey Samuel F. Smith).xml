@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>My country, 'tis of Thee,<br/>Sweet land of liberty,<br/>Of Thee I sing:<br/>Land where my fathers died,<br/>Land of the pilgrims' pride,<br/>From every mountain side<br/>Let freedom ring!</lines>
+      <lines>My country, 'tis of Thee, newline Sweet land of liberty, newline Of Thee I sing: newline Land where my fathers died, newline Land of the pilgrims' pride, newline From every mountain side newline Let freedom ring!</lines>
     </verse>
     <verse name="v2">
-      <lines>My native country, thee,<br/>Land of the noble, free,<br/>Thy name I love:<br/>I love Thy rocks and rills,<br/>Thy woods and templed hill;<br/>My heart with rapture thrills<br/>Like that above.</lines>
+      <lines>My native country, thee, newline Land of the noble, free, newline Thy name I love: newline I love Thy rocks and rills, newline Thy woods and templed hill; newline My heart with rapture thrills newline Like that above.</lines>
     </verse>
     <verse name="v3">
-      <lines>Let music swell the breeze,<br/>And ring from all the trees<br/>Sweet freedom's song:<br/>Let mortal tongues awake;<br/>Let all that breathe partake;<br/>Let rocks their silence break,<br/>The sound prolong.</lines>
+      <lines>Let music swell the breeze, newline And ring from all the trees newline Sweet freedom's song: newline Let mortal tongues awake; newline Let all that breathe partake; newline Let rocks their silence break, newline The sound prolong.</lines>
     </verse>
     <verse name="v4">
-      <lines>Our fathers' God, to Thee,<br/>Author of liberty,<br/>To Thee we sing:<br/>Long may our land be bright<br/>With freedom's holy light;<br/>Protect us by Thy might,<br/>Great God, our King!</lines>
+      <lines>Our fathers' God, to Thee, newline Author of liberty, newline To Thee we sing: newline Long may our land be bright newline With freedom's holy light; newline Protect us by Thy might, newline Great God, our King!</lines>
     </verse>
   </lyrics>
 </song>

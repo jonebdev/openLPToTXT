@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Chorus<br/>مجده عليك يُرى<br/>وإن غطى الأرض ظلام<br/>مجده عليك يُرى</lines>
+      <lines>Chorus newline مجده عليك يُرى newline وإن غطى الأرض ظلام newline مجده عليك يُرى</lines>
     </verse>
     <verse name="v2">
-      <lines>يا كنيسة قومي سبحي<br/>عنك همومك اطرحي<br/>للمجروحين دمع امسحي<br/>عند يسوع ملك الملوك</lines>
+      <lines>يا كنيسة قومي سبحي newline عنك همومك اطرحي newline للمجروحين دمع امسحي newline عند يسوع ملك الملوك</lines>
     </verse>
     <verse name="v3">
-      <lines>يا كنيسة قومي ودوَّري<br/>على الخراف ونوري<br/>المجد جاي اتحضري<br/>لمجيء يسوع<br/>ملك الملوك</lines>
+      <lines>يا كنيسة قومي ودوَّري newline على الخراف ونوري newline المجد جاي اتحضري newline لمجيء يسوع newline ملك الملوك</lines>
     </verse>
     <verse name="v4">
-      <lines>أبواب جحيم مش ها تقوى عليك<br/>دا الرب حي ساكن في وسطيك<br/>وسور من نار مجده من حواليك<br/>قومي استنيري هو يفرح بك</lines>
+      <lines>أبواب جحيم مش ها تقوى عليك newline دا الرب حي ساكن في وسطيك newline وسور من نار مجده من حواليك newline قومي استنيري هو يفرح بك</lines>
     </verse>
   </lyrics>
 </song>

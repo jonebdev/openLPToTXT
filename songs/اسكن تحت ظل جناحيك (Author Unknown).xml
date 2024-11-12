@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>أسكن تحت ظل جناحيك<br/>أعرف معنى السلام بحبك<br/>Askunu tahta dili jinahayka<br/>Arifu manal salamy bihubika</lines>
+      <lines>أسكن تحت ظل جناحيك newline أعرف معنى السلام بحبك newline Askunu tahta dili jinahayka newline Arifu manal salamy bihubika</lines>
     </verse>
     <verse name="v1b">
-      <lines>قد يحل الظلام لكنني<br/>لن أخاف تحت ظل جناحيك<br/>Kad yahilul dalamu lakinany<br/>Lan akhaf tahta dily jinahayka</lines>
+      <lines>قد يحل الظلام لكنني newline لن أخاف تحت ظل جناحيك newline Kad yahilul dalamu lakinany newline Lan akhaf tahta dily jinahayka</lines>
     </verse>
     <verse name="c1">
-      <lines>تحت ظل ... تحت ظل<br/>تحت ظل جناحيك<br/>(Tahta dily)3 jinahayka</lines>
+      <lines>تحت ظل ... تحت ظل newline تحت ظل جناحيك newline (Tahta dily)3 jinahayka</lines>
     </verse>
     <verse name="v2a">
-      <lines>أطمئن في ظل جناحيك<br/>أجد كل الأمان في سترك<br/>Atma'inu fee dily jinahayka<br/>Ajidu kulal amany fee sitrika</lines>
+      <lines>أطمئن في ظل جناحيك newline أجد كل الأمان في سترك newline Atma'inu fee dily jinahayka newline Ajidu kulal amany fee sitrika</lines>
     </verse>
     <verse name="v2b">
-      <lines>كم من سهم يطير لكنني<br/>لن أخاف تحت ظل جناحيك<br/>Kammin sahmin yateeru lakinany<br/>Lan akhaf tahta dily jinahayka</lines>
+      <lines>كم من سهم يطير لكنني newline لن أخاف تحت ظل جناحيك newline Kammin sahmin yateeru lakinany newline Lan akhaf tahta dily jinahayka</lines>
     </verse>
   </lyrics>
 </song>

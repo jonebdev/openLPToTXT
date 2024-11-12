@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Savior, Savior, hear my humble cry.<br/>While on others Thou art calling,<br/>Do not pass me by.</lines>
+      <lines>Savior, Savior, hear my humble cry. newline While on others Thou art calling, newline Do not pass me by.</lines>
     </verse>
     <verse name="v1">
-      <lines>Pass me not, O gentle Savior;<br/>Hear my humble cry.<br/>While on others Thou art calling,<br/>Do not pass me by.</lines>
+      <lines>Pass me not, O gentle Savior; newline Hear my humble cry. newline While on others Thou art calling, newline Do not pass me by.</lines>
     </verse>
     <verse name="v2">
-      <lines>Let me at Thy throne of mercy<br/>Find a sweet relief;<br/>Kneeling there in deep contrition,<br/>Help my unbelief.</lines>
+      <lines>Let me at Thy throne of mercy newline Find a sweet relief; newline Kneeling there in deep contrition, newline Help my unbelief.</lines>
     </verse>
     <verse name="v3">
-      <lines>Trusting only in Thy merit,<br/>Would I seek Thy face.<br/>Heal my wounded, broken spirit.<br/>Save me by Thy grace.</lines>
+      <lines>Trusting only in Thy merit, newline Would I seek Thy face. newline Heal my wounded, broken spirit. newline Save me by Thy grace.</lines>
     </verse>
     <verse name="v4">
-      <lines>Thou, the Spring of all my comfort,<br/>More than life to me,<br/>Whom have I on earth beside Thee?<br/>Whom in heaven but Thee?</lines>
+      <lines>Thou, the Spring of all my comfort, newline More than life to me, newline Whom have I on earth beside Thee? newline Whom in heaven but Thee?</lines>
     </verse>
   </lyrics>
 </song>

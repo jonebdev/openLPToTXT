@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>مجد عظيم يملأ هذا المكان<br/>رب قدير يملك كل الكيان<br/>حبك يسبي يغمر كل وجدان<br/>لاسمك نجثو يشهد كل لسان</lines>
+      <lines>مجد عظيم يملأ هذا المكان newline رب قدير يملك كل الكيان newline حبك يسبي يغمر كل وجدان newline لاسمك نجثو يشهد كل لسان</lines>
     </verse>
     <verse name="v1b">
-      <lines>أنت الرب وليس غيرك<br/>أنت الرب لا مثل لك<br/>أنت الرب ونحن شعبك<br/>نرفع نعظم اسمك</lines>
+      <lines>أنت الرب وليس غيرك newline أنت الرب لا مثل لك newline أنت الرب ونحن شعبك newline نرفع نعظم اسمك</lines>
     </verse>
   </lyrics>
 </song>

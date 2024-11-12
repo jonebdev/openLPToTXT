@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Here I am waiting, Abide in me I pray<br/>Here I am longing, for you<br/>Hide me in your Love, bring me to my knees<br/>May I know Jesus more and more</lines>
+      <lines>Here I am waiting, Abide in me I pray newline Here I am longing, for you newline Hide me in your Love, bring me to my knees newline May I know Jesus more and more</lines>
     </verse>
     <verse name="v2">
-      <lines>Come live in me, all my life, take over<br/>Come breathe in me, and I will reise, on Eagle's wings.</lines>
+      <lines>Come live in me, all my life, take over newline Come breathe in me, and I will reise, on Eagle's wings.</lines>
     </verse>
   </lyrics>
 </song>

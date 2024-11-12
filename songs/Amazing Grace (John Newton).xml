@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Amazing grace how sweet the sound,<br/>That saved a wretch like me;<br/>I once was lost, but now am found<br/>Was blind, but now I see.</lines>
+      <lines>Amazing grace how sweet the sound, newline That saved a wretch like me; newline I once was lost, but now am found newline Was blind, but now I see.</lines>
     </verse>
     <verse name="v2">
-      <lines>T'was grace that taught my heart to fear,<br/>And grace my fears relieved;<br/>How precious did that grace appear<br/>The hour I first believed.</lines>
+      <lines>T'was grace that taught my heart to fear, newline And grace my fears relieved; newline How precious did that grace appear newline The hour I first believed.</lines>
     </verse>
     <verse name="v3">
-      <lines>Through many dangers, toil and snares,<br/>I have already come;<br/>'Tis grace has brought me safe thus far,<br/>And grace will lead me home.</lines>
+      <lines>Through many dangers, toil and snares, newline I have already come; newline 'Tis grace has brought me safe thus far, newline And grace will lead me home.</lines>
     </verse>
     <verse name="v4">
-      <lines>When we've been there ten thousand years<br/>Bright shining as the sun,<br/>We've no less days to sing God's praise<br/>Than when we've first begun.</lines>
+      <lines>When we've been there ten thousand years newline Bright shining as the sun, newline We've no less days to sing God's praise newline Than when we've first begun.</lines>
     </verse>
   </lyrics>
 </song>

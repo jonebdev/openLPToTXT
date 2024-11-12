@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>سلمت قلبي خصصت حبي<br/>قدمت ذاتي لك يا ربي</lines>
+      <lines>سلمت قلبي خصصت حبي newline قدمت ذاتي لك يا ربي</lines>
     </verse>
     <verse name="v1b">
-      <lines>أنا لك كلي بجملتي<br/>وأنت لي هنا في غربتي<br/>تقودني تمشي برفقتي<br/>بروحك تقتادُ خطواتي</lines>
+      <lines>أنا لك كلي بجملتي newline وأنت لي هنا في غربتي newline تقودني تمشي برفقتي newline بروحك تقتادُ خطواتي</lines>
     </verse>
     <verse name="v1c">
-      <lines>سأهتف مجدا لك على مدى السنين<br/>سألهج بشخصك فأنت لي المعين<br/>وأخضع لصوتك دوما في كل حين<br/>نعم أمين ... أمين</lines>
+      <lines>سأهتف مجدا لك على مدى السنين newline سألهج بشخصك فأنت لي المعين newline وأخضع لصوتك دوما في كل حين newline نعم أمين ... أمين</lines>
     </verse>
   </lyrics>
 </song>

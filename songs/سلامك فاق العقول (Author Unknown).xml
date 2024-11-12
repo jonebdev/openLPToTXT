@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>سلامك فاق العقول فينا<br/>ومش ممكن يزول<br/>مهما العدو بيقول<br/>مالى حياتنا سلام</lines>
+      <lines>سلامك فاق العقول فينا newline ومش ممكن يزول newline مهما العدو بيقول newline مالى حياتنا سلام</lines>
     </verse>
     <verse name="c1">
       <lines>سلام سلام لشعب الرب فى كل مكان</lines>
     </verse>
     <verse name="v2">
-      <lines>وحتى ان تاهت رجلينا<br/>ده روحك فينا وحوالينا<br/>بيرد نفوسنا ويهدينا<br/>ويملا قلوبنا سلام</lines>
+      <lines>وحتى ان تاهت رجلينا newline ده روحك فينا وحوالينا newline بيرد نفوسنا ويهدينا newline ويملا قلوبنا سلام</lines>
     </verse>
     <verse name="v3">
-      <lines>سلام الله سيبته لينا<br/>مش زى العالم تدينا<br/>و مادام روحك عايش فينا<br/>شعبك دايما فى سلام</lines>
+      <lines>سلام الله سيبته لينا newline مش زى العالم تدينا newline و مادام روحك عايش فينا newline شعبك دايما فى سلام</lines>
     </verse>
   </lyrics>
 </song>

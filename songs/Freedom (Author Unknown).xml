@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Where the Spirit of the Lord is, there is freedom<br/>Where the Spirit of the Lord is, there is freedom<br/>There is peace, there is love, there is joy<br/>It is for freedom you've set us free<br/>It is for freedom you've set us free</lines>
+      <lines>Where the Spirit of the Lord is, there is freedom newline Where the Spirit of the Lord is, there is freedom newline There is peace, there is love, there is joy newline It is for freedom you've set us free newline It is for freedom you've set us free</lines>
     </verse>
     <verse name="v2">
       <lines>I'm free (4X)</lines>
     </verse>
     <verse name="v3">
-      <lines>So we will walk in your freedom, walk in your liberty<br/>So we will walk in your freedom, walk in your liberty<br/>So we will dance in your freedom, dance in your liberty<br/>So we will dance in your freedom, dance in your liberty</lines>
+      <lines>So we will walk in your freedom, walk in your liberty newline So we will walk in your freedom, walk in your liberty newline So we will dance in your freedom, dance in your liberty newline So we will dance in your freedom, dance in your liberty</lines>
     </verse>
   </lyrics>
 </song>

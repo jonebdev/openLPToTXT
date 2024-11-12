@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Stand by eveything You said,<br/>Stand by the promises we made,<br/>Let go of everything I've done,<br/>I'll run into Your open arms,<br/>And all I know, Is that...</lines>
+      <lines>Stand by eveything You said, newline Stand by the promises we made, newline Let go of everything I've done, newline I'll run into Your open arms, newline And all I know, Is that...</lines>
     </verse>
     <verse name="v2">
-      <lines>I love You<br/>more than life.<br/>I love You<br/>more than life.</lines>
+      <lines>I love You newline more than life. newline I love You newline more than life.</lines>
     </verse>
     <verse name="v3">
-      <lines>Fall back on everything You've done<br/>Fall back on everlasting arms,<br/>When all the world is swept away,<br/>You are all the things I need.<br/>You're the air I breath...</lines>
+      <lines>Fall back on everything You've done newline Fall back on everlasting arms, newline When all the world is swept away, newline You are all the things I need. newline You're the air I breath...</lines>
     </verse>
     <verse name="v4">
-      <lines>How can it be You were the one on the cross,<br/>Lifted for all our shame?<br/>How can it be the scars in Your hands<br/>Are for me?<br/>You are the King of All.</lines>
+      <lines>How can it be You were the one on the cross, newline Lifted for all our shame? newline How can it be the scars in Your hands newline Are for me? newline You are the King of All.</lines>
     </verse>
   </lyrics>
 </song>

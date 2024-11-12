@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Nearer, my God, to Thee;<br/>Nearer, my God, to Thee,<br/>Nearer to Thee!</lines>
+      <lines>Nearer, my God, to Thee; newline Nearer, my God, to Thee, newline Nearer to Thee!</lines>
     </verse>
     <verse name="v1">
-      <lines>Nearer, my God, to Thee,<br/>Nearer to Thee,<br/>E'en though it be a cross<br/>That raiseth me!<br/>Still all my song shall be,</lines>
+      <lines>Nearer, my God, to Thee, newline Nearer to Thee, newline E'en though it be a cross newline That raiseth me! newline Still all my song shall be,</lines>
     </verse>
     <verse name="v2">
-      <lines>Though like the wanderer,<br/>The sun gone down,<br/>Darkness be over me,<br/>My rest a stone;<br/>Yet in my dreams I'd be,</lines>
+      <lines>Though like the wanderer, newline The sun gone down, newline Darkness be over me, newline My rest a stone; newline Yet in my dreams I'd be,</lines>
     </verse>
     <verse name="v3">
-      <lines>There let the way appear,<br/>Steps unto heaven;<br/>All that Thou sendest me,<br/>In mercy given;<br/>Angels to beckon me,</lines>
+      <lines>There let the way appear, newline Steps unto heaven; newline All that Thou sendest me, newline In mercy given; newline Angels to beckon me,</lines>
     </verse>
     <verse name="v4">
-      <lines>Then, with my waking thoughts<br/>Bright with Thy praise,<br/>Out of my stony griefs<br/>Bethel I'll raise,<br/>So by my woes to be,</lines>
+      <lines>Then, with my waking thoughts newline Bright with Thy praise, newline Out of my stony griefs newline Bethel I'll raise, newline So by my woes to be,</lines>
     </verse>
     <verse name="v5">
-      <lines>Or if, on joyful wing<br/>Cleaving the sky,<br/>Sun, moon, and stars forgot,<br/>Upward I fly,<br/>Still all my song shall be,</lines>
+      <lines>Or if, on joyful wing newline Cleaving the sky, newline Sun, moon, and stars forgot, newline Upward I fly, newline Still all my song shall be,</lines>
     </verse>
   </lyrics>
 </song>

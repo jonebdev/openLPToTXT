@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>When we all get to heaven,<br/>What a day of rejoicing that will be!<br/>When we all see Jesus,<br/>We'll sing and shout the victory.</lines>
+      <lines>When we all get to heaven, newline What a day of rejoicing that will be! newline When we all see Jesus, newline We'll sing and shout the victory.</lines>
     </verse>
     <verse name="v1">
-      <lines>Sing the wondrous love of Jesus,<br/>Sing His mercy and His grace;<br/>In the mansions bright and blessed,<br/>He'll prepare for us a place.</lines>
+      <lines>Sing the wondrous love of Jesus, newline Sing His mercy and His grace; newline In the mansions bright and blessed, newline He'll prepare for us a place.</lines>
     </verse>
     <verse name="v2">
-      <lines>While we walk the pilgrim pathway,<br/>Clouds will overspread the sky;<br/>But when traveling days are over,<br/>Not a shadow, not a sigh.</lines>
+      <lines>While we walk the pilgrim pathway, newline Clouds will overspread the sky; newline But when traveling days are over, newline Not a shadow, not a sigh.</lines>
     </verse>
     <verse name="v3">
-      <lines>Let us then be true and faithful,<br/>Trusting, serving every day;<br/>Just one glimpse of Him in glory<br/>Will the toils of life repay.</lines>
+      <lines>Let us then be true and faithful, newline Trusting, serving every day; newline Just one glimpse of Him in glory newline Will the toils of life repay.</lines>
     </verse>
     <verse name="v4">
-      <lines>Onward to the prize before us!<br/>Soon His beauty we'll behold;<br/>Soon the pearly gates will open,<br/>We shall tread the streets of gold.</lines>
+      <lines>Onward to the prize before us! newline Soon His beauty we'll behold; newline Soon the pearly gates will open, newline We shall tread the streets of gold.</lines>
     </verse>
   </lyrics>
 </song>

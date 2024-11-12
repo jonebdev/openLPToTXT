@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>We fall down,<br/>We lay our crowns<br/>At the feet of Jesus<br/>The greatness of<br/>His mercy and love<br/>At the feet of Jesus.</lines>
+      <lines>We fall down, newline We lay our crowns newline At the feet of Jesus newline The greatness of newline His mercy and love newline At the feet of Jesus.</lines>
     </verse>
     <verse name="c1">
-      <lines>And we cry holy, holy, holy<br/>And we cry holy, holy, holy<br/>And we cry holy, holy, holy<br/>Is the Lamb.</lines>
+      <lines>And we cry holy, holy, holy newline And we cry holy, holy, holy newline And we cry holy, holy, holy newline Is the Lamb.</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I will seek you oh Lord, while I am in my youth<br/>and I will trust you oh Lord, and I'll proclaim your truth.<br/>For you searched and found me, while I was far away,<br/>In my troubled times, You always keep me safe.</lines>
+      <lines>I will seek you oh Lord, while I am in my youth newline and I will trust you oh Lord, and I'll proclaim your truth. newline For you searched and found me, while I was far away, newline In my troubled times, You always keep me safe.</lines>
     </verse>
     <verse name="v2">
-      <lines>Oh.....Oh.....Oh.....Oh<br/>Oh......Oh....Oh....Oh..</lines>
+      <lines>Oh.....Oh.....Oh.....Oh newline Oh......Oh....Oh....Oh..</lines>
     </verse>
     <verse name="v3">
-      <lines>The Lord is my light and my salvation,<br/>Whom Shall I fear? Whom Shall I fear?<br/>The Lord is the stronghold of my life,<br/>Whom Shall I fear? Whom shall I fear?</lines>
+      <lines>The Lord is my light and my salvation, newline Whom Shall I fear? Whom Shall I fear? newline The Lord is the stronghold of my life, newline Whom Shall I fear? Whom shall I fear?</lines>
     </verse>
   </lyrics>
 </song>

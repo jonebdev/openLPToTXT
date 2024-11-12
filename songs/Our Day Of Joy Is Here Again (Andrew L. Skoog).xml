@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Glory to our God, we sing,<br/>Glory to our Lord and King;<br/>Peace, goodwill with all abide,<br/>This holy Christmas tide.</lines>
+      <lines>Glory to our God, we sing, newline Glory to our Lord and King; newline Peace, goodwill with all abide, newline This holy Christmas tide.</lines>
     </verse>
     <verse name="v1">
-      <lines>Our day of joy is here again,<br/>With love and peace and song;<br/>Come, let us join the angelic strain<br/>With voices clear and strong.</lines>
+      <lines>Our day of joy is here again, newline With love and peace and song; newline Come, let us join the angelic strain newline With voices clear and strong.</lines>
     </verse>
     <verse name="v2">
-      <lines>When darkness lay upon the earth,<br/>A glorious light did shine;<br/>God sent a Gift of priceless worth<br/>And showed His love divine.</lines>
+      <lines>When darkness lay upon the earth, newline A glorious light did shine; newline God sent a Gift of priceless worth newline And showed His love divine.</lines>
     </verse>
     <verse name="v3">
-      <lines>Now to the manger let us go<br/>To worship and adore;<br/>The tender Babe upon the straw,<br/>Our Savior evermore.</lines>
+      <lines>Now to the manger let us go newline To worship and adore; newline The tender Babe upon the straw, newline Our Savior evermore.</lines>
     </verse>
     <verse name="v4">
-      <lines>How wonderful that God's own Son<br/>Should so Himself abase!<br/>He thrust the mighty from their throne,<br/>And gave the lowly grace.</lines>
+      <lines>How wonderful that God's own Son newline Should so Himself abase! newline He thrust the mighty from their throne, newline And gave the lowly grace.</lines>
     </verse>
   </lyrics>
 </song>

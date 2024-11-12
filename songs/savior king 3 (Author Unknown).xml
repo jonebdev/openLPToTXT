@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I give my life to honor this<br/>the love of Christ<br/>The Savior King</lines>
+      <lines>I give my life to honor this newline the love of Christ newline The Savior King</lines>
     </verse>
   </lyrics>
 </song>

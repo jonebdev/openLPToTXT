@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Holy, holy, holy,<br/>Lord God Almighty!<br/>Early in the morning<br/>My song shall rise to Thee.<br/>Holy, holy, holy!<br/>Merciful and mighty!<br/>God in three Persons,<br/>Blessed Trinity!</lines>
+      <lines>Holy, holy, holy, newline Lord God Almighty! newline Early in the morning newline My song shall rise to Thee. newline Holy, holy, holy! newline Merciful and mighty! newline God in three Persons, newline Blessed Trinity!</lines>
     </verse>
     <verse name="v2">
-      <lines>Holy, holy, holy!<br/>All the saints adore Thee,<br/>Casting down their golden crowns<br/>Around the glassy sea;<br/>Cherubim and seraphim<br/>Falling down before Thee,<br/>Which wert, and art,<br/>And evermore shall be.</lines>
+      <lines>Holy, holy, holy! newline All the saints adore Thee, newline Casting down their golden crowns newline Around the glassy sea; newline Cherubim and seraphim newline Falling down before Thee, newline Which wert, and art, newline And evermore shall be.</lines>
     </verse>
     <verse name="v3">
-      <lines>Holy, holy, holy!<br/>Though the darkness hide Thee,<br/>Though the eye of sinful man<br/>Thy glory may not see.<br/>Only Thou art holy;<br/>There is none beside Thee<br/>Perfect in power,<br/>In love, in purity.</lines>
+      <lines>Holy, holy, holy! newline Though the darkness hide Thee, newline Though the eye of sinful man newline Thy glory may not see. newline Only Thou art holy; newline There is none beside Thee newline Perfect in power, newline In love, in purity.</lines>
     </verse>
     <verse name="v4">
-      <lines>Holy, holy, holy!<br/>Lord God Almighty!<br/>All Thy works shall praise Thy name<br/>In earth, and sky, and sea.<br/>Holy, holy, holy!<br/>Merciful and mighty!<br/>God in three Persons,<br/>Blessed Trinity.</lines>
+      <lines>Holy, holy, holy! newline Lord God Almighty! newline All Thy works shall praise Thy name newline In earth, and sky, and sea. newline Holy, holy, holy! newline Merciful and mighty! newline God in three Persons, newline Blessed Trinity.</lines>
     </verse>
   </lyrics>
 </song>

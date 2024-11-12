@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>بركات على رأس الصديق<br/>نحن نؤمن بوعد هذا الكلام</lines>
+      <lines>بركات على رأس الصديق newline نحن نؤمن بوعد هذا الكلام</lines>
     </verse>
   </lyrics>
 </song>

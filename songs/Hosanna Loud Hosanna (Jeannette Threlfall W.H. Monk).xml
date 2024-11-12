@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Hosanna, loud hosanna,<br/>The little children sang;<br/>Through pillared court and temple,<br/>The lovely anthem rang.<br/>To Jesus, who had blessed them,<br/>Close folded to His breast;<br/>The children sang their praises,<br/>The simplest and the best.</lines>
+      <lines>Hosanna, loud hosanna, newline The little children sang; newline Through pillared court and temple, newline The lovely anthem rang. newline To Jesus, who had blessed them, newline Close folded to His breast; newline The children sang their praises, newline The simplest and the best.</lines>
     </verse>
     <verse name="v2">
-      <lines>From Olivet they followed,<br/>'Mid an exultant crowd;<br/>The victory palm branch waving,<br/>And chanting clear and loud.<br/>The Lord of men and angels,<br/>Rode on in lowly state;<br/>Nor scorned the little children,<br/>Should on His bidding wait.</lines>
+      <lines>From Olivet they followed, newline 'Mid an exultant crowd; newline The victory palm branch waving, newline And chanting clear and loud. newline The Lord of men and angels, newline Rode on in lowly state; newline Nor scorned the little children, newline Should on His bidding wait.</lines>
     </verse>
     <verse name="v3">
-      <lines>"Hosanna in the highest!"<br/>That ancient song we sing;<br/>For Christ is our Redeemer,<br/>The Lord of heaven, our King.<br/>O may we ever praise Him<br/>With heart and life and voice;<br/>And in His holy presence<br/>Eternally rejoice!</lines>
+      <lines>"Hosanna in the highest!" newline That ancient song we sing; newline For Christ is our Redeemer, newline The Lord of heaven, our King. newline O may we ever praise Him newline With heart and life and voice; newline And in His holy presence newline Eternally rejoice!</lines>
     </verse>
   </lyrics>
 </song>

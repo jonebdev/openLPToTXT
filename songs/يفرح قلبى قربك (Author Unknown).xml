@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>أشدو للملك وأهلل<br/>من مثلك الهى</lines>
+      <lines>أشدو للملك وأهلل newline من مثلك الهى</lines>
     </verse>
     <verse name="v1b">
-      <lines>يفرح قلبى قربك يملأ عينى مجدك<br/>أسجد لك وحدك سيدى أعبدك</lines>
+      <lines>يفرح قلبى قربك يملأ عينى مجدك newline أسجد لك وحدك سيدى أعبدك</lines>
     </verse>
   </lyrics>
 </song>

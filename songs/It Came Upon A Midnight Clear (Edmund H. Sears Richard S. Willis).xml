@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>It came upon the midnight clear,<br/>That glorious song of old;<br/>From angels bending near the earth<br/>To touch their harps of gold.<br/>"Peace on the earth good will to men,<br/>From heaven's all gracious King!"<br/>The world in solemn stillness lay<br/>To hear the angels sing.</lines>
+      <lines>It came upon the midnight clear, newline That glorious song of old; newline From angels bending near the earth newline To touch their harps of gold. newline "Peace on the earth good will to men, newline From heaven's all gracious King!" newline The world in solemn stillness lay newline To hear the angels sing.</lines>
     </verse>
     <verse name="v2">
-      <lines>Still thro' the cloven skies they come,<br/>With peaceful wings unfurled;<br/>And still their heavenly music floats,<br/>O'er all the weary world.<br/>Above its sad and lowly plains,<br/>They bend on hovering wing;<br/>And ever o'er its Babel sounds<br/>The blessed angels sing.</lines>
+      <lines>Still thro' the cloven skies they come, newline With peaceful wings unfurled; newline And still their heavenly music floats, newline O'er all the weary world. newline Above its sad and lowly plains, newline They bend on hovering wing; newline And ever o'er its Babel sounds newline The blessed angels sing.</lines>
     </verse>
     <verse name="v3">
-      <lines>And ye, beneath life's crushing load,<br/>Whose forms are bending low;<br/>Who toil along the climbing way<br/>With painful steps and slow.<br/>Look now! for glad and golden hours,<br/>Come swiftly on the wing;<br/>O rest beside the weary road,<br/>And hear the angels sing.</lines>
+      <lines>And ye, beneath life's crushing load, newline Whose forms are bending low; newline Who toil along the climbing way newline With painful steps and slow. newline Look now! for glad and golden hours, newline Come swiftly on the wing; newline O rest beside the weary road, newline And hear the angels sing.</lines>
     </verse>
     <verse name="v4">
-      <lines>For lo, the days are hastening on,<br/>By prophet bards foretold;<br/>When with the ever circling years,<br/>Comes round the age of gold.<br/>When peace shall over all the earth,<br/>Its ancient splendors fling;<br/>And the whole world give back the song<br/>Which now the angels sing.</lines>
+      <lines>For lo, the days are hastening on, newline By prophet bards foretold; newline When with the ever circling years, newline Comes round the age of gold. newline When peace shall over all the earth, newline Its ancient splendors fling; newline And the whole world give back the song newline Which now the angels sing.</lines>
     </verse>
     <verse name="v5">
-      <lines>Yet with the woes of sin and strife<br/>The world has suffered long;<br/>Beneath the angel strain have rolled,<br/>Two thousand years of wrong.<br/>And man, at war with man, hears not,<br/>The love song which they bring;<br/>O hush the noise, ye men of strife,<br/>And hear the angels sing.</lines>
+      <lines>Yet with the woes of sin and strife newline The world has suffered long; newline Beneath the angel strain have rolled, newline Two thousand years of wrong. newline And man, at war with man, hears not, newline The love song which they bring; newline O hush the noise, ye men of strife, newline And hear the angels sing.</lines>
     </verse>
   </lyrics>
 </song>

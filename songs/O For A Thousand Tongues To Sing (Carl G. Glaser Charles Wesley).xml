@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>O for a thousand tongues to sing<br/>My great Redeemer's praise,<br/>The glories of my God and King,<br/>The triumphs of His grace!</lines>
+      <lines>O for a thousand tongues to sing newline My great Redeemer's praise, newline The glories of my God and King, newline The triumphs of His grace!</lines>
     </verse>
     <verse name="v2">
-      <lines>My gracious Master and my God,<br/>Assist me to proclaim,<br/>To spread through all the earth abroad,<br/>The honors of Thy name.</lines>
+      <lines>My gracious Master and my God, newline Assist me to proclaim, newline To spread through all the earth abroad, newline The honors of Thy name.</lines>
     </verse>
     <verse name="v3">
-      <lines>Jesus! The name that charms our fears,<br/>That bids our sorrows cease;<br/>'Tis music in the sinner's ears;<br/>'Tis life, and health, and peace.</lines>
+      <lines>Jesus! The name that charms our fears, newline That bids our sorrows cease; newline 'Tis music in the sinner's ears; newline 'Tis life, and health, and peace.</lines>
     </verse>
     <verse name="v4">
-      <lines>He breaks the power of canceled sin;<br/>He sets the prisoner free.<br/>His blood can make the foulest clean;<br/>His blood availed for me.</lines>
+      <lines>He breaks the power of canceled sin; newline He sets the prisoner free. newline His blood can make the foulest clean; newline His blood availed for me.</lines>
     </verse>
     <verse name="v5">
-      <lines>Hear Him, ye deaf, His praise, ye dumb,<br/>Your loosened tongues employ.<br/>Ye blind, behold your Savior come,<br/>And leap ye lame for joy.</lines>
+      <lines>Hear Him, ye deaf, His praise, ye dumb, newline Your loosened tongues employ. newline Ye blind, behold your Savior come, newline And leap ye lame for joy.</lines>
     </verse>
     <verse name="v6">
-      <lines>Glory to God and praise and love<br/>Be ever, ever giv'n<br/>By saints below and saints above<br/>The church in earth and heav'n.</lines>
+      <lines>Glory to God and praise and love newline Be ever, ever giv'n newline By saints below and saints above newline The church in earth and heav'n.</lines>
     </verse>
   </lyrics>
 </song>

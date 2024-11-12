@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>شوق قلبي ربي أن أمجدُك<br/>كل منيتي أرفعُك<br/>كل ما في باطني يباركك<br/>أرفع يداي أعبدك</lines>
+      <lines>شوق قلبي ربي أن أمجدُك newline كل منيتي أرفعُك newline كل ما في باطني يباركك newline أرفع يداي أعبدك</lines>
     </verse>
     <verse name="v1b">
-      <lines>سيدي إلهي أهديك عمري<br/>أحيا لك وحدك<br/>كل قلبي لك كل نفسي وحياتي<br/>افعل بي ما تشاء</lines>
+      <lines>سيدي إلهي أهديك عمري newline أحيا لك وحدك newline كل قلبي لك كل نفسي وحياتي newline افعل بي ما تشاء</lines>
     </verse>
   </lyrics>
 </song>

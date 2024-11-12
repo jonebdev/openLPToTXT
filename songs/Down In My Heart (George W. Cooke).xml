@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>And I'm so happy, so very happy,<br/>I've got the love of Jesus in my heart,<br/>And I'm so happy, so very happy,<br/>I've got the love of Jesus in my heart.</lines>
+      <lines>And I'm so happy, so very happy, newline I've got the love of Jesus in my heart, newline And I'm so happy, so very happy, newline I've got the love of Jesus in my heart.</lines>
     </verse>
     <verse name="v1">
-      <lines>I've got the joy, joy, joy, joy,<br/>Down in my heart, down in my heart,<br/>Down in my heart.<br/>I've got the joy, joy, joy, joy,<br/>Down in my heart,<br/>Down in my heart to stay.</lines>
+      <lines>I've got the joy, joy, joy, joy, newline Down in my heart, down in my heart, newline Down in my heart. newline I've got the joy, joy, joy, joy, newline Down in my heart, newline Down in my heart to stay.</lines>
     </verse>
     <verse name="v2">
-      <lines>I have the peace<br/>That passeth understanding<br/>Down in my heart, down in my heart,<br/>Down in my heart.<br/>I have the peace<br/>That passeth understanding<br/>Down in my heart,<br/>Down in my heart to stay.</lines>
+      <lines>I have the peace newline That passeth understanding newline Down in my heart, down in my heart, newline Down in my heart. newline I have the peace newline That passeth understanding newline Down in my heart, newline Down in my heart to stay.</lines>
     </verse>
     <verse name="v3">
-      <lines>I have the love of Jesus,<br/>Love of Jesus, down in my heart,<br/>Down in my heart, down in my heart.<br/>I have the love of Jesus,<br/>Love of Jesus, down in my heart,<br/>Down in my heart to stay.</lines>
+      <lines>I have the love of Jesus, newline Love of Jesus, down in my heart, newline Down in my heart, down in my heart. newline I have the love of Jesus, newline Love of Jesus, down in my heart, newline Down in my heart to stay.</lines>
     </verse>
     <verse name="v4">
-      <lines>I've got the wonderful love,<br/>Of my blessed Redeemer,<br/>Way down in the depths of my heart,<br/>Way down in the depths of my heart.<br/>Way down in the depths of my heart.<br/>I've got the wonderful love,<br/>Of my blessed Redeemer,<br/>Way down in the depths of my heart,<br/>Way down in the depths of my heart to stay.</lines>
+      <lines>I've got the wonderful love, newline Of my blessed Redeemer, newline Way down in the depths of my heart, newline Way down in the depths of my heart. newline Way down in the depths of my heart. newline I've got the wonderful love, newline Of my blessed Redeemer, newline Way down in the depths of my heart, newline Way down in the depths of my heart to stay.</lines>
     </verse>
     <verse name="v5">
-      <lines>For there is therefore now no condemnation,<br/>Down in my heart,<br/>Down in my heart, down in my heart,<br/>For there is therefore now no condemnation,<br/>Down in my heart,<br/>Down in my heart today.</lines>
+      <lines>For there is therefore now no condemnation, newline Down in my heart, newline Down in my heart, down in my heart, newline For there is therefore now no condemnation, newline Down in my heart, newline Down in my heart today.</lines>
     </verse>
   </lyrics>
 </song>

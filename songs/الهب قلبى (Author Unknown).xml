@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>الهب قلبى بنيرانك .. بحبك 2<br/>نظرة من عينيك 3<br/>فعيناك لهيب نار</lines>
+      <lines>الهب قلبى بنيرانك .. بحبك 2 newline نظرة من عينيك 3 newline فعيناك لهيب نار</lines>
     </verse>
   </lyrics>
 </song>

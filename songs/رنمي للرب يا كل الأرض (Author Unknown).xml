@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>رنمي للرب يا كل الأرض<br/>قدموا للرب مجد اسمه<br/>Ranimy lirrabby ya kullal ardy<br/>Kadimu lirrabby majda asmahu</lines>
+      <lines>رنمي للرب يا كل الأرض newline قدموا للرب مجد اسمه newline Ranimy lirrabby ya kullal ardy newline Kadimu lirrabby majda asmahu</lines>
     </verse>
     <verse name="v1b">
-      <lines>هاتوا تقدمة وادخلوا دياره<br/>واسجدوا للرب في زينة مقدسة<br/>Hatoo takdimatan wad khulu diarahu<br/>wasjudu lirrabby<br/>fee zeenatin mukadasa</lines>
+      <lines>هاتوا تقدمة وادخلوا دياره newline واسجدوا للرب في زينة مقدسة newline Hatoo takdimatan wad khulu diarahu newline wasjudu lirrabby newline fee zeenatin mukadasa</lines>
     </verse>
   </lyrics>
 </song>

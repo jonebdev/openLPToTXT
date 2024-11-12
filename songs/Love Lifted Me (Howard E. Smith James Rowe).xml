@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Love lifted me!<br/>Love lifted me!<br/>When nothing else could help,<br/>Love lifted me.<br/>Love lifted me.</lines>
+      <lines>Love lifted me! newline Love lifted me! newline When nothing else could help, newline Love lifted me. newline Love lifted me.</lines>
     </verse>
     <verse name="v1">
-      <lines>I was sinking deep in sin,<br/>Far from the peaceful shore,<br/>Very deeply stained within,<br/>Sinking to rise no more.<br/>But the Master of the sea<br/>Heard my despairing cry,<br/>From the waters lifted me;<br/>Now safe am I.</lines>
+      <lines>I was sinking deep in sin, newline Far from the peaceful shore, newline Very deeply stained within, newline Sinking to rise no more. newline But the Master of the sea newline Heard my despairing cry, newline From the waters lifted me; newline Now safe am I.</lines>
     </verse>
     <verse name="v2">
-      <lines>All my heart to Him I give;<br/>Ever to Him I'll cling,<br/>In His blessed presence live,<br/>Ever His praises sing.<br/>Love so mighty and so true<br/>Merits my soul's best songs;<br/>Faithful, loving service, too,<br/>To Him belongs.</lines>
+      <lines>All my heart to Him I give; newline Ever to Him I'll cling, newline In His blessed presence live, newline Ever His praises sing. newline Love so mighty and so true newline Merits my soul's best songs; newline Faithful, loving service, too, newline To Him belongs.</lines>
     </verse>
     <verse name="v3">
-      <lines>Souls in danger, look above;<br/>Jesus completely saves.<br/>He will lift you by His love<br/>Out of the angry waves.<br/>He's the Master of the sea,<br/>Billows His will obey.<br/>He your Savior wants to be,<br/>Be saved today.</lines>
+      <lines>Souls in danger, look above; newline Jesus completely saves. newline He will lift you by His love newline Out of the angry waves. newline He's the Master of the sea, newline Billows His will obey. newline He your Savior wants to be, newline Be saved today.</lines>
     </verse>
   </lyrics>
 </song>

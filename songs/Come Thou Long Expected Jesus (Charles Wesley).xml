@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Come, Thou long expected Jesus,<br/>Born to set Thy people free.<br/>From our fears and sins release us;<br/>Let us find our rest in Thee.</lines>
+      <lines>Come, Thou long expected Jesus, newline Born to set Thy people free. newline From our fears and sins release us; newline Let us find our rest in Thee.</lines>
     </verse>
     <verse name="v2">
-      <lines>Born Thy people to deliver,<br/>Born a Child, and yet a King.<br/>Born to reign in us forever,<br/>Now Thy gracious kingdom bring.</lines>
+      <lines>Born Thy people to deliver, newline Born a Child, and yet a King. newline Born to reign in us forever, newline Now Thy gracious kingdom bring.</lines>
     </verse>
     <verse name="v3">
-      <lines>By Thine own eternal Spirit<br/>Rule in all our hearts alone;<br/>By Thine all sufficient merit,<br/>Raise us to Thy glorious throne.</lines>
+      <lines>By Thine own eternal Spirit newline Rule in all our hearts alone; newline By Thine all sufficient merit, newline Raise us to Thy glorious throne.</lines>
     </verse>
   </lyrics>
 </song>

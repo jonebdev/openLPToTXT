@@ -10,25 +10,25 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>You are holy<br/>(You are holy)<br/>You are mighty<br/>(You are mighty)<br/>You are worthy<br/>(You are worthy)<br/>Worthy of Praise<br/>(Worthy of praise)</lines>
+      <lines>You are holy newline (You are holy) newline You are mighty newline (You are mighty) newline You are worthy newline (You are worthy) newline Worthy of Praise newline (Worthy of praise)</lines>
     </verse>
     <verse name="v2">
-      <lines>I will follow<br/>(I will follow)<br/>I will listen<br/>(I will listen)<br/>I will love You<br/>(I will love You)<br/>All of my days<br/>(all of my days)</lines>
+      <lines>I will follow newline (I will follow) newline I will listen newline (I will listen) newline I will love You newline (I will love You) newline All of my days newline (all of my days)</lines>
     </verse>
     <verse name="v3">
-      <lines>I will sing to<br/>(You're the Lord of Lords)<br/>And worship<br/>(You're the King of Kings)<br/>The King who<br/>(You are mighty God)<br/>Is worthy<br/>(Lord of everything)</lines>
+      <lines>I will sing to newline (You're the Lord of Lords) newline And worship newline (You're the King of Kings) newline The King who newline (You are mighty God) newline Is worthy newline (Lord of everything)</lines>
     </verse>
     <verse name="v4">
-      <lines>I will love and<br/>(You're Emmanuel)<br/>Adore Him<br/>(You're the Great I Am)<br/>I will bow down<br/>(You're the Prince of Peace)<br/>before Him<br/>(Who is the Lamb)</lines>
+      <lines>I will love and newline (You're Emmanuel) newline Adore Him newline (You're the Great I Am) newline I will bow down newline (You're the Prince of Peace) newline before Him newline (Who is the Lamb)</lines>
     </verse>
     <verse name="v5">
-      <lines>I will sing to<br/>(You're the living God)<br/>And worship<br/>(You're my saving grace)<br/>The King who<br/>(You will reign forever)<br/>Is worthy<br/>(You are ancient of days)</lines>
+      <lines>I will sing to newline (You're the living God) newline And worship newline (You're my saving grace) newline The King who newline (You will reign forever) newline Is worthy newline (You are ancient of days)</lines>
     </verse>
     <verse name="v6">
-      <lines>I will love and<br/>(You are alpha, omega)<br/>Adore Him<br/>(Beginning and end)<br/>I will bow down<br/>(You're my Savior, Messiah)<br/>Before Him<br/>(Redeemer and friend)</lines>
+      <lines>I will love and newline (You are alpha, omega) newline Adore Him newline (Beginning and end) newline I will bow down newline (You're my Savior, Messiah) newline Before Him newline (Redeemer and friend)</lines>
     </verse>
     <verse name="v7">
-      <lines>You're my Prince of Peace<br/>and I will live my life for You</lines>
+      <lines>You're my Prince of Peace newline and I will live my life for You</lines>
     </verse>
   </lyrics>
 </song>

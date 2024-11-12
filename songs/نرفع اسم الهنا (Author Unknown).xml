@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="i1">
-      <lines>مجد الرب في وسطنا<br/>مجد علينا يرى<br/>الجالس على العرش يسود حياتنا<br/>وحبه يجمعنا</lines>
+      <lines>مجد الرب في وسطنا newline مجد علينا يرى newline الجالس على العرش يسود حياتنا newline وحبه يجمعنا</lines>
     </verse>
     <verse name="e1">
-      <lines>نرفع اسم إلهنا<br/>نذكر فضله العظيم<br/>غنوا رنموا لمليكنا<br/>اهتفوا لصخرنا الأمين</lines>
+      <lines>نرفع اسم إلهنا newline نذكر فضله العظيم newline غنوا رنموا لمليكنا newline اهتفوا لصخرنا الأمين</lines>
     </verse>
   </lyrics>
 </song>

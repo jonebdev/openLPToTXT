@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>I surrender all,<br/>I surrender all.<br/>All to Thee my blessed Savior,<br/>I surrender all.</lines>
+      <lines>I surrender all, newline I surrender all. newline All to Thee my blessed Savior, newline I surrender all.</lines>
     </verse>
     <verse name="v1">
-      <lines>All to Jesus I surrender,<br/>All to Him I freely give;<br/>I will ever love and trust Him,<br/>In His presence daily live.</lines>
+      <lines>All to Jesus I surrender, newline All to Him I freely give; newline I will ever love and trust Him, newline In His presence daily live.</lines>
     </verse>
     <verse name="v2">
-      <lines>All to Jesus I surrender,<br/>Humbly at His feet I bow,<br/>Worldly pleasures all forsaken,<br/>Take me Jesus take me now.</lines>
+      <lines>All to Jesus I surrender, newline Humbly at His feet I bow, newline Worldly pleasures all forsaken, newline Take me Jesus take me now.</lines>
     </verse>
     <verse name="v3">
-      <lines>All to Jesus I surrender,<br/>Make me Savior wholly Thine;<br/>Let me feel the Holy Spirit,<br/>Truly know that Thou art mine.</lines>
+      <lines>All to Jesus I surrender, newline Make me Savior wholly Thine; newline Let me feel the Holy Spirit, newline Truly know that Thou art mine.</lines>
     </verse>
     <verse name="v4">
-      <lines>All to Jesus I surrender,<br/>Lord I give myself to Thee.<br/>Fill me with Thy love and power;<br/>Let Thy blessings fall on me.</lines>
+      <lines>All to Jesus I surrender, newline Lord I give myself to Thee. newline Fill me with Thy love and power; newline Let Thy blessings fall on me.</lines>
     </verse>
     <verse name="v5">
-      <lines>All to Jesus I surrender,<br/>Now I feel the sacred flame.<br/>Oh the joy of full salvation!<br/>Glory, glory to His name!</lines>
+      <lines>All to Jesus I surrender, newline Now I feel the sacred flame. newline Oh the joy of full salvation! newline Glory, glory to His name!</lines>
     </verse>
   </lyrics>
 </song>

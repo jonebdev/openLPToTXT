@@ -11,25 +11,25 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>O, how I love Jesus,<br/>O, how I love Jesus,<br/>O, how I love Jesus;<br/>Because He first loved me.</lines>
+      <lines>O, how I love Jesus, newline O, how I love Jesus, newline O, how I love Jesus; newline Because He first loved me.</lines>
     </verse>
     <verse name="c2">
-      <lines>To me He is so wonderful,<br/>To me He is so wonderful,<br/>To me He is so wonderful;<br/>Because He first loved me.</lines>
+      <lines>To me He is so wonderful, newline To me He is so wonderful, newline To me He is so wonderful; newline Because He first loved me.</lines>
     </verse>
     <verse name="c3">
-      <lines>O, how I love God's Word,<br/>O, how I love God's Word,<br/>O, how I love God's Word;<br/>It tells of His love for me.</lines>
+      <lines>O, how I love God's Word, newline O, how I love God's Word, newline O, how I love God's Word; newline It tells of His love for me.</lines>
     </verse>
     <verse name="v1">
-      <lines>There is a name I love to hear,<br/>I love to sing its worth;<br/>It sounds like music in my ear,<br/>The sweetest name on earth.</lines>
+      <lines>There is a name I love to hear, newline I love to sing its worth; newline It sounds like music in my ear, newline The sweetest name on earth.</lines>
     </verse>
     <verse name="v2">
-      <lines>It tells me of a Savior's love,<br/>Who died to set me free;<br/>It tells me of His precious blood,<br/>The sinner's perfect plea.</lines>
+      <lines>It tells me of a Savior's love, newline Who died to set me free; newline It tells me of His precious blood, newline The sinner's perfect plea.</lines>
     </verse>
     <verse name="v3">
-      <lines>It tells me what my Father hath,<br/>In store for ev'ry day;<br/>And tho' I tread a darksome path,<br/>Yields sunshine all the way.</lines>
+      <lines>It tells me what my Father hath, newline In store for ev'ry day; newline And tho' I tread a darksome path, newline Yields sunshine all the way.</lines>
     </verse>
     <verse name="v4">
-      <lines>It tells of One whose loving heart,<br/>Can feel my deepest woe;<br/>Who in each sorrow bears a part,<br/>That none can bear below.</lines>
+      <lines>It tells of One whose loving heart, newline Can feel my deepest woe; newline Who in each sorrow bears a part, newline That none can bear below.</lines>
     </verse>
   </lyrics>
 </song>

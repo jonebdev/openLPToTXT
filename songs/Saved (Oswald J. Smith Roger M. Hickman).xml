@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Saved! I'm saved thro' Christ,<br/>My all in all.<br/>Saved! I'm saved,<br/>Whatever may befall.<br/>He died upon the cross for me,<br/>He bore the awful penalty.<br/>And now I'm saved eternally,<br/>I'm saved! Saved! Saved!</lines>
+      <lines>Saved! I'm saved thro' Christ, newline My all in all. newline Saved! I'm saved, newline Whatever may befall. newline He died upon the cross for me, newline He bore the awful penalty. newline And now I'm saved eternally, newline I'm saved! Saved! Saved!</lines>
     </verse>
     <verse name="v1">
-      <lines>Saved! Saved! Saved!<br/>My sins are all forgiv'n,<br/>Christ is mine!<br/>I'm on my way to heaven,<br/>Once a guilty sinner, lost, undone,<br/>Now a child of God,<br/>Saved thro' His Son.</lines>
+      <lines>Saved! Saved! Saved! newline My sins are all forgiv'n, newline Christ is mine! newline I'm on my way to heaven, newline Once a guilty sinner, lost, undone, newline Now a child of God, newline Saved thro' His Son.</lines>
     </verse>
     <verse name="v2">
-      <lines>Saved! Saved! Saved!<br/>By grace and grace alone.<br/>Oh, what wondrous love<br/>To me was shown,<br/>In my stead<br/>Christ Jesus bled and died.<br/>Bore my sins,<br/>For me was crucified.</lines>
+      <lines>Saved! Saved! Saved! newline By grace and grace alone. newline Oh, what wondrous love newline To me was shown, newline In my stead newline Christ Jesus bled and died. newline Bore my sins, newline For me was crucified.</lines>
     </verse>
     <verse name="v3">
-      <lines>Saved! Saved! Saved!<br/>Oh joy beyond compare!<br/>Christ my life,<br/>And I His constant care,<br/>Yielding all and trusting Him alone,<br/>Living now each moment as His own.</lines>
+      <lines>Saved! Saved! Saved! newline Oh joy beyond compare! newline Christ my life, newline And I His constant care, newline Yielding all and trusting Him alone, newline Living now each moment as His own.</lines>
     </verse>
   </lyrics>
 </song>

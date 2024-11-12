@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>ندعوك ملكاً<br/>ندعوك أسداً<br/>ندعوك غالباً<br/>فوق الجميع</lines>
+      <lines>ندعوك ملكاً newline ندعوك أسداً newline ندعوك غالباً newline فوق الجميع</lines>
     </verse>
     <verse name="v2">
-      <lines>ندعوك ملكاً<br/>ندعوك أسداً<br/>ندعوك غالباً<br/>يسوع المسيح</lines>
+      <lines>ندعوك ملكاً newline ندعوك أسداً newline ندعوك غالباً newline يسوع المسيح</lines>
     </verse>
     <verse name="v3">
-      <lines>فوق الجميع<br/>فوق الجميع<br/>فوق الجيع</lines>
+      <lines>فوق الجميع newline فوق الجميع newline فوق الجيع</lines>
     </verse>
     <verse name="v4">
-      <lines>فوق الجميع<br/>فوق الجميع<br/>يسوع المسيح</lines>
+      <lines>فوق الجميع newline فوق الجميع newline يسوع المسيح</lines>
     </verse>
   </lyrics>
 </song>

@@ -11,10 +11,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Praise the LORD .. Praise the LORD .. Praise the LORD .. Praise , O servants of the LORD.<br/>Praise the LORD .. Praise the LORD .. Praise the name of the LORD.</lines>
+      <lines>Praise the LORD .. Praise the LORD .. Praise the LORD .. Praise , O servants of the LORD. newline Praise the LORD .. Praise the LORD .. Praise the name of the LORD.</lines>
     </verse>
     <verse name="v2">
-      <lines>Who's like the LORD, the LORD our God ... Who's like the LORD, the LORD our God.<br/>Who's like the LORD, the LORD our God ... Who's enthroned on high.</lines>
+      <lines>Who's like the LORD, the LORD our God ... Who's like the LORD, the LORD our God. newline Who's like the LORD, the LORD our God ... Who's enthroned on high.</lines>
     </verse>
   </lyrics>
 </song>

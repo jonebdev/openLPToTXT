@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أبانا كم نحن نحبك<br/>نرفعك فوق الكل<br/>ليعلن تسبيحنا عن ملكوتك<br/>إذ نشدوا ما أعظم أعمالك</lines>
+      <lines>أبانا كم نحن نحبك newline نرفعك فوق الكل newline ليعلن تسبيحنا عن ملكوتك newline إذ نشدوا ما أعظم أعمالك</lines>
     </verse>
     <verse name="v2">
-      <lines>مبارك الرب إلهنا الكائن والذي يأتي<br/>مبارك الرب إلهنا<br/>مليك أبدي</lines>
+      <lines>مبارك الرب إلهنا الكائن والذي يأتي newline مبارك الرب إلهنا newline مليك أبدي</lines>
     </verse>
   </lyrics>
 </song>

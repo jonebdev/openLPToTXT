@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Hide me now under Your wings<br/>Cover me within Your mighty hand</lines>
+      <lines>Hide me now under Your wings newline Cover me within Your mighty hand</lines>
     </verse>
     <verse name="v2">
-      <lines>When the ocean's rise and the thunders roar<br/>I will soar with you above the storm<br/>Father you are King over the flood<br/>I will be still and know you are God</lines>
+      <lines>When the ocean's rise and the thunders roar newline I will soar with you above the storm newline Father you are King over the flood newline I will be still and know you are God</lines>
     </verse>
     <verse name="v3">
-      <lines>Find rest my soul<br/>In Christ Alone<br/>Know his pow'r in quietness and trust</lines>
+      <lines>Find rest my soul newline In Christ Alone newline Know his pow'r in quietness and trust</lines>
     </verse>
   </lyrics>
 </song>

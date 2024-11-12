@@ -11,10 +11,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Jesus loves the little children,<br/>All the children of the world.<br/>Red and yellow, black and white,<br/>They are precious in His sight--<br/>Jesus loves the little children of the world.</lines>
+      <lines>Jesus loves the little children, newline All the children of the world. newline Red and yellow, black and white, newline They are precious in His sight-- newline Jesus loves the little children of the world.</lines>
     </verse>
     <verse name="v2">
-      <lines>Jesus died for all the children,<br/>All the children of the world.<br/>Red and yellow, black and white,<br/>All are precious in His sight--<br/>Jesus died for all the children of the world.</lines>
+      <lines>Jesus died for all the children, newline All the children of the world. newline Red and yellow, black and white, newline All are precious in His sight-- newline Jesus died for all the children of the world.</lines>
     </verse>
   </lyrics>
 </song>

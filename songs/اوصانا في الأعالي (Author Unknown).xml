@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>أوصانا ... أوصانا)<br/>أوصانا في الأعالي)2<br/>(Usanna, usanna, usanna fil a'ally)2</lines>
+      <lines>أوصانا ... أوصانا) newline أوصانا في الأعالي)2 newline (Usanna, usanna, usanna fil a'ally)2</lines>
     </verse>
     <verse name="v1b">
-      <lines>نشدو نرفعُ أسمَك<br/>ونعلي مجدَك<br/>ونفتخرُ بشخصِك<br/>أوصانا في الأعالي<br/>Nashdoo narfa' usmaka wanu ally majdaka<br/>wa naftakhiru bishakhsika usanna fil a'ally</lines>
+      <lines>نشدو نرفعُ أسمَك newline ونعلي مجدَك newline ونفتخرُ بشخصِك newline أوصانا في الأعالي newline Nashdoo narfa' usmaka wanu ally majdaka newline wa naftakhiru bishakhsika usanna fil a'ally</lines>
     </verse>
     <verse name="v2a">
-      <lines>مجدا ... مجدا)<br/>مجدا لرب الأرباب)2<br/>(Majdan, majdan, majdan lirabbil arbab)2</lines>
+      <lines>مجدا ... مجدا) newline مجدا لرب الأرباب)2 newline (Majdan, majdan, majdan lirabbil arbab)2</lines>
     </verse>
     <verse name="v2b">
-      <lines>نشدو نرفعُ أسمَك<br/>ونعلي مجدَك<br/>ونفتخرُ بشخصِك<br/>مجدا لرب الأرباب</lines>
+      <lines>نشدو نرفعُ أسمَك newline ونعلي مجدَك newline ونفتخرُ بشخصِك newline مجدا لرب الأرباب</lines>
     </verse>
   </lyrics>
 </song>

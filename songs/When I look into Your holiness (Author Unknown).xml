@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>When I look into Your holiness.<br/>When I gaze into Your loveliness.<br/>When all things that surround become shadows,<br/>In the light of You.</lines>
+      <lines>When I look into Your holiness. newline When I gaze into Your loveliness. newline When all things that surround become shadows, newline In the light of You.</lines>
     </verse>
     <verse name="v2">
-      <lines>When I've found the joy of reaching Your heart.<br/>When my will becomes inthroned in Your love.<br/>When all things that surround become shadows,<br/>In the light of You.</lines>
+      <lines>When I've found the joy of reaching Your heart. newline When my will becomes inthroned in Your love. newline When all things that surround become shadows, newline In the light of You.</lines>
     </verse>
     <verse name="v3">
-      <lines>I worship You. I worship You.<br/>The reason I live is to worship You.<br/>2x</lines>
+      <lines>I worship You. I worship You. newline The reason I live is to worship You. newline 2x</lines>
     </verse>
   </lyrics>
 </song>

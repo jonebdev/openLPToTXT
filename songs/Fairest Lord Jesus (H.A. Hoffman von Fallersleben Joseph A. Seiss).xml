@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Fairest Lord Jesus!<br/>Ruler of all nature!<br/>O Thou of God and man the Son!<br/>Thee will I cherish,<br/>Thee will I honor,<br/>Thou, my soul's glory,<br/>Joy, and crown.</lines>
+      <lines>Fairest Lord Jesus! newline Ruler of all nature! newline O Thou of God and man the Son! newline Thee will I cherish, newline Thee will I honor, newline Thou, my soul's glory, newline Joy, and crown.</lines>
     </verse>
     <verse name="v2">
-      <lines>Fair are the meadows;<br/>Fairer still the woodlands,<br/>Robed in the blooming<br/>Garb of spring.<br/>Jesus is fairer,<br/>Jesus is purer,<br/>Who makes the woeful heart to sing.</lines>
+      <lines>Fair are the meadows; newline Fairer still the woodlands, newline Robed in the blooming newline Garb of spring. newline Jesus is fairer, newline Jesus is purer, newline Who makes the woeful heart to sing.</lines>
     </verse>
     <verse name="v3">
-      <lines>Fair is the sunshine,<br/>Fairer still the moonlight,<br/>And all the twinkling, starry host.<br/>Jesus shines brighter,<br/>Jesus shines purer,<br/>Than all the angels<br/>Heav'n can boast.</lines>
+      <lines>Fair is the sunshine, newline Fairer still the moonlight, newline And all the twinkling, starry host. newline Jesus shines brighter, newline Jesus shines purer, newline Than all the angels newline Heav'n can boast.</lines>
     </verse>
     <verse name="v4">
-      <lines>Beautiful Savior!<br/>Lord of the nations!<br/>Son of God and Son of man!<br/>Glory and honor, praise adoration,<br/>Now and forevermore be Thine!</lines>
+      <lines>Beautiful Savior! newline Lord of the nations! newline Son of God and Son of man! newline Glory and honor, praise adoration, newline Now and forevermore be Thine!</lines>
     </verse>
   </lyrics>
 </song>

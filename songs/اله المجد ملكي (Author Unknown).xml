@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>إله المجد ملكي<br/>رب الحياة في داخلي<br/>Ilahul majd maliky<br/>Rabul haya fee dakhily</lines>
+      <lines>إله المجد ملكي newline رب الحياة في داخلي newline Ilahul majd maliky newline Rabul haya fee dakhily</lines>
     </verse>
     <verse name="v1b">
-      <lines>الكلَ قد وهبتني<br/>في المسيح رفعتني<br/>كل قلبي يباركك<br/>Alkulla kad wahabtany fil masihy rafa'tany<br/>Kullu kalby yubarikuka</lines>
+      <lines>الكلَ قد وهبتني newline في المسيح رفعتني newline كل قلبي يباركك newline Alkulla kad wahabtany fil masihy rafa'tany newline Kullu kalby yubarikuka</lines>
     </verse>
     <verse name="v1c">
-      <lines>كلُ الحياة مِلكا لك<br/>عمري أحياه لمجدك<br/>أجثو لك ... لك وحدك<br/>للأبد أنا لك<br/>Kulul haya molkan laka umry ahya limajdika ajthoo laka lak wahdaka<br/>lilabady ana laka</lines>
+      <lines>كلُ الحياة مِلكا لك newline عمري أحياه لمجدك newline أجثو لك ... لك وحدك newline للأبد أنا لك newline Kulul haya molkan laka umry ahya limajdika ajthoo laka lak wahdaka newline lilabady ana laka</lines>
     </verse>
   </lyrics>
 </song>

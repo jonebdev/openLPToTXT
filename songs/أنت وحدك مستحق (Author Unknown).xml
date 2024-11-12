@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أنت وحدك مستحق 2<br/>فمنك كل الأشياء و بك كل الأشياء و لمجدك</lines>
+      <lines>أنت وحدك مستحق 2 newline فمنك كل الأشياء و بك كل الأشياء و لمجدك</lines>
     </verse>
     <verse name="v2">
-      <lines>يجثو أمام عرشك ألوف و ربوات<br/>و يطرح الشيوخ أكاليلهم لك<br/>و يهتفون</lines>
+      <lines>يجثو أمام عرشك ألوف و ربوات newline و يطرح الشيوخ أكاليلهم لك newline و يهتفون</lines>
     </verse>
     <verse name="v3">
       <lines>نصعد بخورنا ليلاً و نهار 2</lines>

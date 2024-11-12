@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>More love O Christ to Thee;<br/>More love to Thee,<br/>More love to Thee!</lines>
+      <lines>More love O Christ to Thee; newline More love to Thee, newline More love to Thee!</lines>
     </verse>
     <verse name="v1">
-      <lines>More love to Thee, O Christ,<br/>More love to Thee!<br/>Hear Thou the prayer,<br/>I make on bended knee.<br/>This is my earnest plea:</lines>
+      <lines>More love to Thee, O Christ, newline More love to Thee! newline Hear Thou the prayer, newline I make on bended knee. newline This is my earnest plea:</lines>
     </verse>
     <verse name="v2">
-      <lines>Once earthly joy I craved,<br/>Sought peace and rest.<br/>Now Thee alone I seek;<br/>Give what is best.<br/>This all my prayer shall be:</lines>
+      <lines>Once earthly joy I craved, newline Sought peace and rest. newline Now Thee alone I seek; newline Give what is best. newline This all my prayer shall be:</lines>
     </verse>
     <verse name="v3">
-      <lines>Then shall my latest breath<br/>Whisper Thy praise.<br/>This be the parting cry<br/>My heart shall raise;<br/>This still my prayer shall be:</lines>
+      <lines>Then shall my latest breath newline Whisper Thy praise. newline This be the parting cry newline My heart shall raise; newline This still my prayer shall be:</lines>
     </verse>
     <verse name="v4">
-      <lines>Let sorrow do its work,<br/>Send grief and pain;<br/>Sweet are Thy messengers,<br/>Sweet their refrain,<br/>When they can sing with me:</lines>
+      <lines>Let sorrow do its work, newline Send grief and pain; newline Sweet are Thy messengers, newline Sweet their refrain, newline When they can sing with me:</lines>
     </verse>
   </lyrics>
 </song>

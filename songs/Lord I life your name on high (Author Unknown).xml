@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>LORD I LIFT YOUR NAME ON HIGH<br/>LORD I LOVE TO SING YOUR PRAISES<br/>I'M SO GLAD YOU'RE IN MY LIFE<br/>I'M SO GLAD YOU CAME TO SAVE US</lines>
+      <lines>LORD I LIFT YOUR NAME ON HIGH newline LORD I LOVE TO SING YOUR PRAISES newline I'M SO GLAD YOU'RE IN MY LIFE newline I'M SO GLAD YOU CAME TO SAVE US</lines>
     </verse>
     <verse name="v2">
-      <lines>YOU CAME FROM HEAVEN TO EARTH<br/>TO SHOW THE WAY<br/>FROM THE EARTH TO THE CROSS<br/>MY DEBT TO PAY<br/>FROM THE CROSS TO THE GRACE<br/>FROM THE GRAVE TO THE SKY<br/>LORD I LIFT YOUR NAME ON HIGH.</lines>
+      <lines>YOU CAME FROM HEAVEN TO EARTH newline TO SHOW THE WAY newline FROM THE EARTH TO THE CROSS newline MY DEBT TO PAY newline FROM THE CROSS TO THE GRACE newline FROM THE GRAVE TO THE SKY newline LORD I LIFT YOUR NAME ON HIGH.</lines>
     </verse>
   </lyrics>
 </song>

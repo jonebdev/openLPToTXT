@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>الرب أبطل مؤامرة الأمم<br/>لاشى أفكار الشعوب<br/>أما مؤامرة الرب فإلى الأبد تثبت</lines>
+      <lines>الرب أبطل مؤامرة الأمم newline لاشى أفكار الشعوب newline أما مؤامرة الرب فإلى الأبد تثبت</lines>
     </verse>
     <verse name="v2">
       <lines>أفكار قلبه إلى دورٍ فدورٍ</lines>

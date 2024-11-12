@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>How great our joy! Great our joy!<br/>Joy, joy, joy!<br/>Joy, joy, joy!<br/>Praise we the Lord in heaven on high!<br/>Praise we the Lord in heaven on high!</lines>
+      <lines>How great our joy! Great our joy! newline Joy, joy, joy! newline Joy, joy, joy! newline Praise we the Lord in heaven on high! newline Praise we the Lord in heaven on high!</lines>
     </verse>
     <verse name="v1">
-      <lines>While by the sheep we watched at night,<br/>Glad tidings brought an angel bright.</lines>
+      <lines>While by the sheep we watched at night, newline Glad tidings brought an angel bright.</lines>
     </verse>
     <verse name="v2">
-      <lines>There shall be born so He did say,<br/>In Bethlehem a Child today.</lines>
+      <lines>There shall be born so He did say, newline In Bethlehem a Child today.</lines>
     </verse>
     <verse name="v3">
-      <lines>There shall the Child lie in a stall,<br/>This Child who shall redeem us all.</lines>
+      <lines>There shall the Child lie in a stall, newline This Child who shall redeem us all.</lines>
     </verse>
     <verse name="v4">
-      <lines>This gift of God we'll cherish well,<br/>That every joy our hearts shall fill.</lines>
+      <lines>This gift of God we'll cherish well, newline That every joy our hearts shall fill.</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>هل ليسوع من مثيل<br/>فى الطهر والجمال<br/>فى شخصه الفذ الفريد<br/>تجسم الكمال</lines>
+      <lines>هل ليسوع من مثيل newline فى الطهر والجمال newline فى شخصه الفذ الفريد newline تجسم الكمال</lines>
     </verse>
     <verse name="c1">
-      <lines>لا ليس مثله<br/>قد فاق مجده<br/>قلبي يحبه<br/>ويهوى شخصه</lines>
+      <lines>لا ليس مثله newline قد فاق مجده newline قلبي يحبه newline ويهوى شخصه</lines>
     </verse>
     <verse name="v2">
-      <lines>هل ليسوع من مثيل<br/>من يعتق الأثيم<br/>يعطيه قلباً طاهراً<br/>وعنده يقيم</lines>
+      <lines>هل ليسوع من مثيل newline من يعتق الأثيم newline يعطيه قلباً طاهراً newline وعنده يقيم</lines>
     </verse>
     <verse name="v3">
-      <lines>هل ليسوع من مثيل<br/>يبقى لنا صديق<br/>يهدى يعزى كل حين<br/>مادمنا فى الطريق</lines>
+      <lines>هل ليسوع من مثيل newline يبقى لنا صديق newline يهدى يعزى كل حين newline مادمنا فى الطريق</lines>
     </verse>
     <verse name="v4">
-      <lines>هل ليسوع من مثيل<br/>فى الحب للأشرار<br/>فقد قضى من أجلهم<br/>على صليب العار</lines>
+      <lines>هل ليسوع من مثيل newline فى الحب للأشرار newline فقد قضى من أجلهم newline على صليب العار</lines>
     </verse>
   </lyrics>
 </song>

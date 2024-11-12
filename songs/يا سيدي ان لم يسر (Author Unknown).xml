@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>يا سيدي ان لم يسر<br/>أمامي وجهُك الطريق<br/>فلن أسيرَ أبدا<br/>مهما يكن شأنُ البريق)2)</lines>
+      <lines>يا سيدي ان لم يسر newline أمامي وجهُك الطريق newline فلن أسيرَ أبدا newline مهما يكن شأنُ البريق)2)</lines>
     </verse>
     <verse name="c1">
-      <lines>وجهي يسيرُ فأريحُك2<br/>تشددن تشجعن اني أنا معك<br/>أنا أسيرُ معك</lines>
+      <lines>وجهي يسيرُ فأريحُك2 newline تشددن تشجعن اني أنا معك newline أنا أسيرُ معك</lines>
     </verse>
     <verse name="v2">
-      <lines>ها انني رهنٌ لما<br/>تعلِنُه أيا قدير<br/>في وسعٍ أو ضيقةٍ<br/>مهما يكن شكلُ المصير)2)</lines>
+      <lines>ها انني رهنٌ لما newline تعلِنُه أيا قدير newline في وسعٍ أو ضيقةٍ newline مهما يكن شكلُ المصير)2)</lines>
     </verse>
     <verse name="v3">
-      <lines>نفسي تعلقت بك<br/>في كلِ أطوارِ الحياة<br/>فديتني رفعتني<br/>نشلتني من المياة)2)</lines>
+      <lines>نفسي تعلقت بك newline في كلِ أطوارِ الحياة newline فديتني رفعتني newline نشلتني من المياة)2)</lines>
     </verse>
   </lyrics>
 </song>

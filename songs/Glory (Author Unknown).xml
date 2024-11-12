@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Great is the Lord God Almighty<br/>Great is the Lord on High<br/>The train of His robe fills the temple<br/>And we cry out highest praise</lines>
+      <lines>Great is the Lord God Almighty newline Great is the Lord on High newline The train of His robe fills the temple newline And we cry out highest praise</lines>
     </verse>
     <verse name="v2">
-      <lines>Glory to the risen King<br/>Glory to the son, glorious son</lines>
+      <lines>Glory to the risen King newline Glory to the son, glorious son</lines>
     </verse>
     <verse name="v3">
-      <lines>Lift up your heads, open the doors<br/>Let the King of Glory come in<br/>And forever be our God</lines>
+      <lines>Lift up your heads, open the doors newline Let the King of Glory come in newline And forever be our God</lines>
     </verse>
     <verse name="v4">
-      <lines>Holy is the Lord God Almighty<br/>Holy is the Lord on High<br/>Let all the earth bow before You<br/>And crown You Lord of all</lines>
+      <lines>Holy is the Lord God Almighty newline Holy is the Lord on High newline Let all the earth bow before You newline And crown You Lord of all</lines>
     </verse>
   </lyrics>
 </song>

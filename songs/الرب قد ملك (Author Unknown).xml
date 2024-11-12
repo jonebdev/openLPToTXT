@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>الرب قد ملك فلنفرح به<br/>لأن هو الرب<br/>تكلم بنور فلاشى الظلام<br/>لأن هو الرب</lines>
+      <lines>الرب قد ملك فلنفرح به newline لأن هو الرب newline تكلم بنور فلاشى الظلام newline لأن هو الرب</lines>
     </verse>
     <verse name="c1">
-      <lines>ارسل قوتك يا ربنا 2<br/>الآن<br/>Arsil kuwatak ya rabbana (2)<br/>Al'an</lines>
+      <lines>ارسل قوتك يا ربنا 2 newline الآن newline Arsil kuwatak ya rabbana (2) newline Al'an</lines>
     </verse>
     <verse name="v2">
-      <lines>من مثله يملك الى الأبد<br/>لأن هو الرب<br/>ندعوا باسمه فبقوة يأتي<br/>لأن هو الرب<br/>Man mithluhu yamliku ilal abad li'ana hual rab nad'u bismihy fabikuwa ya'ty li'ana hual rab</lines>
+      <lines>من مثله يملك الى الأبد newline لأن هو الرب newline ندعوا باسمه فبقوة يأتي newline لأن هو الرب newline Man mithluhu yamliku ilal abad li'ana hual rab nad'u bismihy fabikuwa ya'ty li'ana hual rab</lines>
     </verse>
   </lyrics>
 </song>

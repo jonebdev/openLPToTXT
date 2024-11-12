@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>هيا نعبد الرب) 3 يسوع)<br/>وحدك مستحق)3 يسوع)<br/>نعطيك كل المجد)3 يسوع)<br/>(Haya na'boodul rabba)3 Yasoo'<br/>(Wahdaka mustahikun)3 Yasoo'<br/>(Nu'teeka kullal majdy)3 Yasoo'</lines>
+      <lines>هيا نعبد الرب) 3 يسوع) newline وحدك مستحق)3 يسوع) newline نعطيك كل المجد)3 يسوع) newline (Haya na'boodul rabba)3 Yasoo' newline (Wahdaka mustahikun)3 Yasoo' newline (Nu'teeka kullal majdy)3 Yasoo'</lines>
     </verse>
     <verse name="v1b">
-      <lines>نسبحك للأبد) 3 يسوع)<br/>نعظمك للأبد)3 يسوع)<br/>(Nusabihak lilabady)3 Yasoo'<br/>(Nu'athimak lilabady)3 Yasoo'</lines>
+      <lines>نسبحك للأبد) 3 يسوع) newline نعظمك للأبد)3 يسوع) newline (Nusabihak lilabady)3 Yasoo' newline (Nu'athimak lilabady)3 Yasoo'</lines>
     </verse>
   </lyrics>
 </song>

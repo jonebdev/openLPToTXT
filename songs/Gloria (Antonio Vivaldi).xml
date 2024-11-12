@@ -11,10 +11,10 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Gloria, gloria, gloria,<br/>Gloria in excelsis Deo,<br/>In excelsis Deo.<br/>Gloria, gloria, gloria,<br/>Gloria in excelsis Deo.<br/>Gloria, gloria<br/>In excelsis Deo.<br/>Gloria in excelsis,<br/>Gloria in excelsis Deo.<br/>Gloria in excelsis Deo,<br/>In excelsis.<br/>gloria in excelsis Deo.</lines>
+      <lines>Gloria, gloria, gloria, newline Gloria in excelsis Deo, newline In excelsis Deo. newline Gloria, gloria, gloria, newline Gloria in excelsis Deo. newline Gloria, gloria newline In excelsis Deo. newline Gloria in excelsis, newline Gloria in excelsis Deo. newline Gloria in excelsis Deo, newline In excelsis. newline gloria in excelsis Deo.</lines>
     </verse>
     <verse name="c2">
-      <lines>Glorious, glorious, glorious,<br/>Glorious, all glory be to God,<br/>Glory in the highest.<br/>Glorious, glorious, glorious,<br/>Glory be to God on high, glory.<br/>Glorious, glorious,<br/>Glory in the highest, glory.<br/>Glory to God in heaven,<br/>Glory to God in heaven, glory.<br/>Glory to God in heaven, glory.<br/>He is glorious! Glorious,<br/>Glory in the highest.</lines>
+      <lines>Glorious, glorious, glorious, newline Glorious, all glory be to God, newline Glory in the highest. newline Glorious, glorious, glorious, newline Glory be to God on high, glory. newline Glorious, glorious, newline Glory in the highest, glory. newline Glory to God in heaven, newline Glory to God in heaven, glory. newline Glory to God in heaven, glory. newline He is glorious! Glorious, newline Glory in the highest.</lines>
     </verse>
   </lyrics>
 </song>

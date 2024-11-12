@@ -10,22 +10,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I Search for You, God of Strength<br/>I bow to You, in brokeness.</lines>
+      <lines>I Search for You, God of Strength newline I bow to You, in brokeness.</lines>
     </verse>
     <verse name="v2">
-      <lines>No other King could have so humbly come,<br/>To save my soul and heal my heart.</lines>
+      <lines>No other King could have so humbly come, newline To save my soul and heal my heart.</lines>
     </verse>
     <verse name="v3">
-      <lines>I have nothing more, than all You offer me.<br/>There is nothing else, thats of worth to me.</lines>
+      <lines>I have nothing more, than all You offer me. newline There is nothing else, thats of worth to me.</lines>
     </verse>
     <verse name="v4">
-      <lines>I love you Lord, You rescued me.<br/>You are all that I want, Your all that I need.</lines>
+      <lines>I love you Lord, You rescued me. newline You are all that I want, Your all that I need.</lines>
     </verse>
     <verse name="v5">
-      <lines>I pray to You, God of peace.<br/>I rest in You, my cares released.</lines>
+      <lines>I pray to You, God of peace. newline I rest in You, my cares released.</lines>
     </verse>
     <verse name="v6">
-      <lines>In Your freedom, I will live, In Your freedom I will live<br/>I offer devotion, I offer devotion.</lines>
+      <lines>In Your freedom, I will live, In Your freedom I will live newline I offer devotion, I offer devotion.</lines>
     </verse>
   </lyrics>
 </song>

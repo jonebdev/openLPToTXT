@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Praise the Lord! ye heav'ns, adore Him;<br/>Praise Him, angels, in the height;<br/>Sun and moon, rejoice before Him;<br/>Praise Him, all ye stars of light.<br/>Praise the Lord! for He hath spoken.<br/>Worlds His mighty voice obeyed;<br/>Laws which never shall be broken<br/>For their guidance He hath made.</lines>
+      <lines>Praise the Lord! ye heav'ns, adore Him; newline Praise Him, angels, in the height; newline Sun and moon, rejoice before Him; newline Praise Him, all ye stars of light. newline Praise the Lord! for He hath spoken. newline Worlds His mighty voice obeyed; newline Laws which never shall be broken newline For their guidance He hath made.</lines>
     </verse>
     <verse name="v2">
-      <lines>Praise the Lord! For He is glorious;<br/>Never shall His promise fail;<br/>God hath made His saints victorious;<br/>Sin and death shall not prevail.<br/>Praise the God of our salvation!<br/>Hosts on high, His power proclaim;<br/>Heaven, and earth and all creation,<br/>Laud and magnify His name.</lines>
+      <lines>Praise the Lord! For He is glorious; newline Never shall His promise fail; newline God hath made His saints victorious; newline Sin and death shall not prevail. newline Praise the God of our salvation! newline Hosts on high, His power proclaim; newline Heaven, and earth and all creation, newline Laud and magnify His name.</lines>
     </verse>
     <verse name="v3">
-      <lines>Worship, honor, glory, blessing,<br/>Lord, we offer unto Thee;<br/>Young and old, Thy praise expressing,<br/>In glad homage bend the knee;<br/>All the saints in heaven adore Thee;<br/>We would bow before Thy throne.<br/>As Thine angels serve before Thee,<br/>So on earth Thy will be done.</lines>
+      <lines>Worship, honor, glory, blessing, newline Lord, we offer unto Thee; newline Young and old, Thy praise expressing, newline In glad homage bend the knee; newline All the saints in heaven adore Thee; newline We would bow before Thy throne. newline As Thine angels serve before Thee, newline So on earth Thy will be done.</lines>
     </verse>
   </lyrics>
 </song>

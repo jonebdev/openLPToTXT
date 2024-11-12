@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>روح الله ندعوك<br/>تأتى فى وسطنا<br/>تملأنا بالقوة<br/>تحيا فينا الآن</lines>
+      <lines>روح الله ندعوك newline تأتى فى وسطنا newline تملأنا بالقوة newline تحيا فينا الآن</lines>
     </verse>
     <verse name="c1">
-      <lines>أنت الروح المحيي<br/>أنت الرب الشافى<br/>ترشد وتعزى<br/>سد علينا الآن</lines>
+      <lines>أنت الروح المحيي newline أنت الرب الشافى newline ترشد وتعزى newline سد علينا الآن</lines>
     </verse>
   </lyrics>
 </song>

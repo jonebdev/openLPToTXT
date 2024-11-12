@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>There's a new song arisin' in the hearts of His children<br/>A new song arisin' in the hearts of His own<br/>Theres a new song arisin' in the hearts of His children<br/>A new song arisin' in the hearts of his own</lines>
+      <lines>There's a new song arisin' in the hearts of His children newline A new song arisin' in the hearts of His own newline Theres a new song arisin' in the hearts of His children newline A new song arisin' in the hearts of his own</lines>
     </verse>
     <verse name="v2">
-      <lines>A song of hope a song of peace<br/>the sound liberation the shout of victory<br/>The hym of praise, the new song of God<br/>many will see and fear and put thier trust in our Lord</lines>
+      <lines>A song of hope a song of peace newline the sound liberation the shout of victory newline The hym of praise, the new song of God newline many will see and fear and put thier trust in our Lord</lines>
     </verse>
     <verse name="v3">
-      <lines>With the oil of joy he's annointng his children<br/>The music he gives sets the nations free<br/>With the oil of joy he's annointing his children<br/>and the dance of our father's bringing liberty</lines>
+      <lines>With the oil of joy he's annointng his children newline The music he gives sets the nations free newline With the oil of joy he's annointing his children newline and the dance of our father's bringing liberty</lines>
     </verse>
   </lyrics>
 </song>

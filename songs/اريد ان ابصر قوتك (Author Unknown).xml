@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أريدُ أن أًبصرَ قوتَكْ<br/>أريدُ أن أًبصرَ مجدَكَ<br/>Ureedu an ubsira kuwatak<br/>ureedu an ubsira majdaka</lines>
+      <lines>أريدُ أن أًبصرَ قوتَكْ newline أريدُ أن أًبصرَ مجدَكَ newline Ureedu an ubsira kuwatak newline ureedu an ubsira majdaka</lines>
     </verse>
     <verse name="v2">
-      <lines>وترى عيناي عجائبَكَ<br/>أعظمُكْ يا مشتهى الأمم<br/>Watara aynaya aja'ibuka<br/>U'athimuk ya mushtahal umam</lines>
+      <lines>وترى عيناي عجائبَكَ newline أعظمُكْ يا مشتهى الأمم newline Watara aynaya aja'ibuka newline U'athimuk ya mushtahal umam</lines>
     </verse>
     <verse name="v3">
-      <lines>الى أقصى الأرضِ يمتدُ اسمُكَ<br/>لا توجدْ نهايةٌ لمُلكِكَ<br/>Ila aksal ardy yamtad usmuka<br/>la tujad nihayatun lemulkika</lines>
+      <lines>الى أقصى الأرضِ يمتدُ اسمُكَ newline لا توجدْ نهايةٌ لمُلكِكَ newline Ila aksal ardy yamtad usmuka newline la tujad nihayatun lemulkika</lines>
     </verse>
     <verse name="v4">
-      <lines>وسطَ كثيرينَ سأسبحُكْ وأرفعُكَ...<br/>Wasta katheerena sa usabihuk, wa arfa'uka</lines>
+      <lines>وسطَ كثيرينَ سأسبحُكْ وأرفعُكَ... newline Wasta katheerena sa usabihuk, wa arfa'uka</lines>
     </verse>
     <verse name="v5">
-      <lines>لامثلَ لكَ)2 فلتسبحَكْ كلُ نسمَة<br/>(la mithla laka)2 Faltusabihak kulu nasama</lines>
+      <lines>لامثلَ لكَ)2 فلتسبحَكْ كلُ نسمَة newline (la mithla laka)2 Faltusabihak kulu nasama</lines>
     </verse>
   </lyrics>
 </song>

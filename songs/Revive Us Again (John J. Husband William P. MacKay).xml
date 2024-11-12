@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Hallelujah! Thine the glory!<br/>Hallelujah! Amen!<br/>Hallelujah! Thine the glory!<br/>Revive us again.</lines>
+      <lines>Hallelujah! Thine the glory! newline Hallelujah! Amen! newline Hallelujah! Thine the glory! newline Revive us again.</lines>
     </verse>
     <verse name="v1">
-      <lines>We praise Thee, O God,<br/>For the Son of Thy love;<br/>For Jesus, who died<br/>And is now gone above.</lines>
+      <lines>We praise Thee, O God, newline For the Son of Thy love; newline For Jesus, who died newline And is now gone above.</lines>
     </verse>
     <verse name="v2">
-      <lines>We praise Thee, O God,<br/>For Thy Spirit of light,<br/>Who has shown us our Savior<br/>And scattered our night.</lines>
+      <lines>We praise Thee, O God, newline For Thy Spirit of light, newline Who has shown us our Savior newline And scattered our night.</lines>
     </verse>
     <verse name="v3">
-      <lines>All glory and praise<br/>To the Lamb that was slain,<br/>Who has borne all our sins<br/>And hath cleansed every stain.</lines>
+      <lines>All glory and praise newline To the Lamb that was slain, newline Who has borne all our sins newline And hath cleansed every stain.</lines>
     </verse>
     <verse name="v4">
-      <lines>Revive us again;<br/>Fill each heart with Thy love;<br/>May each soul be rekindled<br/>With fire from above.</lines>
+      <lines>Revive us again; newline Fill each heart with Thy love; newline May each soul be rekindled newline With fire from above.</lines>
     </verse>
   </lyrics>
 </song>

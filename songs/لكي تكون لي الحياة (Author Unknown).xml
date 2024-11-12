@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>لكي تكونَ لي الحياةْ<br/>فيضُ الحياةْ أتيتَ<br/>على الصليبْ قد ارتفعتْ<br/>جذبتني اليكَ</lines>
+      <lines>لكي تكونَ لي الحياةْ newline فيضُ الحياةْ أتيتَ newline على الصليبْ قد ارتفعتْ newline جذبتني اليكَ</lines>
     </verse>
     <verse name="v1b">
       <lines>Likay takoon liyal haya faydul haya atayta alassaleeb kad irtafa't jathabtany ilayka</lines>
     </verse>
     <verse name="c1a">
-      <lines>حُـبكَ يسـوع عجـيبْ<br/>حُــبكْ يسـوع عـظيمْ<br/>كشاةٍ قد ذُبحتْ اثامي قد حملتْ<br/>فديتـني</lines>
+      <lines>حُـبكَ يسـوع عجـيبْ newline حُــبكْ يسـوع عـظيمْ newline كشاةٍ قد ذُبحتْ اثامي قد حملتْ newline فديتـني</lines>
     </verse>
     <verse name="c1b">
       <lines>Hubuka yasoo' ajeeb hubuka yasoo' atheem kashatin kad dubiht athamy kad hamalt fadaytany</lines>
     </verse>
     <verse name="v2a">
-      <lines>للمنتهى أحببتني<br/>ومن أجلي سُحقْتَ<br/>لا منظرَ ولا جمالْ<br/>لا صورة بل لعنة<br/>أسبحك أعبدك</lines>
+      <lines>للمنتهى أحببتني newline ومن أجلي سُحقْتَ newline لا منظرَ ولا جمالْ newline لا صورة بل لعنة newline أسبحك أعبدك</lines>
     </verse>
     <verse name="v2b">
-      <lines>Lilmuntaha ahbabtany wamin ajlee suhikta<br/>la mandaran wala jamal<br/>la suratan bal la'nata</lines>
+      <lines>Lilmuntaha ahbabtany wamin ajlee suhikta newline la mandaran wala jamal newline la suratan bal la'nata</lines>
     </verse>
     <verse name="e1a">
       <lines>أُسبِـــحُــــك وأعبُــدُكَ)4 )</lines>

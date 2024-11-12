@@ -10,22 +10,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>مررت بي ورأيتني بحبك غمرتني<br/>بدمك غسلتني صرت لك وأنت لي</lines>
+      <lines>مررت بي ورأيتني بحبك غمرتني newline بدمك غسلتني صرت لك وأنت لي</lines>
     </verse>
     <verse name="c1">
-      <lines>أعبدك ياسيدي أسكب لك قلبي<br/>أقدم لك حبي</lines>
+      <lines>أعبدك ياسيدي أسكب لك قلبي newline أقدم لك حبي</lines>
     </verse>
     <verse name="v2a">
       <lines/>
     </verse>
     <verse name="v2b">
-      <lines>من الظلمة أخرجتني دربي أنت أنرت لي<br/>شددتني ورفعتني كأيامي راحتي</lines>
+      <lines>من الظلمة أخرجتني دربي أنت أنرت لي newline شددتني ورفعتني كأيامي راحتي</lines>
     </verse>
     <verse name="v2c">
-      <lines>من أجلي أنا صرت جسداً بل لعنة وخطية<br/>ليس حب أعظم من حبك يا يسوع</lines>
+      <lines>من أجلي أنا صرت جسداً بل لعنة وخطية newline ليس حب أعظم من حبك يا يسوع</lines>
     </verse>
     <verse name="v2d">
-      <lines>ثياب الخلاص ألبستني رداء البر كسوتني<br/>لي الحياة أفضل حياة ما أعظمك</lines>
+      <lines>ثياب الخلاص ألبستني رداء البر كسوتني newline لي الحياة أفضل حياة ما أعظمك</lines>
     </verse>
   </lyrics>
 </song>

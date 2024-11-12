@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I heard the bells on Christmas day,<br/>Their old familiar carols play;<br/>And wild and sweet the words repeat,<br/>Of peace on earth, good will to men.</lines>
+      <lines>I heard the bells on Christmas day, newline Their old familiar carols play; newline And wild and sweet the words repeat, newline Of peace on earth, good will to men.</lines>
     </verse>
     <verse name="v2">
-      <lines>I thought how as the day had come,<br/>The belfries of all Christendom;<br/>Had rolled along the unbroken song,<br/>Of peace on earth, good will to men.</lines>
+      <lines>I thought how as the day had come, newline The belfries of all Christendom; newline Had rolled along the unbroken song, newline Of peace on earth, good will to men.</lines>
     </verse>
     <verse name="v3">
-      <lines>And in despair I bowed my head,<br/>"There is no peace on earth," I said;<br/>"For hate is strong and mocks the song,<br/>Of peace on earth, good will to men."</lines>
+      <lines>And in despair I bowed my head, newline "There is no peace on earth," I said; newline "For hate is strong and mocks the song, newline Of peace on earth, good will to men."</lines>
     </verse>
     <verse name="v4">
-      <lines>Then pealed the bells more loud and deep,<br/>"God is not dead, nor doth He sleep;<br/>The wrong shall fail, the right prevail,<br/>With peace on earth, good will to men."</lines>
+      <lines>Then pealed the bells more loud and deep, newline "God is not dead, nor doth He sleep; newline The wrong shall fail, the right prevail, newline With peace on earth, good will to men."</lines>
     </verse>
     <verse name="v5">
-      <lines>Till ringing, singing on its way,<br/>The world revolved from night to day;<br/>A voice, a chime, a chant sublime<br/>Of peace on earth, good will to men.</lines>
+      <lines>Till ringing, singing on its way, newline The world revolved from night to day; newline A voice, a chime, a chant sublime newline Of peace on earth, good will to men.</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>ممجدٌ في وسطنا<br/>مرتفعٌ يا رأسنا<br/>مسبحٌ بيننا<br/>مباركٌ الرب إلهُنا</lines>
+      <lines>ممجدٌ في وسطنا newline مرتفعٌ يا رأسنا newline مسبحٌ بيننا newline مباركٌ الرب إلهُنا</lines>
     </verse>
   </lyrics>
 </song>

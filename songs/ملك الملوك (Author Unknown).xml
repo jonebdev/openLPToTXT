@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>ملك الملوك .. سيد الأسياد<br/>ليك السلطان وحدك .. رب العباد</lines>
+      <lines>ملك الملوك .. سيد الأسياد newline ليك السلطان وحدك .. رب العباد</lines>
     </verse>
     <verse name="v2">
-      <lines>كل القدرة ليك يا الله<br/>أنت الإله و عندك كل الحكمة</lines>
+      <lines>كل القدرة ليك يا الله newline أنت الإله و عندك كل الحكمة</lines>
     </verse>
     <verse name="v3">
-      <lines>و أنا ليه هخاف و أنت الإله<br/>كل الملوك في أيدك جدول مياة</lines>
+      <lines>و أنا ليه هخاف و أنت الإله newline كل الملوك في أيدك جدول مياة</lines>
     </verse>
     <verse name="v4">
-      <lines>أفكارك عجيبة .. عن فكري بعيدة<br/>لكن بإيماني مصدق فيها</lines>
+      <lines>أفكارك عجيبة .. عن فكري بعيدة newline لكن بإيماني مصدق فيها</lines>
     </verse>
     <verse name="v5">
-      <lines>وسط الأوجاع و في الأتعاب<br/>تديني نور و نصرة .. تفتح أبواب</lines>
+      <lines>وسط الأوجاع و في الأتعاب newline تديني نور و نصرة .. تفتح أبواب</lines>
     </verse>
   </lyrics>
 </song>

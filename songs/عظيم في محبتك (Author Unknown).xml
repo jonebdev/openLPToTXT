@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أنت عظيمٌ ... عظيمٌ<br/>عظيمٌ ... يا الله<br/>Anta atheemun, atheemun,<br/>atheemun ya allah</lines>
+      <lines>أنت عظيمٌ ... عظيمٌ newline عظيمٌ ... يا الله newline Anta atheemun, atheemun, newline atheemun ya allah</lines>
     </verse>
     <verse name="v2">
-      <lines>عظيمٌ ... في محبتِك<br/>عظيمٌ ... في أمانتِك<br/>Atheemun fee mahabatika<br/>atheemun fee amanatika</lines>
+      <lines>عظيمٌ ... في محبتِك newline عظيمٌ ... في أمانتِك newline Atheemun fee mahabatika newline atheemun fee amanatika</lines>
     </verse>
     <verse name="v3">
-      <lines>عظيمٌ ... في تحريرِك<br/>عظيمٌ ... أيضا في شفائِك<br/>Atheemun fee tahreerika<br/>Atheemun aythan fee shifa'ika</lines>
+      <lines>عظيمٌ ... في تحريرِك newline عظيمٌ ... أيضا في شفائِك newline Atheemun fee tahreerika newline Atheemun aythan fee shifa'ika</lines>
     </verse>
   </lyrics>
 </song>

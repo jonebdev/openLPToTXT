@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>والآن أسبح<br/> أعظم وأحمد ملك السماء<br/>أسبح ... أعظم ملك السماء<br/>Wall'ana usabihu u'athimu wa ahmadu malikal sama usabihu u'athimu malikal sama</lines>
+      <lines>والآن أسبح newline  أعظم وأحمد ملك السماء newline أسبح ... أعظم ملك السماء newline Wall'ana usabihu u'athimu wa ahmadu malikal sama usabihu u'athimu malikal sama</lines>
     </verse>
     <verse name="v1b">
-      <lines>الذي كل أعماله حق<br/>الذي كل طرقه عدل)2<br/>(allathy kullu a'malihy hakkun...allathy kullu turukihy adlun)2</lines>
+      <lines>الذي كل أعماله حق newline الذي كل طرقه عدل)2 newline (allathy kullu a'malihy hakkun...allathy kullu turukihy adlun)2</lines>
     </verse>
   </lyrics>
 </song>

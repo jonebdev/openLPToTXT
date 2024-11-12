@@ -10,25 +10,25 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>In Your Name, there is hope when all seems lost.<br/>There is freedom in the power of the cross.<br/>Let the world see</lines>
+      <lines>In Your Name, there is hope when all seems lost. newline There is freedom in the power of the cross. newline Let the world see</lines>
     </verse>
     <verse name="v2">
-      <lines>In Your Name, there is truth where logic fails<br/>Understanding that makes sense of our days<br/>You are worthy</lines>
+      <lines>In Your Name, there is truth where logic fails newline Understanding that makes sense of our days newline You are worthy</lines>
     </verse>
     <verse name="v3">
-      <lines>Hear the sound of all creation roar<br/>We're crying out as one for You are our God.<br/>Now show us the way of Your love<br/>And we will come running.</lines>
+      <lines>Hear the sound of all creation roar newline We're crying out as one for You are our God. newline Now show us the way of Your love newline And we will come running.</lines>
     </verse>
     <verse name="v4">
-      <lines>All for Jesus' Name, Your love displayed<br/>We are alive in the mystery<br/>All for sinners' gain, Your life You gave<br/>We'll sing Your praise for eternity.</lines>
+      <lines>All for Jesus' Name, Your love displayed newline We are alive in the mystery newline All for sinners' gain, Your life You gave newline We'll sing Your praise for eternity.</lines>
     </verse>
     <verse name="v5">
-      <lines>In Your Name, there is mercy without end<br/>Overtaking us now time and again<br/>Let the world see</lines>
+      <lines>In Your Name, there is mercy without end newline Overtaking us now time and again newline Let the world see</lines>
     </verse>
     <verse name="v6">
-      <lines>In Your Name, there is love that never fails<br/>And the promise that Your Word will prevail.<br/>You are worthy.</lines>
+      <lines>In Your Name, there is love that never fails newline And the promise that Your Word will prevail. newline You are worthy.</lines>
     </verse>
     <verse name="v7">
-      <lines>Hallelujah<br/>Hallelujah<br/>Hallelujah<br/>Great is Your Name, Great is Your Name.</lines>
+      <lines>Hallelujah newline Hallelujah newline Hallelujah newline Great is Your Name, Great is Your Name.</lines>
     </verse>
   </lyrics>
 </song>

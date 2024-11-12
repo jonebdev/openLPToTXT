@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="i1">
-      <lines>للجالس على العرش وللحمل<br/>إكرام<br/>للجالس على العرش وللحمل<br/>سلطان</lines>
+      <lines>للجالس على العرش وللحمل newline إكرام newline للجالس على العرش وللحمل newline سلطان</lines>
     </verse>
     <verse name="c1">
-      <lines>قدوس ..قدوس .. قدوس<br/>قدوس الرب</lines>
+      <lines>قدوس ..قدوس .. قدوس newline قدوس الرب</lines>
     </verse>
     <verse name="e1">
-      <lines>عيناك كلهيب نار<br/>جمرات نار متقدة<br/>ونهره نار</lines>
+      <lines>عيناك كلهيب نار newline جمرات نار متقدة newline ونهره نار</lines>
     </verse>
   </lyrics>
 </song>

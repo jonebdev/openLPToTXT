@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Open up the heavens<br/>And let Your Glory fall<br/>Open up our hearts<br/>That we would know You.</lines>
+      <lines>Open up the heavens newline And let Your Glory fall newline Open up our hearts newline That we would know You.</lines>
     </verse>
     <verse name="v2">
-      <lines>Open up the heavens<br/>And let Your glory fall<br/>Open up our hearts<br/>Open up our hearts</lines>
+      <lines>Open up the heavens newline And let Your glory fall newline Open up our hearts newline Open up our hearts</lines>
     </verse>
   </lyrics>
 </song>

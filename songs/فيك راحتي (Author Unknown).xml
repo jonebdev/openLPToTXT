@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>3(فيك راحتي<br/>يسوع انت راحتي</lines>
+      <lines>3(فيك راحتي newline يسوع انت راحتي</lines>
     </verse>
     <verse name="v2">
-      <lines>3(فيك شبعي<br/>يسوع انت شبعي</lines>
+      <lines>3(فيك شبعي newline يسوع انت شبعي</lines>
     </verse>
   </lyrics>
 </song>

@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Alas, and did my Savior bleed<br/>And did my Sovereign die?<br/>Would He devote that sacred head,<br/>For such a worm as I.</lines>
+      <lines>Alas, and did my Savior bleed newline And did my Sovereign die? newline Would He devote that sacred head, newline For such a worm as I.</lines>
     </verse>
     <verse name="v2">
-      <lines>Was it for crimes that I have done,<br/>He suffered on the tree?<br/>Amazing pity, grace unknown,<br/>And love beyond degree!</lines>
+      <lines>Was it for crimes that I have done, newline He suffered on the tree? newline Amazing pity, grace unknown, newline And love beyond degree!</lines>
     </verse>
     <verse name="v3">
-      <lines>Well might the sun in darkness hide<br/>And shut His glories in;<br/>When Christ the mighty Maker died<br/>For man, the creature's sin.</lines>
+      <lines>Well might the sun in darkness hide newline And shut His glories in; newline When Christ the mighty Maker died newline For man, the creature's sin.</lines>
     </verse>
     <verse name="v4">
-      <lines>Thus might I hide my blushing face<br/>While His dear cross appears;<br/>Dissolve my heart in thankfulness<br/>And melt mine eyes to tears.</lines>
+      <lines>Thus might I hide my blushing face newline While His dear cross appears; newline Dissolve my heart in thankfulness newline And melt mine eyes to tears.</lines>
     </verse>
     <verse name="v5">
-      <lines>But drops of grief can ne'er repay,<br/>The debt of love I owe;<br/>Here, Lord, I give myself away,<br/>'Tis all that I can do.</lines>
+      <lines>But drops of grief can ne'er repay, newline The debt of love I owe; newline Here, Lord, I give myself away, newline 'Tis all that I can do.</lines>
     </verse>
   </lyrics>
 </song>

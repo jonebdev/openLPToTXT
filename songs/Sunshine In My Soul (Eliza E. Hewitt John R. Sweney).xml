@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>O there's sunshine, blessed sunshine,<br/>When the peaceful happy moments roll.<br/>When Jesus shows His smiling face,<br/>There is sunshine in my soul.</lines>
+      <lines>O there's sunshine, blessed sunshine, newline When the peaceful happy moments roll. newline When Jesus shows His smiling face, newline There is sunshine in my soul.</lines>
     </verse>
     <verse name="v1">
-      <lines>There is sunshine in my soul today,<br/>More glorious and bright<br/>Than glows in any earthly sky,<br/>For Jesus is my light.</lines>
+      <lines>There is sunshine in my soul today, newline More glorious and bright newline Than glows in any earthly sky, newline For Jesus is my light.</lines>
     </verse>
     <verse name="v2">
-      <lines>There is music in my soul today,<br/>A carol to my King;<br/>And Jesus, listening can hear<br/>The songs I cannot sing.</lines>
+      <lines>There is music in my soul today, newline A carol to my King; newline And Jesus, listening can hear newline The songs I cannot sing.</lines>
     </verse>
     <verse name="v3">
-      <lines>There is springtime in my soul today,<br/>For when the Lord is near<br/>The dove of peace sings in my heart,<br/>The flow'rs of grace appear.</lines>
+      <lines>There is springtime in my soul today, newline For when the Lord is near newline The dove of peace sings in my heart, newline The flow'rs of grace appear.</lines>
     </verse>
     <verse name="v4">
-      <lines>There is gladness in my soul today,<br/>And hope and praise and love,<br/>For blessings which He gives me now,<br/>For joys "laid up" above.</lines>
+      <lines>There is gladness in my soul today, newline And hope and praise and love, newline For blessings which He gives me now, newline For joys "laid up" above.</lines>
     </verse>
   </lyrics>
 </song>

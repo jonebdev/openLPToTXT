@@ -13,13 +13,13 @@
       <lines/>
     </verse>
     <verse name="c1b">
-      <lines>خذ ملكك على عرش قلبنا<br/>خذ ملكك ولتكن لك السيادة 2</lines>
+      <lines>خذ ملكك على عرش قلبنا newline خذ ملكك ولتكن لك السيادة 2</lines>
     </verse>
     <verse name="v1a">
       <lines>تشتاق نفسى لك ربى فى ارضا يابسة بلا ماء 2</lines>
     </verse>
     <verse name="v1b">
-      <lines>زيد زيد وحدك يا يسوع<br/>زيد زيد ينبغي أنك تزيد<br/> ينبغي أنك تزيد ينبغي أنك تزيد</lines>
+      <lines>زيد زيد وحدك يا يسوع newline زيد زيد ينبغي أنك تزيد newline  ينبغي أنك تزيد ينبغي أنك تزيد</lines>
     </verse>
   </lyrics>
 </song>

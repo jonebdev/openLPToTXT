@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>أرفعُ اسمَ الفادي<br/>ملك حياتي يسوع<br/>Arfa' usmal fadee<br/>Malik hayaty yasoo'</lines>
+      <lines>أرفعُ اسمَ الفادي newline ملك حياتي يسوع newline Arfa' usmal fadee newline Malik hayaty yasoo'</lines>
     </verse>
     <verse name="v1b">
-      <lines>مليكُ المجد وسيدُ الشعوب<br/>2(رئيس خلاصي)<br/>Maleekul majd wa sayid il shu'ub, (ra'is khalasy)2</lines>
+      <lines>مليكُ المجد وسيدُ الشعوب newline 2(رئيس خلاصي) newline Maleekul majd wa sayid il shu'ub, (ra'is khalasy)2</lines>
     </verse>
     <verse name="v1c">
-      <lines>مليكُ المجد وسيدُ الشعوب<br/>رئيس إيماني للأبد<br/>Maleek ul majd wa sayid il shu'ub, ra'is emany lilabad</lines>
+      <lines>مليكُ المجد وسيدُ الشعوب newline رئيس إيماني للأبد newline Maleek ul majd wa sayid il shu'ub, ra'is emany lilabad</lines>
     </verse>
   </lyrics>
 </song>

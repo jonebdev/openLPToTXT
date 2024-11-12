@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>ان اسمه يسوع<br/>اسمه يسوع مبهج القلوب</lines>
+      <lines>ان اسمه يسوع newline اسمه يسوع مبهج القلوب</lines>
     </verse>
     <verse name="v2">
       <lines>يعتق كل أسير ويشفي القلب الكسير بل ويهدي التائهين في المسير</lines>
     </verse>
     <verse name="v3">
-      <lines>إن اسمك يسوع<br/>اسمك يسوع مبهج القلوب</lines>
+      <lines>إن اسمك يسوع newline اسمك يسوع مبهج القلوب</lines>
     </verse>
     <verse name="v4">
       <lines>تعتق كل أسير وتشفي القلب الكسير بل وتهدي التائهين في المسير</lines>

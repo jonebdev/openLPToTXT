@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>O star of wonder, star of night,<br/>Star with royal beauty bright;<br/>Westward leading, still proceeding,<br/>Guide us to Thy perfect light.</lines>
+      <lines>O star of wonder, star of night, newline Star with royal beauty bright; newline Westward leading, still proceeding, newline Guide us to Thy perfect light.</lines>
     </verse>
     <verse name="v1">
-      <lines>We three kings of Orient are,<br/>Bearing gifts we traverse afar;<br/>Field and fountain moor and mountain,<br/>Following yonder star.</lines>
+      <lines>We three kings of Orient are, newline Bearing gifts we traverse afar; newline Field and fountain moor and mountain, newline Following yonder star.</lines>
     </verse>
     <verse name="v2">
-      <lines>Born a King on Bethlehem's plain,<br/>Gold I bring to crown Him again;<br/>King forever, ceasing never,<br/>Over us all to reign.</lines>
+      <lines>Born a King on Bethlehem's plain, newline Gold I bring to crown Him again; newline King forever, ceasing never, newline Over us all to reign.</lines>
     </verse>
     <verse name="v3">
-      <lines>Frankincense to offer have I,<br/>Incense owns a Deity nigh;<br/>Prayer and praising, all men raising,<br/>Worship Him, God on high.</lines>
+      <lines>Frankincense to offer have I, newline Incense owns a Deity nigh; newline Prayer and praising, all men raising, newline Worship Him, God on high.</lines>
     </verse>
     <verse name="v4">
-      <lines>Myrrh is mine, its bitter perfume,<br/>Breathes a life of gathering gloom;<br/>Sorrowing, sighing, bleeding, dying,<br/>Sealed in the stone cold tomb.</lines>
+      <lines>Myrrh is mine, its bitter perfume, newline Breathes a life of gathering gloom; newline Sorrowing, sighing, bleeding, dying, newline Sealed in the stone cold tomb.</lines>
     </verse>
     <verse name="v5">
-      <lines>Glorious now behold Him arise,<br/>King and God and sacrifice;<br/>Alleluia, alleluia!<br/>Earth to heav'n replies.</lines>
+      <lines>Glorious now behold Him arise, newline King and God and sacrifice; newline Alleluia, alleluia! newline Earth to heav'n replies.</lines>
     </verse>
   </lyrics>
 </song>

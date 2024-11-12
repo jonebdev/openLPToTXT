@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>نقوم ونهتف بأسمك<br/>ربا سيدا غالبا قدير 2<br/>نسبح نهتف أمامك 3<br/>يا ملك الملوك</lines>
+      <lines>نقوم ونهتف بأسمك newline ربا سيدا غالبا قدير 2 newline نسبح نهتف أمامك 3 newline يا ملك الملوك</lines>
     </verse>
   </lyrics>
 </song>

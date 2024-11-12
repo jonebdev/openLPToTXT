@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>رحمتك افضل من الحياة<br/>رحمتك افضل من الحياة<br/>شفتاي تسبحانك<br/>رحمتك افضل من الحياة</lines>
+      <lines>رحمتك افضل من الحياة newline رحمتك افضل من الحياة newline شفتاي تسبحانك newline رحمتك افضل من الحياة</lines>
     </verse>
     <verse name="v2">
-      <lines>أرفع يداي بأسمك<br/>أرفع يداي بأسمك<br/>شفتاي تسبحانك<br/>رحمتك افضل من الحياة</lines>
+      <lines>أرفع يداي بأسمك newline أرفع يداي بأسمك newline شفتاي تسبحانك newline رحمتك افضل من الحياة</lines>
     </verse>
   </lyrics>
 </song>

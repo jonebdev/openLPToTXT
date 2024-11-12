@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="v2">
-      <lines>O Christmas tree O Christmas tree,<br/>You stand in verdant beauty.<br/>O Christmas tree O Christmas tree,<br/>You stand in verdant beauty.<br/>Your boughs are green in summer's glow,<br/>And do not fade in winter's snow.<br/>O Christmas tree O Christmas tree,<br/>You stand in verdant beauty.</lines>
+      <lines>O Christmas tree O Christmas tree, newline You stand in verdant beauty. newline O Christmas tree O Christmas tree, newline You stand in verdant beauty. newline Your boughs are green in summer's glow, newline And do not fade in winter's snow. newline O Christmas tree O Christmas tree, newline You stand in verdant beauty.</lines>
     </verse>
     <verse name="v3">
-      <lines>O Christmas tree, O Christmas tree,<br/>Thy leaves are so unchanging,<br/>O Christmas tree, O Christmas tree,<br/>Thy leaves are so unchanging;<br/>Not only green when summer's here,<br/>But also when 'tis cold and drear.<br/>O Christmas tree, O Christmas tree,<br/>Thy leaves are so unchanging!</lines>
+      <lines>O Christmas tree, O Christmas tree, newline Thy leaves are so unchanging, newline O Christmas tree, O Christmas tree, newline Thy leaves are so unchanging; newline Not only green when summer's here, newline But also when 'tis cold and drear. newline O Christmas tree, O Christmas tree, newline Thy leaves are so unchanging!</lines>
     </verse>
     <verse name="v4">
-      <lines>O Christmas tree, O Christmas tree,<br/>Thy candles shine so brightly,<br/>O Christmas tree, O Christmas tree,<br/>Thy candles shine so brightly!</lines>
+      <lines>O Christmas tree, O Christmas tree, newline Thy candles shine so brightly, newline O Christmas tree, O Christmas tree, newline Thy candles shine so brightly!</lines>
     </verse>
     <verse name="v5">
-      <lines>O Christmas Tree, O Christmas Tree,<br/>You bear a wondrous message!<br/>O Christmas Tree, O Christmas Tree,<br/>You bear a wondrous message!<br/>You do proclaim the Savior's birth,<br/>Good will to men and peace on earth.<br/>O Christmas Tree, O Christmas Tree,<br/>You bear a wondrous message!</lines>
+      <lines>O Christmas Tree, O Christmas Tree, newline You bear a wondrous message! newline O Christmas Tree, O Christmas Tree, newline You bear a wondrous message! newline You do proclaim the Savior's birth, newline Good will to men and peace on earth. newline O Christmas Tree, O Christmas Tree, newline You bear a wondrous message!</lines>
     </verse>
     <verse name="v6">
-      <lines>O Christmas Tree, O Christmas tree,<br/>Of all the trees most lovely;<br/>O Christmas tree, O Christmas tree,<br/>Of all the trees most lovely;<br/>Each year you bring to me delight<br/>Gleaming in the Christmas night.<br/>O christmas tree, O Christmas tree,<br/>Of all the trees most lovely.</lines>
+      <lines>O Christmas Tree, O Christmas tree, newline Of all the trees most lovely; newline O Christmas tree, O Christmas tree, newline Of all the trees most lovely; newline Each year you bring to me delight newline Gleaming in the Christmas night. newline O christmas tree, O Christmas tree, newline Of all the trees most lovely.</lines>
     </verse>
     <verse name="v7">
-      <lines>O Christmas tree, O Christmas tree,<br/>Your leaves will teach me also,<br/>O Christmas tree, O Christmas tree,<br/>Your leaves will teach me also<br/>That hope and love and faithfulness<br/>Are precious things I can possess.<br/>O Christmas tree, O Christmas tree,<br/>Your leaves will teach me also.</lines>
+      <lines>O Christmas tree, O Christmas tree, newline Your leaves will teach me also, newline O Christmas tree, O Christmas tree, newline Your leaves will teach me also newline That hope and love and faithfulness newline Are precious things I can possess. newline O Christmas tree, O Christmas tree, newline Your leaves will teach me also.</lines>
     </verse>
   </lyrics>
 </song>

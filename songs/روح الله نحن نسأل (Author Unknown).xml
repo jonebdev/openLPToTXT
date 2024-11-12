@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>روح الله نحن نسأل<br/>امتلكنا الآن<br/>حررن قيد النفوس<br/>وارفع الأحزان</lines>
+      <lines>روح الله نحن نسأل newline امتلكنا الآن newline حررن قيد النفوس newline وارفع الأحزان</lines>
     </verse>
     <verse name="c1">
-      <lines>فيض فينا الآن <br/>فيض فينا الآن<br/>فيض فينا الآن <br/>(فينا الآن يا روح الله (2</lines>
+      <lines>فيض فينا الآن  newline فيض فينا الآن newline فيض فينا الآن  newline (فينا الآن يا روح الله (2</lines>
     </verse>
     <verse name="v2">
-      <lines>روح الله نحن نطلب<br/>قوة الإيمان<br/>قوة تنقل الجبال<br/>تطرد الشيطان</lines>
+      <lines>روح الله نحن نطلب newline قوة الإيمان newline قوة تنقل الجبال newline تطرد الشيطان</lines>
     </verse>
   </lyrics>
 </song>

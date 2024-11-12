@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Blessed be the name,<br/>Blessed be the name,<br/>Blessed be the name of the Lord;<br/>Blessed be the name,<br/>Blessed be the name,<br/>Blessed be the name of the Lord.</lines>
+      <lines>Blessed be the name, newline Blessed be the name, newline Blessed be the name of the Lord; newline Blessed be the name, newline Blessed be the name, newline Blessed be the name of the Lord.</lines>
     </verse>
     <verse name="v1">
-      <lines>All praise to Him who reigns above,<br/>In majesty supreme<br/>Who gave His Son for man to die,<br/>That He might man redeem!</lines>
+      <lines>All praise to Him who reigns above, newline In majesty supreme newline Who gave His Son for man to die, newline That He might man redeem!</lines>
     </verse>
     <verse name="v2">
-      <lines>His name above all names shall stand,<br/>Exalted more and more,<br/>At God the Father's own right hand,<br/>Where angel hosts adore.</lines>
+      <lines>His name above all names shall stand, newline Exalted more and more, newline At God the Father's own right hand, newline Where angel hosts adore.</lines>
     </verse>
     <verse name="v3">
-      <lines>Redeemer, Savior, Friend of man,<br/>Once ruined by the fall,<br/>Thou hast devised salvation's plan,<br/>For Thou hast died for all.</lines>
+      <lines>Redeemer, Savior, Friend of man, newline Once ruined by the fall, newline Thou hast devised salvation's plan, newline For Thou hast died for all.</lines>
     </verse>
     <verse name="v4">
-      <lines>His name shall be the Counselor,<br/>The mighty Prince of Peace,<br/>Of all earth's kingdoms Conqueror,<br/>Whose reign shall never cease.</lines>
+      <lines>His name shall be the Counselor, newline The mighty Prince of Peace, newline Of all earth's kingdoms Conqueror, newline Whose reign shall never cease.</lines>
     </verse>
   </lyrics>
 </song>

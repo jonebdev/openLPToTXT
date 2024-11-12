@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>It is glory, just to walk with Him.<br/>It is glory, just to walk with Him.<br/>He will guide my steps aright,<br/>Thro' the vale and o'er the height.<br/>It is glory, just to walk with Him.</lines>
+      <lines>It is glory, just to walk with Him. newline It is glory, just to walk with Him. newline He will guide my steps aright, newline Thro' the vale and o'er the height. newline It is glory, just to walk with Him.</lines>
     </verse>
     <verse name="v1">
-      <lines>It is glory, just to walk with Him,<br/>Whose blood has ransomed me.<br/>It is rapture for my soul each day,<br/>It is joy divine to feel,<br/>To feel Him near.<br/>Where'er my path may be,<br/>Bless the Lord,<br/>It's glory all the way.</lines>
+      <lines>It is glory, just to walk with Him, newline Whose blood has ransomed me. newline It is rapture for my soul each day, newline It is joy divine to feel, newline To feel Him near. newline Where'er my path may be, newline Bless the Lord, newline It's glory all the way.</lines>
     </verse>
     <verse name="v2">
-      <lines>It is glory when the shadows fall,<br/>To know that He is near.<br/>Oh what joy to simply trust and pray,<br/>It is glory to abide in Him.<br/>When skies above are clear,<br/>Yes, with Him it's glory all the way.</lines>
+      <lines>It is glory when the shadows fall, newline To know that He is near. newline Oh what joy to simply trust and pray, newline It is glory to abide in Him. newline When skies above are clear, newline Yes, with Him it's glory all the way.</lines>
     </verse>
     <verse name="v3">
-      <lines>'Twill be glory when I walk,<br/>With Him on heaven's golden shore.<br/>Never from His side again to stray,<br/>'Twill be glory, wondrous glory,<br/>With the Savior evermore,<br/>Everlasting glory all the way.</lines>
+      <lines>'Twill be glory when I walk, newline With Him on heaven's golden shore. newline Never from His side again to stray, newline 'Twill be glory, wondrous glory, newline With the Savior evermore, newline Everlasting glory all the way.</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>قدوس ... قدوس ... قدوس<br/>(رب الجنود(2<br/>(Kudoos kudoos kudoos rabbul junood)2</lines>
+      <lines>قدوس ... قدوس ... قدوس newline (رب الجنود(2 newline (Kudoos kudoos kudoos rabbul junood)2</lines>
     </verse>
     <verse name="v1b">
-      <lines>مجدك ملء كل الأرض3) قدوس الرب)<br/>(Majduka mil'oo kullil ardy)3 kudoosun irrab</lines>
+      <lines>مجدك ملء كل الأرض3) قدوس الرب) newline (Majduka mil'oo kullil ardy)3 kudoosun irrab</lines>
     </verse>
     <verse name="v1c">
-      <lines>( نارك تشعل كل الارض(3<br/>قدوس للرب</lines>
+      <lines>( نارك تشعل كل الارض(3 newline قدوس للرب</lines>
     </verse>
   </lyrics>
 </song>

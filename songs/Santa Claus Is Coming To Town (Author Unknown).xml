@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>You better watch out<br/>You better not cry<br/>Better not pout<br/>I'm telling you why<br/>Santa Claus is coming to town</lines>
+      <lines>You better watch out newline You better not cry newline Better not pout newline I'm telling you why newline Santa Claus is coming to town</lines>
     </verse>
     <verse name="v2">
-      <lines>He's making a list,<br/>And checking it twice;<br/>Gonna find out Who's naughty and nice.<br/>Santa Claus is coming to town</lines>
+      <lines>He's making a list, newline And checking it twice; newline Gonna find out Who's naughty and nice. newline Santa Claus is coming to town</lines>
     </verse>
     <verse name="v3">
-      <lines>He sees you when you're sleeping<br/>He knows when you're awake<br/>He knows if you've been bad or good<br/>So be good for goodness sake!</lines>
+      <lines>He sees you when you're sleeping newline He knows when you're awake newline He knows if you've been bad or good newline So be good for goodness sake!</lines>
     </verse>
     <verse name="v4">
-      <lines>O! You better watch out!<br/>You better not cry.<br/>Better not pout, I'm telling you why.<br/>Santa Claus is coming to town.<br/>Santa Claus is coming to town.</lines>
+      <lines>O! You better watch out! newline You better not cry. newline Better not pout, I'm telling you why. newline Santa Claus is coming to town. newline Santa Claus is coming to town.</lines>
     </verse>
   </lyrics>
 </song>

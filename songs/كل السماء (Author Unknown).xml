@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>كل السماء<br/>تعلن مجد يسوع<br/>من يشبهك<br/>أنت أبرع جمال<br/>Kulla issama tu'linu majda yasoo'<br/>Man yushbihak anta abra'u jamal</lines>
+      <lines>كل السماء newline تعلن مجد يسوع newline من يشبهك newline أنت أبرع جمال newline Kulla issama tu'linu majda yasoo' newline Man yushbihak anta abra'u jamal</lines>
     </verse>
     <verse name="c1">
-      <lines>اسجد في خشوع<br/>لك يا يسوع<br/>للأبد تكون ملك يسود<br/>Asjudu fee khushu' laka ya yasoo'<br/>Lilabady takoon malikun yasood</lines>
+      <lines>اسجد في خشوع newline لك يا يسوع newline للأبد تكون ملك يسود newline Asjudu fee khushu' laka ya yasoo' newline Lilabady takoon malikun yasood</lines>
     </verse>
     <verse name="v2">
-      <lines>كل الحياة<br/>ستعلن مجد الحمل<br/>من ارتضى<br/>أن يذبح لأجلنا<br/>Kullal haya satu'linu majdal hamal<br/>Man irtada an yuthbaha liajlina</lines>
+      <lines>كل الحياة newline ستعلن مجد الحمل newline من ارتضى newline أن يذبح لأجلنا newline Kullal haya satu'linu majdal hamal newline Man irtada an yuthbaha liajlina</lines>
     </verse>
     <verse name="v3">
-      <lines>كل الكيان<br/>امتلأ حبا لك<br/>والقلب فاض<br/>فرحا بشخصك<br/>Kullal kayan imtala'a hubban laka<br/>Walkalba fad farahan bishakhsika</lines>
+      <lines>كل الكيان newline امتلأ حبا لك newline والقلب فاض newline فرحا بشخصك newline Kullal kayan imtala'a hubban laka newline Walkalba fad farahan bishakhsika</lines>
     </verse>
   </lyrics>
 </song>

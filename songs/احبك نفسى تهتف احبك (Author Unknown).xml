@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أحبك<br/>نفسي<br/>تهتف أحبك<br/>روحي تفرح بشخصك<br/>ربي انني لك</lines>
+      <lines>أحبك newline نفسي newline تهتف أحبك newline روحي تفرح بشخصك newline ربي انني لك</lines>
     </verse>
     <verse name="v2">
-      <lines>يا صخرتي<br/>فيك وحدك حمايتي<br/>شخصك ترسي وملجأي<br/>يدك تحيط بي</lines>
+      <lines>يا صخرتي newline فيك وحدك حمايتي newline شخصك ترسي وملجأي newline يدك تحيط بي</lines>
     </verse>
   </lyrics>
 </song>

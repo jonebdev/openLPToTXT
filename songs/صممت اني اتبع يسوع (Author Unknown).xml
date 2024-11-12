@@ -10,22 +10,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>صممت آني أتبع يسوع 3<br/>أتبع يسوع بلا رجوع</lines>
+      <lines>صممت آني أتبع يسوع 3 newline أتبع يسوع بلا رجوع</lines>
     </verse>
     <verse name="v2">
-      <lines>ولو خسرت كل أموالي 3<br/>أتبع يسوع بلا رجوع</lines>
+      <lines>ولو خسرت كل أموالي 3 newline أتبع يسوع بلا رجوع</lines>
     </verse>
     <verse name="v3">
-      <lines>ولو تركني أهلي وخلاني<br/>أتبع يسوع بلا رجوع</lines>
+      <lines>ولو تركني أهلي وخلاني newline أتبع يسوع بلا رجوع</lines>
     </verse>
     <verse name="v4">
-      <lines>ولو قادوني حتي للموت 3<br/>أتبع يسوع بلا رجوع</lines>
+      <lines>ولو قادوني حتي للموت 3 newline أتبع يسوع بلا رجوع</lines>
     </verse>
     <verse name="v5">
-      <lines>الرب نوري وهو رجائي 3<br/>أحيا له إلي الأبد</lines>
+      <lines>الرب نوري وهو رجائي 3 newline أحيا له إلي الأبد</lines>
     </verse>
     <verse name="v6">
-      <lines>الرب خلي والسماء داري 3<br/>أسكن هناك إلي الأبد</lines>
+      <lines>الرب خلي والسماء داري 3 newline أسكن هناك إلي الأبد</lines>
     </verse>
   </lyrics>
 </song>

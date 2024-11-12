@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>علمني يا رب طرقك<br/>عرفني يا رب سبلَك<br/>دربني فى حقِك وعلمني<br/>يا رب ... علمني</lines>
+      <lines>علمني يا رب طرقك newline عرفني يا رب سبلَك newline دربني فى حقِك وعلمني newline يا رب ... علمني</lines>
     </verse>
     <verse name="v1b">
-      <lines>علمني طرقَك عرفني سبلَك<br/>دربني في حقِك ... وعلمني يا رب</lines>
+      <lines>علمني طرقَك عرفني سبلَك newline دربني في حقِك ... وعلمني يا رب</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>ياعجباً مخلصي قد مات من أجلي<br/>وسفك الدم الكريم فدي لخاطئ مثلي</lines>
+      <lines>ياعجباً مخلصي قد مات من أجلي newline وسفك الدم الكريم فدي لخاطئ مثلي</lines>
     </verse>
     <verse name="v2">
-      <lines>أحبني ربي نعم أحبني<br/>يسوع قد أحبني لذا مات عني<br/>يسوع قد أحبني ربي يسوع</lines>
+      <lines>أحبني ربي نعم أحبني newline يسوع قد أحبني لذا مات عني newline يسوع قد أحبني ربي يسوع</lines>
     </verse>
   </lyrics>
 </song>

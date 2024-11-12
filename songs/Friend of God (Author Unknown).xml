@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Who am I You are mindful of me<br/>That You hear me when I call<br/>Is it true that you are thinking of me<br/>How Youlove me<br/>It's amazing</lines>
+      <lines>Who am I You are mindful of me newline That You hear me when I call newline Is it true that you are thinking of me newline How Youlove me newline It's amazing</lines>
     </verse>
     <verse name="v2">
-      <lines>I am a friend of God<br/>I am a friend of God<br/>I am a friend of God<br/>He calls me friend</lines>
+      <lines>I am a friend of God newline I am a friend of God newline I am a friend of God newline He calls me friend</lines>
     </verse>
     <verse name="v3">
-      <lines>God Almighty<br/>Lord of Glory<br/>You have called me friend (2x)</lines>
+      <lines>God Almighty newline Lord of Glory newline You have called me friend (2x)</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Draw me Close to you,<br/>Never let me go,<br/>I'll lay it all down again<br/>To hear you say that I'm your friend.</lines>
+      <lines>Draw me Close to you, newline Never let me go, newline I'll lay it all down again newline To hear you say that I'm your friend.</lines>
     </verse>
     <verse name="v2">
-      <lines>You are my desire,<br/>No one else will do<br/>Cause no one else could take your place<br/>I feel the warmth of your embrace<br/>Help me find the way<br/>Lead me back to you..</lines>
+      <lines>You are my desire, newline No one else will do newline Cause no one else could take your place newline I feel the warmth of your embrace newline Help me find the way newline Lead me back to you..</lines>
     </verse>
     <verse name="v3">
-      <lines>You're all I want<br/>You're all I've ever needed<br/>You're all I want<br/>Help me know that You are never</lines>
+      <lines>You're all I want newline You're all I've ever needed newline You're all I want newline Help me know that You are never</lines>
     </verse>
   </lyrics>
 </song>

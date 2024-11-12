@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>قد ارتفعت سيدي فوق الكلِ<br/>ليس فيك أيُّ ظلام</lines>
+      <lines>قد ارتفعت سيدي فوق الكلِ newline ليس فيك أيُّ ظلام</lines>
     </verse>
     <verse name="v2a">
-      <lines>من يجرؤ أن يقف أمامك<br/>أنت قدوس نار آكلة<br/>لكن بثقه بدم يسوع اقترب</lines>
+      <lines>من يجرؤ أن يقف أمامك newline أنت قدوس نار آكلة newline لكن بثقه بدم يسوع اقترب</lines>
     </verse>
     <verse name="c1a">
       <lines/>
     </verse>
     <verse name="c1b">
-      <lines>أرفع ذبيحة حمدي لملكي)<br/>من مثلك عظيم في خلاصه<br/>أقدم لك كل عبادتي<br/>أرفع ذبيحتي لملكي)2</lines>
+      <lines>أرفع ذبيحة حمدي لملكي) newline من مثلك عظيم في خلاصه newline أقدم لك كل عبادتي newline أرفع ذبيحتي لملكي)2</lines>
     </verse>
     <verse name="v2b">
-      <lines>ما أعظم ان أدخل بجرأة<br/>لعرشك بلا دينونة</lines>
+      <lines>ما أعظم ان أدخل بجرأة newline لعرشك بلا دينونة</lines>
     </verse>
     <verse name="v2c">
-      <lines>صار دوما لي عرشا للنعمة<br/>أجد فيه عونا في حينه<br/>لأني بثقة بدم يسوع اقترب</lines>
+      <lines>صار دوما لي عرشا للنعمة newline أجد فيه عونا في حينه newline لأني بثقة بدم يسوع اقترب</lines>
     </verse>
   </lyrics>
 </song>

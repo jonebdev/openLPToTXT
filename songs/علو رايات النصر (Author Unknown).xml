@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>علو رايات النصر هللويا<br/>غنوا بمجد الإله<br/>قد قام غالبا هللويا<br/>سحق الأعداء</lines>
+      <lines>علو رايات النصر هللويا newline غنوا بمجد الإله newline قد قام غالبا هللويا newline سحق الأعداء</lines>
     </verse>
     <verse name="v2">
-      <lines>علوا رايات النصر هللويا<br/>غنوا بمجد الإله<br/>يسوع برُنا هللويا<br/>فدانا بدماه</lines>
+      <lines>علوا رايات النصر هللويا newline غنوا بمجد الإله newline يسوع برُنا هللويا newline فدانا بدماه</lines>
     </verse>
   </lyrics>
 </song>

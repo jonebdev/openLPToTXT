@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>الرب يسوع في وسطنا<br/>اهتفوا بنصرته</lines>
+      <lines>الرب يسوع في وسطنا newline اهتفوا بنصرته</lines>
     </verse>
     <verse name="v2">
-      <lines>الرب يسوع في وسطنا<br/>ليحرر شعبه</lines>
+      <lines>الرب يسوع في وسطنا newline ليحرر شعبه</lines>
     </verse>
     <verse name="v3">
-      <lines>حول نوحنا الي رقص بدل حزننا الي فرح<br/>واضاء علينا بمجده لنصير نور للعالم</lines>
+      <lines>حول نوحنا الي رقص بدل حزننا الي فرح newline واضاء علينا بمجده لنصير نور للعالم</lines>
     </verse>
   </lyrics>
 </song>

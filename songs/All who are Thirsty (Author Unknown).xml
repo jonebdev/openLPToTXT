@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>All who are thirsty<br/>All who are weak<br/>Come to the fountain<br/>Dip your heart in the Stream of Life.</lines>
+      <lines>All who are thirsty newline All who are weak newline Come to the fountain newline Dip your heart in the Stream of Life.</lines>
     </verse>
     <verse name="v2">
-      <lines>Let the pain and the sorrow,<br/>Be washed away,<br/>In the waves of His mercy<br/>As deep cries out to deep...</lines>
+      <lines>Let the pain and the sorrow, newline Be washed away, newline In the waves of His mercy newline As deep cries out to deep...</lines>
     </verse>
     <verse name="v3">
-      <lines>Come, Lord Jesus, Come,<br/>Come, Lord Jesus, Come,<br/>Come, Lord Jesus, Come,<br/>Come, Lord Jesus, Come,</lines>
+      <lines>Come, Lord Jesus, Come, newline Come, Lord Jesus, Come, newline Come, Lord Jesus, Come, newline Come, Lord Jesus, Come,</lines>
     </verse>
     <verse name="v4">
-      <lines>Holy Spirit, Come.<br/>Holy Spirit, Come<br/>Holy Spirit, Come<br/>Holy Spirit, Come</lines>
+      <lines>Holy Spirit, Come. newline Holy Spirit, Come newline Holy Spirit, Come newline Holy Spirit, Come</lines>
     </verse>
     <verse name="v5">
-      <lines>As deep cries out to deep.<br/>As deep cries out to deep.<br/>As deep cries out to deep. (we sing...)</lines>
+      <lines>As deep cries out to deep. newline As deep cries out to deep. newline As deep cries out to deep. (we sing...)</lines>
     </verse>
   </lyrics>
 </song>

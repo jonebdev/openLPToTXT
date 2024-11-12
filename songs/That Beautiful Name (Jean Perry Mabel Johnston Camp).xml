@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>That beautiful name! That beautiful name<br/>From sin has power to free us!<br/>That beautiful name! That wonderful name!<br/>That matchless name is Jesus.</lines>
+      <lines>That beautiful name! That beautiful name newline From sin has power to free us! newline That beautiful name! That wonderful name! newline That matchless name is Jesus.</lines>
     </verse>
     <verse name="v1">
-      <lines>I know of a name, a beautiful name<br/>That angels brought down to earth.<br/>They whispered it low,<br/>One night long ago<br/>To a maiden of lowly birth.</lines>
+      <lines>I know of a name, a beautiful name newline That angels brought down to earth. newline They whispered it low, newline One night long ago newline To a maiden of lowly birth.</lines>
     </verse>
     <verse name="v2">
-      <lines>I know of a name, a beautiful name<br/>That unto a babe was given.<br/>The stars glittered bright<br/>Throughout that glad nigh,<br/>And angels praised God in heaven.</lines>
+      <lines>I know of a name, a beautiful name newline That unto a babe was given. newline The stars glittered bright newline Throughout that glad nigh, newline And angels praised God in heaven.</lines>
     </verse>
     <verse name="v3">
-      <lines>The One of that name, my Savior became<br/>My Savior of Calvary.<br/>My sins nailed Him there,<br/>My burdens He bare.</lines>
+      <lines>The One of that name, my Savior became newline My Savior of Calvary. newline My sins nailed Him there, newline My burdens He bare.</lines>
     </verse>
     <verse name="v4">
-      <lines>I love that blest name<br/>Made higher than all in heaven.<br/>'Twas whispered, I know,<br/>In my heart long ago.<br/>To Jesus my life I've given.</lines>
+      <lines>I love that blest name newline Made higher than all in heaven. newline 'Twas whispered, I know, newline In my heart long ago. newline To Jesus my life I've given.</lines>
     </verse>
   </lyrics>
 </song>

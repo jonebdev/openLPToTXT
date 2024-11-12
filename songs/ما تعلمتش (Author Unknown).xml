@@ -10,25 +10,25 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>ماتعلمتش أعيش وأنا خايف<br/>ولا أعدد جراحاتي<br/> لا لا</lines>
+      <lines>ماتعلمتش أعيش وأنا خايف newline ولا أعدد جراحاتي newline  لا لا</lines>
     </verse>
     <verse name="v1b">
-      <lines>ماأتعلمتش أواجه عاصف<br/>وأناطاوي جناحاتي<br/>لا لا لا</lines>
+      <lines>ماأتعلمتش أواجه عاصف newline وأناطاوي جناحاتي newline لا لا لا</lines>
     </verse>
     <verse name="c1">
-      <lines>أنا ساكن في حصون الصخر ولي جناح النسر<br/>أنا مصنوع من صخر يسوع الغير قابل للكسر</lines>
+      <lines>أنا ساكن في حصون الصخر ولي جناح النسر newline أنا مصنوع من صخر يسوع الغير قابل للكسر</lines>
     </verse>
     <verse name="v2a">
-      <lines>ماتعلمتش أخلي عدوي يشفني بدون تسبيح<br/> لا لا</lines>
+      <lines>ماتعلمتش أخلي عدوي يشفني بدون تسبيح newline  لا لا</lines>
     </verse>
     <verse name="v2b">
-      <lines>أو بكآبه قلب أغني كأني بدون مسيح<br/>لا لا لا</lines>
+      <lines>أو بكآبه قلب أغني كأني بدون مسيح newline لا لا لا</lines>
     </verse>
     <verse name="v3a">
-      <lines>ماتعلمتش أخلي دموعى تحوش عن عينى رؤايا<br/> لا لا</lines>
+      <lines>ماتعلمتش أخلي دموعى تحوش عن عينى رؤايا newline  لا لا</lines>
     </verse>
     <verse name="v3b">
-      <lines>أو راح اوقف مرة طلوعى بأنى ابص ورايا <br/>لا لا لا</lines>
+      <lines>أو راح اوقف مرة طلوعى بأنى ابص ورايا  newline لا لا لا</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Rejoice in the Lord Always<br/>And I again I say and again I say<br/>Rejoice in the lord always,<br/>And again I say and again I say rejoice,</lines>
+      <lines>Rejoice in the Lord Always newline And I again I say and again I say newline Rejoice in the lord always, newline And again I say and again I say rejoice,</lines>
     </verse>
     <verse name="v2">
-      <lines>Come bless the Lord<br/>Come bless the Lord<br/>Draw near to worship Christ the Lord,<br/>And Bless his name, his holy name,<br/>Declaring he is good,</lines>
+      <lines>Come bless the Lord newline Come bless the Lord newline Draw near to worship Christ the Lord, newline And Bless his name, his holy name, newline Declaring he is good,</lines>
     </verse>
     <verse name="v3">
-      <lines>O that men would praise him,<br/>O that men would praise him,</lines>
+      <lines>O that men would praise him, newline O that men would praise him,</lines>
     </verse>
     <verse name="v4">
-      <lines>O that men would praise his name,<br/>Praise his name to the ends of the earth,<br/>O that men would praise his name,<br/>Praise his name to the ends of the earth,</lines>
+      <lines>O that men would praise his name, newline Praise his name to the ends of the earth, newline O that men would praise his name, newline Praise his name to the ends of the earth,</lines>
     </verse>
     <verse name="v5">
-      <lines>And again I say and I again I say,<br/>Again I say, Again I say, Again I say, Again I say,<br/>Rejoice!<br/>Rejoice- Rejoice,<br/>Rejoice, Rejoice</lines>
+      <lines>And again I say and I again I say, newline Again I say, Again I say, Again I say, Again I say, newline Rejoice! newline Rejoice- Rejoice, newline Rejoice, Rejoice</lines>
     </verse>
   </lyrics>
 </song>

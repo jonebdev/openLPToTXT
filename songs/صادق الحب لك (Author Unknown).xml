@@ -10,25 +10,25 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>حبك يا رب نوري<br/>بل وزادي في المسير<br/>حبُك قد افتداني<br/>من عذابي المرير</lines>
+      <lines>حبك يا رب نوري newline بل وزادي في المسير newline حبُك قد افتداني newline من عذابي المرير</lines>
     </verse>
     <verse name="v1b">
-      <lines>فاقبلن ياربُ حبي<br/>ردُ حبِك الغزير<br/>وأسرن قلبي فأحيا<br/>صادقَ الحب لك</lines>
+      <lines>فاقبلن ياربُ حبي newline ردُ حبِك الغزير newline وأسرن قلبي فأحيا newline صادقَ الحب لك</lines>
     </verse>
     <verse name="c1">
-      <lines>(صادق الحب لك(2<br/>أبقى ما حييتُ ربي حافظَ العهدِ أمين<br/>(صادقَ الحب لك(2<br/>فأحبُ من خلالك يا رب الآخرين<br/>صادق الحب)4 لك)</lines>
+      <lines>(صادق الحب لك(2 newline أبقى ما حييتُ ربي حافظَ العهدِ أمين newline (صادقَ الحب لك(2 newline فأحبُ من خلالك يا رب الآخرين newline صادق الحب)4 لك)</lines>
     </verse>
     <verse name="v2a">
-      <lines>إني لا أعطيك ربي<br/>باق حبٍ من بشر<br/>أنت من أشبعتَ نفسي<br/>كيف أعطيك الكِسر</lines>
+      <lines>إني لا أعطيك ربي newline باق حبٍ من بشر newline أنت من أشبعتَ نفسي newline كيف أعطيك الكِسر</lines>
     </verse>
     <verse name="v2b">
-      <lines>كلا يا حبيب أنت<br/>ملء سمعي والبصر<br/>فلتعن ضعفي فأحيا<br/>صادق الحب لك</lines>
+      <lines>كلا يا حبيب أنت newline ملء سمعي والبصر newline فلتعن ضعفي فأحيا newline صادق الحب لك</lines>
     </verse>
     <verse name="v3a">
-      <lines>رؤيتي بل عزمَ قلبي<br/>ثبتن في شخصك<br/>حينما أنسى اهتمامي<br/>أسبى في حبي لك</lines>
+      <lines>رؤيتي بل عزمَ قلبي newline ثبتن في شخصك newline حينما أنسى اهتمامي newline أسبى في حبي لك</lines>
     </verse>
     <verse name="v3b">
-      <lines>هاك عهدي يبقى قلبي<br/>مخلصا في حبك<br/>واملأن عمري لاحيا<br/>صادق الحب لك</lines>
+      <lines>هاك عهدي يبقى قلبي newline مخلصا في حبك newline واملأن عمري لاحيا newline صادق الحب لك</lines>
     </verse>
   </lyrics>
 </song>

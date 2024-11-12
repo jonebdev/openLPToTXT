@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>In the quiet, in the stillness I know that you are God<br/>In the secret of your presence I know there I am restored,<br/>When you call I won't refuse<br/>Each new day again I'll choose...</lines>
+      <lines>In the quiet, in the stillness I know that you are God newline In the secret of your presence I know there I am restored, newline When you call I won't refuse newline Each new day again I'll choose...</lines>
     </verse>
     <verse name="v2">
-      <lines>There is no one else for me,<br/>None but Jesus,<br/>Crucified to set me free,<br/>Now I live to bring you Praise.</lines>
+      <lines>There is no one else for me, newline None but Jesus, newline Crucified to set me free, newline Now I live to bring you Praise.</lines>
     </verse>
     <verse name="v3">
-      <lines>In the chaos, in confusion I know youre sovereign still<br/>in the moment of my weakness<br/>You give me grace to do your will</lines>
+      <lines>In the chaos, in confusion I know youre sovereign still newline in the moment of my weakness newline You give me grace to do your will</lines>
     </verse>
     <verse name="v4">
-      <lines>When you call I wont delay<br/>This my song through all my days..</lines>
+      <lines>When you call I wont delay newline This my song through all my days..</lines>
     </verse>
     <verse name="v5">
-      <lines>All my delight is in you Lord<br/>All of my hope,<br/>All of my strength..<br/>All my delight is in you Lord,<br/>Forever more.</lines>
+      <lines>All my delight is in you Lord newline All of my hope, newline All of my strength.. newline All my delight is in you Lord, newline Forever more.</lines>
     </verse>
   </lyrics>
 </song>

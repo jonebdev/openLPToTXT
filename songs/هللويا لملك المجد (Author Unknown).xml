@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>هللويا لملك المجد<br/>هللويا لحمل الله</lines>
+      <lines>هللويا لملك المجد newline هللويا لحمل الله</lines>
     </verse>
     <verse name="v2">
-      <lines>مستحق التسبيح<br/>المخلص القدير<br/>هللويا لحمل الله</lines>
+      <lines>مستحق التسبيح newline المخلص القدير newline هللويا لحمل الله</lines>
     </verse>
   </lyrics>
 </song>

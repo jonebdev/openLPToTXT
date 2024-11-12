@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>تشدو لك قلوبنا<br/>هتافك في أفواهنا<br/>تشدو لك قلوبنا<br/>هتافك في أفواهنا</lines>
+      <lines>تشدو لك قلوبنا newline هتافك في أفواهنا newline تشدو لك قلوبنا newline هتافك في أفواهنا</lines>
     </verse>
     <verse name="v1">
-      <lines>نعظم الحمل الحيّ للأبد<br/>يسوع شفيعنا أنت الملك</lines>
+      <lines>نعظم الحمل الحيّ للأبد newline يسوع شفيعنا أنت الملك</lines>
     </verse>
   </lyrics>
 </song>

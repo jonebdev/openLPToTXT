@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>المجد ... والغنى<br/>والكرامة<br/>Almajd...walghina...<br/>wal karamatu</lines>
+      <lines>المجد ... والغنى newline والكرامة newline Almajd...walghina... newline wal karamatu</lines>
     </verse>
     <verse name="v1b">
-      <lines>لك وحدك ... ملك الملوك<br/>لك وحدك ... ربي يسوع<br/>لك وحدك ... يا صخر الدهور<br/>Laka wahdaka malikal mulook<br/>Laka wahdaka rabby yasoo'<br/>Laka wahdaka ya sakhral duhur</lines>
+      <lines>لك وحدك ... ملك الملوك newline لك وحدك ... ربي يسوع newline لك وحدك ... يا صخر الدهور newline Laka wahdaka malikal mulook newline Laka wahdaka rabby yasoo' newline Laka wahdaka ya sakhral duhur</lines>
     </verse>
     <verse name="v1c">
-      <lines>هللويا ... هللويا<br/>Hallelujah...hallelujah</lines>
+      <lines>هللويا ... هللويا newline Hallelujah...hallelujah</lines>
     </verse>
   </lyrics>
 </song>

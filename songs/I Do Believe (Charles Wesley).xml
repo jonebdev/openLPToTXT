@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>I do believe, I now believe<br/>That Jesus died for me;</lines>
+      <lines>I do believe, I now believe newline That Jesus died for me;</lines>
     </verse>
     <verse name="v1">
-      <lines>Father, I stretch my hands to Thee;<br/>No other help I know.<br/>If Thou withdraw thyself from me,<br/>Ah, whither shall I go?</lines>
+      <lines>Father, I stretch my hands to Thee; newline No other help I know. newline If Thou withdraw thyself from me, newline Ah, whither shall I go?</lines>
     </verse>
     <verse name="v2">
-      <lines>What did Thine only Son endure<br/>Before I drew my breath!<br/>What pain, what labor,<br/>To secure my soul from endless death!</lines>
+      <lines>What did Thine only Son endure newline Before I drew my breath! newline What pain, what labor, newline To secure my soul from endless death!</lines>
     </verse>
     <verse name="v3">
-      <lines>Author of faith, to Thee I lift<br/>My weary, longing eyes.<br/>Oh, let me now receive that gift;<br/>My soul, without it, dies.</lines>
+      <lines>Author of faith, to Thee I lift newline My weary, longing eyes. newline Oh, let me now receive that gift; newline My soul, without it, dies.</lines>
     </verse>
     <verse name="v4">
-      <lines>Surely Thou canst not let me die;<br/>Oh, speak, and I shall live.<br/>And here I will unwearied lie<br/>Till Thou Thy Spirit give.</lines>
+      <lines>Surely Thou canst not let me die; newline Oh, speak, and I shall live. newline And here I will unwearied lie newline Till Thou Thy Spirit give.</lines>
     </verse>
     <verse name="v5">
-      <lines>How would my fainting soul rejoice<br/>Could I but see Thy face!<br/>now let me hear Thy quick'ning voice,<br/>And taste Thy pard'ning grace.</lines>
+      <lines>How would my fainting soul rejoice newline Could I but see Thy face! newline now let me hear Thy quick'ning voice, newline And taste Thy pard'ning grace.</lines>
     </verse>
   </lyrics>
 </song>

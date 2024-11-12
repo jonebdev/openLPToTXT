@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>For God so loved the world,<br/>That He gave His only begotten Son,<br/>That whosoever believeth in Him,<br/>Whosoever believeth in Him,<br/>Should not perish should not perish,<br/>But have everlasting life.</lines>
+      <lines>For God so loved the world, newline That He gave His only begotten Son, newline That whosoever believeth in Him, newline Whosoever believeth in Him, newline Should not perish should not perish, newline But have everlasting life.</lines>
     </verse>
     <verse name="v1">
-      <lines>A story sweet and wondrous,<br/>Like heavenly music swells.<br/>In chimings clear to all who will hear,<br/>Ring out the gospel bells.</lines>
+      <lines>A story sweet and wondrous, newline Like heavenly music swells. newline In chimings clear to all who will hear, newline Ring out the gospel bells.</lines>
     </verse>
     <verse name="v2">
-      <lines>When, grieving brokenhearted,<br/>Because of sin and shame,<br/>We find a joy earth cannot destroy,<br/>Believing on His name.</lines>
+      <lines>When, grieving brokenhearted, newline Because of sin and shame, newline We find a joy earth cannot destroy, newline Believing on His name.</lines>
     </verse>
     <verse name="v3">
-      <lines>This love, beyond all measure,<br/>Of earth or sea or sky,<br/>Could only show its full overflow,<br/>When Jesus came to die.</lines>
+      <lines>This love, beyond all measure, newline Of earth or sea or sky, newline Could only show its full overflow, newline When Jesus came to die.</lines>
     </verse>
     <verse name="v4">
-      <lines>Come, brother come to Jesus,<br/>His word was meant for you;<br/>His grace receive, His promise believe,<br/>And sing His praise anew.</lines>
+      <lines>Come, brother come to Jesus, newline His word was meant for you; newline His grace receive, His promise believe, newline And sing His praise anew.</lines>
     </verse>
   </lyrics>
 </song>

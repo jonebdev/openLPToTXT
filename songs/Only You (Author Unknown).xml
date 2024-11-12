@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Take my heart, I lay it down<br/>At the feet of You who's crowned.<br/>And take my life, I'm letting go<br/>I lift it up to You who's throned</lines>
+      <lines>Take my heart, I lay it down newline At the feet of You who's crowned. newline And take my life, I'm letting go newline I lift it up to You who's throned</lines>
     </verse>
     <verse name="v2">
-      <lines>And I will worship You, Lord<br/>Only You, Lord<br/>And I will bow down before You<br/>Only You, Lord</lines>
+      <lines>And I will worship You, Lord newline Only You, Lord newline And I will bow down before You newline Only You, Lord</lines>
     </verse>
     <verse name="v3">
-      <lines>Take my fret, take my fear<br/>All I have i'm leaving here<br/>Be all my hopes, be all my dreams<br/>Be all my delights, be my everything.</lines>
+      <lines>Take my fret, take my fear newline All I have i'm leaving here newline Be all my hopes, be all my dreams newline Be all my delights, be my everything.</lines>
     </verse>
     <verse name="v4">
-      <lines>And it's just You and me here now<br/>Only You and me here now</lines>
+      <lines>And it's just You and me here now newline Only You and me here now</lines>
     </verse>
   </lyrics>
 </song>

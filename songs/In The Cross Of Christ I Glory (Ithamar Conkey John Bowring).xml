@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>In the cross of Christ I glory,<br/>Tow'ring o'er the wrecks of time;<br/>All the light of sacred story<br/>Gathers round its head sublime.</lines>
+      <lines>In the cross of Christ I glory, newline Tow'ring o'er the wrecks of time; newline All the light of sacred story newline Gathers round its head sublime.</lines>
     </verse>
     <verse name="v2">
-      <lines>When the woes of life o'ertake me,<br/>Hopes deceive and fears annoy;<br/>Never shall the cross forsake me,<br/>Lo! it glows with peace and joy.</lines>
+      <lines>When the woes of life o'ertake me, newline Hopes deceive and fears annoy; newline Never shall the cross forsake me, newline Lo! it glows with peace and joy.</lines>
     </verse>
     <verse name="v3">
-      <lines>When the sun of bliss is beaming<br/>Light and love upon my way;<br/>From the cross the radiance streaming<br/>Adds more luster to the day.</lines>
+      <lines>When the sun of bliss is beaming newline Light and love upon my way; newline From the cross the radiance streaming newline Adds more luster to the day.</lines>
     </verse>
     <verse name="v4">
-      <lines>Bane and blessing, pain and pleasure,<br/>By the cross are sanctified;<br/>Peace is there that knows no measure,<br/>Joys that thro' all time abide.</lines>
+      <lines>Bane and blessing, pain and pleasure, newline By the cross are sanctified; newline Peace is there that knows no measure, newline Joys that thro' all time abide.</lines>
     </verse>
   </lyrics>
 </song>

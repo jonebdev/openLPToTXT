@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>إجذبني بقرب قلبك<br/>خليني قريب منك<br/>عايز أعرفك عايز أسمعك</lines>
+      <lines>إجذبني بقرب قلبك newline خليني قريب منك newline عايز أعرفك عايز أسمعك</lines>
     </verse>
     <verse name="v2">
-      <lines>دي كل شهوة قلبي إني أسكن جوة حضنك<br/>عايز أعرفك<br/>عايز أسمعك</lines>
+      <lines>دي كل شهوة قلبي إني أسكن جوة حضنك newline عايز أعرفك newline عايز أسمعك</lines>
     </verse>
     <verse name="v3">
-      <lines>أوه أوه ما أعظم حبك ليَ<br/>أوه أوه ما أعظم حبك</lines>
+      <lines>أوه أوه ما أعظم حبك ليَ newline أوه أوه ما أعظم حبك</lines>
     </verse>
     <verse name="v4">
-      <lines>حبك أسر قلب جذبني ليك .. جذبني ليك<br/>سؤل قلبي الوحيد إني أكون معك للأبد</lines>
+      <lines>حبك أسر قلب جذبني ليك .. جذبني ليك newline سؤل قلبي الوحيد إني أكون معك للأبد</lines>
     </verse>
   </lyrics>
 </song>

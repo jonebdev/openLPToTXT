@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>O for a faith that will not shrink,<br/>Tho' pressed by ev'ry foe,<br/>That will not tremble on the brink<br/>Of any earthly woe!</lines>
+      <lines>O for a faith that will not shrink, newline Tho' pressed by ev'ry foe, newline That will not tremble on the brink newline Of any earthly woe!</lines>
     </verse>
     <verse name="v2">
-      <lines>That will not murmur nor complain,<br/>Beneath the chastening rod<br/>But in the hour of grief or pain,<br/>Will lean upon its God.</lines>
+      <lines>That will not murmur nor complain, newline Beneath the chastening rod newline But in the hour of grief or pain, newline Will lean upon its God.</lines>
     </verse>
     <verse name="v3">
-      <lines>A faith that shines more bright and clear<br/>When tempests rage without;<br/>That when in danger knows no fear,<br/>In darkness feels no doubt.</lines>
+      <lines>A faith that shines more bright and clear newline When tempests rage without; newline That when in danger knows no fear, newline In darkness feels no doubt.</lines>
     </verse>
     <verse name="v4">
-      <lines>That bears, unmoved, the world's dread frown,<br/>Nor heeds its scornful smile;<br/>That seas of trouble cannot drown,<br/>Nor Satan's arts beguile.</lines>
+      <lines>That bears, unmoved, the world's dread frown, newline Nor heeds its scornful smile; newline That seas of trouble cannot drown, newline Nor Satan's arts beguile.</lines>
     </verse>
     <verse name="v5">
-      <lines>Lord give us such a faith as this;<br/>And then whate'er may come,<br/>We'll taste e'en here the hollowed bliss,<br/>Of an eternal home.</lines>
+      <lines>Lord give us such a faith as this; newline And then whate'er may come, newline We'll taste e'en here the hollowed bliss, newline Of an eternal home.</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>إن أحيا مع المسيح<br/>أحيا كما يريدْ<br/>ناقضاً هيكلَ نفسي<br/>حتى هو يزيدْ</lines>
+      <lines>إن أحيا مع المسيح newline أحيا كما يريدْ newline ناقضاً هيكلَ نفسي newline حتى هو يزيدْ</lines>
     </verse>
     <verse name="v2">
-      <lines>فأدخل العمق معه<br/>وأنمو في الشركةْ<br/>لأحيا وسط العالمِ<br/>مسبباً بركةْ</lines>
+      <lines>فأدخل العمق معه newline وأنمو في الشركةْ newline لأحيا وسط العالمِ newline مسبباً بركةْ</lines>
     </verse>
     <verse name="v3">
-      <lines>أذهبُ بالبشارةِ<br/>لبعيدٍ وقريبْ<br/>فالمسيح آتٍ .. آتٍ <br/>فيومُ الرِّب قريبْ</lines>
+      <lines>أذهبُ بالبشارةِ newline لبعيدٍ وقريبْ newline فالمسيح آتٍ .. آتٍ  newline فيومُ الرِّب قريبْ</lines>
     </verse>
   </lyrics>
 </song>

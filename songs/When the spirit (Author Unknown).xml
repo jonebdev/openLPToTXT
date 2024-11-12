@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>when the spirit of the Lord<br/>is within my heart<br/>i will sing like David sang<br/>i will sing i will sing</lines>
+      <lines>when the spirit of the Lord newline is within my heart newline i will sing like David sang newline i will sing i will sing</lines>
     </verse>
     <verse name="v2">
-      <lines>when the spirit of the lord is upon my heart<br/>i will dance<br/>like David danced</lines>
+      <lines>when the spirit of the lord is upon my heart newline i will dance newline like David danced</lines>
     </verse>
     <verse name="v3">
-      <lines>when the spirit of the Lord<br/>i will sing<br/>i will clap<br/>i will dance<br/>i will prasise</lines>
+      <lines>when the spirit of the Lord newline i will sing newline i will clap newline i will dance newline i will prasise</lines>
     </verse>
     <verse name="v4">
-      <lines>when the presesnce of the Lord<br/>i will sing<br/>i will clap<br/>i will dance<br/>i will praise</lines>
+      <lines>when the presesnce of the Lord newline i will sing newline i will clap newline i will dance newline i will praise</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Love unfailing, overtaking my heart<br/>You take me in<br/>finding peace again, fear is lost in all you are</lines>
+      <lines>Love unfailing, overtaking my heart newline You take me in newline finding peace again, fear is lost in all you are</lines>
     </verse>
     <verse name="v2">
-      <lines>I would give the world to tell your story<br/>Cause I know that you've called me<br/>I know that you've called me<br/>I've lost myself for good within your promise<br/>And I won't hide it, I won't hide it</lines>
+      <lines>I would give the world to tell your story newline Cause I know that you've called me newline I know that you've called me newline I've lost myself for good within your promise newline And I won't hide it, I won't hide it</lines>
     </verse>
     <verse name="v3">
-      <lines>Jesus I believe in you and I would go<br/>To the ends of the earth,<br/>To the ends of the earth, for you<br/>Alone are the son of God and all the world will see<br/>That you are God, You are God.</lines>
+      <lines>Jesus I believe in you and I would go newline To the ends of the earth, newline To the ends of the earth, for you newline Alone are the son of God and all the world will see newline That you are God, You are God.</lines>
     </verse>
   </lyrics>
 </song>

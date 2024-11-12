@@ -11,10 +11,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Alleluia! Alleluia!<br/>Hearts to heaven and voices raise;<br/>Sing to God a hymn of gladness,<br/>Sing to God a hymn of praise.<br/>He who on the cross as Savior,<br/>For the world's salvation bled;<br/>Jesus Christ, the King of Glory,<br/>Now is risen from the dead.</lines>
+      <lines>Alleluia! Alleluia! newline Hearts to heaven and voices raise; newline Sing to God a hymn of gladness, newline Sing to God a hymn of praise. newline He who on the cross as Savior, newline For the world's salvation bled; newline Jesus Christ, the King of Glory, newline Now is risen from the dead.</lines>
     </verse>
     <verse name="v2">
-      <lines>Now the iron bars are broken,<br/>Christ from death to life is born,<br/>Glorious life, and life immortal,<br/>On this resurrection morn;<br/>Christ has triumphed, and we conquer<br/>By His mighty enterprise;<br/>We with Him to life eternal,<br/>By His resurrection rise.</lines>
+      <lines>Now the iron bars are broken, newline Christ from death to life is born, newline Glorious life, and life immortal, newline On this resurrection morn; newline Christ has triumphed, and we conquer newline By His mighty enterprise; newline We with Him to life eternal, newline By His resurrection rise.</lines>
     </verse>
   </lyrics>
 </song>

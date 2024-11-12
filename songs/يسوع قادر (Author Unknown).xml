@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>يسوع قادر .. يسوع حاضر<br/>يلمس كل المحتاجين<br/>يفرح المسكين</lines>
+      <lines>يسوع قادر .. يسوع حاضر newline يلمس كل المحتاجين newline يفرح المسكين</lines>
     </verse>
     <verse name="v1">
-      <lines>أؤمن بسلطانه تخرج منه قوة لي<br/>واكون صحيحاً لمجده</lines>
+      <lines>أؤمن بسلطانه تخرج منه قوة لي newline واكون صحيحاً لمجده</lines>
     </verse>
     <verse name="v2a">
-      <lines>خبز البنين صار لي حمل عني أوجاعي<br/>أن مسست شخصه القدير<br/>غير المستطاع يصير</lines>
+      <lines>خبز البنين صار لي حمل عني أوجاعي newline أن مسست شخصه القدير newline غير المستطاع يصير</lines>
     </verse>
     <verse name="v2b">
-      <lines>يشفيني 3 يسوع المسيح<br/>وغير المستطاع يصير</lines>
+      <lines>يشفيني 3 يسوع المسيح newline وغير المستطاع يصير</lines>
     </verse>
   </lyrics>
 </song>

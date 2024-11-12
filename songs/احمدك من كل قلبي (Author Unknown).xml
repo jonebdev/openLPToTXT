@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أحمد من كل قلبي<br/>قدم الاله ارنم لك<br/>أسجد في هيكل قدسك<br/>وأحمدك اسمك علي رحمتك</lines>
+      <lines>أحمد من كل قلبي newline قدم الاله ارنم لك newline أسجد في هيكل قدسك newline وأحمدك اسمك علي رحمتك</lines>
     </verse>
     <verse name="v2">
-      <lines>فإن سلكت في وسط الضيق<br/>في وسط الضيق تحييني<br/>على غضب أعدائي تمد يدك<br/>وتخلصني يمينك</lines>
+      <lines>فإن سلكت في وسط الضيق newline في وسط الضيق تحييني newline على غضب أعدائي تمد يدك newline وتخلصني يمينك</lines>
     </verse>
     <verse name="v3">
-      <lines>الرب يحامي عني2 <br/>يا رب رحمتك إلى الأبد</lines>
+      <lines>الرب يحامي عني2  newline يا رب رحمتك إلى الأبد</lines>
     </verse>
   </lyrics>
 </song>

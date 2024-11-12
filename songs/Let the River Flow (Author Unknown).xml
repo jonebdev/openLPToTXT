@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Let the lost man say,<br/>"I am found in Him"<br/>Let the poor man say,<br/>"I am rich in Him"<br/>Oh, let the river flow</lines>
+      <lines>Let the lost man say, newline "I am found in Him" newline Let the poor man say, newline "I am rich in Him" newline Oh, let the river flow</lines>
     </verse>
     <verse name="v2">
-      <lines>Let the blind man say,<br/>"I can see again"<br/>Let the dead man say,<br/>"I am born again"<br/>Oh, let the river flow (2x)</lines>
+      <lines>Let the blind man say, newline "I can see again" newline Let the dead man say, newline "I am born again" newline Oh, let the river flow (2x)</lines>
     </verse>
     <verse name="c1">
-      <lines>Let the river flow, let the river flow<br/>Holy Spirit come and move in power<br/>Let the river flow (4x)</lines>
+      <lines>Let the river flow, let the river flow newline Holy Spirit come and move in power newline Let the river flow (4x)</lines>
     </verse>
   </lyrics>
 </song>

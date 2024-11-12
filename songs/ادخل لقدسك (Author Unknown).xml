@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أدخل لقدسك<br/>أترجى وجهك<br/>طالباً حضور روحك<br/>أنت إلهي<br/>ملجأي وصخرة خلاصي<br/>ممن أخاف</lines>
+      <lines>أدخل لقدسك newline أترجى وجهك newline طالباً حضور روحك newline أنت إلهي newline ملجأي وصخرة خلاصي newline ممن أخاف</lines>
     </verse>
     <verse name="c1">
-      <lines>فتعال بروحك أُبصر مجدك<br/>الآن سلطان الله<br/>لنا شفاء من يدك<br/>الآن أنهار مياه<br/>لنا حياة بروحك</lines>
+      <lines>فتعال بروحك أُبصر مجدك newline الآن سلطان الله newline لنا شفاء من يدك newline الآن أنهار مياه newline لنا حياة بروحك</lines>
     </verse>
     <verse name="v2">
-      <lines>ربّي أنت نهر تفيض بالحب<br/>تثمر فيّ فرحاً<br/>أنت سلامي فيك أماني<br/>ليس لي سواك يا الله</lines>
+      <lines>ربّي أنت نهر تفيض بالحب newline تثمر فيّ فرحاً newline أنت سلامي فيك أماني newline ليس لي سواك يا الله</lines>
     </verse>
   </lyrics>
 </song>

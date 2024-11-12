@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>الرب هو الله هو صنعنا<br/>ونحن شعبه وغنم مرعاه<br/>Arrabu huallah hua sana'ana wa nahnu sha'buhu wa ghanamu mar'ah</lines>
+      <lines>الرب هو الله هو صنعنا newline ونحن شعبه وغنم مرعاه newline Arrabu huallah hua sana'ana wa nahnu sha'buhu wa ghanamu mar'ah</lines>
     </verse>
     <verse name="v1">
-      <lines>لنعبد الرب بالفرح والحمد<br/>ولنهتف له ولنرفع الأيدي<br/>Lina'budal rabba bil farhy wal hamdy wal nahtifan lahu wal narfa'ul aydy (2)</lines>
+      <lines>لنعبد الرب بالفرح والحمد newline ولنهتف له ولنرفع الأيدي newline Lina'budal rabba bil farhy wal hamdy wal nahtifan lahu wal narfa'ul aydy (2)</lines>
     </verse>
     <verse name="v2">
-      <lines>نقدم المجد لساكن السماء<br/>ونرفع الحمد لمن في وسطنا<br/>Nukadimul majda lisakin issama wa narfa'ul hamda liman fee wastina (2)</lines>
+      <lines>نقدم المجد لساكن السماء newline ونرفع الحمد لمن في وسطنا newline Nukadimul majda lisakin issama wa narfa'ul hamda liman fee wastina (2)</lines>
     </verse>
     <verse name="v3">
-      <lines>باسم إلهنا سنرفع الرايات<br/>وبخلاصه ستعلو الترنيمات<br/>Bismy illahina sanarfa'ul rayat wa bikhalasihy sata'lul tarneemat</lines>
+      <lines>باسم إلهنا سنرفع الرايات newline وبخلاصه ستعلو الترنيمات newline Bismy illahina sanarfa'ul rayat wa bikhalasihy sata'lul tarneemat</lines>
     </verse>
     <verse name="v4">
-      <lines>غنوا ورنموا بأعذب الألحان<br/>بالأيدي صفقوا لسيد الأكوان<br/>Ghannu wa ranimu biadabil alhan bilaydy safiku lisayidil akwan</lines>
+      <lines>غنوا ورنموا بأعذب الألحان newline بالأيدي صفقوا لسيد الأكوان newline Ghannu wa ranimu biadabil alhan bilaydy safiku lisayidil akwan</lines>
     </verse>
   </lyrics>
 </song>

@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>We praise Thee, O God,<br/>Our Redeemer, Creator<br/>In grateful devotion<br/>Our tribute we bring;<br/>We lay it before Thee,<br/>We kneel and adore Thee,<br/>We bless Thy holy name,<br/>Glad praises we sing.</lines>
+      <lines>We praise Thee, O God, newline Our Redeemer, Creator newline In grateful devotion newline Our tribute we bring; newline We lay it before Thee, newline We kneel and adore Thee, newline We bless Thy holy name, newline Glad praises we sing.</lines>
     </verse>
     <verse name="v2">
-      <lines>We worship Thee,<br/>God of our fathers,<br/>We bless Thee<br/>Thru life's storm and tempest,<br/>Our guide has Thou been;<br/>When perils o'er take us,<br/>Escape Thou wilt make us,<br/>And with Thy help, O Lord,<br/>Our battles we win.</lines>
+      <lines>We worship Thee, newline God of our fathers, newline We bless Thee newline Thru life's storm and tempest, newline Our guide has Thou been; newline When perils o'er take us, newline Escape Thou wilt make us, newline And with Thy help, O Lord, newline Our battles we win.</lines>
     </verse>
     <verse name="v3">
-      <lines>With voices united<br/>Our praises we offer<br/>To Thee, great Jehovah,<br/>Glad anthems we raise;<br/>Thy strong arm will guide us,<br/>Our God is beside us,<br/>To Thee, our great Redeemer,<br/>Forever be praise!</lines>
+      <lines>With voices united newline Our praises we offer newline To Thee, great Jehovah, newline Glad anthems we raise; newline Thy strong arm will guide us, newline Our God is beside us, newline To Thee, our great Redeemer, newline Forever be praise!</lines>
     </verse>
   </lyrics>
 </song>

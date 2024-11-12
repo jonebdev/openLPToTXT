@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Glory! Glory! How the angels sing!<br/>Glory! Glory! How the loud harps ring!<br/>'Tis the ransomed army, like a mighty sea,<br/>Pealing forth the anthem of the free.</lines>
+      <lines>Glory! Glory! How the angels sing! newline Glory! Glory! How the loud harps ring! newline 'Tis the ransomed army, like a mighty sea, newline Pealing forth the anthem of the free.</lines>
     </verse>
     <verse name="v1">
-      <lines>Ring the bells of heaven!<br/>There is joy today,<br/>For a soul returning from the wild!<br/>See the Father meets Him out upon the way,<br/>Welcoming His weary wand'ring child.</lines>
+      <lines>Ring the bells of heaven! newline There is joy today, newline For a soul returning from the wild! newline See the Father meets Him out upon the way, newline Welcoming His weary wand'ring child.</lines>
     </verse>
     <verse name="v2">
-      <lines>Ring the bells of heaven!<br/>There is joy today,<br/>For the wand'rer now is reconciled.<br/>Yes a soul is rescued from His sinful way,<br/>And is born anew a ransomed child.</lines>
+      <lines>Ring the bells of heaven! newline There is joy today, newline For the wand'rer now is reconciled. newline Yes a soul is rescued from His sinful way, newline And is born anew a ransomed child.</lines>
     </verse>
     <verse name="v3">
-      <lines>Ring the bells of heaven!<br/>Spread the feast today!<br/>Angels swell the glad triumphant strain!<br/>Tell the joyful tidings;<br/>Bear it far away!<br/>For a precious soul is born again.</lines>
+      <lines>Ring the bells of heaven! newline Spread the feast today! newline Angels swell the glad triumphant strain! newline Tell the joyful tidings; newline Bear it far away! newline For a precious soul is born again.</lines>
     </verse>
   </lyrics>
 </song>

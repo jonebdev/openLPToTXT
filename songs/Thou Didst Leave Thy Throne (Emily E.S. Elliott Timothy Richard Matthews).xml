@@ -11,25 +11,25 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>O come to my heart, Lord Jesus.<br/>There is room in my heart for Thee.</lines>
+      <lines>O come to my heart, Lord Jesus. newline There is room in my heart for Thee.</lines>
     </verse>
     <verse name="c2">
-      <lines>My heart shall rejoice, Lord Jesus,<br/>When Thou comest and callest for me.</lines>
+      <lines>My heart shall rejoice, Lord Jesus, newline When Thou comest and callest for me.</lines>
     </verse>
     <verse name="v1">
-      <lines>Thou didst leave Thy throne<br/>And Thy kingly crown,<br/>When Thou camest to earth for me.<br/>But in Bethlehem's home<br/>Was there found no room<br/>For Thy holy nativity.</lines>
+      <lines>Thou didst leave Thy throne newline And Thy kingly crown, newline When Thou camest to earth for me. newline But in Bethlehem's home newline Was there found no room newline For Thy holy nativity.</lines>
     </verse>
     <verse name="v2">
-      <lines>Heaven's arches rang,<br/>When the angels sang,<br/>Proclaiming Thy royal decree;<br/>But of lowly birth,<br/>Didst Thou come to earth<br/>And in great humility.</lines>
+      <lines>Heaven's arches rang, newline When the angels sang, newline Proclaiming Thy royal decree; newline But of lowly birth, newline Didst Thou come to earth newline And in great humility.</lines>
     </verse>
     <verse name="v3">
-      <lines>The foxes found rest<br/>And the birds their nest,<br/>In the shade of the forest tree;<br/>But Thy couch was the sod,<br/>O Thou Son of God,<br/>In the deserts of Galilee.</lines>
+      <lines>The foxes found rest newline And the birds their nest, newline In the shade of the forest tree; newline But Thy couch was the sod, newline O Thou Son of God, newline In the deserts of Galilee.</lines>
     </verse>
     <verse name="v4">
-      <lines>Thou camest, O Lord,<br/>With the living word,<br/>That should set Thy people free;<br/>But with mocking scorn<br/>And with crown of thorn,<br/>They bore Thee to Calvary.</lines>
+      <lines>Thou camest, O Lord, newline With the living word, newline That should set Thy people free; newline But with mocking scorn newline And with crown of thorn, newline They bore Thee to Calvary.</lines>
     </verse>
     <verse name="v5">
-      <lines>When the heaven's shall ring<br/>And the angels sing,<br/>At Thy coming to victory;<br/>Let Thy voice call me home,<br/>Saying, "Yet there is room,<br/>There is room at My side for thee."</lines>
+      <lines>When the heaven's shall ring newline And the angels sing, newline At Thy coming to victory; newline Let Thy voice call me home, newline Saying, "Yet there is room, newline There is room at My side for thee."</lines>
     </verse>
   </lyrics>
 </song>

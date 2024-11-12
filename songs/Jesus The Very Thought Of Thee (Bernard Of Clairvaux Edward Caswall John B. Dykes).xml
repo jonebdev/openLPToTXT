@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Jesus, the very thought of Thee,<br/>With sweetness fills my breast;<br/>But sweeter far Thy face to see,<br/>And in Thy presence rest.</lines>
+      <lines>Jesus, the very thought of Thee, newline With sweetness fills my breast; newline But sweeter far Thy face to see, newline And in Thy presence rest.</lines>
     </verse>
     <verse name="v2">
-      <lines>No voice can sing, no heart can frame,<br/>Nor can the memory find<br/>A sweeter sound than Thy blest name;<br/>O Savior of mankind!</lines>
+      <lines>No voice can sing, no heart can frame, newline Nor can the memory find newline A sweeter sound than Thy blest name; newline O Savior of mankind!</lines>
     </verse>
     <verse name="v3">
-      <lines>O Hope of every contrite heart,<br/>O Joy of all the meek;<br/>To those who fall, how kind Thou art!<br/>How good to those who seek!</lines>
+      <lines>O Hope of every contrite heart, newline O Joy of all the meek; newline To those who fall, how kind Thou art! newline How good to those who seek!</lines>
     </verse>
     <verse name="v4">
-      <lines>But what to those who find?<br/>Ah, this no tongue or pen can show;<br/>The love of Jesus, what it is<br/>None but His loved ones know.</lines>
+      <lines>But what to those who find? newline Ah, this no tongue or pen can show; newline The love of Jesus, what it is newline None but His loved ones know.</lines>
     </verse>
     <verse name="v5">
-      <lines>Jesu, our only joy be Thou,<br/>As Thou our prize wilt be;<br/>Jesus, be Thou our Glory now,<br/>And thru eternity.<br/>Amen.</lines>
+      <lines>Jesu, our only joy be Thou, newline As Thou our prize wilt be; newline Jesus, be Thou our Glory now, newline And thru eternity. newline Amen.</lines>
     </verse>
   </lyrics>
 </song>

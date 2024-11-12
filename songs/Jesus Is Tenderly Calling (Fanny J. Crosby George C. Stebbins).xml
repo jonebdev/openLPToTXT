@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Calling today, calling today,<br/>Jesus is calling,<br/>Is tenderly calling today.</lines>
+      <lines>Calling today, calling today, newline Jesus is calling, newline Is tenderly calling today.</lines>
     </verse>
     <verse name="v1">
-      <lines>Jesus is tenderly calling thee home<br/>Calling today, calling today.<br/>Why from the sunshine<br/>Of love wilt thou roam<br/>Farther and farther away?</lines>
+      <lines>Jesus is tenderly calling thee home newline Calling today, calling today. newline Why from the sunshine newline Of love wilt thou roam newline Farther and farther away?</lines>
     </verse>
     <verse name="v2">
-      <lines>Jesus is calling the weary to rest<br/>Calling today, calling today.<br/>Bring Him your burden<br/>And you shall be blest;<br/>He will not turn you away.</lines>
+      <lines>Jesus is calling the weary to rest newline Calling today, calling today. newline Bring Him your burden newline And you shall be blest; newline He will not turn you away.</lines>
     </verse>
     <verse name="v3">
-      <lines>Jesus is waiting; O come to Him now<br/>Waiting today waiting today.<br/>Come with your sins; at His feet lowly bow,<br/>Come and no longer delay.</lines>
+      <lines>Jesus is waiting; O come to Him now newline Waiting today waiting today. newline Come with your sins; at His feet lowly bow, newline Come and no longer delay.</lines>
     </verse>
     <verse name="v4">
-      <lines>Jesus is pleading; O list to His voice<br/>Hear Him today, hear Him today.<br/>They who believe on His name shall rejoice.<br/>Quickly arise and away.</lines>
+      <lines>Jesus is pleading; O list to His voice newline Hear Him today, hear Him today. newline They who believe on His name shall rejoice. newline Quickly arise and away.</lines>
     </verse>
   </lyrics>
 </song>

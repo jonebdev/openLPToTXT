@@ -13,10 +13,10 @@
       <lines>أطلب وجهك 4</lines>
     </verse>
     <verse name="v1">
-      <lines>ربي ما أحلي حياتي بالقرب من عرشك<br/>فحبك ينسيني ذاتي أطمئن في حضنك</lines>
+      <lines>ربي ما أحلي حياتي بالقرب من عرشك newline فحبك ينسيني ذاتي أطمئن في حضنك</lines>
     </verse>
     <verse name="v2">
-      <lines>أسكن في ديارك<br/>كل أيام الحياة<br/>أتفرس في جمالك<br/>كم أنت حلو يا الله</lines>
+      <lines>أسكن في ديارك newline كل أيام الحياة newline أتفرس في جمالك newline كم أنت حلو يا الله</lines>
     </verse>
   </lyrics>
 </song>

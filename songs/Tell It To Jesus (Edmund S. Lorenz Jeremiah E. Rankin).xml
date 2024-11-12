@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Tell it to Jesus,<br/>Tell it to Jesus.<br/>He is a Friend that's well known.<br/>You have no other<br/>Such a friend or brother.<br/>Tell it to Jesus alone.</lines>
+      <lines>Tell it to Jesus, newline Tell it to Jesus. newline He is a Friend that's well known. newline You have no other newline Such a friend or brother. newline Tell it to Jesus alone.</lines>
     </verse>
     <verse name="v1">
-      <lines>Are you weary,<br/>Are you heavy hearted?<br/>Tell it to Jesus,<br/>Tell it to Jesus.<br/>Are you grieving<br/>Over joys departed?<br/>Tell it to Jesus alone.</lines>
+      <lines>Are you weary, newline Are you heavy hearted? newline Tell it to Jesus, newline Tell it to Jesus. newline Are you grieving newline Over joys departed? newline Tell it to Jesus alone.</lines>
     </verse>
     <verse name="v2">
-      <lines>Do the tears flow down<br/>Your cheeks unbidden?<br/>Tell it to Jesus,<br/>Tell it to Jesus.<br/>Have you sins that<br/>To men's eyes are hidden?<br/>Tell it to Jesus alone.</lines>
+      <lines>Do the tears flow down newline Your cheeks unbidden? newline Tell it to Jesus, newline Tell it to Jesus. newline Have you sins that newline To men's eyes are hidden? newline Tell it to Jesus alone.</lines>
     </verse>
     <verse name="v3">
-      <lines>Do you fear the<br/>Gathering clouds of sorrow?<br/>Tell it to Jesus,<br/>Tell it to Jesus.<br/>Are you anxious<br/>What shall be tomorrow?<br/>Tell it to Jesus alone.</lines>
+      <lines>Do you fear the newline Gathering clouds of sorrow? newline Tell it to Jesus, newline Tell it to Jesus. newline Are you anxious newline What shall be tomorrow? newline Tell it to Jesus alone.</lines>
     </verse>
     <verse name="v4">
-      <lines>Are you troubled<br/>At the thought of dying?<br/>Tell it to Jesus,<br/>Tell it to Jesus.<br/>For Christ's coming kingdom<br/>Are you sighing?<br/>Tell it to Jesus alone.</lines>
+      <lines>Are you troubled newline At the thought of dying? newline Tell it to Jesus, newline Tell it to Jesus. newline For Christ's coming kingdom newline Are you sighing? newline Tell it to Jesus alone.</lines>
     </verse>
   </lyrics>
 </song>

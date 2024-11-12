@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>إن فرح الرب قوتنا3<br/>إن فرح الرب قوتنا</lines>
+      <lines>إن فرح الرب قوتنا3 newline إن فرح الرب قوتنا</lines>
     </verse>
     <verse name="v2">
-      <lines>يعطينا ماء حيا" فلا نعطش أبدا3<br/>إن فرح الرب قوتنا</lines>
+      <lines>يعطينا ماء حيا" فلا نعطش أبدا3 newline إن فرح الرب قوتنا</lines>
     </verse>
     <verse name="v3">
-      <lines>من مثل الرب إلهنا3<br/>إن فرح الرب قوتنا<br/> <br/>هللويا هللويا3<br/>إن فرح الرب قوتنا</lines>
+      <lines>من مثل الرب إلهنا3 newline إن فرح الرب قوتنا newline   newline هللويا هللويا3 newline إن فرح الرب قوتنا</lines>
     </verse>
   </lyrics>
 </song>

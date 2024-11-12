@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>احبك يا ربي اتباعك من كل قلبي<br/>أنا لك كل عمري<br/>احبك اتبعك</lines>
+      <lines>احبك يا ربي اتباعك من كل قلبي newline أنا لك كل عمري newline احبك اتبعك</lines>
     </verse>
   </lyrics>
 </song>

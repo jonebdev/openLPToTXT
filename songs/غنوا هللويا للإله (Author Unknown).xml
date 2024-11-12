@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>غنوا هللويا للإله <br/>غنوا هللويا للإله<br/>غنوا هللويا ... غنوا هللويا <br/>غنوا هللويا للإله</lines>
+      <lines>غنوا هللويا للإله  newline غنوا هللويا للإله newline غنوا هللويا ... غنوا هللويا  newline غنوا هللويا للإله</lines>
     </verse>
     <verse name="v2">
-      <lines>يسوع قام من الأموات <br/>يسوع قام من الأموات<br/>يسوع قام ... يسوع قام<br/>يسوع قام من الأموات</lines>
+      <lines>يسوع قام من الأموات  newline يسوع قام من الأموات newline يسوع قام ... يسوع قام newline يسوع قام من الأموات</lines>
     </verse>
     <verse name="v3">
-      <lines>يسوع آت ثانية <br/>يسوع آت ثانية<br/>يسوع آت ... يسوع آت <br/>يسوع آت ثانية</lines>
+      <lines>يسوع آت ثانية  newline يسوع آت ثانية newline يسوع آت ... يسوع آت  newline يسوع آت ثانية</lines>
     </verse>
     <verse name="v4">
-      <lines>يسوع ملك الملوك <br/>يسوع ملك الملوك<br/>يسوع ملك ... يسوع ملك <br/>يسوع ملك لملوك</lines>
+      <lines>يسوع ملك الملوك  newline يسوع ملك الملوك newline يسوع ملك ... يسوع ملك  newline يسوع ملك لملوك</lines>
     </verse>
   </lyrics>
 </song>

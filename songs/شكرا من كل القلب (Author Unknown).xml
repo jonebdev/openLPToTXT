@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>شكرا من كل القلب شكرا للقدوس الرب<br/>شكرا لأنه أعطانا ابنه 2</lines>
+      <lines>شكرا من كل القلب شكرا للقدوس الرب newline شكرا لأنه أعطانا ابنه 2</lines>
     </verse>
     <verse name="v2">
-      <lines>ليقل الضعيف بطل أنا والفقير لي الغني<br/>لأجل ما اعطي الرب لنا 2<br/>شكرا</lines>
+      <lines>ليقل الضعيف بطل أنا والفقير لي الغني newline لأجل ما اعطي الرب لنا 2 newline شكرا</lines>
     </verse>
   </lyrics>
 </song>

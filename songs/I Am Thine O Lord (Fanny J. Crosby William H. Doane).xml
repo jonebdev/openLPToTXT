@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Draw me nearer, nearer blessed Lord,<br/>To the cross where Thou hast died.<br/>Draw me nearer, nearer, nearer blessed Lord.<br/>To Thy precious bleeding side.</lines>
+      <lines>Draw me nearer, nearer blessed Lord, newline To the cross where Thou hast died. newline Draw me nearer, nearer, nearer blessed Lord. newline To Thy precious bleeding side.</lines>
     </verse>
     <verse name="v1">
-      <lines>I am Thine O Lord; I have heard Thy voice,<br/>And it told Thy love to me.<br/>But I long to rise in the arms of faith,<br/>And be closer drawn to Thee.</lines>
+      <lines>I am Thine O Lord; I have heard Thy voice, newline And it told Thy love to me. newline But I long to rise in the arms of faith, newline And be closer drawn to Thee.</lines>
     </verse>
     <verse name="v2">
-      <lines>Consecrate me now to Thy service Lord,<br/>By the power of grace divine.<br/>Let my soul look up with a steadfast hope,<br/>And my will be lost in Thine.</lines>
+      <lines>Consecrate me now to Thy service Lord, newline By the power of grace divine. newline Let my soul look up with a steadfast hope, newline And my will be lost in Thine.</lines>
     </verse>
     <verse name="v3">
-      <lines>Oh the pure delight of a single hour<br/>That before Thy throne I spend,<br/>When I kneel in prayer and with Thee my God,<br/>I commune as friend with friend!</lines>
+      <lines>Oh the pure delight of a single hour newline That before Thy throne I spend, newline When I kneel in prayer and with Thee my God, newline I commune as friend with friend!</lines>
     </verse>
     <verse name="v4">
-      <lines>There are depths of love that I cannot know<br/>Till I cross the narrow sea;<br/>There are heights of joy that I may not reach<br/>Till I rest in peace with Thee.</lines>
+      <lines>There are depths of love that I cannot know newline Till I cross the narrow sea; newline There are heights of joy that I may not reach newline Till I rest in peace with Thee.</lines>
     </verse>
   </lyrics>
 </song>

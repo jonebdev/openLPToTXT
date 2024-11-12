@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>إنني ربي عارفٌ ذنبي<br/>قد تقسيتُ وتهتُ عن دربي<br/>Innany raby arifun danby kad takasaytu wa tihtu an darby</lines>
+      <lines>إنني ربي عارفٌ ذنبي newline قد تقسيتُ وتهتُ عن دربي newline Innany raby arifun danby kad takasaytu wa tihtu an darby</lines>
     </verse>
     <verse name="c1">
-      <lines>اغسلني ربي بدما الصليب<br/>أنت يا من جئت بالفدا العجيب<br/>أدنو منك الآن يا مصدرَ الحنان<br/>أدنو منك الآن يا مانحَ الغفران<br/>Ighsilany raby bidimal saliby anta ya man ji'ta bilfidal ajeeby adnu minkal'an ya musdaral hanan adnoo minkal'an ya manihal ghufran</lines>
+      <lines>اغسلني ربي بدما الصليب newline أنت يا من جئت بالفدا العجيب newline أدنو منك الآن يا مصدرَ الحنان newline أدنو منك الآن يا مانحَ الغفران newline Ighsilany raby bidimal saliby anta ya man ji'ta bilfidal ajeeby adnu minkal'an ya musdaral hanan adnoo minkal'an ya manihal ghufran</lines>
     </verse>
     <verse name="v2">
-      <lines>في رحابِك ... في صليبِك<br/>أحظى بالسلام ... في ظلِ دمِك<br/>Fee rihabika, fee salibika ahda bisalam fee thily damika</lines>
+      <lines>في رحابِك ... في صليبِك newline أحظى بالسلام ... في ظلِ دمِك newline Fee rihabika, fee salibika ahda bisalam fee thily damika</lines>
     </verse>
     <verse name="v3">
-      <lines>أنت تدعوني ... أنت تهديني<br/>فيك راحتي ... وأنت تحييني<br/>Anta tad'uny, anta tahdiny feeka rahaty wa anta tuhyeeny</lines>
+      <lines>أنت تدعوني ... أنت تهديني newline فيك راحتي ... وأنت تحييني newline Anta tad'uny, anta tahdiny feeka rahaty wa anta tuhyeeny</lines>
     </verse>
   </lyrics>
 </song>

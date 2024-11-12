@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>There's a peace I've come to know<br/>though my heart and flesh may fail<br/>There's an anchor for my soul,<br/>I can say "it is well!"</lines>
+      <lines>There's a peace I've come to know newline though my heart and flesh may fail newline There's an anchor for my soul, newline I can say "it is well!"</lines>
     </verse>
     <verse name="v2">
-      <lines>Jesus has overcome and the grave is overwhelmed<br/>The victory is won,<br/>He has risen from the dead.</lines>
+      <lines>Jesus has overcome and the grave is overwhelmed newline The victory is won, newline He has risen from the dead.</lines>
     </verse>
     <verse name="v3">
-      <lines>And I will rise when he calls my name<br/>No more sorrow, no more pain,<br/>I will rise on eagle's wings,<br/>Before my God, fall on my knees<br/>And rise, I will rise</lines>
+      <lines>And I will rise when he calls my name newline No more sorrow, no more pain, newline I will rise on eagle's wings, newline Before my God, fall on my knees newline And rise, I will rise</lines>
     </verse>
     <verse name="v4">
-      <lines>There's a day that's drawing near,<br/>When the darkness breaks to light,<br/>And the shadows disappear<br/>and my faith shall be my eyes</lines>
+      <lines>There's a day that's drawing near, newline When the darkness breaks to light, newline And the shadows disappear newline and my faith shall be my eyes</lines>
     </verse>
     <verse name="v5">
-      <lines>And I hear the voice of many angles sing<br/>Worthy is the lamb<br/>And I hear the cry of every longing heart<br/>Worthy is the lamb.</lines>
+      <lines>And I hear the voice of many angles sing newline Worthy is the lamb newline And I hear the cry of every longing heart newline Worthy is the lamb.</lines>
     </verse>
   </lyrics>
 </song>

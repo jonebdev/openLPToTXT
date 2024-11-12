@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Lead on, O King Eternal.<br/>The day of march has come;<br/>Henceforth in fields of conquest<br/>Thy tents shall be our home.<br/>Thro' days of preparation<br/>Thy grace has made us strong;<br/>And now, O King eternal,<br/>We lift our battle song.</lines>
+      <lines>Lead on, O King Eternal. newline The day of march has come; newline Henceforth in fields of conquest newline Thy tents shall be our home. newline Thro' days of preparation newline Thy grace has made us strong; newline And now, O King eternal, newline We lift our battle song.</lines>
     </verse>
     <verse name="v2">
-      <lines>Lead on, O King Eternal,<br/>Till sin's fierce war shall cease,<br/>And holiness shall whisper<br/>The sweet Amen of peace.<br/>For not with swords loud clashing,<br/>Nor roll of stirring drums;<br/>With deeds of love and mercy,<br/>The heav'nly kingdom comes.</lines>
+      <lines>Lead on, O King Eternal, newline Till sin's fierce war shall cease, newline And holiness shall whisper newline The sweet Amen of peace. newline For not with swords loud clashing, newline Nor roll of stirring drums; newline With deeds of love and mercy, newline The heav'nly kingdom comes.</lines>
     </verse>
     <verse name="v3">
-      <lines>Lead on, O King Eternal,<br/>We follow, not with fears;<br/>For gladness breaks like morning<br/>Where'er Thy face appears.<br/>Thy cross is lifted o'er us;<br/>We journey in its light.<br/>The crown awaits the conquest;<br/>Lead on, O God of might.</lines>
+      <lines>Lead on, O King Eternal, newline We follow, not with fears; newline For gladness breaks like morning newline Where'er Thy face appears. newline Thy cross is lifted o'er us; newline We journey in its light. newline The crown awaits the conquest; newline Lead on, O God of might.</lines>
     </verse>
   </lyrics>
 </song>

@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Wonderful Savior, wonderful Savior,<br/>Thou art so near, so precious to me!<br/>Wonderful Savior, wonderful Savior<br/>My heart is filled with praises to Thee.</lines>
+      <lines>Wonderful Savior, wonderful Savior, newline Thou art so near, so precious to me! newline Wonderful Savior, wonderful Savior newline My heart is filled with praises to Thee.</lines>
     </verse>
     <verse name="v1">
-      <lines>Jesus, my King, my wonderful Savior,<br/>All of my life is given to Thee.<br/>I am rejoicing in Thy salvation.<br/>Thy precious blood now maketh me free.</lines>
+      <lines>Jesus, my King, my wonderful Savior, newline All of my life is given to Thee. newline I am rejoicing in Thy salvation. newline Thy precious blood now maketh me free.</lines>
     </verse>
     <verse name="v2">
-      <lines>Freedom from sin, O wonderful story!<br/>All of its stains washed whiter than snow!<br/>Jesus has come to live in His temple,<br/>And with His love my heart is aglow.</lines>
+      <lines>Freedom from sin, O wonderful story! newline All of its stains washed whiter than snow! newline Jesus has come to live in His temple, newline And with His love my heart is aglow.</lines>
     </verse>
     <verse name="v3">
-      <lines>Jesus, my Lord, I'll ever adore Thee,<br/>Lay at Thy feet my treasures of love.<br/>Lead me in ways to show forth Thy glory,<br/>Ways that will end in heaven above.</lines>
+      <lines>Jesus, my Lord, I'll ever adore Thee, newline Lay at Thy feet my treasures of love. newline Lead me in ways to show forth Thy glory, newline Ways that will end in heaven above.</lines>
     </verse>
     <verse name="v4">
-      <lines>When in that bright and beautiful city<br/>I shall behold Thy glories untold,<br/>I shall be like Thee, wonderful Savior,<br/>And I will sing while ages unfold.</lines>
+      <lines>When in that bright and beautiful city newline I shall behold Thy glories untold, newline I shall be like Thee, wonderful Savior, newline And I will sing while ages unfold.</lines>
     </verse>
   </lyrics>
 </song>

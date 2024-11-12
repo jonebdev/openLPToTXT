@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>مبارك الرب إلهنا<br/>لأنه افتقد شعبه<br/>وصنع فداء لشعبه<br/>وصنع فداء لشعبه</lines>
+      <lines>مبارك الرب إلهنا newline لأنه افتقد شعبه newline وصنع فداء لشعبه newline وصنع فداء لشعبه</lines>
     </verse>
     <verse name="v1b">
-      <lines>ليضيء على الجالسين<br/>في الظلمة وظلال الموت<br/>لكي يهدي أقدامنا)<br/>في طريق السلام)2)</lines>
+      <lines>ليضيء على الجالسين newline في الظلمة وظلال الموت newline لكي يهدي أقدامنا) newline في طريق السلام)2)</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Open the Eyes of my Heart Lord<br/>Open the Eyes of my Heart<br/>I want to see you,<br/>I want to see you</lines>
+      <lines>Open the Eyes of my Heart Lord newline Open the Eyes of my Heart newline I want to see you, newline I want to see you</lines>
     </verse>
     <verse name="v2">
-      <lines>To see you high and lifted up<br/>Shining in the light of your glory<br/>Pour out your power and love<br/>as we sing holy, holy, holy</lines>
+      <lines>To see you high and lifted up newline Shining in the light of your glory newline Pour out your power and love newline as we sing holy, holy, holy</lines>
     </verse>
     <verse name="v3">
-      <lines>Holy, Holy, Holy,<br/>Holy, Holy, Holy,<br/>Holy, holy, holy...<br/>I want to see you.</lines>
+      <lines>Holy, Holy, Holy, newline Holy, Holy, Holy, newline Holy, holy, holy... newline I want to see you.</lines>
     </verse>
   </lyrics>
 </song>

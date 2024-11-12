@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>رنموا للاله باركوا اسمه<br/>الهنا مهوب</lines>
+      <lines>رنموا للاله باركوا اسمه newline الهنا مهوب</lines>
     </verse>
     <verse name="v2">
-      <lines>حدثوا الجميع باعماله<br/>الهنا مهوب</lines>
+      <lines>حدثوا الجميع باعماله newline الهنا مهوب</lines>
     </verse>
     <verse name="v3">
-      <lines>اعدوا الطريق للراكب في القفار<br/>لان الهنا رب جباريقوم يبيد كل الاشرار<br/>الهنا مهوب</lines>
+      <lines>اعدوا الطريق للراكب في القفار newline لان الهنا رب جباريقوم يبيد كل الاشرار newline الهنا مهوب</lines>
     </verse>
     <verse name="v4">
-      <lines>الهنا مهوب علي الالهة<br/>مجدا مجدا له<br/>الهنا مهوب</lines>
+      <lines>الهنا مهوب علي الالهة newline مجدا مجدا له newline الهنا مهوب</lines>
     </verse>
   </lyrics>
 </song>

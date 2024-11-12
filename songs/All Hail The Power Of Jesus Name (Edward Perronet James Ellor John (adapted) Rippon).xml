@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>And crown Him crown Him,<br/>Crown Him crown Him,<br/>And crown Him Lord of all.</lines>
+      <lines>And crown Him crown Him, newline Crown Him crown Him, newline And crown Him Lord of all.</lines>
     </verse>
     <verse name="v1">
-      <lines>All hail the pow'r of Jesus' name,<br/>Let angels prostrate fall,<br/>Let angels prostrate fall,<br/>Bring forth the royal diadem.</lines>
+      <lines>All hail the pow'r of Jesus' name, newline Let angels prostrate fall, newline Let angels prostrate fall, newline Bring forth the royal diadem.</lines>
     </verse>
     <verse name="v2">
-      <lines>Ye chosen seed of Israel's race,<br/>Ye ransomed from the fall,<br/>Ye ransomed from the fall,<br/>Hail Him who saves you by His grace.</lines>
+      <lines>Ye chosen seed of Israel's race, newline Ye ransomed from the fall, newline Ye ransomed from the fall, newline Hail Him who saves you by His grace.</lines>
     </verse>
     <verse name="v3">
-      <lines>Let every kindred ev'ry tribe,<br/>On this terrestrial ball,<br/>On this terrestrial ball,<br/>To Him all majesty ascribe.</lines>
+      <lines>Let every kindred ev'ry tribe, newline On this terrestrial ball, newline On this terrestrial ball, newline To Him all majesty ascribe.</lines>
     </verse>
     <verse name="v4">
-      <lines>O that with yonder sacred throng,<br/>We at His feet may fall,<br/>We at His feet may fall,<br/>We'll join the everlasting song.</lines>
+      <lines>O that with yonder sacred throng, newline We at His feet may fall, newline We at His feet may fall, newline We'll join the everlasting song.</lines>
     </verse>
   </lyrics>
 </song>

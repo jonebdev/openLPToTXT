@@ -11,25 +11,25 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>What a wonderful Savior,<br/>Is Jesus my Jesus!<br/>What a wonderful Savior,<br/>Is Jesus my Lord!</lines>
+      <lines>What a wonderful Savior, newline Is Jesus my Jesus! newline What a wonderful Savior, newline Is Jesus my Lord!</lines>
     </verse>
     <verse name="v1">
-      <lines>Christ has for sin atonement made;<br/>What a wonderful Savior!<br/>We are redeemed, the price is paid;<br/>What a wonderful Savior!</lines>
+      <lines>Christ has for sin atonement made; newline What a wonderful Savior! newline We are redeemed, the price is paid; newline What a wonderful Savior!</lines>
     </verse>
     <verse name="v2">
-      <lines>I praise Him for the cleansing blood;<br/>What a wonderful Savior!<br/>That reconciled my soul to God;<br/>What a wonderful Savior!</lines>
+      <lines>I praise Him for the cleansing blood; newline What a wonderful Savior! newline That reconciled my soul to God; newline What a wonderful Savior!</lines>
     </verse>
     <verse name="v3">
-      <lines>He cleansed my heart from all its sin;<br/>What a wonderful Savior!<br/>And now He reigns and rules therein;<br/>What a wonderful Savior!</lines>
+      <lines>He cleansed my heart from all its sin; newline What a wonderful Savior! newline And now He reigns and rules therein; newline What a wonderful Savior!</lines>
     </verse>
     <verse name="v4">
-      <lines>He gives me overcoming power;<br/>What a wonderful Savior!<br/>And triumph in each trying hour;<br/>What a wonderful Savior!</lines>
+      <lines>He gives me overcoming power; newline What a wonderful Savior! newline And triumph in each trying hour; newline What a wonderful Savior!</lines>
     </verse>
     <verse name="v5">
-      <lines>To Him I've given all my heart;<br/>What a wonderful Savior!<br/>The world shall never share a part;<br/>What a wonderful Savior!</lines>
+      <lines>To Him I've given all my heart; newline What a wonderful Savior! newline The world shall never share a part; newline What a wonderful Savior!</lines>
     </verse>
     <verse name="v6">
-      <lines>He walks beside me in the way;<br/>What a wonderful Savior!<br/>And keeps me faithful day by day;<br/>What a wonderful Savior!</lines>
+      <lines>He walks beside me in the way; newline What a wonderful Savior! newline And keeps me faithful day by day; newline What a wonderful Savior!</lines>
     </verse>
   </lyrics>
 </song>

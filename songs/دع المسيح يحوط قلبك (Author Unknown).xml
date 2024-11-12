@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>دع المسيح يحوط قلبك<br/>بروح حبه<br/>وغامراً بفيض<br/>من سلامه</lines>
+      <lines>دع المسيح يحوط قلبك newline بروح حبه newline وغامراً بفيض newline من سلامه</lines>
     </verse>
     <verse name="v1b">
-      <lines>دع المسيح يحطم قيدك<br/>وبروحه الأمين<br/>هو يقود<br/>ويثبت خطاك</lines>
+      <lines>دع المسيح يحطم قيدك newline وبروحه الأمين newline هو يقود newline ويثبت خطاك</lines>
     </verse>
     <verse name="c1">
-      <lines>يسوع ... يا يسوع<br/>بارك شعبك<br/>يسوع ... يا يسوع<br/>بارك شعبك</lines>
+      <lines>يسوع ... يا يسوع newline بارك شعبك newline يسوع ... يا يسوع newline بارك شعبك</lines>
     </verse>
     <verse name="v1c">
-      <lines>تعال أنشد له ورنم<br/>من عمق قلبكسمعاً لصوته<br/>مسلماً أمرك</lines>
+      <lines>تعال أنشد له ورنم newline من عمق قلبكسمعاً لصوته newline مسلماً أمرك</lines>
     </verse>
     <verse name="v1d">
-      <lines>سيمحو كل سنين تعبك<br/>ودموع حزنك<br/>وستحظى بالحياة<br/>فى اسمه</lines>
+      <lines>سيمحو كل سنين تعبك newline ودموع حزنك newline وستحظى بالحياة newline فى اسمه</lines>
     </verse>
   </lyrics>
 </song>

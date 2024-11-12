@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>يسوع هو السكة تاع الدنيا)3)<br/>سكة تاني ما في .. إلا يسوع)3)</lines>
+      <lines>يسوع هو السكة تاع الدنيا)3) newline سكة تاني ما في .. إلا يسوع)3)</lines>
     </verse>
     <verse name="v2">
-      <lines>يسوع هو النور تاع الدنيا)3)<br/>نور تاني ما في .. إلا يسوع)3</lines>
+      <lines>يسوع هو النور تاع الدنيا)3) newline نور تاني ما في .. إلا يسوع)3</lines>
     </verse>
     <verse name="v3">
-      <lines>يسوع هو باب تاع السما)3<br/>باب تاني ما في .. إلا يسوع)3</lines>
+      <lines>يسوع هو باب تاع السما)3 newline باب تاني ما في .. إلا يسوع)3</lines>
     </verse>
   </lyrics>
 </song>

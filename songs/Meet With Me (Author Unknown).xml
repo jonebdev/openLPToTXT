@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I am here to meet with You<br/>Come and meet with me<br/>I am here to find you<br/>Reveal Yourself to me</lines>
+      <lines>I am here to meet with You newline Come and meet with me newline I am here to find you newline Reveal Yourself to me</lines>
     </verse>
     <verse name="v2">
-      <lines>As I wait, You make me strong<br/>As I long, You draw me to Your arms<br/>As stand, and sing Your praise<br/>You come, You come and You fill this place</lines>
+      <lines>As I wait, You make me strong newline As I long, You draw me to Your arms newline As stand, and sing Your praise newline You come, You come and You fill this place</lines>
     </verse>
   </lyrics>
 </song>

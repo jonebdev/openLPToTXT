@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Lost for words with all to say,<br/>Lord You take my breath away,<br/>Still my soul, my soul cries out,<br/>You are Holy.</lines>
+      <lines>Lost for words with all to say, newline Lord You take my breath away, newline Still my soul, my soul cries out, newline You are Holy.</lines>
     </verse>
     <verse name="v2">
-      <lines>And as I look upon Your name,<br/>Circumstances fade away<br/>And now Your glory steals my heart,<br/>You are Holy<br/>You are Holy<br/>You are Holy Lord.</lines>
+      <lines>And as I look upon Your name, newline Circumstances fade away newline And now Your glory steals my heart, newline You are Holy newline You are Holy newline You are Holy Lord.</lines>
     </verse>
     <verse name="c1">
-      <lines>Evermore my heart, my heart, will say<br/>Above all<br/>I live for Your glory<br/>Even if my world falls I will say<br/>Above all<br/>I live for Your Glory</lines>
+      <lines>Evermore my heart, my heart, will say newline Above all newline I live for Your glory newline Even if my world falls I will say newline Above all newline I live for Your Glory</lines>
     </verse>
   </lyrics>
 </song>

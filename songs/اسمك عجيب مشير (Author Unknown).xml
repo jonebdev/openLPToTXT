@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>اسمك عجيب مشير قدير<br/>نرفع اسمك في كل الأرض<br/>Ismuka ajibun mushirun kadirun<br/>narfa' usmaka fee kulil ard</lines>
+      <lines>اسمك عجيب مشير قدير newline نرفع اسمك في كل الأرض newline Ismuka ajibun mushirun kadirun newline narfa' usmaka fee kulil ard</lines>
     </verse>
     <verse name="v1b">
-      <lines>نرفع اسمك ... نرفع اسمك<br/>نرفع اسمك في كل الأرض<br/>(Narfa' usmaka)3 fee kulil ard</lines>
+      <lines>نرفع اسمك ... نرفع اسمك newline نرفع اسمك في كل الأرض newline (Narfa' usmaka)3 fee kulil ard</lines>
     </verse>
   </lyrics>
 </song>

@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Come, Thou Almighty King.<br/>Help us Thy name to sing.<br/>Help us to praise.<br/>Father, all glorious,<br/>O'er all victorious.<br/>Come and reign over us,<br/>Ancient of Days.</lines>
+      <lines>Come, Thou Almighty King. newline Help us Thy name to sing. newline Help us to praise. newline Father, all glorious, newline O'er all victorious. newline Come and reign over us, newline Ancient of Days.</lines>
     </verse>
     <verse name="v2">
-      <lines>Come, Thou Incarnate Word,<br/>Gird on Thy mighty sword,<br/>Our prayer attend.<br/>Come, and Thy people bless,<br/>And give Thy Word success.<br/>Spirit of holiness,<br/>On us descend.</lines>
+      <lines>Come, Thou Incarnate Word, newline Gird on Thy mighty sword, newline Our prayer attend. newline Come, and Thy people bless, newline And give Thy Word success. newline Spirit of holiness, newline On us descend.</lines>
     </verse>
     <verse name="v3">
-      <lines>Come, Holy Comforter,<br/>Thy sacred witness bear<br/>In this glad hour.<br/>Thou who almighty art,<br/>Now rule in every heart;<br/>And ne'er from us depart,<br/>Spirit of power.</lines>
+      <lines>Come, Holy Comforter, newline Thy sacred witness bear newline In this glad hour. newline Thou who almighty art, newline Now rule in every heart; newline And ne'er from us depart, newline Spirit of power.</lines>
     </verse>
     <verse name="v4">
-      <lines>To the great One in Three<br/>Eternal praises be<br/>Hence evermore.<br/>His sovereign majesty<br/>May we in glory see,<br/>And to eternity<br/>Love and adore.</lines>
+      <lines>To the great One in Three newline Eternal praises be newline Hence evermore. newline His sovereign majesty newline May we in glory see, newline And to eternity newline Love and adore.</lines>
     </verse>
     <verse name="v5">
-      <lines>O Lord, our God, to Thee<br/>The highest praises be,<br/>Hence, evermore;<br/>Thy sov'reign majesty<br/>May we in glory see,<br/>And to eternity<br/>Love and adore.</lines>
+      <lines>O Lord, our God, to Thee newline The highest praises be, newline Hence, evermore; newline Thy sov'reign majesty newline May we in glory see, newline And to eternity newline Love and adore.</lines>
     </verse>
   </lyrics>
 </song>

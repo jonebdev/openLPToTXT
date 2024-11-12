@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>ربى انت لى الصديق<br/>شخصك نعم الرفيق<br/>قائد لى فى الطريق<br/>مرشد فى غربتى</lines>
+      <lines>ربى انت لى الصديق newline شخصك نعم الرفيق newline قائد لى فى الطريق newline مرشد فى غربتى</lines>
     </verse>
     <verse name="v2">
-      <lines>من سواك ارتجئ<br/>من اليه التجئ<br/>فى حماه اختبئ<br/>غيرك يا سيدى</lines>
+      <lines>من سواك ارتجئ newline من اليه التجئ newline فى حماه اختبئ newline غيرك يا سيدى</lines>
     </verse>
     <verse name="v3">
-      <lines>يا الهى انت لى<br/>فرحى وبهجتى<br/>فيك انت راحتى<br/>انت كل منيتى</lines>
+      <lines>يا الهى انت لى newline فرحى وبهجتى newline فيك انت راحتى newline انت كل منيتى</lines>
     </verse>
   </lyrics>
 </song>

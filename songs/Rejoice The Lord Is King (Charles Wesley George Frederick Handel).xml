@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Lift up your heart, lift up your voice;<br/>Rejoice; again I say, rejoice.</lines>
+      <lines>Lift up your heart, lift up your voice; newline Rejoice; again I say, rejoice.</lines>
     </verse>
     <verse name="c2">
-      <lines>We soon shall hear the archangel's voice;<br/>The trump of God shall sound, rejoice!</lines>
+      <lines>We soon shall hear the archangel's voice; newline The trump of God shall sound, rejoice!</lines>
     </verse>
     <verse name="v1">
-      <lines>Rejoice, the Lord is King!<br/>Your Lord and King adore;<br/>Mortals, give thanks and sing,<br/>And triumph evermore.</lines>
+      <lines>Rejoice, the Lord is King! newline Your Lord and King adore; newline Mortals, give thanks and sing, newline And triumph evermore.</lines>
     </verse>
     <verse name="v2">
-      <lines>Jesus the Savior reigns,<br/>The God of truth and love;<br/>When He had purged our stains,<br/>He took His seat above.</lines>
+      <lines>Jesus the Savior reigns, newline The God of truth and love; newline When He had purged our stains, newline He took His seat above.</lines>
     </verse>
     <verse name="v3">
-      <lines>His kingdom cannot fail;<br/>He rules o'er earth and heaven;<br/>The keys of earth and hell<br/>Are to our Jesus given.</lines>
+      <lines>His kingdom cannot fail; newline He rules o'er earth and heaven; newline The keys of earth and hell newline Are to our Jesus given.</lines>
     </verse>
     <verse name="v4">
-      <lines>Rejoice in glorious hope!<br/>Jesus the Judge shall come<br/>And take His servants up<br/>To their eternal home.</lines>
+      <lines>Rejoice in glorious hope! newline Jesus the Judge shall come newline And take His servants up newline To their eternal home.</lines>
     </verse>
   </lyrics>
 </song>

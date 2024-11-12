@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>كل ما يأتي إلى النهر يحيا<br/>كل ما يأتي إليه النهر يحيا الأن</lines>
+      <lines>كل ما يأتي إلى النهر يحيا newline كل ما يأتي إليه النهر يحيا الأن</lines>
     </verse>
     <verse name="v2">
       <lines>تنفجر المياة من نبع الحياة من صخر الدهور .. يسوع</lines>
     </verse>
     <verse name="v3">
-      <lines>و تعطي حياة<br/>تعطي شفاء<br/>تعطي آخرة<br/>تعطي رجاء</lines>
+      <lines>و تعطي حياة newline تعطي شفاء newline تعطي آخرة newline تعطي رجاء</lines>
     </verse>
   </lyrics>
 </song>

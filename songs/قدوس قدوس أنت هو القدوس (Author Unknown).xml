@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>قدوس قدوس<br/>أنت هو القدوس<br/>يا من وعدتنا<br/>بالسكنى والجلوس<br/>وسط ذا التسبيح<br/>أملك أيا قدوس<br/>أنت هو القدوس</lines>
+      <lines>قدوس قدوس newline أنت هو القدوس newline يا من وعدتنا newline بالسكنى والجلوس newline وسط ذا التسبيح newline أملك أيا قدوس newline أنت هو القدوس</lines>
     </verse>
     <verse name="v1">
-      <lines>نحن شعبك<br/>وغنم مرعاك<br/>نحن ملكك<br/>ونبتغي رضاك<br/>نعظم اسمك<br/>نعظم فتاك<br/>أنت هو القدوس)2)</lines>
+      <lines>نحن شعبك newline وغنم مرعاك newline نحن ملكك newline ونبتغي رضاك newline نعظم اسمك newline نعظم فتاك newline أنت هو القدوس)2)</lines>
     </verse>
     <verse name="v2">
-      <lines>ليس غيرك<br/>يقدس الحياة<br/>أنت وحدك<br/>تخلص الخطاة<br/>ليس مثلك<br/>قدوس يا الله<br/>أنت هو القدوس)2)</lines>
+      <lines>ليس غيرك newline يقدس الحياة newline أنت وحدك newline تخلص الخطاة newline ليس مثلك newline قدوس يا الله newline أنت هو القدوس)2)</lines>
     </verse>
     <verse name="v3">
-      <lines>يا رأسنا المسيح<br/>تعال واستريح<br/>وسط أغانينا<br/>في وسط ذا التسبيح<br/>طهر أراضينا<br/>واشفي الجريح<br/>أنت هو القدوس)2)</lines>
+      <lines>يا رأسنا المسيح newline تعال واستريح newline وسط أغانينا newline في وسط ذا التسبيح newline طهر أراضينا newline واشفي الجريح newline أنت هو القدوس)2)</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>One thing I know that I have found<br/>Through all the troubles that surround<br/>You are the Rock that never fails, you never fail.</lines>
+      <lines>One thing I know that I have found newline Through all the troubles that surround newline You are the Rock that never fails, you never fail.</lines>
     </verse>
     <verse name="v2">
-      <lines>One thing I know, that I believe<br/>Through every blessing I receive<br/>You are the only one that stays, You always stay</lines>
+      <lines>One thing I know, that I believe newline Through every blessing I receive newline You are the only one that stays, You always stay</lines>
     </verse>
     <verse name="v3">
-      <lines>You never change, You're still the same<br/>You are the everlasting God<br/>You will remain after the day is gone<br/>And the things of earth have passed<br/>Everlasting God.</lines>
+      <lines>You never change, You're still the same newline You are the everlasting God newline You will remain after the day is gone newline And the things of earth have passed newline Everlasting God.</lines>
     </verse>
   </lyrics>
 </song>

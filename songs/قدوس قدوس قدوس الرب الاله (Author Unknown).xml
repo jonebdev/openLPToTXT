@@ -11,25 +11,25 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>مستحق هو الحمل<br/>المذبوح عنا<br/>ان ياخذ المجد .. والكرامة<br/>والســلطان للأبد</lines>
+      <lines>مستحق هو الحمل newline المذبوح عنا newline ان ياخذ المجد .. والكرامة newline والســلطان للأبد</lines>
     </verse>
     <verse name="c1a">
       <lines/>
     </verse>
     <verse name="c1b">
-      <lines>قدوس قدوس قدوس<br/>هو الرب الاله القادر على كل شئ</lines>
+      <lines>قدوس قدوس قدوس newline هو الرب الاله القادر على كل شئ</lines>
     </verse>
     <verse name="c1c">
-      <lines>الكائن وقد كان و الذى سوف ياتى<br/>أمام عرشك انحنى اعبدك</lines>
+      <lines>الكائن وقد كان و الذى سوف ياتى newline أمام عرشك انحنى اعبدك</lines>
     </verse>
     <verse name="v2">
-      <lines>وجه يلمع مثل الشمس<br/>عيناه لهيب نار<br/>صوته صوت مياه كثيره<br/>صوته يخلق الحياة</lines>
+      <lines>وجه يلمع مثل الشمس newline عيناه لهيب نار newline صوته صوت مياه كثيره newline صوته يخلق الحياة</lines>
     </verse>
     <verse name="v3">
-      <lines>وجهه يلمع مثل الشمس<br/>عيناه لهيب نار<br/>حول عرشه نار بروق و رعود<br/>مجدا للحى للآبد</lines>
+      <lines>وجهه يلمع مثل الشمس newline عيناه لهيب نار newline حول عرشه نار بروق و رعود newline مجدا للحى للآبد</lines>
     </verse>
     <verse name="v4">
-      <lines>اسمك حلو .. يسبى قلبى<br/>و يملأنى عجبا<br/>يسوع اسمك قوة<br/>نهر مياه حية<br/>اســمك سر عجيب</lines>
+      <lines>اسمك حلو .. يسبى قلبى newline و يملأنى عجبا newline يسوع اسمك قوة newline نهر مياه حية newline اســمك سر عجيب</lines>
     </verse>
   </lyrics>
 </song>

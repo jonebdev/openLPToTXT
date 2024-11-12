@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>O beautiful for spacious skies,<br/>For amber waves of grain,<br/>For purple mountains majesties<br/>Above the fruited plain!<br/>America! America!<br/>God shed His grace on thee,<br/>And crown thy good with brotherhood<br/>From sea to shining sea!</lines>
+      <lines>O beautiful for spacious skies, newline For amber waves of grain, newline For purple mountains majesties newline Above the fruited plain! newline America! America! newline God shed His grace on thee, newline And crown thy good with brotherhood newline From sea to shining sea!</lines>
     </verse>
     <verse name="v2">
-      <lines>O beautiful for pilgrim feet,<br/>Whose stern, impassioned stress<br/>A thoroughfare for freedom beat<br/>Across the wilderness!<br/>America! America!<br/>God mend thine ev'ry flaw.<br/>Confirm thy soul in self control,<br/>Thy liberty in law!</lines>
+      <lines>O beautiful for pilgrim feet, newline Whose stern, impassioned stress newline A thoroughfare for freedom beat newline Across the wilderness! newline America! America! newline God mend thine ev'ry flaw. newline Confirm thy soul in self control, newline Thy liberty in law!</lines>
     </verse>
     <verse name="v3">
-      <lines>O beautiful for heroes proved<br/>In liberating strife,<br/>Who more than self their country loved,<br/>And mercy more than life!<br/>America! America!<br/>May God thy gold refine<br/>Till all success be nobleness<br/>And every gain divine!</lines>
+      <lines>O beautiful for heroes proved newline In liberating strife, newline Who more than self their country loved, newline And mercy more than life! newline America! America! newline May God thy gold refine newline Till all success be nobleness newline And every gain divine!</lines>
     </verse>
     <verse name="v4">
-      <lines>O beautiful for patriot dream<br/>That sees beyond the years<br/>Thine alabaster cities gleam,<br/>Undimmed by human tears!<br/>America! America!<br/>God shed His grace on thee,<br/>And crown thy good with brotherhood<br/>From sea to shining sea.</lines>
+      <lines>O beautiful for patriot dream newline That sees beyond the years newline Thine alabaster cities gleam, newline Undimmed by human tears! newline America! America! newline God shed His grace on thee, newline And crown thy good with brotherhood newline From sea to shining sea.</lines>
     </verse>
     <verse name="v5">
-      <lines>O beautiful for men of faith<br/>Who founded this great land;<br/>Proclaimed for us, "In God we trust,"<br/>And held to God's strong hand.<br/>America! America!<br/>God shed His grace on thee<br/>Till lives confess His righteousness<br/>From sea to shining sea.</lines>
+      <lines>O beautiful for men of faith newline Who founded this great land; newline Proclaimed for us, "In God we trust," newline And held to God's strong hand. newline America! America! newline God shed His grace on thee newline Till lives confess His righteousness newline From sea to shining sea.</lines>
     </verse>
   </lyrics>
 </song>

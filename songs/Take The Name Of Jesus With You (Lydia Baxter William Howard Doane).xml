@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Precious name, O how sweet!<br/>Hope of earth and joy of heaven.<br/>Precious name, O how sweet!<br/>Hope of earth and joy of heaven.</lines>
+      <lines>Precious name, O how sweet! newline Hope of earth and joy of heaven. newline Precious name, O how sweet! newline Hope of earth and joy of heaven.</lines>
     </verse>
     <verse name="v1">
-      <lines>Take the name of Jesus with you.<br/>Child of sorrow and of woe.<br/>It will joy and comfort give you;<br/>Take it then where'er you go.</lines>
+      <lines>Take the name of Jesus with you. newline Child of sorrow and of woe. newline It will joy and comfort give you; newline Take it then where'er you go.</lines>
     </verse>
     <verse name="v2">
-      <lines>Take the name of Jesus ever,<br/>As a shield from every snare.<br/>If temptations round you gather,<br/>Breathe that holy name in prayer.</lines>
+      <lines>Take the name of Jesus ever, newline As a shield from every snare. newline If temptations round you gather, newline Breathe that holy name in prayer.</lines>
     </verse>
     <verse name="v3">
-      <lines>O the precious name of Jesus!<br/>How it thrills our souls with joy.<br/>When His loving arms receive us<br/>And His songs our tongues employ!</lines>
+      <lines>O the precious name of Jesus! newline How it thrills our souls with joy. newline When His loving arms receive us newline And His songs our tongues employ!</lines>
     </verse>
     <verse name="v4">
-      <lines>At the name of Jesus bowing,<br/>Falling prostrate at His feet.<br/>King of kings in heaven we'll crown Him,<br/>When our journey is complete.</lines>
+      <lines>At the name of Jesus bowing, newline Falling prostrate at His feet. newline King of kings in heaven we'll crown Him, newline When our journey is complete.</lines>
     </verse>
   </lyrics>
 </song>

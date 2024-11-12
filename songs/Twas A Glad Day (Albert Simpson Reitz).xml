@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>'Twas a glad day when Jesus found me.<br/>When His strong arms were thrown around me,<br/>When my sins He buried in the deepest sea,<br/>And my soul He filled with joy and victory.<br/>'Twas a glad day, O hallelujah.<br/>'Twas a glad day He claimed His own.<br/>I will shout a glad hosanna in glory,<br/>When I see Him upon His throne.</lines>
+      <lines>'Twas a glad day when Jesus found me. newline When His strong arms were thrown around me, newline When my sins He buried in the deepest sea, newline And my soul He filled with joy and victory. newline 'Twas a glad day, O hallelujah. newline 'Twas a glad day He claimed His own. newline I will shout a glad hosanna in glory, newline When I see Him upon His throne.</lines>
     </verse>
     <verse name="v1">
-      <lines>I was lost in sin when Jesus found me.<br/>But He rescued me, all glory to His name.<br/>And the cords of worldly pleasure bound me,<br/>'Til He saved me from sin and shame.</lines>
+      <lines>I was lost in sin when Jesus found me. newline But He rescued me, all glory to His name. newline And the cords of worldly pleasure bound me, newline 'Til He saved me from sin and shame.</lines>
     </verse>
     <verse name="v2">
-      <lines>Oh, the bells of heaven now are ringing,<br/>For I hear their tones within my ransomed soul.<br/>And my heart is filled with joyful singing,<br/>Since the Savior hath made me whole.</lines>
+      <lines>Oh, the bells of heaven now are ringing, newline For I hear their tones within my ransomed soul. newline And my heart is filled with joyful singing, newline Since the Savior hath made me whole.</lines>
     </verse>
     <verse name="v3">
-      <lines>Oh, the joy when we shall meet in glory,<br/>In the mansions of my Father's home above.<br/>And through endless ages tell the story,<br/>Of the Savior's redeeming love.</lines>
+      <lines>Oh, the joy when we shall meet in glory, newline In the mansions of my Father's home above. newline And through endless ages tell the story, newline Of the Savior's redeeming love.</lines>
     </verse>
   </lyrics>
 </song>

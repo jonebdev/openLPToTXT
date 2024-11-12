@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>زيت زيادة فيض علينا<br/>زيت زيادة إملأ أيدينا<br/>زيت زيادة إمسحنا يا الله</lines>
+      <lines>زيت زيادة فيض علينا newline زيت زيادة إملأ أيدينا newline زيت زيادة إمسحنا يا الله</lines>
     </verse>
     <verse name="v2">
-      <lines>و يزداد و يزداد و يزداد و يزداد<br/>المجد بيننا</lines>
+      <lines>و يزداد و يزداد و يزداد و يزداد newline المجد بيننا</lines>
     </verse>
     <verse name="v3">
-      <lines>و يزداد و يزداد و يزداد و يزداد<br/>يسوع في وسطنا</lines>
+      <lines>و يزداد و يزداد و يزداد و يزداد newline يسوع في وسطنا</lines>
     </verse>
   </lyrics>
 </song>

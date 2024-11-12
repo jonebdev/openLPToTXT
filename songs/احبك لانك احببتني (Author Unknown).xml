@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>احبك لانك احببتني<br/>لانك غفرت لي<br/>خلصتني</lines>
+      <lines>احبك لانك احببتني newline لانك غفرت لي newline خلصتني</lines>
     </verse>
     <verse name="v2">
-      <lines>عني ذبحت<br/>عاري حملت علي الصليب<br/>يا يسوع حبك عجيب<br/>حبك عجيب</lines>
+      <lines>عني ذبحت newline عاري حملت علي الصليب newline يا يسوع حبك عجيب newline حبك عجيب</lines>
     </verse>
     <verse name="v3">
-      <lines>و اذ و نحن بعد خطاة<br/>مات المسيح من أجلنا<br/>مات المسيح<br/>مات و قام<br/>من أجلتا</lines>
+      <lines>و اذ و نحن بعد خطاة newline مات المسيح من أجلنا newline مات المسيح newline مات و قام newline من أجلتا</lines>
     </verse>
     <verse name="v4">
-      <lines>ليس حب مثل حبك<br/>ليس حب مثل حبك<br/>ليس حب مثل حبك ... لي</lines>
+      <lines>ليس حب مثل حبك newline ليس حب مثل حبك newline ليس حب مثل حبك ... لي</lines>
     </verse>
   </lyrics>
 </song>

@@ -11,10 +11,10 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>For Jesus is my Savior<br/>He paid my debt on Calv'ry's mountain;<br/>I'm happy in His wondrous love<br/>I'm drinking, yes,<br/>I'm drinking at the fountain.</lines>
+      <lines>For Jesus is my Savior newline He paid my debt on Calv'ry's mountain; newline I'm happy in His wondrous love newline I'm drinking, yes, newline I'm drinking at the fountain.</lines>
     </verse>
     <verse name="v1">
-      <lines>A robe of white, a crown of gold,<br/>A harp, a home, a mansion fair;<br/>A victor's palm and joy untold,<br/>Are mine when I get there.</lines>
+      <lines>A robe of white, a crown of gold, newline A harp, a home, a mansion fair; newline A victor's palm and joy untold, newline Are mine when I get there.</lines>
     </verse>
   </lyrics>
 </song>

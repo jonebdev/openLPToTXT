@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>أحمدك<br/>أحمدك يا رب بين الشعوب<br/>وأرنم ... وأرنم لك بين الأمم</lines>
+      <lines>أحمدك newline أحمدك يا رب بين الشعوب newline وأرنم ... وأرنم لك بين الأمم</lines>
     </verse>
     <verse name="v1">
-      <lines>لأن رحمتُك قد عظُمت<br/>قد عظمت فوق السموات<br/>وإلى الغمامِ حقُك<br/>وإلى الغمامِ حقُك</lines>
+      <lines>لأن رحمتُك قد عظُمت newline قد عظمت فوق السموات newline وإلى الغمامِ حقُك newline وإلى الغمامِ حقُك</lines>
     </verse>
   </lyrics>
 </song>

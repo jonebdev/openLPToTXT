@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>نعلي مجدك ياملك الشعوب<br/>ونسجد لك أنت هو المهوب</lines>
+      <lines>نعلي مجدك ياملك الشعوب newline ونسجد لك أنت هو المهوب</lines>
     </verse>
     <verse name="c1">
-      <lines>لك حبنا لك حمدنا<br/>أنت برنا فيك فخرنا</lines>
+      <lines>لك حبنا لك حمدنا newline أنت برنا فيك فخرنا</lines>
     </verse>
     <verse name="v2">
-      <lines>نأتي لشخصك نطيع أمرك<br/>ونخضع لك لجلال ملكك</lines>
+      <lines>نأتي لشخصك نطيع أمرك newline ونخضع لك لجلال ملكك</lines>
     </verse>
     <verse name="v3">
-      <lines>سر بوجهك أمامنا يا بار<br/>فض بروحك أغمرنا باستمرار</lines>
+      <lines>سر بوجهك أمامنا يا بار newline فض بروحك أغمرنا باستمرار</lines>
     </verse>
   </lyrics>
 </song>

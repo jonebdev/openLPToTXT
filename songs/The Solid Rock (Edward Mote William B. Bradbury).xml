@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>On Christ the solid Rock I stand,<br/>All other ground is sinking sand.<br/>All other ground is sinking sand.</lines>
+      <lines>On Christ the solid Rock I stand, newline All other ground is sinking sand. newline All other ground is sinking sand.</lines>
     </verse>
     <verse name="v1">
-      <lines>My hope is built on nothing less<br/>Than Jesus' blood and righteousness.<br/>I dare not trust the sweetest frame,<br/>But wholly lean on Jesus' name.</lines>
+      <lines>My hope is built on nothing less newline Than Jesus' blood and righteousness. newline I dare not trust the sweetest frame, newline But wholly lean on Jesus' name.</lines>
     </verse>
     <verse name="v2">
-      <lines>When darkness seems to hide His face,<br/>I rest on His unchanging grace.<br/>In every high and stormy gale,<br/>My anchor holds within the veil.</lines>
+      <lines>When darkness seems to hide His face, newline I rest on His unchanging grace. newline In every high and stormy gale, newline My anchor holds within the veil.</lines>
     </verse>
     <verse name="v3">
-      <lines>His oath, His covenant, His blood,<br/>Support me in the whelming flood.<br/>When all around my soul gives way,<br/>He then is all my Hope and Stay.</lines>
+      <lines>His oath, His covenant, His blood, newline Support me in the whelming flood. newline When all around my soul gives way, newline He then is all my Hope and Stay.</lines>
     </verse>
     <verse name="v4">
-      <lines>When He shall come with trumpet sound,<br/>O may I then in Him be found!<br/>Dressed in His righteousness alone,<br/>Faultless to stand before the throne!</lines>
+      <lines>When He shall come with trumpet sound, newline O may I then in Him be found! newline Dressed in His righteousness alone, newline Faultless to stand before the throne!</lines>
     </verse>
   </lyrics>
 </song>

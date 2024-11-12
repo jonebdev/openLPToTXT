@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>"Jesus," O how sweet the name!<br/>"Jesus," every day the same!<br/>"Jesus," let all saints proclaim<br/>Its worthy praise forever!</lines>
+      <lines>"Jesus," O how sweet the name! newline "Jesus," every day the same! newline "Jesus," let all saints proclaim newline Its worthy praise forever!</lines>
     </verse>
     <verse name="v1">
-      <lines>The name of Jesus is so sweet,<br/>I love its music to repeat.<br/>It makes my joys full and complete,<br/>The precious name of Jesus!</lines>
+      <lines>The name of Jesus is so sweet, newline I love its music to repeat. newline It makes my joys full and complete, newline The precious name of Jesus!</lines>
     </verse>
     <verse name="v2">
-      <lines>I love the name of Him whose heart,<br/>Knows all my griefs and bears a part,<br/>Who bids all anxious fears depart,<br/>I love the name of Jesus.</lines>
+      <lines>I love the name of Him whose heart, newline Knows all my griefs and bears a part, newline Who bids all anxious fears depart, newline I love the name of Jesus.</lines>
     </verse>
     <verse name="v3">
-      <lines>That name I fondly love to hear;<br/>It never fails my heart to cheer;<br/>It's music dries the falling tear.<br/>Exalt the name of Jesus!</lines>
+      <lines>That name I fondly love to hear; newline It never fails my heart to cheer; newline It's music dries the falling tear. newline Exalt the name of Jesus!</lines>
     </verse>
     <verse name="v4">
-      <lines>No word of man can ever tell<br/>How sweet the name I love so well.<br/>O let its praises ever swell!<br/>O praise the name of Jesus!</lines>
+      <lines>No word of man can ever tell newline How sweet the name I love so well. newline O let its praises ever swell! newline O praise the name of Jesus!</lines>
     </verse>
   </lyrics>
 </song>

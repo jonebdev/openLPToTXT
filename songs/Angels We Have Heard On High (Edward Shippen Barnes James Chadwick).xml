@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Gloria, in excelsis Deo!<br/>Gloria, in excelsis Deo!</lines>
+      <lines>Gloria, in excelsis Deo! newline Gloria, in excelsis Deo!</lines>
     </verse>
     <verse name="v1">
-      <lines>Angels we have heard on high,<br/>Sweetly singing o'er the plains;<br/>And the mountains in reply,<br/>Echoing their joyous strains.</lines>
+      <lines>Angels we have heard on high, newline Sweetly singing o'er the plains; newline And the mountains in reply, newline Echoing their joyous strains.</lines>
     </verse>
     <verse name="v2">
-      <lines>Shepherds, why this jubilee?<br/>Why your joyous strains prolong?<br/>Say what may the tidings be;<br/>Which inspire your heav'nly song?</lines>
+      <lines>Shepherds, why this jubilee? newline Why your joyous strains prolong? newline Say what may the tidings be; newline Which inspire your heav'nly song?</lines>
     </verse>
     <verse name="v3">
-      <lines>Come to Bethlehem and see,<br/>Him whose birth the angels sing;<br/>Come adore on bended knee,<br/>Christ the Lord, the newborn King.</lines>
+      <lines>Come to Bethlehem and see, newline Him whose birth the angels sing; newline Come adore on bended knee, newline Christ the Lord, the newborn King.</lines>
     </verse>
     <verse name="v4">
-      <lines>See within a manger laid,<br/>Jesus, Lord of heav'n and earth;<br/>Mary, Joseph, lend your aid,<br/>With us sing our Savior's birth.</lines>
+      <lines>See within a manger laid, newline Jesus, Lord of heav'n and earth; newline Mary, Joseph, lend your aid, newline With us sing our Savior's birth.</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>جيت لك وأنا مديون<br/>سددت لي ديوني<br/>جيت لك وأنا أعمى<br/>فتحت لي عيوني</lines>
+      <lines>جيت لك وأنا مديون newline سددت لي ديوني newline جيت لك وأنا أعمى newline فتحت لي عيوني</lines>
     </verse>
     <verse name="c1">
-      <lines>انت حبيب قلبي<br/>(أروح لمين غيرك ... (2<br/>أنت يسوع ربي<br/>(أركع وأصلي لك ... (2</lines>
+      <lines>انت حبيب قلبي newline (أروح لمين غيرك ... (2 newline أنت يسوع ربي newline (أركع وأصلي لك ... (2</lines>
     </verse>
     <verse name="v2">
-      <lines>جيت لك وأنا خاطيء<br/>غفرت لي ذنوبي<br/>طهرت لي قلبي<br/>وسترت كل عيوبي</lines>
+      <lines>جيت لك وأنا خاطيء newline غفرت لي ذنوبي newline طهرت لي قلبي newline وسترت كل عيوبي</lines>
     </verse>
     <verse name="v3">
-      <lines>جيت لك وأنا مجروح<br/>ضمدت لي جروحي<br/>وبروحك القدوس<br/>أنعشت في روحي</lines>
+      <lines>جيت لك وأنا مجروح newline ضمدت لي جروحي newline وبروحك القدوس newline أنعشت في روحي</lines>
     </verse>
   </lyrics>
 </song>

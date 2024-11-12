@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أشدو لك أيها الفادي الحبيب<br/>أعبدُك ما دمتُ في ذا الوجود<br/>Ashdu laka ayuhal fadeel habib<br/>Abuduka madumtu fee thal wujud</lines>
+      <lines>أشدو لك أيها الفادي الحبيب newline أعبدُك ما دمتُ في ذا الوجود newline Ashdu laka ayuhal fadeel habib newline Abuduka madumtu fee thal wujud</lines>
     </verse>
     <verse name="v2">
-      <lines>أنت إلهي أنت سيدي<br/>أنت خلاصي وستري الوطيد<br/>Anta ilahy anta sayidy<br/>Anta khalasy wa sitril wateed</lines>
+      <lines>أنت إلهي أنت سيدي newline أنت خلاصي وستري الوطيد newline Anta ilahy anta sayidy newline Anta khalasy wa sitril wateed</lines>
     </verse>
     <verse name="v3">
-      <lines>فيك ربحي ونصري الأكيد<br/>فيك فرحي وبري الوحيد<br/>فيك أمني وحصني الشديد<br/>Feeka ribhy wa nasreel akeed<br/>Feeka farahy wa biril waheed<br/>Feeka amny wa hisnil shadeed</lines>
+      <lines>فيك ربحي ونصري الأكيد newline فيك فرحي وبري الوحيد newline فيك أمني وحصني الشديد newline Feeka ribhy wa nasreel akeed newline Feeka farahy wa biril waheed newline Feeka amny wa hisnil shadeed</lines>
     </verse>
   </lyrics>
 </song>

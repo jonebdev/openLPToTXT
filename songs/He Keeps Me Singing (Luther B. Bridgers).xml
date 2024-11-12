@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Jesus, Jesus, Jesus,<br/>Sweetest name I know,<br/>Fills my ev'ry longing,<br/>Keeps me singing as I go.</lines>
+      <lines>Jesus, Jesus, Jesus, newline Sweetest name I know, newline Fills my ev'ry longing, newline Keeps me singing as I go.</lines>
     </verse>
     <verse name="v1">
-      <lines>There's within my heart a melody.<br/>Jesus whispers sweet and low:<br/>"Fear not, I am with thee; peace, be still,"<br/>In all of life's ebb and flow.</lines>
+      <lines>There's within my heart a melody. newline Jesus whispers sweet and low: newline "Fear not, I am with thee; peace, be still," newline In all of life's ebb and flow.</lines>
     </verse>
     <verse name="v2">
-      <lines>All my life was wrecked by sin and strife;<br/>Discord filled my life with pain.<br/>Jesus swept across the broken strings,<br/>Stirred the slumb'ring chords again.</lines>
+      <lines>All my life was wrecked by sin and strife; newline Discord filled my life with pain. newline Jesus swept across the broken strings, newline Stirred the slumb'ring chords again.</lines>
     </verse>
     <verse name="v3">
-      <lines>Feasting on the riches of His grace,<br/>Resting 'neath His shelt'ring wing,<br/>Always looking on His smiling face,<br/>That is why I shout and sing.</lines>
+      <lines>Feasting on the riches of His grace, newline Resting 'neath His shelt'ring wing, newline Always looking on His smiling face, newline That is why I shout and sing.</lines>
     </verse>
     <verse name="v4">
-      <lines>Tho' sometimes He leads thro' waters deep,<br/>Trials fall across my way,<br/>Tho' sometimes the path seems rough and steep,<br/>See His footprints all the way.</lines>
+      <lines>Tho' sometimes He leads thro' waters deep, newline Trials fall across my way, newline Tho' sometimes the path seems rough and steep, newline See His footprints all the way.</lines>
     </verse>
     <verse name="v5">
-      <lines>Soon He's coming back to welcome me<br/>Far beyond the starry sky.<br/>I shall wing my flight to worlds unknown;<br/>I shall reign with Him on high.</lines>
+      <lines>Soon He's coming back to welcome me newline Far beyond the starry sky. newline I shall wing my flight to worlds unknown; newline I shall reign with Him on high.</lines>
     </verse>
   </lyrics>
 </song>

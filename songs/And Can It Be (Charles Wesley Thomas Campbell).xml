@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Amazing love! How can it be<br/>That Thou, my God, shouldst die for me?</lines>
+      <lines>Amazing love! How can it be newline That Thou, my God, shouldst die for me?</lines>
     </verse>
     <verse name="v1">
-      <lines>And can it be that I should gain<br/>An interest in the Savior's blood?<br/>Died He for me, who caused His pain?<br/>For me, who Him to death pursued?</lines>
+      <lines>And can it be that I should gain newline An interest in the Savior's blood? newline Died He for me, who caused His pain? newline For me, who Him to death pursued?</lines>
     </verse>
     <verse name="v2">
-      <lines>He left His Father's throne above,<br/>So free, so infinite His grace;<br/>Emptied Himself of all but love,<br/>And bled for Adam's helpless race.<br/>'Tis mercy all, immense and free!<br/>For, O my God it found out me!</lines>
+      <lines>He left His Father's throne above, newline So free, so infinite His grace; newline Emptied Himself of all but love, newline And bled for Adam's helpless race. newline 'Tis mercy all, immense and free! newline For, O my God it found out me!</lines>
     </verse>
     <verse name="v3">
-      <lines>No condemnation now I dread;<br/>Jesus, and all in Him, is mine!<br/>Alive in Him my living Head,<br/>And clothed in righteousness divine,<br/>Bold I approach the eternal throne,<br/>And claim the crown, through Christ my own.</lines>
+      <lines>No condemnation now I dread; newline Jesus, and all in Him, is mine! newline Alive in Him my living Head, newline And clothed in righteousness divine, newline Bold I approach the eternal throne, newline And claim the crown, through Christ my own.</lines>
     </verse>
     <verse name="v4">
-      <lines>'Tis mystery all! The Immortal dies!<br/>Who can explore His strange design?<br/>In vain the first born seraph tries<br/>To sound the depths of love divine!<br/>'Tis mercy all! Let earth adore,<br/>Let angel minds inquire no more.</lines>
+      <lines>'Tis mystery all! The Immortal dies! newline Who can explore His strange design? newline In vain the first born seraph tries newline To sound the depths of love divine! newline 'Tis mercy all! Let earth adore, newline Let angel minds inquire no more.</lines>
     </verse>
     <verse name="v5">
-      <lines>Long my imprisoned Spirit lay<br/>Fast bound in sin and nature's night;<br/>Thine eye diffused a quickening ray,<br/>I woke, the dungeon flamed with light;<br/>My chains fell off, my heart was free;<br/>I rose, went forth and followed Thee.</lines>
+      <lines>Long my imprisoned Spirit lay newline Fast bound in sin and nature's night; newline Thine eye diffused a quickening ray, newline I woke, the dungeon flamed with light; newline My chains fell off, my heart was free; newline I rose, went forth and followed Thee.</lines>
     </verse>
   </lyrics>
 </song>

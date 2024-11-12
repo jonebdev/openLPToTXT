@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Praise the Lord! Praise the Lord!<br/>Let the earth hear His voice!<br/>Praise the Lord! Praise the Lord!<br/>Let the people rejoice!<br/>O come to the Father<br/>Through Jesus the Son;<br/>And give Him the glory,<br/>Great things He hath done!</lines>
+      <lines>Praise the Lord! Praise the Lord! newline Let the earth hear His voice! newline Praise the Lord! Praise the Lord! newline Let the people rejoice! newline O come to the Father newline Through Jesus the Son; newline And give Him the glory, newline Great things He hath done!</lines>
     </verse>
     <verse name="v1">
-      <lines>To God be the glory!<br/>Great things He hath done!<br/>So lov'd He the world<br/>That He gave us His Son,<br/>Who yielded His life<br/>An atonement for sin,<br/>And open'd the lifegate<br/>That all may go in.</lines>
+      <lines>To God be the glory! newline Great things He hath done! newline So lov'd He the world newline That He gave us His Son, newline Who yielded His life newline An atonement for sin, newline And open'd the lifegate newline That all may go in.</lines>
     </verse>
     <verse name="v2">
-      <lines>O perfect redemption, the purchase of blood!<br/>To every believer the promise of God;<br/>The vilest offender who truly believes,<br/>That moment from Jesus a pardon receives.</lines>
+      <lines>O perfect redemption, the purchase of blood! newline To every believer the promise of God; newline The vilest offender who truly believes, newline That moment from Jesus a pardon receives.</lines>
     </verse>
     <verse name="v3">
-      <lines>Great things He hath taught us,<br/>Great things He hath done,<br/>And great our rejoicing through Jesus the Son:<br/>But purer and higher and greater will be<br/>Our wonder, our worship, when Jesus we see!</lines>
+      <lines>Great things He hath taught us, newline Great things He hath done, newline And great our rejoicing through Jesus the Son: newline But purer and higher and greater will be newline Our wonder, our worship, when Jesus we see!</lines>
     </verse>
   </lyrics>
 </song>

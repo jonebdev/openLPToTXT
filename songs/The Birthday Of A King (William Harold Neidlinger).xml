@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Alleluia! O how the angels sang!<br/>Alleluia! How it rang!<br/>And the sky was bright with a holy light,<br/>'Twas the birthday of a King.</lines>
+      <lines>Alleluia! O how the angels sang! newline Alleluia! How it rang! newline And the sky was bright with a holy light, newline 'Twas the birthday of a King.</lines>
     </verse>
     <verse name="v1">
-      <lines>In the little village of Bethlehem,<br/>There lay a Child one day;<br/>And the sky was bright with a holy light,<br/>O'er the place where Jesus lay.</lines>
+      <lines>In the little village of Bethlehem, newline There lay a Child one day; newline And the sky was bright with a holy light, newline O'er the place where Jesus lay.</lines>
     </verse>
     <verse name="v2">
-      <lines>'Twas a humble birthplace,<br/>But oh, how much God gave to us that day;<br/>From the manger bed what a path has led,<br/>What a perfect holy way.<br/>Miscellaneous 1<br/>(ENDING)<br/>O come, let us adore Him;<br/>O come, let us adore Him,<br/>Christ, the Lord.<br/>'Twas the birthday of a Savior.<br/>Alleluia! Alleluia!<br/>'Twas the birthday of a King.</lines>
+      <lines>'Twas a humble birthplace, newline But oh, how much God gave to us that day; newline From the manger bed what a path has led, newline What a perfect holy way. newline Miscellaneous 1 newline (ENDING) newline O come, let us adore Him; newline O come, let us adore Him, newline Christ, the Lord. newline 'Twas the birthday of a Savior. newline Alleluia! Alleluia! newline 'Twas the birthday of a King.</lines>
     </verse>
   </lyrics>
 </song>

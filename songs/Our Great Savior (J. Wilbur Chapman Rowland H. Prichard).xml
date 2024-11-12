@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Hallelujah what a Savior.<br/>Hallelujah what a Friend.<br/>Saving, helping, keeping, loving,<br/>He is with me to the end.</lines>
+      <lines>Hallelujah what a Savior. newline Hallelujah what a Friend. newline Saving, helping, keeping, loving, newline He is with me to the end.</lines>
     </verse>
     <verse name="v1">
-      <lines>Jesus! What a friend for sinners!<br/>Jesus lover of my soul!<br/>Friends may fail me, foes assail me;<br/>He, my Savior, makes me whole.</lines>
+      <lines>Jesus! What a friend for sinners! newline Jesus lover of my soul! newline Friends may fail me, foes assail me; newline He, my Savior, makes me whole.</lines>
     </verse>
     <verse name="v2">
-      <lines>Jesus! What a strength in weakness!<br/>Let me hide myself in Him;<br/>Tempted tried and sometimes failing,<br/>He, my strength my victory wins.</lines>
+      <lines>Jesus! What a strength in weakness! newline Let me hide myself in Him; newline Tempted tried and sometimes failing, newline He, my strength my victory wins.</lines>
     </verse>
     <verse name="v3">
-      <lines>Jesus! What a help in sorrow!<br/>While the billows o'er me roll,<br/>Even when my heart is breaking,<br/>He, my Comfort helps my soul.</lines>
+      <lines>Jesus! What a help in sorrow! newline While the billows o'er me roll, newline Even when my heart is breaking, newline He, my Comfort helps my soul.</lines>
     </verse>
     <verse name="v4">
-      <lines>Jesus! What a guide and keeper!<br/>While the tempest still is high,<br/>Storms about me, night o'ertakes me,<br/>He, my pilot hears my cry.</lines>
+      <lines>Jesus! What a guide and keeper! newline While the tempest still is high, newline Storms about me, night o'ertakes me, newline He, my pilot hears my cry.</lines>
     </verse>
     <verse name="v5">
-      <lines>Jesus! I do now receive Him;<br/>More than all in Him I find.<br/>He hath granted me forgiveness;<br/>I am His and He is mine.</lines>
+      <lines>Jesus! I do now receive Him; newline More than all in Him I find. newline He hath granted me forgiveness; newline I am His and He is mine.</lines>
     </verse>
   </lyrics>
 </song>

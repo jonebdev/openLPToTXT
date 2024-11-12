@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>الربُ عزي وترسي<br/>عليه اتكلَ قلبي<br/>الربُ عزي وترسي<br/>عليه اتكلتُ فانتصرت</lines>
+      <lines>الربُ عزي وترسي newline عليه اتكلَ قلبي newline الربُ عزي وترسي newline عليه اتكلتُ فانتصرت</lines>
     </verse>
     <verse name="v1">
-      <lines>ويبتهج به قلبي<br/>وبأغنيتي أحمدُه<br/>مباركٌ الربُ<br/>لأنه سمعَ تضرعي</lines>
+      <lines>ويبتهج به قلبي newline وبأغنيتي أحمدُه newline مباركٌ الربُ newline لأنه سمعَ تضرعي</lines>
     </verse>
   </lyrics>
 </song>

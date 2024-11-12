@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Hallelujah! Amen!<br/>Hallelujah! Amen!<br/>Hallelujah! Amen!<br/>Amen! Amen!</lines>
+      <lines>Hallelujah! Amen! newline Hallelujah! Amen! newline Hallelujah! Amen! newline Amen! Amen!</lines>
     </verse>
     <verse name="v1">
-      <lines>How oft in holy converse with Christ,<br/>My Lord alone,<br/>I seem to hear the millions<br/>That sing around His throne:</lines>
+      <lines>How oft in holy converse with Christ, newline My Lord alone, newline I seem to hear the millions newline That sing around His throne:</lines>
     </verse>
     <verse name="v2">
-      <lines>They passed thro' toils and trials<br/>And, tho' the strife was long,<br/>They share the victor's conquest,<br/>And sing the victor's song:</lines>
+      <lines>They passed thro' toils and trials newline And, tho' the strife was long, newline They share the victor's conquest, newline And sing the victor's song:</lines>
     </verse>
     <verse name="v3">
-      <lines>My soul takes up the chorus<br/>And, pressing on my way,<br/>Communing still with Jesus,<br/>I sing from day to day:</lines>
+      <lines>My soul takes up the chorus newline And, pressing on my way, newline Communing still with Jesus, newline I sing from day to day:</lines>
     </verse>
     <verse name="v4">
-      <lines>Thro' grace I soon shall conquer,<br/>And reach my home on high;<br/>And thro' eternal ages<br/>I'll shout beyond the sky:</lines>
+      <lines>Thro' grace I soon shall conquer, newline And reach my home on high; newline And thro' eternal ages newline I'll shout beyond the sky:</lines>
     </verse>
   </lyrics>
 </song>

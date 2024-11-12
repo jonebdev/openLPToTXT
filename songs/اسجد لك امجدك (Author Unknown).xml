@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>أسجدُ لك أمجدُكَ<br/>وأعبدُك ملكَ الملوك<br/>انت سيدي أخضعُ لك<br/>وأطيعُك انني لك</lines>
+      <lines>أسجدُ لك أمجدُكَ newline وأعبدُك ملكَ الملوك newline انت سيدي أخضعُ لك newline وأطيعُك انني لك</lines>
     </verse>
     <verse name="v1b">
       <lines>هللويا هللويا هللويا هللويا</lines>

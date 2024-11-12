@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>الرب راعي وهو كفايتي<br/>في مراع خضر يربضني<br/>إلى مياه الراحة يوردني<br/>(يرد نفسي 2)<br/>Arrabu ra'ia wa hua kifayaty fee mara'in khudrin yurbeduny ila miahil raha yuriduny (Yariddu nafsee)2</lines>
+      <lines>الرب راعي وهو كفايتي newline في مراع خضر يربضني newline إلى مياه الراحة يوردني newline (يرد نفسي 2) newline Arrabu ra'ia wa hua kifayaty fee mara'in khudrin yurbeduny ila miahil raha yuriduny (Yariddu nafsee)2</lines>
     </verse>
     <verse name="v1b">
-      <lines>خير ورحمة يتبعانني<br/>وبيت ربي أسكن<br/>Khayrun wa rahmatun yatba'anany wa bayta raby askunu</lines>
+      <lines>خير ورحمة يتبعانني newline وبيت ربي أسكن newline Khayrun wa rahmatun yatba'anany wa bayta raby askunu</lines>
     </verse>
   </lyrics>
 </song>

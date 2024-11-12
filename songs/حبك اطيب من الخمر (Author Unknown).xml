@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>حبك اطيب من الخمر اشبع من هذا الغمر2<br/>انا مريض حبا فى شخصك2</lines>
+      <lines>حبك اطيب من الخمر اشبع من هذا الغمر2 newline انا مريض حبا فى شخصك2</lines>
     </verse>
     <verse name="v2">
-      <lines>فيض بالنعمة واروينى2<br/>اسمع ل شوقى وحنينى</lines>
+      <lines>فيض بالنعمة واروينى2 newline اسمع ل شوقى وحنينى</lines>
     </verse>
     <verse name="v3">
       <lines>انا عايز3 ادخل للعمق</lines>
     </verse>
     <verse name="v4">
-      <lines>مياهى عند الكعبين اصرخ لالهى الحي2<br/>انا اريد قربا من شخصك2</lines>
+      <lines>مياهى عند الكعبين اصرخ لالهى الحي2 newline انا اريد قربا من شخصك2</lines>
     </verse>
     <verse name="v5">
-      <lines>قيس الف ذراع وعدينى2 <br/>امسك بيمينى واسبينى</lines>
+      <lines>قيس الف ذراع وعدينى2  newline امسك بيمينى واسبينى</lines>
     </verse>
   </lyrics>
 </song>

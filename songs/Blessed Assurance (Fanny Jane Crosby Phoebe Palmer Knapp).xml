@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>This is my story, this is my song,<br/>Praising my Savior all the day long.<br/>This is my story, this is my song,<br/>Praising my Savior all the day long.</lines>
+      <lines>This is my story, this is my song, newline Praising my Savior all the day long. newline This is my story, this is my song, newline Praising my Savior all the day long.</lines>
     </verse>
     <verse name="v1">
-      <lines>Blessed assurance, Jesus is mine!<br/>Oh, what a foretaste of glory divine!<br/>Heir of salvation, purchase of God,<br/>Born of His Spirit, washed in His blood!</lines>
+      <lines>Blessed assurance, Jesus is mine! newline Oh, what a foretaste of glory divine! newline Heir of salvation, purchase of God, newline Born of His Spirit, washed in His blood!</lines>
     </verse>
     <verse name="v2">
-      <lines>Perfect submission, perfect delight!<br/>Visions of rapture now burst at my sight!<br/>Angels descending bring from above<br/>Echoes of mercy, whispers of love.</lines>
+      <lines>Perfect submission, perfect delight! newline Visions of rapture now burst at my sight! newline Angels descending bring from above newline Echoes of mercy, whispers of love.</lines>
     </verse>
     <verse name="v3">
-      <lines>Perfect submission, all is at rest.<br/>I in my Savior am happy and blest;<br/>Watching and waiting, looking above,<br/>Filled with His goodness, lost in His love.</lines>
+      <lines>Perfect submission, all is at rest. newline I in my Savior am happy and blest; newline Watching and waiting, looking above, newline Filled with His goodness, lost in His love.</lines>
     </verse>
   </lyrics>
 </song>

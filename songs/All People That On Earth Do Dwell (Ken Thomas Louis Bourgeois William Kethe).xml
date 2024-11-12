@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>All people that on earth do dwell,<br/>Sing to the Lord with cheerful voice;<br/>Him serve with fear His praise forth tell,<br/>Come ye before Him and rejoice.</lines>
+      <lines>All people that on earth do dwell, newline Sing to the Lord with cheerful voice; newline Him serve with fear His praise forth tell, newline Come ye before Him and rejoice.</lines>
     </verse>
     <verse name="v2">
-      <lines>The Lord, ye know, is God indeed,<br/>Without our aid He did us make;<br/>We are His flock, He doth us fee<br/>And for His sheep He doth us take.</lines>
+      <lines>The Lord, ye know, is God indeed, newline Without our aid He did us make; newline We are His flock, He doth us fee newline And for His sheep He doth us take.</lines>
     </verse>
     <verse name="v3">
-      <lines>O, enter then His gates with praise,<br/>Approach with joy His courts unto;<br/>Praise laud and bless His name always,<br/>For it is seemly so to do.</lines>
+      <lines>O, enter then His gates with praise, newline Approach with joy His courts unto; newline Praise laud and bless His name always, newline For it is seemly so to do.</lines>
     </verse>
     <verse name="v4">
-      <lines>For why the Lord our God is good,<br/>His mercy is forever sure;<br/>His truth at all times firmly stood,<br/>And shall from age to age endure.</lines>
+      <lines>For why the Lord our God is good, newline His mercy is forever sure; newline His truth at all times firmly stood, newline And shall from age to age endure.</lines>
     </verse>
     <verse name="v5">
-      <lines>Praise God from whom<br/>All blessings flow.<br/>Praise Him<br/>All creatures here below.<br/>Praise Him above<br/>Ye heav'nly host.<br/>Praise Father, Son,<br/>And Holy Ghost.</lines>
+      <lines>Praise God from whom newline All blessings flow. newline Praise Him newline All creatures here below. newline Praise Him above newline Ye heav'nly host. newline Praise Father, Son, newline And Holy Ghost.</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,22 +10,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>هل دمك الزكى<br/>أريق عن ذنبى<br/>وعن خطيتى )<br/>هل مت يا ربى)2</lines>
+      <lines>هل دمك الزكى newline أريق عن ذنبى newline وعن خطيتى ) newline هل مت يا ربى)2</lines>
     </verse>
     <verse name="c1">
-      <lines>يا رب اننى لك<br/>يا سيدى الاله<br/>سوف أذيع حبك<br/>ما دمت فى الحياة</lines>
+      <lines>يا رب اننى لك newline يا سيدى الاله newline سوف أذيع حبك newline ما دمت فى الحياة</lines>
     </verse>
     <verse name="v2">
-      <lines>غدوت لى فداى<br/>قداستى برى<br/>أعطيتنى الحياة)<br/>لأبد الدهر)2</lines>
+      <lines>غدوت لى فداى newline قداستى برى newline أعطيتنى الحياة) newline لأبد الدهر)2</lines>
     </verse>
     <verse name="v3">
-      <lines>يا صاحب السلطان<br/>لقد خلت يدى<br/>ماذا أقدم)<br/>ماذا لك أهدى)2</lines>
+      <lines>يا صاحب السلطان newline لقد خلت يدى newline ماذا أقدم) newline ماذا لك أهدى)2</lines>
     </verse>
     <verse name="v4">
-      <lines>قلبى أقدم<br/>مع أعماق الشكر<br/>لك أنا يسوع)<br/>فأملكنى للدهر)2</lines>
+      <lines>قلبى أقدم newline مع أعماق الشكر newline لك أنا يسوع) newline فأملكنى للدهر)2</lines>
     </verse>
     <verse name="v5">
-      <lines>لأجلى هل شقيت<br/>لأسعد أنا<br/>والمر قد سقيت)<br/>لأشرب الهنا)2</lines>
+      <lines>لأجلى هل شقيت newline لأسعد أنا newline والمر قد سقيت) newline لأشرب الهنا)2</lines>
     </verse>
   </lyrics>
 </song>

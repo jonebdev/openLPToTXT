@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Of the Father's love begotten,<br/>Ere the world began to be;<br/>He is Alpha and Omega,<br/>He the source, the ending He.<br/>Of the things that are that have been<br/>And that future years shall see;<br/>Evermore and evermore!</lines>
+      <lines>Of the Father's love begotten, newline Ere the world began to be; newline He is Alpha and Omega, newline He the source, the ending He. newline Of the things that are that have been newline And that future years shall see; newline Evermore and evermore!</lines>
     </verse>
     <verse name="v2">
-      <lines>O, ye heights of heaven adore Him,<br/>Angel hosts; His praises sing;<br/>Pow'rs, dominions, bow before Him<br/>And extol our God and King;<br/>Let no tongue on earth be silent,<br/>Ev'ry voice in concert ring;<br/>Evermore and evermore!</lines>
+      <lines>O, ye heights of heaven adore Him, newline Angel hosts; His praises sing; newline Pow'rs, dominions, bow before Him newline And extol our God and King; newline Let no tongue on earth be silent, newline Ev'ry voice in concert ring; newline Evermore and evermore!</lines>
     </verse>
     <verse name="v3">
-      <lines>Christ, to Thee with God the Father,<br/>And, O Holy Ghost, to Thee;<br/>Hymn and chant and high thanksgiving<br/>And unwearied praises be:<br/>Honor, glory, and dominion and eternal victory;<br/>Evermore and evermore!<br/>Amen.</lines>
+      <lines>Christ, to Thee with God the Father, newline And, O Holy Ghost, to Thee; newline Hymn and chant and high thanksgiving newline And unwearied praises be: newline Honor, glory, and dominion and eternal victory; newline Evermore and evermore! newline Amen.</lines>
     </verse>
     <verse name="v4">
-      <lines>O that birth forever blessed<br/>When the Virgin, full of grace,<br/>By the Holy Ghost conceiving,<br/>Bare the Savior of our race;<br/>And the Babe, the world's Redeemer<br/>First revealed His sacred face,<br/>Evermore and evermore!</lines>
+      <lines>O that birth forever blessed newline When the Virgin, full of grace, newline By the Holy Ghost conceiving, newline Bare the Savior of our race; newline And the Babe, the world's Redeemer newline First revealed His sacred face, newline Evermore and evermore!</lines>
     </verse>
   </lyrics>
 </song>

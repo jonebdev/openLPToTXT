@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>This, this is Christ the King,<br/>Whom shepherds guard and angels sing.<br/>Haste, haste to bring Him laud,<br/>The Babe, the Son of Mary.</lines>
+      <lines>This, this is Christ the King, newline Whom shepherds guard and angels sing. newline Haste, haste to bring Him laud, newline The Babe, the Son of Mary.</lines>
     </verse>
     <verse name="v1">
-      <lines>What child is this who,<br/>Laid to rest,<br/>On Mary's lap is sleeping?<br/>Whom angels greet with anthems sweet,<br/>While shepherds watch are keeping.</lines>
+      <lines>What child is this who, newline Laid to rest, newline On Mary's lap is sleeping? newline Whom angels greet with anthems sweet, newline While shepherds watch are keeping.</lines>
     </verse>
     <verse name="v2">
-      <lines>Why lies He in such mean estate<br/>Where ox and ass are feeding?<br/>Good Christian, fear;<br/>For sinners here<br/>The silent Word is pleading.</lines>
+      <lines>Why lies He in such mean estate newline Where ox and ass are feeding? newline Good Christian, fear; newline For sinners here newline The silent Word is pleading.</lines>
     </verse>
     <verse name="v3">
-      <lines>So bring Him incense, gold and myrrh;<br/>Come peasant, king to own Him.<br/>The King of kings salvation brings;<br/>Let loving hearts enthrone Him.</lines>
+      <lines>So bring Him incense, gold and myrrh; newline Come peasant, king to own Him. newline The King of kings salvation brings; newline Let loving hearts enthrone Him.</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>سيدي أيا حبيب<br/>أشبعن قلبي بك<br/>وكذا أملان حياتي<br/>بفيض روحك</lines>
+      <lines>سيدي أيا حبيب newline أشبعن قلبي بك newline وكذا أملان حياتي newline بفيض روحك</lines>
     </verse>
     <verse name="v2">
-      <lines>فاحيا العمر كله مكرسأ لك<br/>واشدو بالترنيم مصغيا لصوتك<br/>والحمد لاسمك<br/>فيبقي المجد لك لك وحدك</lines>
+      <lines>فاحيا العمر كله مكرسأ لك newline واشدو بالترنيم مصغيا لصوتك newline والحمد لاسمك newline فيبقي المجد لك لك وحدك</lines>
     </verse>
   </lyrics>
 </song>

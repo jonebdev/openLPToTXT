@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>ماأجمل ماأحسن<br/>أن يسكن الاخوة معا<br/>بحب صادق ... من قلب طاهر<br/>هناك تكون البركه والحياة</lines>
+      <lines>ماأجمل ماأحسن newline أن يسكن الاخوة معا newline بحب صادق ... من قلب طاهر newline هناك تكون البركه والحياة</lines>
     </verse>
     <verse name="v2">
-      <lines>محتملين ... مقدمين<br/>مسامحين بعضنا<br/>صرت مثالنا ... كما أوصيتنا<br/>نغسل أقدام بعضنا</lines>
+      <lines>محتملين ... مقدمين newline مسامحين بعضنا newline صرت مثالنا ... كما أوصيتنا newline نغسل أقدام بعضنا</lines>
     </verse>
     <verse name="c1a">
       <lines/>
     </verse>
     <verse name="c1b">
-      <lines>أعطيتنا مجدك<br/>لكي نكون واحدا<br/>سنعلن يسوع في وسطينا<br/>بحبنا لبعضنا</lines>
+      <lines>أعطيتنا مجدك newline لكي نكون واحدا newline سنعلن يسوع في وسطينا newline بحبنا لبعضنا</lines>
     </verse>
   </lyrics>
 </song>

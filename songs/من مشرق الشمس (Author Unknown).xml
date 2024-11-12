@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>من مشرق الشمس اسم الرب مسبح<br/>إلي مغربها اسم الرب مسبح 2</lines>
+      <lines>من مشرق الشمس اسم الرب مسبح newline إلي مغربها اسم الرب مسبح 2</lines>
     </verse>
     <verse name="v2">
-      <lines>الرب عال فوق كل الأمم 2<br/>فوق السموات مجده</lines>
+      <lines>الرب عال فوق كل الأمم 2 newline فوق السموات مجده</lines>
     </verse>
   </lyrics>
 </song>

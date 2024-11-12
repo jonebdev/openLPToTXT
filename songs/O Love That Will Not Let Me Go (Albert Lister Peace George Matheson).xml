@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>O love that will not let me go,<br/>I rest my weary soul in Thee.<br/>I give Thee back the life I owe,<br/>That in Thine ocean depths its flow,<br/>May richer fuller be.</lines>
+      <lines>O love that will not let me go, newline I rest my weary soul in Thee. newline I give Thee back the life I owe, newline That in Thine ocean depths its flow, newline May richer fuller be.</lines>
     </verse>
     <verse name="v2">
-      <lines>O light that foll'west all my way,<br/>I yield my flick'ring torch to Thee.<br/>My heart restores its borrowed ray,<br/>That in Thy sunshine's blaze it's day,<br/>May brighter fairer be.</lines>
+      <lines>O light that foll'west all my way, newline I yield my flick'ring torch to Thee. newline My heart restores its borrowed ray, newline That in Thy sunshine's blaze it's day, newline May brighter fairer be.</lines>
     </verse>
     <verse name="v3">
-      <lines>O joy that seekest me through pain,<br/>I cannot close my heart to Thee.<br/>I trace the rainbow through the rain,<br/>And feel the promise is not vain,<br/>That morn shall tearless be.</lines>
+      <lines>O joy that seekest me through pain, newline I cannot close my heart to Thee. newline I trace the rainbow through the rain, newline And feel the promise is not vain, newline That morn shall tearless be.</lines>
     </verse>
     <verse name="v4">
-      <lines>O cross that lifted up my head,<br/>I dare not ask to fly from Thee.<br/>I lay in dust life's glory dead,<br/>And from the ground there blossoms red,<br/>Life that shall endless be.</lines>
+      <lines>O cross that lifted up my head, newline I dare not ask to fly from Thee. newline I lay in dust life's glory dead, newline And from the ground there blossoms red, newline Life that shall endless be.</lines>
     </verse>
   </lyrics>
 </song>

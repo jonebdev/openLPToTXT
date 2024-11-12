@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>أزلي أبدي<br/>ملكوتك لا يزول للأبد2</lines>
+      <lines>أزلي أبدي newline ملكوتك لا يزول للأبد2</lines>
     </verse>
     <verse name="v1a">
-      <lines>رب الأرباب قديم الأيام<br/>حامل الأشياء بقدرتك<br/>ملك الملوك صخر الدهور<br/>أسست الأرض بقوتك</lines>
+      <lines>رب الأرباب قديم الأيام newline حامل الأشياء بقدرتك newline ملك الملوك صخر الدهور newline أسست الأرض بقوتك</lines>
     </verse>
     <verse name="v1b">
-      <lines>يعلو تسبيحي للأبد<br/>يعلن جلال ملكك<br/>هنا في الأرض وفي السما<br/>أشدو</lines>
+      <lines>يعلو تسبيحي للأبد newline يعلن جلال ملكك newline هنا في الأرض وفي السما newline أشدو</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="i1a">
-      <lines>رب المجد قد أحببتني<br/>رب المجد صرت ملجأى<br/>رب المجد فيك أحتمي</lines>
+      <lines>رب المجد قد أحببتني newline رب المجد صرت ملجأى newline رب المجد فيك أحتمي</lines>
     </verse>
     <verse name="i1b">
       <lines>Rabbul majd kad ahbabtany rabbul majd sirta malja'ee rabbul majd feeka ahtamy</lines>
     </verse>
     <verse name="b1">
-      <lines>تبقى أمينا الى المنتهى<br/>تبقى أمينا لذا لن أخاف<br/>يا صخرتي في وقت ضيقي<br/>تنشلني من المياه<br/>Tabka ameenan illal muntaha tabka ameenan litha lan akhaf ya sakhraty fee wasty deeky tanshiluny minal miyah</lines>
+      <lines>تبقى أمينا الى المنتهى newline تبقى أمينا لذا لن أخاف newline يا صخرتي في وقت ضيقي newline تنشلني من المياه newline Tabka ameenan illal muntaha tabka ameenan litha lan akhaf ya sakhraty fee wasty deeky tanshiluny minal miyah</lines>
     </verse>
     <verse name="e1a">
-      <lines>في وسط الريح<br/>ترفعني تحملني<br/>وحبك يحيط بي</lines>
+      <lines>في وسط الريح newline ترفعني تحملني newline وحبك يحيط بي</lines>
     </verse>
     <verse name="e1b">
       <lines>Fee wastil reeh tarfa'uny tahmiluny wahubuka yuhitu bee</lines>

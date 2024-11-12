@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أهديك كل الكرامة أسبح أسمك<br/>فأنت مليك المجد خالق كل الأشياء</lines>
+      <lines>أهديك كل الكرامة أسبح أسمك newline فأنت مليك المجد خالق كل الأشياء</lines>
     </verse>
     <verse name="c1">
       <lines>واعبدك كل عمري لك أنحني أمامك)2</lines>
     </verse>
     <verse name="v2">
-      <lines>روحك القدوس يسدد لي أعماق حاجتي<br/>وأرفع نفسي لعرشك فعندك راحتي</lines>
+      <lines>روحك القدوس يسدد لي أعماق حاجتي newline وأرفع نفسي لعرشك فعندك راحتي</lines>
     </verse>
     <verse name="v3">
-      <lines>حطمت قيد معصمي محوت مأثمي<br/>وسيغدو قلبي منشدا لك للأبد</lines>
+      <lines>حطمت قيد معصمي محوت مأثمي newline وسيغدو قلبي منشدا لك للأبد</lines>
     </verse>
   </lyrics>
 </song>

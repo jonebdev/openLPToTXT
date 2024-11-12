@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>يهتم بي ... عوني منقذي <br/>إلهي لا يبطيء<br/>لذلك أنتظر... وأصبر له وحده</lines>
+      <lines>يهتم بي ... عوني منقذي  newline إلهي لا يبطيء newline لذلك أنتظر... وأصبر له وحده</lines>
     </verse>
     <verse name="c1">
-      <lines>للرب سلم طريقك وأتكل عليه<br/>وهو يجري)2)</lines>
+      <lines>للرب سلم طريقك وأتكل عليه newline وهو يجري)2)</lines>
     </verse>
     <verse name="v2">
-      <lines>ثابت قلبي ...ثابت قلبي<br/>أرنم لك يا ربي<br/>ثابت قلبي ... لأنك حقا يا الله<br/>ملك المجد</lines>
+      <lines>ثابت قلبي ...ثابت قلبي newline أرنم لك يا ربي newline ثابت قلبي ... لأنك حقا يا الله newline ملك المجد</lines>
     </verse>
     <verse name="v3">
-      <lines>غنوا رنموا ... لإلهنا<br/>ولتشدوا له... ألسنتنا<br/>يسمع لنا... يُفرح قلبنا<br/>يلذ له تسبيحنا</lines>
+      <lines>غنوا رنموا ... لإلهنا newline ولتشدوا له... ألسنتنا newline يسمع لنا... يُفرح قلبنا newline يلذ له تسبيحنا</lines>
     </verse>
   </lyrics>
 </song>

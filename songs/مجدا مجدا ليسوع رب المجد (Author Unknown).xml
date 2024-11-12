@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="i1">
-      <lines>مجدا مجدا)<br/>مجدا ليسوع ربُ المجدِ)2<br/>الذى كان والكائنُ<br/>الذى كان والذى يأتى</lines>
+      <lines>مجدا مجدا) newline مجدا ليسوع ربُ المجدِ)2 newline الذى كان والكائنُ newline الذى كان والذى يأتى</lines>
     </verse>
     <verse name="e1">
-      <lines>علوا اسمه بهتافْ وحمدِ<br/>علوا اسمه يا شعبَه<br/>علوا اسمه بهتافْ ومجدِ<br/>يسوع.. نرفعُ اسمَك</lines>
+      <lines>علوا اسمه بهتافْ وحمدِ newline علوا اسمه يا شعبَه newline علوا اسمه بهتافْ ومجدِ newline يسوع.. نرفعُ اسمَك</lines>
     </verse>
   </lyrics>
 </song>

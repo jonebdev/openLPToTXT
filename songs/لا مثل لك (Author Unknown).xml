@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>لا مثل لك ... بين الآلهة<br/>يا رب ولا مثل أعمالك<br/>La mithla laka baynal alihaty ya rabbu wala mithla amalika</lines>
+      <lines>لا مثل لك ... بين الآلهة newline يا رب ولا مثل أعمالك newline La mithla laka baynal alihaty ya rabbu wala mithla amalika</lines>
     </verse>
     <verse name="v1b">
-      <lines>لأنك عظيم ... عظيم أنت<br/>وصانع عجائب ... عجائب<br/>أنت الله ... أنت الله وحدك<br/>Li'anaka atheemun atheemun anta wasani'un aja'ib aja'iba antal lahu antal lahu wahdaka</lines>
+      <lines>لأنك عظيم ... عظيم أنت newline وصانع عجائب ... عجائب newline أنت الله ... أنت الله وحدك newline Li'anaka atheemun atheemun anta wasani'un aja'ib aja'iba antal lahu antal lahu wahdaka</lines>
     </verse>
     <verse name="v1c">
-      <lines>لا مثل لك... بين الآلهة يا رب<br/>ولا مثل أعمالك ...<br/>لا مثل لك يا رب<br/>La mithla laka baynal alihaty ya rabbu wala mithla amalika<br/>la mithla laka ya rabbu</lines>
+      <lines>لا مثل لك... بين الآلهة يا رب newline ولا مثل أعمالك ... newline لا مثل لك يا رب newline La mithla laka baynal alihaty ya rabbu wala mithla amalika newline la mithla laka ya rabbu</lines>
     </verse>
   </lyrics>
 </song>

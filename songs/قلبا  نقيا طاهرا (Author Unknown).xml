@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>قلباً نقياً طاهراً<br/>اخلق في يا الله<br/>وفيض بروحك داخلي<br/>جدد سبل الحياة</lines>
+      <lines>قلباً نقياً طاهراً newline اخلق في يا الله newline وفيض بروحك داخلي newline جدد سبل الحياة</lines>
     </verse>
     <verse name="v1b">
-      <lines>طهرني من خطاياي<br/>وقُد أنت خطاي<br/>وليكن فكر قلبي<br/>(مرضي أمامك يا الله(2</lines>
+      <lines>طهرني من خطاياي newline وقُد أنت خطاي newline وليكن فكر قلبي newline (مرضي أمامك يا الله(2</lines>
     </verse>
   </lyrics>
 </song>

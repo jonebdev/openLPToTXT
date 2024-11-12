@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>إله قادر ذاك الذي نخدم<br/>(تنحني أمامه كل الخليقة (2<br/>إله قادر</lines>
+      <lines>إله قادر ذاك الذي نخدم newline (تنحني أمامه كل الخليقة (2 newline إله قادر</lines>
     </verse>
   </lyrics>
 </song>

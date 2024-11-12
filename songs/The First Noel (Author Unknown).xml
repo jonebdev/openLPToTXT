@@ -11,25 +11,25 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Noel, Noel, Noel, Noel,<br/>Born is the King of Israel.</lines>
+      <lines>Noel, Noel, Noel, Noel, newline Born is the King of Israel.</lines>
     </verse>
     <verse name="v1">
-      <lines>The first Noel,<br/>The angel did say,<br/>Was to certain poor shepherds,<br/>In fields as they lay;<br/>In fields where they<br/>Lay keeping their sheep,<br/>On a cold winter's night<br/>That was so deep.</lines>
+      <lines>The first Noel, newline The angel did say, newline Was to certain poor shepherds, newline In fields as they lay; newline In fields where they newline Lay keeping their sheep, newline On a cold winter's night newline That was so deep.</lines>
     </verse>
     <verse name="v2">
-      <lines>They looked up and saw a star<br/>Shining in the east,<br/>Beyond them far,<br/>And to the earth<br/>It gave great light,<br/>And so it continued<br/>Both day and night.</lines>
+      <lines>They looked up and saw a star newline Shining in the east, newline Beyond them far, newline And to the earth newline It gave great light, newline And so it continued newline Both day and night.</lines>
     </verse>
     <verse name="v3">
-      <lines>And by the light<br/>Of that same star,<br/>Three wise men came<br/>From country far;<br/>To seek for a King<br/>Was their intent,<br/>And to follow the star,<br/>Wherever it went.</lines>
+      <lines>And by the light newline Of that same star, newline Three wise men came newline From country far; newline To seek for a King newline Was their intent, newline And to follow the star, newline Wherever it went.</lines>
     </verse>
     <verse name="v4">
-      <lines>This star drew nigh<br/>To the northwest,<br/>O'er Bethlehem<br/>It took its rest,<br/>And there it did<br/>Both stop and stay,<br/>Right over the place<br/>Where Jesus lay.</lines>
+      <lines>This star drew nigh newline To the northwest, newline O'er Bethlehem newline It took its rest, newline And there it did newline Both stop and stay, newline Right over the place newline Where Jesus lay.</lines>
     </verse>
     <verse name="v5">
-      <lines>Then entered in<br/>Those wise men three,<br/>Full rev'rently<br/>Upon their knee,<br/>And offered there<br/>In His presence,<br/>Their gold, and myrrh,<br/>And frankincense.</lines>
+      <lines>Then entered in newline Those wise men three, newline Full rev'rently newline Upon their knee, newline And offered there newline In His presence, newline Their gold, and myrrh, newline And frankincense.</lines>
     </verse>
     <verse name="v6">
-      <lines>Then let us all<br/>With one accord,<br/>Sing praises to<br/>Our heavenly Lord,<br/>That hath made heav'n<br/>And earth of naught,<br/>And with His blood<br/>Mankind hath bought.</lines>
+      <lines>Then let us all newline With one accord, newline Sing praises to newline Our heavenly Lord, newline That hath made heav'n newline And earth of naught, newline And with His blood newline Mankind hath bought.</lines>
     </verse>
   </lyrics>
 </song>

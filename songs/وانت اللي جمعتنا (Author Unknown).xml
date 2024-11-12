@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>ياللي فديت حياتنا<br/>واشتريتنا بدم ثمين<br/>كل ماضينا يشهد<br/>إنك لينا أمين ومعين</lines>
+      <lines>ياللي فديت حياتنا newline واشتريتنا بدم ثمين newline كل ماضينا يشهد newline إنك لينا أمين ومعين</lines>
     </verse>
     <verse name="c1">
-      <lines>وإنت اللي جمعتنا ووحدت قلبنا<br/>بنهد يلك عمرنا يا ملكنا وربنا</lines>
+      <lines>وإنت اللي جمعتنا ووحدت قلبنا newline بنهد يلك عمرنا يا ملكنا وربنا</lines>
     </verse>
     <verse name="v2">
-      <lines>بنسلمك حياتنا<br/>وبنهد يلك كل الأيام<br/>عايزين نعيش لك عمرنا<br/>ونحط عندك كل الأحلام</lines>
+      <lines>بنسلمك حياتنا newline وبنهد يلك كل الأيام newline عايزين نعيش لك عمرنا newline ونحط عندك كل الأحلام</lines>
     </verse>
   </lyrics>
 </song>

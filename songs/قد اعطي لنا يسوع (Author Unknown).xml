@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>قد أعطي لنا يسوع<br/>ناقضا كل أعمال الشيطان<br/>نعلن جاء يسوع<br/>ناقضا كل أعمال الشيطان</lines>
+      <lines>قد أعطي لنا يسوع newline ناقضا كل أعمال الشيطان newline نعلن جاء يسوع newline ناقضا كل أعمال الشيطان</lines>
     </verse>
     <verse name="v1">
-      <lines>يسوع خلصنا بدمه<br/>الآب قبِلنا في ابنه<br/>الروح ملأنا بقوته<br/>نحيا دائما في النصرة</lines>
+      <lines>يسوع خلصنا بدمه newline الآب قبِلنا في ابنه newline الروح ملأنا بقوته newline نحيا دائما في النصرة</lines>
     </verse>
     <verse name="v2">
-      <lines>إبليس أنت كاذب<br/>إبليس أنت فاشل<br/>أفكارك لا نجهل<br/>أعمالك لا نرهب</lines>
+      <lines>إبليس أنت كاذب newline إبليس أنت فاشل newline أفكارك لا نجهل newline أعمالك لا نرهب</lines>
     </verse>
   </lyrics>
 </song>

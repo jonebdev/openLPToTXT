@@ -10,25 +10,25 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>سد يا يسوع في حياتي<br/>نفسي معاك مرتاحة<br/>فيك بالاقي نجاتي<br/>وفي قربك الاقي الراحة</lines>
+      <lines>سد يا يسوع في حياتي newline نفسي معاك مرتاحة newline فيك بالاقي نجاتي newline وفي قربك الاقي الراحة</lines>
     </verse>
     <verse name="v2a">
       <lines>Sood ya yasoo' fihayaty nafsy ma'ak mirtaha feek bala'ee najaty wifi urbak ala'il raha</lines>
     </verse>
     <verse name="c1a">
-      <lines>انت ملك عمرى<br/>انت سيد قلبي<br/>انت وحدك ربي<br/>وكل حبي ليك</lines>
+      <lines>انت ملك عمرى newline انت سيد قلبي newline انت وحدك ربي newline وكل حبي ليك</lines>
     </verse>
     <verse name="c1b">
       <lines>Inta malik umry inta sayyid alby inta wahdak rabby wikully hubby leek</lines>
     </verse>
     <verse name="v2b">
-      <lines>ليك باقدم عمري<br/>باهدي اليك أيامي<br/>وحدك مالك أمري<br/>وانت سر سلامي</lines>
+      <lines>ليك باقدم عمري newline باهدي اليك أيامي newline وحدك مالك أمري newline وانت سر سلامي</lines>
     </verse>
     <verse name="v2c">
       <lines>Leek ba'addim umry bahdilak ayamy wahdak malik amry winta sirry salamy</lines>
     </verse>
     <verse name="v3a">
-      <lines>غالي يا رب عليّ<br/>غالي عملك فيّ<br/>حبك مالي كياني<br/>كنزي وكل ماليّ</lines>
+      <lines>غالي يا رب عليّ newline غالي عملك فيّ newline حبك مالي كياني newline كنزي وكل ماليّ</lines>
     </verse>
     <verse name="v3b">
       <lines>Ghaly ya rabb alaya ghaly amalak fiyya hubbak maly kayany kanzy wikully maliyya</lines>

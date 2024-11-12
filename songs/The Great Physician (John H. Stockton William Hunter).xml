@@ -11,22 +11,22 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Sweetest note in seraph song,<br/>Sweetest name on mortal tongue,<br/>Sweetest carol ever sung,<br/>Jesus, blessed Jesus.</lines>
+      <lines>Sweetest note in seraph song, newline Sweetest name on mortal tongue, newline Sweetest carol ever sung, newline Jesus, blessed Jesus.</lines>
     </verse>
     <verse name="v1">
-      <lines>The great Physician now is near,<br/>The sympathizing Jesus.<br/>He speaks the drooping heart to cheer.<br/>O hear the voice of Jesus!</lines>
+      <lines>The great Physician now is near, newline The sympathizing Jesus. newline He speaks the drooping heart to cheer. newline O hear the voice of Jesus!</lines>
     </verse>
     <verse name="v2">
-      <lines>Your many sins are all forgiven,<br/>O hear the voice of Jesus!<br/>Go on your way,<br/>In peace to heaven,<br/>And wear a crown with Jesus.</lines>
+      <lines>Your many sins are all forgiven, newline O hear the voice of Jesus! newline Go on your way, newline In peace to heaven, newline And wear a crown with Jesus.</lines>
     </verse>
     <verse name="v3">
-      <lines>All glory to the dying Lamb,<br/>I now believe in Jesus.<br/>I love the blessed Savior's name;<br/>I love the name of Jesus.</lines>
+      <lines>All glory to the dying Lamb, newline I now believe in Jesus. newline I love the blessed Savior's name; newline I love the name of Jesus.</lines>
     </verse>
     <verse name="v4">
-      <lines>And when to that bright world above<br/>We rise to be with Jesus,<br/>We'll sing around the throne of love<br/>His name, the name of Jesus.</lines>
+      <lines>And when to that bright world above newline We rise to be with Jesus, newline We'll sing around the throne of love newline His name, the name of Jesus.</lines>
     </verse>
     <verse name="v5">
-      <lines>His name dispels my guilt and fear,<br/>No other name but Jesus;<br/>O how my soul delights to hear<br/>The precious name of Jesus.</lines>
+      <lines>His name dispels my guilt and fear, newline No other name but Jesus; newline O how my soul delights to hear newline The precious name of Jesus.</lines>
     </verse>
   </lyrics>
 </song>

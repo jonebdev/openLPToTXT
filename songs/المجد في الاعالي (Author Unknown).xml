@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>المجد في الأعالي سلام علي الأرض<br/>وبالناس المسرة هللويا</lines>
+      <lines>المجد في الأعالي سلام علي الأرض newline وبالناس المسرة هللويا</lines>
     </verse>
     <verse name="v2a">
-      <lines>قد شدا الملاك للرب اٌلأله<br/>لنشد نسبح ونعيد ياة</lines>
+      <lines>قد شدا الملاك للرب اٌلأله newline لنشد نسبح ونعيد ياة</lines>
     </verse>
     <verse name="v2b">
-      <lines>قد زار الرعاة الطفل الحبيب<br/>انأت فنحظي بالحب العجيب</lines>
+      <lines>قد زار الرعاة الطفل الحبيب newline انأت فنحظي بالحب العجيب</lines>
     </verse>
     <verse name="v3">
-      <lines>لقد قدم للرب المجوس<br/>لنعطي القلوب لله القدوس</lines>
+      <lines>لقد قدم للرب المجوس newline لنعطي القلوب لله القدوس</lines>
     </verse>
     <verse name="v4">
-      <lines>قد جاء لنا ليفديالخطاة<br/>قد جاء لينقذ ويعطي الحياة</lines>
+      <lines>قد جاء لنا ليفديالخطاة newline قد جاء لينقذ ويعطي الحياة</lines>
     </verse>
   </lyrics>
 </song>

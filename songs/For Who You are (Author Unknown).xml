@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Standing here in Your presence<br/>Thinking of the good things You have done<br/>Waiting here patiently<br/>Just to hear Your still small voice again</lines>
+      <lines>Standing here in Your presence newline Thinking of the good things You have done newline Waiting here patiently newline Just to hear Your still small voice again</lines>
     </verse>
     <verse name="v2">
-      <lines>Holy righteous<br/>Faithful 'til the end<br/>Saviour healer<br/>Redeemer and Friend</lines>
+      <lines>Holy righteous newline Faithful 'til the end newline Saviour healer newline Redeemer and Friend</lines>
     </verse>
     <verse name="v3">
-      <lines>I will worship You for who You are 3X<br/>Jesus</lines>
+      <lines>I will worship You for who You are 3X newline Jesus</lines>
     </verse>
     <verse name="v4">
-      <lines>My soul secure<br/>Your promise sure<br/>Your love endures<br/>Always</lines>
+      <lines>My soul secure newline Your promise sure newline Your love endures newline Always</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>القادر أن يفعل <br/>فوق كل شيء</lines>
+      <lines>القادر أن يفعل  newline فوق كل شيء</lines>
     </verse>
     <verse name="v2">
-      <lines>أكثر جداُ مما نطلب<br/>أكثر جداُ مما نفتكر</lines>
+      <lines>أكثر جداُ مما نطلب newline أكثر جداُ مما نفتكر</lines>
     </verse>
     <verse name="v3">
-      <lines>بحسب القوة<br/> التى تعمل فينا)2</lines>
+      <lines>بحسب القوة newline  التى تعمل فينا)2</lines>
     </verse>
     <verse name="v4">
-      <lines>له المجد في الكنيسة<br/>في المسيح يسوع</lines>
+      <lines>له المجد في الكنيسة newline في المسيح يسوع</lines>
     </verse>
   </lyrics>
 </song>

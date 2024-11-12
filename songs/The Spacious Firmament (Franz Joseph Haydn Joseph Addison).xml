@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>The spacious firmament on high,<br/>With all the blue ethereal sky<br/>And spangled heav'ns a shining frame;<br/>Their great original proclaim.<br/>Th'unwearied sun from day to day,<br/>Does His Creator's pow'r display<br/>And publishes to every land,<br/>The work of an Almighty hand.</lines>
+      <lines>The spacious firmament on high, newline With all the blue ethereal sky newline And spangled heav'ns a shining frame; newline Their great original proclaim. newline Th'unwearied sun from day to day, newline Does His Creator's pow'r display newline And publishes to every land, newline The work of an Almighty hand.</lines>
     </verse>
     <verse name="v2">
-      <lines>Soon as the evening shades prevail,<br/>The moon takes up the wondrous tale<br/>And nightly to the listening earth,<br/>Repeats the story of her birth;<br/>While all the stars that round her burn<br/>And all the planets in their turn<br/>Confirm the tidings as they roll,<br/>And spread the truth from pole to pole.</lines>
+      <lines>Soon as the evening shades prevail, newline The moon takes up the wondrous tale newline And nightly to the listening earth, newline Repeats the story of her birth; newline While all the stars that round her burn newline And all the planets in their turn newline Confirm the tidings as they roll, newline And spread the truth from pole to pole.</lines>
     </verse>
     <verse name="v3">
-      <lines>What though in solemn silence all,<br/>Move round the dark terrestrial ball?<br/>What though no real voice nor sound,<br/>Amid their radiant orbs be found;<br/>In reason's ear they all rejoice<br/>And utter forth a glorious voice;<br/>Forever singing as they shine,<br/>The hand that made us is divine.</lines>
+      <lines>What though in solemn silence all, newline Move round the dark terrestrial ball? newline What though no real voice nor sound, newline Amid their radiant orbs be found; newline In reason's ear they all rejoice newline And utter forth a glorious voice; newline Forever singing as they shine, newline The hand that made us is divine.</lines>
     </verse>
   </lyrics>
 </song>

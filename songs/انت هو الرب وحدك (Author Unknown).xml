@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="i1">
-      <lines>(أنت هو الرب وحدك (2<br/>أنت هو الرب</lines>
+      <lines>(أنت هو الرب وحدك (2 newline أنت هو الرب</lines>
     </verse>
     <verse name="v1">
-      <lines>أنت صنعت السموات<br/>وسماء السموات<br/>وكل جندها والأرض وكل ما عليها<br/>والبحار وكل ما فيها<br/>أنت تحييها كلها</lines>
+      <lines>أنت صنعت السموات newline وسماء السموات newline وكل جندها والأرض وكل ما عليها newline والبحار وكل ما فيها newline أنت تحييها كلها</lines>
     </verse>
     <verse name="e1">
-      <lines>(جند السماء لك يسجدون (2<br/>وليتبارك اسم جلالك<br/>(جلالك المتعالي ... (2</lines>
+      <lines>(جند السماء لك يسجدون (2 newline وليتبارك اسم جلالك newline (جلالك المتعالي ... (2</lines>
     </verse>
   </lyrics>
 </song>

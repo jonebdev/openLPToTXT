@@ -11,10 +11,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Feliz Navidad<br/>Feliz Navidad<br/>Feliz Navidad<br/>Prospero Bano y Felicidad.</lines>
+      <lines>Feliz Navidad newline Feliz Navidad newline Feliz Navidad newline Prospero Bano y Felicidad.</lines>
     </verse>
     <verse name="v2">
-      <lines>I wanna wish you a Merry Christmas<br/>I wanna wish you a Merry Christmas<br/>I wanna wish you a Merry Christmas<br/>From the bottom of my heart.</lines>
+      <lines>I wanna wish you a Merry Christmas newline I wanna wish you a Merry Christmas newline I wanna wish you a Merry Christmas newline From the bottom of my heart.</lines>
     </verse>
   </lyrics>
 </song>

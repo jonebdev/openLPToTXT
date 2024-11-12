@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>حَبيبُك<br/>يحيا آمنا<br/>ليلاً ونهارً<br/>تسترهُ دوماً<br/>Habeeboka yahya amenan<br/>Laylan wa nahar tastoruhu dawman</lines>
+      <lines>حَبيبُك newline يحيا آمنا newline ليلاً ونهارً newline تسترهُ دوماً newline Habeeboka yahya amenan newline Laylan wa nahar tastoruhu dawman</lines>
     </verse>
     <verse name="c1a">
-      <lines>إن هاجتِ البحار.. أنت معي<br/>وانقلبتْ الجبالْ.. أراكْ يا أبي<br/>En hajatel behar anta ma'ee<br/>Wankalabatel jebal .. Arak ya abee</lines>
+      <lines>إن هاجتِ البحار.. أنت معي newline وانقلبتْ الجبالْ.. أراكْ يا أبي newline En hajatel behar anta ma'ee newline Wankalabatel jebal .. Arak ya abee</lines>
     </verse>
     <verse name="c1b">
-      <lines>حتى وسطِ النيرانْ<br/>تحفظني<br/>واثقٌ بكَ<br/>يا صخرتي<br/>Hata wastil neran, tahfathuny<br/>Wathekon beka ya sakhraty</lines>
+      <lines>حتى وسطِ النيرانْ newline تحفظني newline واثقٌ بكَ newline يا صخرتي newline Hata wastil neran, tahfathuny newline Wathekon beka ya sakhraty</lines>
     </verse>
     <verse name="v2">
-      <lines>ربي ملجأي اتكلُ عليك<br/>ظللتني في سترِ جناحَيكْ<br/>Rabby malja'ee atakelou alayk<br/>dalaltany, fisitry jenahayk</lines>
+      <lines>ربي ملجأي اتكلُ عليك newline ظللتني في سترِ جناحَيكْ newline Rabby malja'ee atakelou alayk newline dalaltany, fisitry jenahayk</lines>
     </verse>
     <verse name="v3">
-      <lines>في حِضنِك أبيتْ<br/>لن أخشى خوفَ الليلْ<br/>ان طارت السهامْ<br/>لن تقربَ الَى<br/>Fi hidneka abeet lan akhsha khawfal layl<br/>En taratil seham lan takroba elay</lines>
+      <lines>في حِضنِك أبيتْ newline لن أخشى خوفَ الليلْ newline ان طارت السهامْ newline لن تقربَ الَى newline Fi hidneka abeet lan akhsha khawfal layl newline En taratil seham lan takroba elay</lines>
     </verse>
   </lyrics>
 </song>

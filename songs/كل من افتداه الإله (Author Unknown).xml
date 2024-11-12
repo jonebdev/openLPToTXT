@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>كل من افتداه الإله<br/>ليهتفن له قائلا<br/>ليهتفن له قائلا<br/>قد فداني فمجدا له</lines>
+      <lines>كل من افتداه الإله newline ليهتفن له قائلا newline ليهتفن له قائلا newline قد فداني فمجدا له</lines>
     </verse>
   </lyrics>
 </song>

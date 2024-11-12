@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Rejoice in the Lord always<br/>and again I say Rejoice<br/>and again I say, and again I say..<br/>Rejoice...</lines>
+      <lines>Rejoice in the Lord always newline and again I say Rejoice newline and again I say, and again I say.. newline Rejoice...</lines>
     </verse>
     <verse name="v2">
-      <lines>Come bless the Lord<br/>Come bless the Lord<br/>Draw near to worship Christ the Lord<br/>and bless his name<br/>his holy name<br/>declare that he is good</lines>
+      <lines>Come bless the Lord newline Come bless the Lord newline Draw near to worship Christ the Lord newline and bless his name newline his holy name newline declare that he is good</lines>
     </verse>
     <verse name="v3">
-      <lines>oh that men would praise him<br/>oh that men would praise his name..</lines>
+      <lines>oh that men would praise him newline oh that men would praise his name..</lines>
     </verse>
   </lyrics>
 </song>

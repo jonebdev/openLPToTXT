@@ -10,25 +10,25 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>الرب حنان ورحيم طويل الروح <br/>وكثير الرحمة<br/>الرب صـالح للكل</lines>
+      <lines>الرب حنان ورحيم طويل الروح  newline وكثير الرحمة newline الرب صـالح للكل</lines>
     </verse>
     <verse name="i1">
-      <lines>(أنت صـالح للكــل3 )<br/>ومراحمك على كل أعمالك</lines>
+      <lines>(أنت صـالح للكــل3 ) newline ومراحمك على كل أعمالك</lines>
     </verse>
     <verse name="c1a">
-      <lines>يحمدك يا رب<br/>كل اعمـــالك <br/>ويباركـك اتقياؤك</lines>
+      <lines>يحمدك يا رب newline كل اعمـــالك  newline ويباركـك اتقياؤك</lines>
     </verse>
     <verse name="c1b">
-      <lines>بمجـــد ملكك ينطقـون<br/>بجـــــــبروتك يتكلمـــــــون</lines>
+      <lines>بمجـــد ملكك ينطقـون newline بجـــــــبروتك يتكلمـــــــون</lines>
     </verse>
     <verse name="e1">
-      <lines>ملكك ملك كل الدهور<br/>وسلطانك فى كل دور فدور</lines>
+      <lines>ملكك ملك كل الدهور newline وسلطانك فى كل دور فدور</lines>
     </verse>
     <verse name="o1a">
-      <lines>الرب حنان ورحيم طويل الروح <br/>وكثير الرأفة<br/>الرب صـالح للكل</lines>
+      <lines>الرب حنان ورحيم طويل الروح  newline وكثير الرأفة newline الرب صـالح للكل</lines>
     </verse>
     <verse name="o1b">
-      <lines>(يسوع صـالح للكــل3 )<br/>ومراحمه على كل أعماله</lines>
+      <lines>(يسوع صـالح للكــل3 ) newline ومراحمه على كل أعماله</lines>
     </verse>
   </lyrics>
 </song>

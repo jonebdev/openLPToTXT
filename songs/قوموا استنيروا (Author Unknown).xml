@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>قوموا استنيروا يا شعب الله<br/>قد جاء نوركم<br/>ومجد الرب يرى عليكم<br/>كي تضيئوا وتكرزوا</lines>
+      <lines>قوموا استنيروا يا شعب الله newline قد جاء نوركم newline ومجد الرب يرى عليكم newline كي تضيئوا وتكرزوا</lines>
     </verse>
     <verse name="c1">
-      <lines>آهللويا ها هللويا<br/>هللويا للإله<br/>آهللويا ها هللويا<br/>هللويا للملك</lines>
+      <lines>آهللويا ها هللويا newline هللويا للإله newline آهللويا ها هللويا newline هللويا للملك</lines>
     </verse>
     <verse name="v2">
-      <lines>قوموا احمدوه وسبحوه<br/>ولنعلي اسمه<br/>لأن الرب إله صالح<br/>إلى الأبد رحمته</lines>
+      <lines>قوموا احمدوه وسبحوه newline ولنعلي اسمه newline لأن الرب إله صالح newline إلى الأبد رحمته</lines>
     </verse>
     <verse name="v3">
-      <lines>قوموا اتبعوه مسبحين<br/>فالرب رجل الحرب<br/>يهتف ويقوى على أعدائه<br/>أعطوا مجدا للرب</lines>
+      <lines>قوموا اتبعوه مسبحين newline فالرب رجل الحرب newline يهتف ويقوى على أعدائه newline أعطوا مجدا للرب</lines>
     </verse>
   </lyrics>
 </song>

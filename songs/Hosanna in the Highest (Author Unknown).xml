@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Hosanna, hosanna,<br/>Hosanna in the highest!<br/>Hosanna, hosanna,<br/>Hosanna in the highest!<br/>Lord we lift up Your name<br/>With hearts full of praise!<br/>Be exalted oh Lord my God,<br/>Hosanna in the highest!</lines>
+      <lines>Hosanna, hosanna, newline Hosanna in the highest! newline Hosanna, hosanna, newline Hosanna in the highest! newline Lord we lift up Your name newline With hearts full of praise! newline Be exalted oh Lord my God, newline Hosanna in the highest!</lines>
     </verse>
     <verse name="v2">
-      <lines>Glory, glory,<br/>Glory to the King of Kings!<br/>Glory, glory,<br/>Glory to the King of Kings!<br/>Lord we lift up your name With hearts full of praise!<br/>Be exalted oh Lord my God,<br/>Glory to the King of Kings!</lines>
+      <lines>Glory, glory, newline Glory to the King of Kings! newline Glory, glory, newline Glory to the King of Kings! newline Lord we lift up your name With hearts full of praise! newline Be exalted oh Lord my God, newline Glory to the King of Kings!</lines>
     </verse>
     <verse name="v3">
-      <lines>Jesus, jesus,<br/>Jesus is the prince of peace!<br/>Jesus, jesus,<br/>Jesus is the prince of peace!<br/>Lord we lift up your name With hearts full of praise!<br/>Be exalted oh Lord my God,<br/>Jesus is the prince of peace!</lines>
+      <lines>Jesus, jesus, newline Jesus is the prince of peace! newline Jesus, jesus, newline Jesus is the prince of peace! newline Lord we lift up your name With hearts full of praise! newline Be exalted oh Lord my God, newline Jesus is the prince of peace!</lines>
     </verse>
   </lyrics>
 </song>

@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Holy, holy, holy Lord, God of hosts<br/>Heav'n and earth are full of Thee;<br/>Heav'n and earth are praising Thee,<br/>O Lord, Most High.</lines>
+      <lines>Holy, holy, holy Lord, God of hosts newline Heav'n and earth are full of Thee; newline Heav'n and earth are praising Thee, newline O Lord, Most High.</lines>
     </verse>
     <verse name="v1">
-      <lines>Day is dying in the west<br/>Heav'n is touching earth with rest;<br/>Wait and worship while the night<br/>Sets her ev'ning lamps alight,<br/>Thro' all the sky.</lines>
+      <lines>Day is dying in the west newline Heav'n is touching earth with rest; newline Wait and worship while the night newline Sets her ev'ning lamps alight, newline Thro' all the sky.</lines>
     </verse>
     <verse name="v2">
-      <lines>Lord of life, beneath the dome,<br/>Of the universe Thy home;<br/>Gather us who seek Thy face,<br/>To the fold of Thy embrace<br/>For Thou art nigh.</lines>
+      <lines>Lord of life, beneath the dome, newline Of the universe Thy home; newline Gather us who seek Thy face, newline To the fold of Thy embrace newline For Thou art nigh.</lines>
     </verse>
     <verse name="v3">
-      <lines>While the deep'ning shadows fall<br/>Heart of love enfolding all,<br/>Thro' the glory and the grace<br/>Of the stars that veil Thy face;<br/>Our hearts ascend.</lines>
+      <lines>While the deep'ning shadows fall newline Heart of love enfolding all, newline Thro' the glory and the grace newline Of the stars that veil Thy face; newline Our hearts ascend.</lines>
     </verse>
     <verse name="v4">
-      <lines>When forever from our sight,<br/>Pass the stars the day;<br/>The night Lord of angels,<br/>On our eyes let eternal morning rise,<br/>And shadows end.</lines>
+      <lines>When forever from our sight, newline Pass the stars the day; newline The night Lord of angels, newline On our eyes let eternal morning rise, newline And shadows end.</lines>
     </verse>
   </lyrics>
 </song>

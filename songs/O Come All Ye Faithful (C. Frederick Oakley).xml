@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>O come all ye faithful,<br/>Joyful and triumphant,<br/>O come ye, O come ye to Bethlehem;<br/>Come and behold Him,<br/>Born the King of angels:</lines>
+      <lines>O come all ye faithful, newline Joyful and triumphant, newline O come ye, O come ye to Bethlehem; newline Come and behold Him, newline Born the King of angels:</lines>
     </verse>
     <verse name="c1">
-      <lines>O come, let us adore Him,<br/>O come, let us adore Him,<br/>O come, let us adore Him,<br/>Christ the Lord.</lines>
+      <lines>O come, let us adore Him, newline O come, let us adore Him, newline O come, let us adore Him, newline Christ the Lord.</lines>
     </verse>
     <verse name="v2">
-      <lines>God of God,<br/>Light of light,<br/>Lo! He abhors not the virgin's womb;<br/>Very God,<br/>Begotton not created:</lines>
+      <lines>God of God, newline Light of light, newline Lo! He abhors not the virgin's womb; newline Very God, newline Begotton not created:</lines>
     </verse>
     <verse name="v3">
-      <lines>Sing, choirs of angels,<br/>Sing in exultation,<br/>Sing all ye citizens of heaven above:<br/>Glory to God<br/>In the highest:</lines>
+      <lines>Sing, choirs of angels, newline Sing in exultation, newline Sing all ye citizens of heaven above: newline Glory to God newline In the highest:</lines>
     </verse>
     <verse name="v4">
-      <lines>Yea, Lord, we greet Thee,<br/>Born this happy morning,<br/>Jesu, to Thee be glory given;<br/>Word of the Father,<br/>Now in flesh appearing:</lines>
+      <lines>Yea, Lord, we greet Thee, newline Born this happy morning, newline Jesu, to Thee be glory given; newline Word of the Father, newline Now in flesh appearing:</lines>
     </verse>
   </lyrics>
 </song>

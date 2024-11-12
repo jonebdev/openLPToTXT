@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Begin my tongue some heav'nly theme<br/>And speak some boundless thing;<br/>The mighty works or mightier name,<br/>Of our eternal King.</lines>
+      <lines>Begin my tongue some heav'nly theme newline And speak some boundless thing; newline The mighty works or mightier name, newline Of our eternal King.</lines>
     </verse>
     <verse name="v2">
-      <lines>Tell of His wondrous faithfulness<br/>And sound His pow'r abroad;<br/>Sing the sweet promise of His grace,<br/>The love and truth of God.</lines>
+      <lines>Tell of His wondrous faithfulness newline And sound His pow'r abroad; newline Sing the sweet promise of His grace, newline The love and truth of God.</lines>
     </verse>
     <verse name="v3">
-      <lines>His very word of grace is strong,<br/>As that which built the skies;<br/>The voice that roles the stars along,<br/>Speaks all the promises.</lines>
+      <lines>His very word of grace is strong, newline As that which built the skies; newline The voice that roles the stars along, newline Speaks all the promises.</lines>
     </verse>
     <verse name="v4">
-      <lines>O might I hear Thy heav'nly tongue,<br/>But whisper Thou art mine;<br/>Those gentle words shall raise my song,<br/>To notes almost divine.</lines>
+      <lines>O might I hear Thy heav'nly tongue, newline But whisper Thou art mine; newline Those gentle words shall raise my song, newline To notes almost divine.</lines>
     </verse>
   </lyrics>
 </song>

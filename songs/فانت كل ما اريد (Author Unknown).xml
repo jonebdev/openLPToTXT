@@ -10,28 +10,28 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>يسوع انت كل ما اريد<br/>فمهما تسأل حيثما تذهب أتبعك</lines>
+      <lines>يسوع انت كل ما اريد newline فمهما تسأل حيثما تذهب أتبعك</lines>
     </verse>
     <verse name="v1b">
       <lines>فـــــأنــــــا مـحـــتـــاج لك مـحـــتـــاج لك يــا الله)2</lines>
     </verse>
     <verse name="c1a">
-      <lines>فـأنت كل ما اريد<br/>اريد ان اكون قربك..قربك</lines>
+      <lines>فـأنت كل ما اريد newline اريد ان اكون قربك..قربك</lines>
     </verse>
     <verse name="c1b">
-      <lines>فحياتي معك تحلو لي<br/>حياتي بدونك سراب..سراب</lines>
+      <lines>فحياتي معك تحلو لي newline حياتي بدونك سراب..سراب</lines>
     </verse>
     <verse name="v2a">
-      <lines>ضمتني الى شعبك<br/>حررتني وسكنت داخلي</lines>
+      <lines>ضمتني الى شعبك newline حررتني وسكنت داخلي</lines>
     </verse>
     <verse name="v2b">
-      <lines>اسبحك يا خالقي<br/>ابارك اسمك الغالي</lines>
+      <lines>اسبحك يا خالقي newline ابارك اسمك الغالي</lines>
     </verse>
     <verse name="v3a">
-      <lines>انت تعرف ما بقلبي<br/>فهمت فكري ربي من بعيد</lines>
+      <lines>انت تعرف ما بقلبي newline فهمت فكري ربي من بعيد</lines>
     </verse>
     <verse name="v3b">
-      <lines>اختبرني وامتحني<br/>قدسني واعطني قلباً جديد</lines>
+      <lines>اختبرني وامتحني newline قدسني واعطني قلباً جديد</lines>
     </verse>
   </lyrics>
 </song>

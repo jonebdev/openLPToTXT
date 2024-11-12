@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Come and let your presence<br/>Fill our praise, fill our praise<br/>Come and let Your presence fill this place</lines>
+      <lines>Come and let your presence newline Fill our praise, fill our praise newline Come and let Your presence fill this place</lines>
     </verse>
     <verse name="v2">
-      <lines>You are the one we want to meet<br/>Jesus shine though all the praises that we sing</lines>
+      <lines>You are the one we want to meet newline Jesus shine though all the praises that we sing</lines>
     </verse>
     <verse name="v3">
-      <lines>We have come to give You<br/>Highest praise, highest praise<br/>We have come to love You in this place</lines>
+      <lines>We have come to give You newline Highest praise, highest praise newline We have come to love You in this place</lines>
     </verse>
     <verse name="v4">
-      <lines>Its all for you<br/>Here we are, here we are</lines>
+      <lines>Its all for you newline Here we are, here we are</lines>
     </verse>
     <verse name="v5">
-      <lines>So open up heaven<br/>open up heaven</lines>
+      <lines>So open up heaven newline open up heaven</lines>
     </verse>
   </lyrics>
 </song>

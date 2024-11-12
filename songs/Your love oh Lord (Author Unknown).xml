@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Your love oh Lord<br/>Reaches to the heavens<br/>Your faithfulness, stretches to the sky<br/>Your righteousness is like a mighty mountain<br/>You justice flows like the oceans tide</lines>
+      <lines>Your love oh Lord newline Reaches to the heavens newline Your faithfulness, stretches to the sky newline Your righteousness is like a mighty mountain newline You justice flows like the oceans tide</lines>
     </verse>
     <verse name="v2">
-      <lines>I will lift my voice to worship You my King<br/>I will find my strength in the shadow of Your wings.</lines>
+      <lines>I will lift my voice to worship You my King newline I will find my strength in the shadow of Your wings.</lines>
     </verse>
   </lyrics>
 </song>

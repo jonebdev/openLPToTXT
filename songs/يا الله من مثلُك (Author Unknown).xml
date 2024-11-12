@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>يا اللهُ من مثلُك4<br/>تبتهجُ شفتاي اذ ارنمُ لك)<br/>ونفسي التي فديتَها)2<br/>Ya allahu man mithluka (4) (tabtahiju shafataya ith uranimu laka wa nafsil laty fadaytaha)2</lines>
+      <lines>يا اللهُ من مثلُك4 newline تبتهجُ شفتاي اذ ارنمُ لك) newline ونفسي التي فديتَها)2 newline Ya allahu man mithluka (4) (tabtahiju shafataya ith uranimu laka wa nafsil laty fadaytaha)2</lines>
     </verse>
     <verse name="v1b">
-      <lines>اذكر برك وحدَك اخبرُ بعجائبِك2<br/>Athkuru biraka wahdaka ukhbiru bi'aja'ibika (2)</lines>
+      <lines>اذكر برك وحدَك اخبرُ بعجائبِك2 newline Athkuru biraka wahdaka ukhbiru bi'aja'ibika (2)</lines>
     </verse>
     <verse name="v1c">
-      <lines>وازيد على كلِ تسبيحِك2<br/>(wa azeedu ala kully tasbeehika)2</lines>
+      <lines>وازيد على كلِ تسبيحِك2 newline (wa azeedu ala kully tasbeehika)2</lines>
     </verse>
   </lyrics>
 </song>

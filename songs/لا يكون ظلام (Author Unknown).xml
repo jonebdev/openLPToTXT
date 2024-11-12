@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>لا يكون ظلام<br/>للى عايش جوه ضيق<br/>ويكون سلام<br/>وايديه تفتح طريق )2</lines>
+      <lines>لا يكون ظلام newline للى عايش جوه ضيق newline ويكون سلام newline وايديه تفتح طريق )2</lines>
     </verse>
     <verse name="v1">
-      <lines>من جوه نعشى سمعت صوته ينادى اسمى<br/>وبكلمة منه رد روحى جوه جسمى</lines>
+      <lines>من جوه نعشى سمعت صوته ينادى اسمى newline وبكلمة منه رد روحى جوه جسمى</lines>
     </verse>
     <verse name="v2">
-      <lines>وأقوم وأنا رافع عينيا لعينيه<br/>ولا ايد بتسند أو تساعد غير ايديه</lines>
+      <lines>وأقوم وأنا رافع عينيا لعينيه newline ولا ايد بتسند أو تساعد غير ايديه</lines>
     </verse>
     <verse name="v3">
-      <lines>أنا كلى ليك <br/>ياللى بدمك اشترتنى<br/>ولا يكفى حبى وخدمتى ياللى فديتنى</lines>
+      <lines>أنا كلى ليك  newline ياللى بدمك اشترتنى newline ولا يكفى حبى وخدمتى ياللى فديتنى</lines>
     </verse>
   </lyrics>
 </song>

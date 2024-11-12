@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>هللويا ... هللويا<br/>سبحوا يا عبيد الرب<br/>هللويا ... هللويا<br/>سبحوا إسم الرب<br/>(Hallelujah)2 sabihu ya abeed arrab<br/>(Hallelujah)2 sabihu ismalrab</lines>
+      <lines>هللويا ... هللويا newline سبحوا يا عبيد الرب newline هللويا ... هللويا newline سبحوا إسم الرب newline (Hallelujah)2 sabihu ya abeed arrab newline (Hallelujah)2 sabihu ismalrab</lines>
     </verse>
     <verse name="v1">
-      <lines>من مثل الرب إلهنا 3<br/>الساكن في الأعالي<br/>(Man mithlul rabby ilahana)3<br/>assakin fil a'aly</lines>
+      <lines>من مثل الرب إلهنا 3 newline الساكن في الأعالي newline (Man mithlul rabby ilahana)3 newline assakin fil a'aly</lines>
     </verse>
   </lyrics>
 </song>

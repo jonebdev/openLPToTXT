@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>When I survey the wondrous cross<br/>On which the Prince of glory died,<br/>My richest gain I count but loss,<br/>And pour contempt on all my pride.</lines>
+      <lines>When I survey the wondrous cross newline On which the Prince of glory died, newline My richest gain I count but loss, newline And pour contempt on all my pride.</lines>
     </verse>
     <verse name="v2">
-      <lines>Forbid it, Lord, that I should boast,<br/>Save in the death of Christ, my God;<br/>All the vain things that charm me most,<br/>I sacrifice them to His blood.</lines>
+      <lines>Forbid it, Lord, that I should boast, newline Save in the death of Christ, my God; newline All the vain things that charm me most, newline I sacrifice them to His blood.</lines>
     </verse>
     <verse name="v3">
-      <lines>See, from His head, His hands, His feet,<br/>Sorrow and love flow mingled down;<br/>Did e'er such love and sorrow meet,<br/>Or thorns compose so rich a crown?</lines>
+      <lines>See, from His head, His hands, His feet, newline Sorrow and love flow mingled down; newline Did e'er such love and sorrow meet, newline Or thorns compose so rich a crown?</lines>
     </verse>
     <verse name="v4">
-      <lines>Were the whole realm of nature mine,<br/>That were a present far too small;<br/>Love so amazing, so divine,<br/>Demands my soul, my life, my all.</lines>
+      <lines>Were the whole realm of nature mine, newline That were a present far too small; newline Love so amazing, so divine, newline Demands my soul, my life, my all.</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>أغني للرب في حياتي<br/>أرنمُ لإلهي<br/>ما دمتُ موجودا أرنمُ<br/>أرنمُ ما دمتُ موجودا</lines>
+      <lines>أغني للرب في حياتي newline أرنمُ لإلهي newline ما دمتُ موجودا أرنمُ newline أرنمُ ما دمتُ موجودا</lines>
     </verse>
     <verse name="v1b">
-      <lines>فيلذُ له نشيدي<br/>وأنا أفرحُ بالرب</lines>
+      <lines>فيلذُ له نشيدي newline وأنا أفرحُ بالرب</lines>
     </verse>
   </lyrics>
 </song>

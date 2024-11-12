@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>الرب لي راع<br/>لذا فلن أحتاج<br/>يقودني لأغنى المراعي<br/>يوردني لأعذب مياه</lines>
+      <lines>الرب لي راع newline لذا فلن أحتاج newline يقودني لأغنى المراعي newline يوردني لأعذب مياه</lines>
     </verse>
     <verse name="c1">
-      <lines>هللو ... هللو ... هللويا<br/>الرب راع لي</lines>
+      <lines>هللو ... هللو ... هللويا newline الرب راع لي</lines>
     </verse>
     <verse name="v2">
-      <lines>الرب ترس لنفسي<br/>لذا فلن أرتاع<br/>مجدي ورافع رأسي<br/>الرب لي ترسي</lines>
+      <lines>الرب ترس لنفسي newline لذا فلن أرتاع newline مجدي ورافع رأسي newline الرب لي ترسي</lines>
     </verse>
     <verse name="v3">
-      <lines>الرب نوري خلاصي<br/>خلاصي فممن أخاف<br/>الرب حصن حياتي<br/>لذا فلن أجزع</lines>
+      <lines>الرب نوري خلاصي newline خلاصي فممن أخاف newline الرب حصن حياتي newline لذا فلن أجزع</lines>
     </verse>
   </lyrics>
 </song>

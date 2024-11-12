@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Oh! precious is the flow,<br/>That makes me white as snow;<br/>No other fount I know;<br/>Nothing but the blood of Jesus.</lines>
+      <lines>Oh! precious is the flow, newline That makes me white as snow; newline No other fount I know; newline Nothing but the blood of Jesus.</lines>
     </verse>
     <verse name="v1">
-      <lines>What can wash away my sin?<br/>Nothing but the blood of Jesus;<br/>What can make me whole again?<br/>Nothing but the blood of Jesus.</lines>
+      <lines>What can wash away my sin? newline Nothing but the blood of Jesus; newline What can make me whole again? newline Nothing but the blood of Jesus.</lines>
     </verse>
     <verse name="v2">
-      <lines>For my pardon, this I see;<br/>Nothing but the blood of Jesus.<br/>For my cleansing, this my plea;<br/>Nothing but the blood of Jesus.</lines>
+      <lines>For my pardon, this I see; newline Nothing but the blood of Jesus. newline For my cleansing, this my plea; newline Nothing but the blood of Jesus.</lines>
     </verse>
     <verse name="v3">
-      <lines>Nothing can for sin atone,<br/>Nothing but the blood of Jesus;<br/>Naught of good that I have done,<br/>Nothing but the blood of Jesus.</lines>
+      <lines>Nothing can for sin atone, newline Nothing but the blood of Jesus; newline Naught of good that I have done, newline Nothing but the blood of Jesus.</lines>
     </verse>
     <verse name="v4">
-      <lines>This is all my hope and peace,<br/>Nothing but the blood of Jesus;<br/>This is all my righteousness,<br/>Nothing but the blood of Jesus.</lines>
+      <lines>This is all my hope and peace, newline Nothing but the blood of Jesus; newline This is all my righteousness, newline Nothing but the blood of Jesus.</lines>
     </verse>
   </lyrics>
 </song>

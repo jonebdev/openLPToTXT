@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>This is my Father's world,<br/>And to my listening ears;<br/>All nature sings and round me rings<br/>The music of the spheres.<br/>This is my Father's world;<br/>I rest me in the thought<br/>Of rocks and trees, of skies and seas;<br/>His hand the wonders wrought.</lines>
+      <lines>This is my Father's world, newline And to my listening ears; newline All nature sings and round me rings newline The music of the spheres. newline This is my Father's world; newline I rest me in the thought newline Of rocks and trees, of skies and seas; newline His hand the wonders wrought.</lines>
     </verse>
     <verse name="v2">
-      <lines>This is my Father's world;<br/>The birds their carols raise.<br/>The morning light, the lily white,<br/>Declare their Maker's praise;<br/>This is my Father's world;<br/>He shines in all that's fair;<br/>In the rustling grass I hear Him pass,<br/>He speaks to me everywhere.</lines>
+      <lines>This is my Father's world; newline The birds their carols raise. newline The morning light, the lily white, newline Declare their Maker's praise; newline This is my Father's world; newline He shines in all that's fair; newline In the rustling grass I hear Him pass, newline He speaks to me everywhere.</lines>
     </verse>
     <verse name="v3">
-      <lines>This is my Father's world,<br/>O let me ne'er forget<br/>That though the wrong seems oft so strong,<br/>God is the Ruler yet.<br/>This is my Father's world;<br/>The battle is not done;<br/>Jesus, who died, shall be satisfied,<br/>And earth and heaven be one.</lines>
+      <lines>This is my Father's world, newline O let me ne'er forget newline That though the wrong seems oft so strong, newline God is the Ruler yet. newline This is my Father's world; newline The battle is not done; newline Jesus, who died, shall be satisfied, newline And earth and heaven be one.</lines>
     </verse>
   </lyrics>
 </song>

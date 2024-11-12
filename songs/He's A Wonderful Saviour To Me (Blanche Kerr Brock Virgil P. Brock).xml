@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>For He's a wonderful Savior to me,<br/>He's a wonderful Savior to me.<br/>I was lost in sin,<br/>But Jesus took me in.<br/>He's a wonderful Savior to me.</lines>
+      <lines>For He's a wonderful Savior to me, newline He's a wonderful Savior to me. newline I was lost in sin, newline But Jesus took me in. newline He's a wonderful Savior to me.</lines>
     </verse>
     <verse name="v1">
-      <lines>I was lost in sin,<br/>But Jesus rescued me.<br/>He's a wonderful Savior to me.<br/>I was bound by fear,<br/>But Jesus set me free.<br/>He's a wonderful Savior to me.</lines>
+      <lines>I was lost in sin, newline But Jesus rescued me. newline He's a wonderful Savior to me. newline I was bound by fear, newline But Jesus set me free. newline He's a wonderful Savior to me.</lines>
     </verse>
     <verse name="v2">
-      <lines>He's a friend so true,<br/>So patient and so kind.<br/>He's wonderful Savior to me,<br/>Ev'rything I need in Him I always find.<br/>He's a wonderful Savior to me.</lines>
+      <lines>He's a friend so true, newline So patient and so kind. newline He's wonderful Savior to me, newline Ev'rything I need in Him I always find. newline He's a wonderful Savior to me.</lines>
     </verse>
     <verse name="v3">
-      <lines>He is always near,<br/>To comfort and to cheer.<br/>He's a wonderful Savior to me,<br/>He forgives my sin,<br/>He dries my ev'ry tear,<br/>He's a wonderful Savior to me.</lines>
+      <lines>He is always near, newline To comfort and to cheer. newline He's a wonderful Savior to me, newline He forgives my sin, newline He dries my ev'ry tear, newline He's a wonderful Savior to me.</lines>
     </verse>
     <verse name="v4">
-      <lines>Dearer grows the love<br/>Of Jesus day by day,<br/>He's a wonderful Savior to me,<br/>Sweeter is His grace,<br/>While pressing on my way.<br/>He's a wonderful Savior to me.</lines>
+      <lines>Dearer grows the love newline Of Jesus day by day, newline He's a wonderful Savior to me, newline Sweeter is His grace, newline While pressing on my way. newline He's a wonderful Savior to me.</lines>
     </verse>
   </lyrics>
 </song>

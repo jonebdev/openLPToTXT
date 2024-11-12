@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>جميل .. جميل .. جميل<br/>عظيم .. عظيم .. عظيم<br/>يسوع .. يسوع</lines>
+      <lines>جميل .. جميل .. جميل newline عظيم .. عظيم .. عظيم newline يسوع .. يسوع</lines>
     </verse>
     <verse name="v2">
-      <lines>خدني قدام عرشك<br/>وريني جمالك وريني عنيك</lines>
+      <lines>خدني قدام عرشك newline وريني جمالك وريني عنيك</lines>
     </verse>
   </lyrics>
 </song>

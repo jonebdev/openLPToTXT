@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>ذابت الجبال مثل الشمع<br/>قدام الرب قدام سيد الأرض<br/>كلها .. كلها</lines>
+      <lines>ذابت الجبال مثل الشمع newline قدام الرب قدام سيد الأرض newline كلها .. كلها</lines>
     </verse>
   </lyrics>
 </song>

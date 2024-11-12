@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>I sing the mighty power of God,<br/>That made the mountains rise;<br/>That spread the flowing seas abroad,<br/>And built the lofty skies,<br/>That spread the flowing seas abroad,<br/>And built the lofty skies.</lines>
+      <lines>I sing the mighty power of God, newline That made the mountains rise; newline That spread the flowing seas abroad, newline And built the lofty skies, newline That spread the flowing seas abroad, newline And built the lofty skies.</lines>
     </verse>
     <verse name="v2">
-      <lines>I sing the goodness of the Lord,<br/>That filled the earth with food;<br/>He formed the creatures with His word,<br/>And then pronounced them good,<br/>He formed the creatures with His word,<br/>And then pronounced them good.</lines>
+      <lines>I sing the goodness of the Lord, newline That filled the earth with food; newline He formed the creatures with His word, newline And then pronounced them good, newline He formed the creatures with His word, newline And then pronounced them good.</lines>
     </verse>
     <verse name="v3">
-      <lines>There's not a plant or flower below,<br/>But makes Thy glories known;<br/>And clouds arise, and tempests blow,<br/>By order from Thy throne;<br/>And clouds arise, and tempests blow,<br/>By order from Thy throne.<br/>Amen.</lines>
+      <lines>There's not a plant or flower below, newline But makes Thy glories known; newline And clouds arise, and tempests blow, newline By order from Thy throne; newline And clouds arise, and tempests blow, newline By order from Thy throne. newline Amen.</lines>
     </verse>
   </lyrics>
 </song>

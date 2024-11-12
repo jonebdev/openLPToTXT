@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>دو .. دموع و توبة ليسوعدد<br/>ري ... رحلتنا حلوة معاه<br/>مي ... ملاكه بيحرسنا<br/>فا ... فرح بيزيد على طول<br/>صول ... صلوات تملانا سلام<br/>لا .. لازم نغلب إبليس<br/>سي ... ساكن فينا بروحه<br/> ما أحلى العيشة وياه</lines>
+      <lines>دو .. دموع و توبة ليسوعدد newline ري ... رحلتنا حلوة معاه newline مي ... ملاكه بيحرسنا newline فا ... فرح بيزيد على طول newline صول ... صلوات تملانا سلام newline لا .. لازم نغلب إبليس newline سي ... ساكن فينا بروحه newline  ما أحلى العيشة وياه</lines>
     </verse>
     <verse name="v2">
-      <lines>Do (doe)...a deer, a female deer<br/>Re (ray)...a drop of golden sun<br/>Me...a name I call myself<br/>Fa (far)...a long long way to run<br/>So (sew)...a needle pulling thread<br/>La...a note to follow so<br/>Ti (tea)...a drink with jam and bread<br/>That will bring us back to Do (oh-oh-oh)</lines>
+      <lines>Do (doe)...a deer, a female deer newline Re (ray)...a drop of golden sun newline Me...a name I call myself newline Fa (far)...a long long way to run newline So (sew)...a needle pulling thread newline La...a note to follow so newline Ti (tea)...a drink with jam and bread newline That will bring us back to Do (oh-oh-oh)</lines>
     </verse>
   </lyrics>
 </song>

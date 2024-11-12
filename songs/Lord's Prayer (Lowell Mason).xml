@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Our Father who art in Heaven,<br/>Hallowed by Thy name.<br/>Thy kingdom come, Thy will be done,<br/>On earth as it is in heaven.</lines>
+      <lines>Our Father who art in Heaven, newline Hallowed by Thy name. newline Thy kingdom come, Thy will be done, newline On earth as it is in heaven.</lines>
     </verse>
     <verse name="v2">
-      <lines>Give us this day our daily bread;<br/>And forgive us our trespasses<br/>As we forgive those<br/>Who trespass against us.</lines>
+      <lines>Give us this day our daily bread; newline And forgive us our trespasses newline As we forgive those newline Who trespass against us.</lines>
     </verse>
     <verse name="v3">
-      <lines>And lead us not into temptation,<br/>But deliver from evil,<br/>For thine is the kingdom,<br/>And the power and the glory forever.<br/>Amen.</lines>
+      <lines>And lead us not into temptation, newline But deliver from evil, newline For thine is the kingdom, newline And the power and the glory forever. newline Amen.</lines>
     </verse>
   </lyrics>
 </song>

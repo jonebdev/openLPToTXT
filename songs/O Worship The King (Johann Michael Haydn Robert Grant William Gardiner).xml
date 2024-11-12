@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>O worship the King,<br/>All glorious above,<br/>And gratefully sing<br/>His power and His love:<br/>Our Shield and Defender,<br/>The Ancient of Days,<br/>Pavilioned in splendor,<br/>And girded with praise.</lines>
+      <lines>O worship the King, newline All glorious above, newline And gratefully sing newline His power and His love: newline Our Shield and Defender, newline The Ancient of Days, newline Pavilioned in splendor, newline And girded with praise.</lines>
     </verse>
     <verse name="v2">
-      <lines>O tell of His might,<br/>And sing of His grace,<br/>Whose robe is the light,<br/>Whose canopy space.<br/>His chariots of wrath,<br/>The deep thunderclouds form,<br/>And dark is His path<br/>On the wings of the storm.</lines>
+      <lines>O tell of His might, newline And sing of His grace, newline Whose robe is the light, newline Whose canopy space. newline His chariots of wrath, newline The deep thunderclouds form, newline And dark is His path newline On the wings of the storm.</lines>
     </verse>
     <verse name="v3">
-      <lines>Thy bountiful care,<br/>What tongue can recite?<br/>It breathes in the air;<br/>It shines in the light.<br/>It streams from the hills;<br/>It descends to the plain,<br/>And sweetly distills<br/>In the dew and the rain.</lines>
+      <lines>Thy bountiful care, newline What tongue can recite? newline It breathes in the air; newline It shines in the light. newline It streams from the hills; newline It descends to the plain, newline And sweetly distills newline In the dew and the rain.</lines>
     </verse>
     <verse name="v4">
-      <lines>Frail children of dust,<br/>And feeble as frail,<br/>In Thee do we trust,<br/>Nor find Thee to fail.<br/>Thy mercies how tender!<br/>How firm to the end!<br/>Our Maker, Defender,<br/>Redeemer, and Friend!</lines>
+      <lines>Frail children of dust, newline And feeble as frail, newline In Thee do we trust, newline Nor find Thee to fail. newline Thy mercies how tender! newline How firm to the end! newline Our Maker, Defender, newline Redeemer, and Friend!</lines>
     </verse>
   </lyrics>
 </song>

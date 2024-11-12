@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>طوبى لنا سننشد<br/>أمام كرسي عرشه<br/>مجدا وعزا نهتف<br/>ونبقى معه للأبد</lines>
+      <lines>طوبى لنا سننشد newline أمام كرسي عرشه newline مجدا وعزا نهتف newline ونبقى معه للأبد</lines>
     </verse>
     <verse name="c1">
-      <lines>سبحوا ورنموا له<br/>سبحوا يا جميع قديسيه<br/>وأعلنوا جلال ملكه<br/>اقترب مجيئه</lines>
+      <lines>سبحوا ورنموا له newline سبحوا يا جميع قديسيه newline وأعلنوا جلال ملكه newline اقترب مجيئه</lines>
     </verse>
     <verse name="v2">
-      <lines>طوبى لنا سنجلس<br/>في عشاء حفل عرسه<br/>خمر حبه نشرب<br/>ونبقى معه للأبد</lines>
+      <lines>طوبى لنا سنجلس newline في عشاء حفل عرسه newline خمر حبه نشرب newline ونبقى معه للأبد</lines>
     </verse>
     <verse name="v3">
-      <lines>طوبى لنا سنملك<br/>معه لمدح مجده<br/>بزا نقيا نلبس<br/>ونبقى معه للأبد</lines>
+      <lines>طوبى لنا سنملك newline معه لمدح مجده newline بزا نقيا نلبس newline ونبقى معه للأبد</lines>
     </verse>
   </lyrics>
 </song>

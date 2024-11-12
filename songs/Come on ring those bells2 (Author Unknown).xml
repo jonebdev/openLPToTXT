@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Everybody likes to take a holiday,<br/>everybody likes to take a rest<br/>Spending time together with the family<br/>Sharing lots of love and happiness.</lines>
+      <lines>Everybody likes to take a holiday, newline everybody likes to take a rest newline Spending time together with the family newline Sharing lots of love and happiness.</lines>
     </verse>
     <verse name="c1">
-      <lines>Come on ring those bells, light the Christmas tree,<br/>Jesus is the King, born for you and me.<br/>Come on ring those bells, everybody say,<br/>Jesus, we remember it's Your birthday</lines>
+      <lines>Come on ring those bells, light the Christmas tree, newline Jesus is the King, born for you and me. newline Come on ring those bells, everybody say, newline Jesus, we remember it's Your birthday</lines>
     </verse>
     <verse name="v2">
-      <lines>Celebrations come because of something good.<br/>Celebrations we love to recall<br/>Mary had a baby boy in Bethlehem<br/>The greatest celebration of them all.</lines>
+      <lines>Celebrations come because of something good. newline Celebrations we love to recall newline Mary had a baby boy in Bethlehem newline The greatest celebration of them all.</lines>
     </verse>
   </lyrics>
 </song>

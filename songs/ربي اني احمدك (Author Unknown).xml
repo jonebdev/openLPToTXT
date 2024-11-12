@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>ربي أني أحمدك أرفع يداي هاتفا<br/>فليس لي سواك<br/>وشوقي أن أسبح اسمك</lines>
+      <lines>ربي أني أحمدك أرفع يداي هاتفا newline فليس لي سواك newline وشوقي أن أسبح اسمك</lines>
     </verse>
     <verse name="v1b">
-      <lines>ربي أني أحمدك أرفع يداي هاتفا<br/>فليس لي سواك وشوقي أن أسبحك<br/>وشوقي أن أسبحك<br/>وشوقي أن أسبح أسمك</lines>
+      <lines>ربي أني أحمدك أرفع يداي هاتفا newline فليس لي سواك وشوقي أن أسبحك newline وشوقي أن أسبحك newline وشوقي أن أسبح أسمك</lines>
     </verse>
   </lyrics>
 </song>

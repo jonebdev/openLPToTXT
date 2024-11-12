@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أعبدك ربي القدير ليس مثلك<br/>أعبدك يا سيدي ملجأي قداستي<br/>أحبك فأنت لي قوتي</lines>
+      <lines>أعبدك ربي القدير ليس مثلك newline أعبدك يا سيدي ملجأي قداستي newline أحبك فأنت لي قوتي</lines>
     </verse>
   </lyrics>
 </song>

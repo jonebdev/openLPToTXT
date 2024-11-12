@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>My Jesus I love Thee;<br/>I know Thou art mine.<br/>For Thee all the follies<br/>Of sin I resign.<br/>My gracious Redeemer,<br/>My Savior art Thou.<br/>If ever I loved Thee,<br/>My Jesus, 'tis now.</lines>
+      <lines>My Jesus I love Thee; newline I know Thou art mine. newline For Thee all the follies newline Of sin I resign. newline My gracious Redeemer, newline My Savior art Thou. newline If ever I loved Thee, newline My Jesus, 'tis now.</lines>
     </verse>
     <verse name="v2">
-      <lines>I love Thee,<br/>Because Thou hast first loved me,<br/>And purchased my pardon<br/>On Calvary's tree.<br/>I love Thee<br/>For wearing the thorns<br/>On Thy brow,<br/>If ever I loved Thee,<br/>My Jesus, 'tis now.</lines>
+      <lines>I love Thee, newline Because Thou hast first loved me, newline And purchased my pardon newline On Calvary's tree. newline I love Thee newline For wearing the thorns newline On Thy brow, newline If ever I loved Thee, newline My Jesus, 'tis now.</lines>
     </verse>
     <verse name="v3">
-      <lines>I'll love Thee in life,<br/>I will love Thee in death,<br/>And praise Thee<br/>As long as Thou lendest me breath;<br/>And say when the death dew<br/>Lies cold on my brow,<br/>"If ever I loved Thee,<br/>My Jesus 'tis now."</lines>
+      <lines>I'll love Thee in life, newline I will love Thee in death, newline And praise Thee newline As long as Thou lendest me breath; newline And say when the death dew newline Lies cold on my brow, newline "If ever I loved Thee, newline My Jesus 'tis now."</lines>
     </verse>
     <verse name="v4">
-      <lines>In mansions of glory<br/>And endless delight,<br/>I'll ever adore Thee<br/>In heaven so bright.<br/>I'll sing with the glittering crown<br/>On my brow,<br/>"If ever I loved Thee,<br/>My Jesus, 'tis now."</lines>
+      <lines>In mansions of glory newline And endless delight, newline I'll ever adore Thee newline In heaven so bright. newline I'll sing with the glittering crown newline On my brow, newline "If ever I loved Thee, newline My Jesus, 'tis now."</lines>
     </verse>
   </lyrics>
 </song>

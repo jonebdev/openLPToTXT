@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>اريد ان اعرف ما في قلبك<br/>اريد ان اشابه صوره ابنك</lines>
+      <lines>اريد ان اعرف ما في قلبك newline اريد ان اشابه صوره ابنك</lines>
     </verse>
     <verse name="v2">
-      <lines>اريد ان اكون قرب قلبك<br/>ان انظر من قريب واعين وجهك</lines>
+      <lines>اريد ان اكون قرب قلبك newline ان انظر من قريب واعين وجهك</lines>
     </verse>
     <verse name="v3">
-      <lines>فالوقت قد حان لطلب وجهك<br/>يا مشتهي الأمم تعال</lines>
+      <lines>فالوقت قد حان لطلب وجهك newline يا مشتهي الأمم تعال</lines>
     </verse>
     <verse name="v4">
-      <lines>هي ساعه الأن لطلب وجهك<br/>هي ساعة الأن كي نراك</lines>
+      <lines>هي ساعه الأن لطلب وجهك newline هي ساعة الأن كي نراك</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>يا حياة القلب يا<br/>حبيب روحي ضامني<br/>إن مضى الأهل ستبقى<br/>أنت لي تضمني</lines>
+      <lines>يا حياة القلب يا newline حبيب روحي ضامني newline إن مضى الأهل ستبقى newline أنت لي تضمني</lines>
     </verse>
     <verse name="v1b">
-      <lines>فيك يا نبع سروري<br/>فيك أنت لذتي<br/>أنشد ما دمت موجوداً<br/>هنا ترنيمتي</lines>
+      <lines>فيك يا نبع سروري newline فيك أنت لذتي newline أنشد ما دمت موجوداً newline هنا ترنيمتي</lines>
     </verse>
     <verse name="c1a">
-      <lines>فرحي فيك لا ينتهي<br/>ولي فيك ما أشتهي<br/>فرحتي يا نصرتي<br/>فرح ربي قوتي<br/>لا سواك بهجتي (فرحي فيك)2<br/>(فرحي فيك لا ينهي2)<br/> <br/>Verse 3<br/>فيك قد ودعت حزني<br/>واضطرابي أبدا<br/>فيك يا راعي حياتي<br/>لا احتياج أبدا</lines>
+      <lines>فرحي فيك لا ينتهي newline ولي فيك ما أشتهي newline فرحتي يا نصرتي newline فرح ربي قوتي newline لا سواك بهجتي (فرحي فيك)2 newline (فرحي فيك لا ينهي2) newline   newline Verse 3 newline فيك قد ودعت حزني newline واضطرابي أبدا newline فيك يا راعي حياتي newline لا احتياج أبدا</lines>
     </verse>
     <verse name="c1b">
-      <lines>لي مع الأيام في الآلام<br/>عهدا قد رسا<br/>ربي بالعزاء للأفراح<br/>قلبي ، كرسا<br/> <br/>Verse 3<br/>ليس ما تعطي لنفسي<br/>يشغلني ههنا<br/>أنت موضوع انشغالي<br/>وسجودي والثنا</lines>
+      <lines>لي مع الأيام في الآلام newline عهدا قد رسا newline ربي بالعزاء للأفراح newline قلبي ، كرسا newline   newline Verse 3 newline ليس ما تعطي لنفسي newline يشغلني ههنا newline أنت موضوع انشغالي newline وسجودي والثنا</lines>
     </verse>
     <verse name="c1c">
-      <lines>فيك يا كل طموحي<br/>لي رجاء قد سما<br/>أكمل هناك أفراحي <br/>عيانا في السما</lines>
+      <lines>فيك يا كل طموحي newline لي رجاء قد سما newline أكمل هناك أفراحي  newline عيانا في السما</lines>
     </verse>
   </lyrics>
 </song>

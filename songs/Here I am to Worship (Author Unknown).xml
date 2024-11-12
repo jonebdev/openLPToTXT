@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Light of the world<br/>You stepped down into darkness<br/>Opened my eyes, let me see<br/>Beauty that made this heart adore You<br/>Hope of a life spent with You</lines>
+      <lines>Light of the world newline You stepped down into darkness newline Opened my eyes, let me see newline Beauty that made this heart adore You newline Hope of a life spent with You</lines>
     </verse>
     <verse name="c1">
-      <lines>Here I am to worship<br/>Here I am to bow down<br/>Here I am to say that You're my God<br/>You're altogether lovely<br/>Altogether worthy<br/>Altogether wonderful to me</lines>
+      <lines>Here I am to worship newline Here I am to bow down newline Here I am to say that You're my God newline You're altogether lovely newline Altogether worthy newline Altogether wonderful to me</lines>
     </verse>
     <verse name="v2">
-      <lines>King of all days<br/>Oh so highly exalted<br/>Glorious in Heaven above<br/>Humbly You came to the earth You created<br/>All for Love's sake became poor</lines>
+      <lines>King of all days newline Oh so highly exalted newline Glorious in Heaven above newline Humbly You came to the earth You created newline All for Love's sake became poor</lines>
     </verse>
     <verse name="b1">
-      <lines>I'll never know how much it cost<br/>To see my sin upon that cross</lines>
+      <lines>I'll never know how much it cost newline To see my sin upon that cross</lines>
     </verse>
   </lyrics>
 </song>

@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Holy God, we praise Thy name;<br/>Lord of all, we bow before Thee.<br/>All on earth, Thy scepter claim,<br/>All in heaven above adore Thee.<br/>Infinite Thy vast domain,<br/>Everlasting is Thy reign.</lines>
+      <lines>Holy God, we praise Thy name; newline Lord of all, we bow before Thee. newline All on earth, Thy scepter claim, newline All in heaven above adore Thee. newline Infinite Thy vast domain, newline Everlasting is Thy reign.</lines>
     </verse>
     <verse name="v2">
-      <lines>Hark the glad celestial hymn;<br/>Angel choirs above are raising.<br/>Cherubim and seraphim,<br/>In unceasing chorus praising;<br/>Fill the heavens with sweet accord,<br/>Holy, holy, holy Lord.</lines>
+      <lines>Hark the glad celestial hymn; newline Angel choirs above are raising. newline Cherubim and seraphim, newline In unceasing chorus praising; newline Fill the heavens with sweet accord, newline Holy, holy, holy Lord.</lines>
     </verse>
     <verse name="v3">
-      <lines>All apostles join the strain,<br/>As Thy sacred name they hallow.<br/>Prophets swell the glad refrain<br/>And the blessed martyrs follow<br/>And from morn to set of sun,<br/>Through the church the song goes on.</lines>
+      <lines>All apostles join the strain, newline As Thy sacred name they hallow. newline Prophets swell the glad refrain newline And the blessed martyrs follow newline And from morn to set of sun, newline Through the church the song goes on.</lines>
     </verse>
     <verse name="v4">
-      <lines>Holy Father, holy Son,<br/>Holy Spirit, three we name Thee.<br/>Though in essence only one,<br/>Undivided God we claim Thee;<br/>And adoring bend the knee,<br/>While we sing our praise to Thee.</lines>
+      <lines>Holy Father, holy Son, newline Holy Spirit, three we name Thee. newline Though in essence only one, newline Undivided God we claim Thee; newline And adoring bend the knee, newline While we sing our praise to Thee.</lines>
     </verse>
   </lyrics>
 </song>

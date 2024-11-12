@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>الربُ عالٍ 3 فوقَ الجبال<br/>ملكٌ عظيمٌ 3 لبسَ الجلال</lines>
+      <lines>الربُ عالٍ 3 فوقَ الجبال newline ملكٌ عظيمٌ 3 لبسَ الجلال</lines>
     </verse>
     <verse name="v1">
-      <lines>معا نعلي ربَنا المسيح<br/>نشدو نغني نرفعُ التسبيح</lines>
+      <lines>معا نعلي ربَنا المسيح newline نشدو نغني نرفعُ التسبيح</lines>
     </verse>
     <verse name="v2">
-      <lines>هللويا مجدا للإله<br/>لكل شيء يهبُ الحياة</lines>
+      <lines>هللويا مجدا للإله newline لكل شيء يهبُ الحياة</lines>
     </verse>
     <verse name="v3">
-      <lines>من مثلُك يا ربَنا المجيد<br/>فحقُك دوما يعلو يزيد</lines>
+      <lines>من مثلُك يا ربَنا المجيد newline فحقُك دوما يعلو يزيد</lines>
     </verse>
     <verse name="v4">
-      <lines>يخرج للحربِ يسحقُ الأعداء<br/>من مثلُه جبارٌ في القتال</lines>
+      <lines>يخرج للحربِ يسحقُ الأعداء newline من مثلُه جبارٌ في القتال</lines>
     </verse>
   </lyrics>
 </song>

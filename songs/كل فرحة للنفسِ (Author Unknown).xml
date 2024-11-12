@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>كل فرحة للنفسِ كل بسمه في القلب<br/>نبعها وجودي فربك حبي لك</lines>
+      <lines>كل فرحة للنفسِ كل بسمه في القلب newline نبعها وجودي فربك حبي لك</lines>
     </verse>
     <verse name="v2">
-      <lines>كل ترنيمات القلب ياحياة قلبي سيدي<br/>تشدو وتهتف لك احبك</lines>
+      <lines>كل ترنيمات القلب ياحياة قلبي سيدي newline تشدو وتهتف لك احبك</lines>
     </verse>
     <verse name="v3">
-      <lines>كل أفراحي بك ربي لا سواك<br/>كل سلامي وهناي في رضاك</lines>
+      <lines>كل أفراحي بك ربي لا سواك newline كل سلامي وهناي في رضاك</lines>
     </verse>
   </lyrics>
 </song>

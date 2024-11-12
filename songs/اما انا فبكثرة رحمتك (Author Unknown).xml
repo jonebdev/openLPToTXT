@@ -13,7 +13,7 @@
       <lines>أما أنا فبكثرة رحمتك أدخل بيتك 2</lines>
     </verse>
     <verse name="v2">
-      <lines>أسجد في هيكل قدسك 3<br/>بخوفك</lines>
+      <lines>أسجد في هيكل قدسك 3 newline بخوفك</lines>
     </verse>
   </lyrics>
 </song>

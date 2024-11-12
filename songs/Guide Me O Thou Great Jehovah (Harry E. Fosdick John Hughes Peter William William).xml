@@ -11,13 +11,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Guide me, O Thou great Jehovah,<br/>Pilgrim through this barren land;<br/>I am weak, but Thou art mighty,<br/>Hold me with Thy pow'rful hand.<br/>Bread of heaven, Bread of heaven,<br/>Feed me till I want no more;<br/>Feed me till I want no more.</lines>
+      <lines>Guide me, O Thou great Jehovah, newline Pilgrim through this barren land; newline I am weak, but Thou art mighty, newline Hold me with Thy pow'rful hand. newline Bread of heaven, Bread of heaven, newline Feed me till I want no more; newline Feed me till I want no more.</lines>
     </verse>
     <verse name="v2">
-      <lines>Open now the crystal fountain,<br/>Whence the healing stream doth flow;<br/>Let the fire and cloudy pillar<br/>Lead me all my journey through.<br/>Strong Deliverer, strong Deliverer,<br/>Be Thou still my strength and shield;<br/>Be Thou still my strength and shield.</lines>
+      <lines>Open now the crystal fountain, newline Whence the healing stream doth flow; newline Let the fire and cloudy pillar newline Lead me all my journey through. newline Strong Deliverer, strong Deliverer, newline Be Thou still my strength and shield; newline Be Thou still my strength and shield.</lines>
     </verse>
     <verse name="v3">
-      <lines>When I tread the verge of Jordan,<br/>Bid my anxious fears subside;<br/>Bear me thro' the swelling current,<br/>Land me safe on Canaan's side.<br/>Songs and praises, songs and praises,<br/>I will ever give to Thee;<br/>I will ever give to Thee.</lines>
+      <lines>When I tread the verge of Jordan, newline Bid my anxious fears subside; newline Bear me thro' the swelling current, newline Land me safe on Canaan's side. newline Songs and praises, songs and praises, newline I will ever give to Thee; newline I will ever give to Thee.</lines>
     </verse>
   </lyrics>
 </song>

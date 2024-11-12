@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>قد علمت أنك)<br/>تستطيع كل شيء)2<br/>قد علمت ... قد علمت<br/>أنك تستطيع كل شيء<br/>(Kad alimtu annaka tastatee'u kulla shay')2 kad alimtu (2) annaka tastatee'u kulla shay'</lines>
+      <lines>قد علمت أنك) newline تستطيع كل شيء)2 newline قد علمت ... قد علمت newline أنك تستطيع كل شيء newline (Kad alimtu annaka tastatee'u kulla shay')2 kad alimtu (2) annaka tastatee'u kulla shay'</lines>
     </verse>
     <verse name="v1b">
-      <lines>ولا يعسر عليك أمر4<br/>قد علمت ... قد علمت<br/>أنك تستطيع كل شيء<br/>(Wala ya'suru alayka amr)4 kad alimtu kad alimtu annaka (tastatee'u kulla shay') 2</lines>
+      <lines>ولا يعسر عليك أمر4 newline قد علمت ... قد علمت newline أنك تستطيع كل شيء newline (Wala ya'suru alayka amr)4 kad alimtu kad alimtu annaka (tastatee'u kulla shay') 2</lines>
     </verse>
   </lyrics>
 </song>

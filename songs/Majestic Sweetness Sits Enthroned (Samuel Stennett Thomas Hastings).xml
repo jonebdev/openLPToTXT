@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Majestic sweetness sits enthroned,<br/>Upon the Savior's brow;<br/>His head with radiant glories crowned,<br/>His lips with grace o'erflow,<br/>His lips with grace o'erflow.</lines>
+      <lines>Majestic sweetness sits enthroned, newline Upon the Savior's brow; newline His head with radiant glories crowned, newline His lips with grace o'erflow, newline His lips with grace o'erflow.</lines>
     </verse>
     <verse name="v2">
-      <lines>No mortal can with Him compare<br/>Among the sons of men;<br/>Fairer is He than all the fair<br/>Who fill the heav'nly train,<br/>Who fill the heav'nly train.</lines>
+      <lines>No mortal can with Him compare newline Among the sons of men; newline Fairer is He than all the fair newline Who fill the heav'nly train, newline Who fill the heav'nly train.</lines>
     </verse>
     <verse name="v3">
-      <lines>He saw me plunged in deep distress,<br/>He flew to my relief;<br/>For me He bore the shameful Cross,<br/>And carried all my grief,<br/>And carried all my grief.</lines>
+      <lines>He saw me plunged in deep distress, newline He flew to my relief; newline For me He bore the shameful Cross, newline And carried all my grief, newline And carried all my grief.</lines>
     </verse>
     <verse name="v4">
-      <lines>To Him I owe my life and breath<br/>And all the joys I have;<br/>He makes me triumph over death,<br/>And saves me from the grave,<br/>And saves me from the grave.</lines>
+      <lines>To Him I owe my life and breath newline And all the joys I have; newline He makes me triumph over death, newline And saves me from the grave, newline And saves me from the grave.</lines>
     </verse>
     <verse name="v5">
-      <lines>Since from His bounty I receive<br/>Such proofs of love divine,<br/>Had I a thousand hearts to give,<br/>Lord they should all be Thine;<br/>Lord they should all be Thine.</lines>
+      <lines>Since from His bounty I receive newline Such proofs of love divine, newline Had I a thousand hearts to give, newline Lord they should all be Thine; newline Lord they should all be Thine.</lines>
     </verse>
   </lyrics>
 </song>

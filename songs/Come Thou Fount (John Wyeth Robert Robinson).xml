@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Come, Thou fount of every blessing,<br/>Tune my heart to sing Thy grace.<br/>Streams of mercy, never ceasing,<br/>Call for songs of loudest praise.<br/>Teach me some melodious sonnet,<br/>Sung by flaming tongues above.<br/>Praise the mount! I'm fixed upon it,<br/>Mount of God's unchanging love.</lines>
+      <lines>Come, Thou fount of every blessing, newline Tune my heart to sing Thy grace. newline Streams of mercy, never ceasing, newline Call for songs of loudest praise. newline Teach me some melodious sonnet, newline Sung by flaming tongues above. newline Praise the mount! I'm fixed upon it, newline Mount of God's unchanging love.</lines>
     </verse>
     <verse name="v2">
-      <lines>Here I raise my Ebenezer;<br/>Hither by Thy help I come.<br/>And I hope, by Thy good pleasure,<br/>Safely to arrive at home.<br/>Jesus sought me when a stranger<br/>Wand'ring from the fold of God;<br/>He, to rescue me from danger,<br/>Interposed His precious blood.</lines>
+      <lines>Here I raise my Ebenezer; newline Hither by Thy help I come. newline And I hope, by Thy good pleasure, newline Safely to arrive at home. newline Jesus sought me when a stranger newline Wand'ring from the fold of God; newline He, to rescue me from danger, newline Interposed His precious blood.</lines>
     </verse>
     <verse name="v3">
-      <lines>Oh, to grace how great a debtor<br/>Daily I'm constrained to be!<br/>Let thy grace, Lord, like a fetter,<br/>Bind my wand'ring heart to Thee:<br/>Prone to wander, Lord, I feel it,<br/>Prone to leave the God I love.<br/>Here's my heart, Lord, take and seal it,<br/>Seal it for Thy courts above.</lines>
+      <lines>Oh, to grace how great a debtor newline Daily I'm constrained to be! newline Let thy grace, Lord, like a fetter, newline Bind my wand'ring heart to Thee: newline Prone to wander, Lord, I feel it, newline Prone to leave the God I love. newline Here's my heart, Lord, take and seal it, newline Seal it for Thy courts above.</lines>
     </verse>
     <verse name="v4">
-      <lines>Hither to Thy love has blest me;<br/>Thou hast bro't me to this place;<br/>And I know Thy hand will bring me<br/>Safely home by Thy good grace.<br/>Jesus sought me when a stranger,<br/>Wandering from the fold of God;<br/>He, to rescue me from danger,<br/>Bought me with His precious blood.</lines>
+      <lines>Hither to Thy love has blest me; newline Thou hast bro't me to this place; newline And I know Thy hand will bring me newline Safely home by Thy good grace. newline Jesus sought me when a stranger, newline Wandering from the fold of God; newline He, to rescue me from danger, newline Bought me with His precious blood.</lines>
     </verse>
   </lyrics>
 </song>

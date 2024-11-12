@@ -10,31 +10,31 @@
   </properties>
   <lyrics>
     <verse name="c1a">
-      <lines>آهللويا .. يسوع حىّ 2<br/>هو حىّ فيني هو حىّ فيك<br/>آهللويا يسوع حىّ</lines>
+      <lines>آهللويا .. يسوع حىّ 2 newline هو حىّ فيني هو حىّ فيك newline آهللويا يسوع حىّ</lines>
     </verse>
     <verse name="c1b">
-      <lines>(A-Hallelujah...yasoo' haiy)2<br/>Hu haiy feeny hu haiy feeka<br/>A-Hallelujah yasoo' haiy</lines>
+      <lines>(A-Hallelujah...yasoo' haiy)2 newline Hu haiy feeny hu haiy feeka newline A-Hallelujah yasoo' haiy</lines>
     </verse>
     <verse name="v1">
-      <lines>قائد: مافي مشاكل<br/>الشعب: يسوع حي<br/>قائد: ولا متاعب<br/>الشعب: يسوع حي<br/>قائد: ولا هموم <br/>الشعب: يسوع حي<br/>آهللويا يسوع حي<br/>Leader: Mafy mashakil All: Yasoo' haiy<br/>Leader: wala mata'ib All: Yasoo' haiy<br/>Leader: wala humoom All: Yasoo' haiy<br/> A-Hallelujah yasoo' haiy</lines>
+      <lines>قائد: مافي مشاكل newline الشعب: يسوع حي newline قائد: ولا متاعب newline الشعب: يسوع حي newline قائد: ولا هموم  newline الشعب: يسوع حي newline آهللويا يسوع حي newline Leader: Mafy mashakil All: Yasoo' haiy newline Leader: wala mata'ib All: Yasoo' haiy newline Leader: wala humoom All: Yasoo' haiy newline  A-Hallelujah yasoo' haiy</lines>
     </verse>
     <verse name="v2a">
-      <lines>دوسوا 8<br/>شيطان دوسوا دوسوا</lines>
+      <lines>دوسوا 8 newline شيطان دوسوا دوسوا</lines>
     </verse>
     <verse name="v2b">
       <lines><chord name="Dusoo (8) Sheetan dusoo dusoo"/>2</lines>
     </verse>
     <verse name="v3a">
-      <lines>أنا بأرفع فوق بأرفع 2 فوق<br/>أنا بأرفع فوق بارفع يسوع فوق</lines>
+      <lines>أنا بأرفع فوق بأرفع 2 فوق newline أنا بأرفع فوق بارفع يسوع فوق</lines>
     </verse>
     <verse name="v3b">
-      <lines>Ana barfa' foo' barfa' barfa' foo'<br/>Ana barfa' foo' barfa' yasoo' foo'</lines>
+      <lines>Ana barfa' foo' barfa' barfa' foo' newline Ana barfa' foo' barfa' yasoo' foo'</lines>
     </verse>
     <verse name="v4a">
       <lines>1- Jesus Power...Supernatural Power</lines>
     </verse>
     <verse name="v4b">
-      <lines>2- Satan powerless...<br/>powerless powerless</lines>
+      <lines>2- Satan powerless... newline powerless powerless</lines>
     </verse>
   </lyrics>
 </song>

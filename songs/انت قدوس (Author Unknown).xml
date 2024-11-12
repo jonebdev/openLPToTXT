@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>أنت قدوس قدوس ليس مثلك<br/>Anta kodusun, kodusun<br/>laysa mithlaka</lines>
+      <lines>أنت قدوس قدوس ليس مثلك newline Anta kodusun, kodusun newline laysa mithlaka</lines>
     </verse>
     <verse name="v1">
-      <lines>أسبحك إلى الأبد حبى لك يزيد<br/>فى قربك وأمام عرشك<br/>تملأنى الحياة<br/>Usabihak illal abady hubby laka yazeed<br/>fee kurbika wa amam arshika...<br/>tamla'unil haya</lines>
+      <lines>أسبحك إلى الأبد حبى لك يزيد newline فى قربك وأمام عرشك newline تملأنى الحياة newline Usabihak illal abady hubby laka yazeed newline fee kurbika wa amam arshika... newline tamla'unil haya</lines>
     </verse>
   </lyrics>
 </song>

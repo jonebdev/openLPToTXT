@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>واحده سألت واياها ألتمس<br/>أن اسكن في بيت الرب الي مدي الايام</lines>
+      <lines>واحده سألت واياها ألتمس newline أن اسكن في بيت الرب الي مدي الايام</lines>
     </verse>
     <verse name="v2">
-      <lines>لكي اتفرس في جمال وجهك<br/>لكي اشبع من دسم بيتك</lines>
+      <lines>لكي اتفرس في جمال وجهك newline لكي اشبع من دسم بيتك</lines>
     </verse>
     <verse name="v3">
       <lines>انت من تحبه نفسي (3) يايسوع</lines>

@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>رب الجنود وسط الحروب<br/>عرفت قوتك<br/>رب قدير رب جبار<br/>تسحق كل الأعداء</lines>
+      <lines>رب الجنود وسط الحروب newline عرفت قوتك newline رب قدير رب جبار newline تسحق كل الأعداء</lines>
     </verse>
     <verse name="c1">
-      <lines>غالب للأبد ... غالب للأبد<br/>غالب على أرضِك<br/>غالب للأبد ... غالب للأبد<br/>غالب على أرضِك</lines>
+      <lines>غالب للأبد ... غالب للأبد newline غالب على أرضِك newline غالب للأبد ... غالب للأبد newline غالب على أرضِك</lines>
     </verse>
     <verse name="v2">
-      <lines>يهوه خلاصي يهوه رايتي<br/>قادر على كل شيء<br/>من مثلك تخرج حقك<br/>تصمت كل الأعداء</lines>
+      <lines>يهوه خلاصي يهوه رايتي newline قادر على كل شيء newline من مثلك تخرج حقك newline تصمت كل الأعداء</lines>
     </verse>
   </lyrics>
 </song>

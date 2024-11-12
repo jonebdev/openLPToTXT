@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>نهتف لمليكنا فرحين<br/>فهو إلهنا نفرح نبتهج<br/>Nahtifu limalikina fariheen<br/>fahua ilahuna nafrahu nabtahiju</lines>
+      <lines>نهتف لمليكنا فرحين newline فهو إلهنا نفرح نبتهج newline Nahtifu limalikina fariheen newline fahua ilahuna nafrahu nabtahiju</lines>
     </verse>
     <verse name="v1b">
-      <lines>هيا نعلي إسمه مسبحين<br/>ونهتف له مرنمين<br/>هيا نعلي إسمه مسبحين ونهتف له<br/>Haya nu'aly ismahu musabiheen wa nahtifu lahu muranimeen haya nu'aly ismahu musabiheen wa nahtifu lahu</lines>
+      <lines>هيا نعلي إسمه مسبحين newline ونهتف له مرنمين newline هيا نعلي إسمه مسبحين ونهتف له newline Haya nu'aly ismahu musabiheen wa nahtifu lahu muranimeen haya nu'aly ismahu musabiheen wa nahtifu lahu</lines>
     </verse>
   </lyrics>
 </song>

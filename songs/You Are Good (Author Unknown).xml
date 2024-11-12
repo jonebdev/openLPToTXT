@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Lord You are good and Your mercy endureth forever<br/>Lord You are good and Your mercy endureth forever<br/>People from every nation and tongue<br/>From generation to generation</lines>
+      <lines>Lord You are good and Your mercy endureth forever newline Lord You are good and Your mercy endureth forever newline People from every nation and tongue newline From generation to generation</lines>
     </verse>
     <verse name="v2">
-      <lines>We worship You<br/>Hallelujah, Hallejuah<br/>We worship You<br/>For who You are<br/>We worship You<br/>Hallelujah, Hallejuah<br/>We worship You<br/>For who You are<br/>And You are good!</lines>
+      <lines>We worship You newline Hallelujah, Hallejuah newline We worship You newline For who You are newline We worship You newline Hallelujah, Hallejuah newline We worship You newline For who You are newline And You are good!</lines>
     </verse>
     <verse name="v3">
-      <lines>You are good,<br/>All the time!<br/>And all the time,<br/>You are good!</lines>
+      <lines>You are good, newline All the time! newline And all the time, newline You are good!</lines>
     </verse>
   </lyrics>
 </song>

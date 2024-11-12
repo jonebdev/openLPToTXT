@@ -10,22 +10,22 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>لما دعاني ربي<br/>قالي تعال إرتاح<br/>أنا عندي سلامك<br/>عندي لك أفراح</lines>
+      <lines>لما دعاني ربي newline قالي تعال إرتاح newline أنا عندي سلامك newline عندي لك أفراح</lines>
     </verse>
     <verse name="v1b">
-      <lines>مال الهم يسودك<br/>ليه بيحني عودك<br/>خلني أمسك يدك (وأمشيك في فلاح)2</lines>
+      <lines>مال الهم يسودك newline ليه بيحني عودك newline خلني أمسك يدك (وأمشيك في فلاح)2</lines>
     </verse>
     <verse name="v2a">
-      <lines>لما سمعت صوته<br/>قلت له يا ربي<br/>ليه بتنادي علي<br/>وأنا مش طايق ذنبي</lines>
+      <lines>لما سمعت صوته newline قلت له يا ربي newline ليه بتنادي علي newline وأنا مش طايق ذنبي</lines>
     </verse>
     <verse name="v2b">
-      <lines>قالي دم يطهر<br/>من كل الشرور<br/>أنا باحب الفاجر<br/>وأخرجه للنور)2)</lines>
+      <lines>قالي دم يطهر newline من كل الشرور newline أنا باحب الفاجر newline وأخرجه للنور)2)</lines>
     </verse>
     <verse name="v3a">
-      <lines>قلبي سعتها أتهلل<br/>وامتلأ بالروح<br/>لما سمعت كلامه<br/>وشفت الجروح</lines>
+      <lines>قلبي سعتها أتهلل newline وامتلأ بالروح newline لما سمعت كلامه newline وشفت الجروح</lines>
     </verse>
     <verse name="v3b">
-      <lines>يا ربي بحبك<br/>وها عيش لك طول عمري<br/>ها أفضل أغني وأهتف<br/>وأسلم لك قلبي)2)</lines>
+      <lines>يا ربي بحبك newline وها عيش لك طول عمري newline ها أفضل أغني وأهتف newline وأسلم لك قلبي)2)</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,22 +10,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أبانا نحبك نسجد ونعبدك)<br/>مجداًلاسمك في كل الأرض)2</lines>
+      <lines>أبانا نحبك نسجد ونعبدك) newline مجداًلاسمك في كل الأرض)2</lines>
     </verse>
     <verse name="v2">
-      <lines>(مجــــــداً لاسمـــــــــك)3<br/>فـي كـــل الأرض</lines>
+      <lines>(مجــــــداً لاسمـــــــــك)3 newline فـي كـــل الأرض</lines>
     </verse>
     <verse name="v3">
-      <lines>يسوع نحبك نسجد ونعبدك)<br/>مجداً لاسمك في كل الأرض) 2</lines>
+      <lines>يسوع نحبك نسجد ونعبدك) newline مجداً لاسمك في كل الأرض) 2</lines>
     </verse>
     <verse name="v4">
-      <lines>روح الله نحبك نسجد ونعبدك)<br/>مجداً لاسمك في كل الأرض) 2</lines>
+      <lines>روح الله نحبك نسجد ونعبدك) newline مجداً لاسمك في كل الأرض) 2</lines>
     </verse>
     <verse name="v5">
-      <lines>أسمك عجيب مشير قدير)<br/>نرفع اسمك في كل الأرض) 2</lines>
+      <lines>أسمك عجيب مشير قدير) newline نرفع اسمك في كل الأرض) 2</lines>
     </verse>
     <verse name="v6">
-      <lines>نرفع أسمك نرفع اسمك)<br/>نرفع اسمك في كل الأرض) 2</lines>
+      <lines>نرفع أسمك نرفع اسمك) newline نرفع اسمك في كل الأرض) 2</lines>
     </verse>
   </lyrics>
 </song>

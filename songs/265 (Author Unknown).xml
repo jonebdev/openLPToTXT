@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>هللويا الرب صالح)3)<br/>إلى الأبد رحمته<br/>(Hallelujah arrabu salihun)3<br/>illal abady rahmatoo</lines>
+      <lines>هللويا الرب صالح)3) newline إلى الأبد رحمته newline (Hallelujah arrabu salihun)3 newline illal abady rahmatoo</lines>
     </verse>
     <verse name="v1">
-      <lines>لأنه اشبع نفساً مشتهيةً<br/>وملأ نفساً جائعةً ملأ خبزاً<br/>Li'anahu ashba'a nafsan mushtahiyatan wa mala'a nafsan ja'iatan<br/>mala'a khubzan</lines>
+      <lines>لأنه اشبع نفساً مشتهيةً newline وملأ نفساً جائعةً ملأ خبزاً newline Li'anahu ashba'a nafsan mushtahiyatan wa mala'a nafsan ja'iatan newline mala'a khubzan</lines>
     </verse>
     <verse name="v2">
-      <lines>أخرجنا من الظلمة وظلال الموت<br/>وقطع كل كل قيودنا قد قطعها<br/>Akhrajana minal thulmaty wa thilalil mowt wa katta'a kulla kulla kiyudina kad katta'aha</lines>
+      <lines>أخرجنا من الظلمة وظلال الموت newline وقطع كل كل قيودنا قد قطعها newline Akhrajana minal thulmaty wa thilalil mowt wa katta'a kulla kulla kiyudina kad katta'aha</lines>
     </verse>
   </lyrics>
 </song>

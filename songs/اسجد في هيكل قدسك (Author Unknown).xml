@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أما أنا فبكثرة رحمتك أدخل بيتك 2<br/>أسجد في هيكل قدسك 3<br/>بخوفك</lines>
+      <lines>أما أنا فبكثرة رحمتك أدخل بيتك 2 newline أسجد في هيكل قدسك 3 newline بخوفك</lines>
     </verse>
   </lyrics>
 </song>

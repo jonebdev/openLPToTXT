@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>ربي يسوع الغالي<br/>ما فيش زيه حبيب<br/>معاه تهون الغربة<br/>ويهون حمل الصليب</lines>
+      <lines>ربي يسوع الغالي newline ما فيش زيه حبيب newline معاه تهون الغربة newline ويهون حمل الصليب</lines>
     </verse>
     <verse name="c1">
-      <lines>ما احلى العشرة وياه<br/>يسوع رب السما<br/>يبارك الحياة)<br/>2 (والعيشة حلوة معاه<br/>أنا عايش في حماه</lines>
+      <lines>ما احلى العشرة وياه newline يسوع رب السما newline يبارك الحياة) newline 2 (والعيشة حلوة معاه newline أنا عايش في حماه</lines>
     </verse>
     <verse name="v2">
-      <lines>وبعز يا نفسي دوسي<br/>على كل المغريات<br/>دا حبيبي حلقه حلاوة<br/>كله مشتهيات</lines>
+      <lines>وبعز يا نفسي دوسي newline على كل المغريات newline دا حبيبي حلقه حلاوة newline كله مشتهيات</lines>
     </verse>
     <verse name="v3">
-      <lines>وآلامي في البرية<br/>مهما كانت كثير<br/>عالأذرع الأبدية<br/>يحملني القدير</lines>
+      <lines>وآلامي في البرية newline مهما كانت كثير newline عالأذرع الأبدية newline يحملني القدير</lines>
     </verse>
     <verse name="v4">
-      <lines>وسعادة أبدية <br/>كما قال الكتاب <br/>هنا في عيشة هنية<br/>وهناك في بيت الأب</lines>
+      <lines>وسعادة أبدية  newline كما قال الكتاب  newline هنا في عيشة هنية newline وهناك في بيت الأب</lines>
     </verse>
   </lyrics>
 </song>

@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>يسوع ما أجوده<br/>يسوع ما أجمله<br/>فحبه أنشودتي)<br/>فكيف أنسى فضله) 2</lines>
+      <lines>يسوع ما أجوده newline يسوع ما أجمله newline فحبه أنشودتي) newline فكيف أنسى فضله) 2</lines>
     </verse>
     <verse name="v1">
-      <lines>أنظر إليه حاملا<br/>صليب عارنا المشين<br/>قضى عليه باذلا<br/>من أجلنا الدم الثمين) 2)</lines>
+      <lines>أنظر إليه حاملا newline صليب عارنا المشين newline قضى عليه باذلا newline من أجلنا الدم الثمين) 2)</lines>
     </verse>
     <verse name="v2">
-      <lines>أنظر إليه ظافرا<br/>يدك أهوال الردى<br/>إذ قام جرد العدى<br/>وهكذا تم الفدى) 2)</lines>
+      <lines>أنظر إليه ظافرا newline يدك أهوال الردى newline إذ قام جرد العدى newline وهكذا تم الفدى) 2)</lines>
     </verse>
     <verse name="v3">
-      <lines>أنظر إليه صاعدا<br/>إلى السماء في بهاء<br/>ليرسل الروح النقي<br/>ويملأ القلب عزاء)2)</lines>
+      <lines>أنظر إليه صاعدا newline إلى السماء في بهاء newline ليرسل الروح النقي newline ويملأ القلب عزاء)2)</lines>
     </verse>
     <verse name="v4">
-      <lines>أنظر إليه سامعا<br/>يهنأ بتسبيحاتنا<br/>متمما وعوده<br/>ملبيا طلباتنا)2)</lines>
+      <lines>أنظر إليه سامعا newline يهنأ بتسبيحاتنا newline متمما وعوده newline ملبيا طلباتنا)2)</lines>
     </verse>
   </lyrics>
 </song>

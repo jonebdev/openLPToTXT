@@ -10,22 +10,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>قد أسلم الروح .. سماء صامتة<br/>إبن الله الوحيد دفع الثمن</lines>
+      <lines>قد أسلم الروح .. سماء صامتة newline إبن الله الوحيد دفع الثمن</lines>
     </verse>
     <verse name="v2">
-      <lines>معركة في لبقفر هزيمة للموت<br/>كل قوى الظلام إنكسرت</lines>
+      <lines>معركة في لبقفر هزيمة للموت newline كل قوى الظلام إنكسرت</lines>
     </verse>
     <verse name="v3">
-      <lines>أهتزت الأرض إنفتح القبر<br/>حبه الشديد لا ينهزم</lines>
+      <lines>أهتزت الأرض إنفتح القبر newline حبه الشديد لا ينهزم</lines>
     </verse>
     <verse name="v4">
-      <lines>أين شوكتك يا قوة الموت؟<br/>قد غلب الحمل</lines>
+      <lines>أين شوكتك يا قوة الموت؟ newline قد غلب الحمل</lines>
     </verse>
     <verse name="v5">
-      <lines>للأبد ممجدٌ .. للأبد مرتفعٌ<br/>للأبد قد قام من الأموات حيٌ للأبد</lines>
+      <lines>للأبد ممجدٌ .. للأبد مرتفعٌ newline للأبد قد قام من الأموات حيٌ للأبد</lines>
     </verse>
     <verse name="v6">
-      <lines>مجداً هللويا.. مجداً هللويا<br/>مجداً هللويا .. قد غلب الحمل</lines>
+      <lines>مجداً هللويا.. مجداً هللويا newline مجداً هللويا .. قد غلب الحمل</lines>
     </verse>
   </lyrics>
 </song>

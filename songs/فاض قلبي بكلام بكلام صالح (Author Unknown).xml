@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>فاض قلبي بكلام بكلام صالح<br/>متكلم انا بانشائي للملك</lines>
+      <lines>فاض قلبي بكلام بكلام صالح newline متكلم انا بانشائي للملك</lines>
     </verse>
     <verse name="v2">
-      <lines>انت ابرع جمالا من كل بني البشر<br/>انسكبت النعمة على شفتيك</lines>
+      <lines>انت ابرع جمالا من كل بني البشر newline انسكبت النعمة على شفتيك</lines>
     </verse>
     <verse name="v3">
       <lines>لساني قلم كاتب ماهر قلم كاتب ماهر</lines>

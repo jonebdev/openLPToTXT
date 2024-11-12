@@ -10,22 +10,22 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>يا سيدي أحببتني<br/>بذلت لي دماك<br/>بدمك طهرتني<br/>حملت الآلام</lines>
+      <lines>يا سيدي أحببتني newline بذلت لي دماك newline بدمك طهرتني newline حملت الآلام</lines>
     </verse>
     <verse name="v1b">
-      <lines>دفعت ديني الرهيب<br/>مفتديا فوق الصليب<br/>وحاملا عني الذنوب<br/>يا سيدي يسوع</lines>
+      <lines>دفعت ديني الرهيب newline مفتديا فوق الصليب newline وحاملا عني الذنوب newline يا سيدي يسوع</lines>
     </verse>
     <verse name="v2a">
-      <lines>في شخصك السامي العجيب رب القيامة<br/>فوز حياتي في الحروب<br/>موكب نصرتي</lines>
+      <lines>في شخصك السامي العجيب رب القيامة newline فوز حياتي في الحروب newline موكب نصرتي</lines>
     </verse>
     <verse name="v2b">
-      <lines>حقق حياة المجد لي<br/>أحلل فقلبي داخلي<br/>املأني بالروح العلي<br/>يا سيدي يسوع</lines>
+      <lines>حقق حياة المجد لي newline أحلل فقلبي داخلي newline املأني بالروح العلي newline يا سيدي يسوع</lines>
     </verse>
     <verse name="v3a">
-      <lines>ستأتي ربي في بهاء<br/>في السحب عن قريب<br/>تأخذني إلى السماء<br/>هناك يا حبيب</lines>
+      <lines>ستأتي ربي في بهاء newline في السحب عن قريب newline تأخذني إلى السماء newline هناك يا حبيب</lines>
     </verse>
     <verse name="v3b">
-      <lines>سألبس الجسم المجيد<br/>سأعرف بلا حدود<br/>سأدرك الحب الفريد<br/>لسيدي يسوع</lines>
+      <lines>سألبس الجسم المجيد newline سأعرف بلا حدود newline سأدرك الحب الفريد newline لسيدي يسوع</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,19 +10,19 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>من أنا لأصير من شعبك<br/>من دُعي عليهم اسمك<br/>عجبا هل دعوتني أنا<br/>لأكون ملكا لك</lines>
+      <lines>من أنا لأصير من شعبك newline من دُعي عليهم اسمك newline عجبا هل دعوتني أنا newline لأكون ملكا لك</lines>
     </verse>
     <verse name="v1b">
-      <lines>هل لغريب لضال أثيم<br/>أن ينتمي للملك<br/>عرفتني كم أنك رحيم<br/>إذ غرستني في كرمك</lines>
+      <lines>هل لغريب لضال أثيم newline أن ينتمي للملك newline عرفتني كم أنك رحيم newline إذ غرستني في كرمك</lines>
     </verse>
     <verse name="c1">
-      <lines>مبارك اسم الرب<br/>مبارك اسم الرب<br/>كل ما في باطني يقول<br/>مبارك اسم الرب</lines>
+      <lines>مبارك اسم الرب newline مبارك اسم الرب newline كل ما في باطني يقول newline مبارك اسم الرب</lines>
     </verse>
     <verse name="v2a">
-      <lines>أظهرت لي عظيم رحمتك<br/>بسفك دماء الحمل<br/>حبك يفوق كل خيال<br/>بجملتي أباركك</lines>
+      <lines>أظهرت لي عظيم رحمتك newline بسفك دماء الحمل newline حبك يفوق كل خيال newline بجملتي أباركك</lines>
     </verse>
     <verse name="v2b">
-      <lines>مجدا لك قد أنشق الحجاب<br/>وأعلنت لنا سرك<br/>الآن أصرخ يا أبا الأب<br/>مجدا فقد صرت لك</lines>
+      <lines>مجدا لك قد أنشق الحجاب newline وأعلنت لنا سرك newline الآن أصرخ يا أبا الأب newline مجدا فقد صرت لك</lines>
     </verse>
   </lyrics>
 </song>

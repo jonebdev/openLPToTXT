@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>وإهتفوا أمامه)2)<br/>وإهتفوا ... وإهتفوا أمامه<br/>وإنشدوا ألحانه)2)<br/>وإنشدوا ... وإنشدوا ألحانه<br/>Wahtifu amamu (2) wahtifu wahtifu amamu<br/>wanshidu alhanu (2) wanshidu wanshidu alhanu</lines>
+      <lines>وإهتفوا أمامه)2) newline وإهتفوا ... وإهتفوا أمامه newline وإنشدوا ألحانه)2) newline وإنشدوا ... وإنشدوا ألحانه newline Wahtifu amamu (2) wahtifu wahtifu amamu newline wanshidu alhanu (2) wanshidu wanshidu alhanu</lines>
     </verse>
     <verse name="c1">
-      <lines>غنوا لله رنموا لاسمه2<br/>أعدوا طريقا للراكب في القفار 3<br/>باسمه ياه<br/>(Ghannu lilah ranimu lismihy)2<br/>(a'idu tareekan lirrakib fil kifar)3<br/>bismihy yah</lines>
+      <lines>غنوا لله رنموا لاسمه2 newline أعدوا طريقا للراكب في القفار 3 newline باسمه ياه newline (Ghannu lilah ranimu lismihy)2 newline (a'idu tareekan lirrakib fil kifar)3 newline bismihy yah</lines>
     </verse>
     <verse name="v2">
-      <lines>وإسمعوا كلامه)2)<br/>وإسمعوا ... وإسمعوا كلامه<br/>وأرفعوا أعلامه)2)<br/>وأرفعوا ... وأرفعوا أعلامه<br/>Wasma'u kalamu (2) wasma'u wasma'u kalamu<br/>warfa'u a'lamu (2) warfa'u warfa'u a'lamu</lines>
+      <lines>وإسمعوا كلامه)2) newline وإسمعوا ... وإسمعوا كلامه newline وأرفعوا أعلامه)2) newline وأرفعوا ... وأرفعوا أعلامه newline Wasma'u kalamu (2) wasma'u wasma'u kalamu newline warfa'u a'lamu (2) warfa'u warfa'u a'lamu</lines>
     </verse>
   </lyrics>
 </song>

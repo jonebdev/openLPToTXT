@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>And He walks with me,<br/>And He talks with me,<br/>And He tells me I am His own;<br/>And the joy we share as we tarry there,<br/>None other has ever known.</lines>
+      <lines>And He walks with me, newline And He talks with me, newline And He tells me I am His own; newline And the joy we share as we tarry there, newline None other has ever known.</lines>
     </verse>
     <verse name="v1">
-      <lines>I come to the garden alone,<br/>While the dew is still on the roses;<br/>And the voice I hear, falling on my ear,<br/>The Son of God discloses.</lines>
+      <lines>I come to the garden alone, newline While the dew is still on the roses; newline And the voice I hear, falling on my ear, newline The Son of God discloses.</lines>
     </verse>
     <verse name="v2">
-      <lines>He speaks, and the sound of<br/>His voice is so sweet,<br/>The birds hush their singing,<br/>And the melody that He gave to me,<br/>Within my heart is ringing.</lines>
+      <lines>He speaks, and the sound of newline His voice is so sweet, newline The birds hush their singing, newline And the melody that He gave to me, newline Within my heart is ringing.</lines>
     </verse>
     <verse name="v3">
-      <lines>I'd stay in the garden with Him,<br/>Though the night around me be falling,<br/>But He bids me go;<br/>Through the voice of woe,<br/>His voice to me is calling.</lines>
+      <lines>I'd stay in the garden with Him, newline Though the night around me be falling, newline But He bids me go; newline Through the voice of woe, newline His voice to me is calling.</lines>
     </verse>
   </lyrics>
 </song>

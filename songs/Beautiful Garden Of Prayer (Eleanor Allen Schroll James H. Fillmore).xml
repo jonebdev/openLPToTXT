@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>O the beautiful garden, the garden of prayer,<br/>O the beautiful garden of prayer.<br/>There my Savior awaits, and He opens the gates<br/>To the beautiful garden of prayer.</lines>
+      <lines>O the beautiful garden, the garden of prayer, newline O the beautiful garden of prayer. newline There my Savior awaits, and He opens the gates newline To the beautiful garden of prayer.</lines>
     </verse>
     <verse name="v1">
-      <lines>There's a garden where Jesus is waiting,<br/>There's a place that is wondrously fair.<br/>For it glows with the light of His presence,<br/>'Tis the beautiful garden of prayer.</lines>
+      <lines>There's a garden where Jesus is waiting, newline There's a place that is wondrously fair. newline For it glows with the light of His presence, newline 'Tis the beautiful garden of prayer.</lines>
     </verse>
     <verse name="v2">
-      <lines>There's a garden where Jesus is waiting,<br/>And I go with my burden and care.<br/>Just to learn from His lips, words of comfort,<br/>In the beautiful garden of prayer.</lines>
+      <lines>There's a garden where Jesus is waiting, newline And I go with my burden and care. newline Just to learn from His lips, words of comfort, newline In the beautiful garden of prayer.</lines>
     </verse>
     <verse name="v3">
-      <lines>There's a garden where Jesus is waiting,<br/>And He bids you to come meet Him there,<br/>Just to bow and receive a new blessing,<br/>In the beautiful garden of prayer.</lines>
+      <lines>There's a garden where Jesus is waiting, newline And He bids you to come meet Him there, newline Just to bow and receive a new blessing, newline In the beautiful garden of prayer.</lines>
     </verse>
   </lyrics>
 </song>

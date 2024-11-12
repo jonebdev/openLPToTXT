@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أروع صديق أغلى حبيب<br/>أعظم رفيق في الطريق أنت يسوع<br/>Arwa' sadeek, aghla habib<br/>Atham rafik fittarik anta yasoo'</lines>
+      <lines>أروع صديق أغلى حبيب newline أعظم رفيق في الطريق أنت يسوع newline Arwa' sadeek, aghla habib newline Atham rafik fittarik anta yasoo'</lines>
     </verse>
     <verse name="v2">
-      <lines>تمسك يدي تقودُني<br/>تجذبني قربك أنت يسوع<br/>Tumsik yadee, takuduny, tajthibuny kurbaka, anta yasoo'</lines>
+      <lines>تمسك يدي تقودُني newline تجذبني قربك أنت يسوع newline Tumsik yadee, takuduny, tajthibuny kurbaka, anta yasoo'</lines>
     </verse>
     <verse name="v3">
-      <lines>ليس سواك<br/>أحببتني للمنتهى أنت يسوع<br/>Laysa sewak, ahbabtany<br/>lil muntaha anta yasoo'</lines>
+      <lines>ليس سواك newline أحببتني للمنتهى أنت يسوع newline Laysa sewak, ahbabtany newline lil muntaha anta yasoo'</lines>
     </verse>
     <verse name="v4">
-      <lines>من مثلُك<br/>نفسي تعلقت بك أنت يسوع<br/>Man mithluka, nafsee<br/>ta'alakat bika anta yasoo'</lines>
+      <lines>من مثلُك newline نفسي تعلقت بك أنت يسوع newline Man mithluka, nafsee newline ta'alakat bika anta yasoo'</lines>
     </verse>
   </lyrics>
 </song>

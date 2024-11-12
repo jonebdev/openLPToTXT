@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>شكرا للرب هللويا 3<br/>شكرا للرب</lines>
+      <lines>شكرا للرب هللويا 3 newline شكرا للرب</lines>
     </verse>
     <verse name="v2">
-      <lines>حمدا للرب هللويا 3<br/>حمدا للرب</lines>
+      <lines>حمدا للرب هللويا 3 newline حمدا للرب</lines>
     </verse>
     <verse name="v1b">
-      <lines>3 مجدا للرب هللويا<br/>مجدا للرب</lines>
+      <lines>3 مجدا للرب هللويا newline مجدا للرب</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Strength will rise as we wait upon the Lord,<br/>wait upon the Lord,<br/>as we wait upon the Lord<br/>Strength will rise as we wait upon the Lord,<br/>wait upon the Lord,<br/>We will wait upon the Lord</lines>
+      <lines>Strength will rise as we wait upon the Lord, newline wait upon the Lord, newline as we wait upon the Lord newline Strength will rise as we wait upon the Lord, newline wait upon the Lord, newline We will wait upon the Lord</lines>
     </verse>
     <verse name="v2">
-      <lines>Our God You reign forever<br/>Our hope our strong Deliverer</lines>
+      <lines>Our God You reign forever newline Our hope our strong Deliverer</lines>
     </verse>
     <verse name="v3">
-      <lines>You are the everlasting God<br/>The everlasting God<br/>You do not faint and you won't grow weary<br/>You're the defender of the weak<br/>You comfort those in need<br/>You lift us up on wings like eagles</lines>
+      <lines>You are the everlasting God newline The everlasting God newline You do not faint and you won't grow weary newline You're the defender of the weak newline You comfort those in need newline You lift us up on wings like eagles</lines>
     </verse>
   </lyrics>
 </song>

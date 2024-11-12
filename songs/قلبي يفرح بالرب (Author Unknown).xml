@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>قلبي يفرح بالرب <br/>باسمه أرفع رايتي <br/>أغني برحمته أبتهج بخلاصه</lines>
+      <lines>قلبي يفرح بالرب  newline باسمه أرفع رايتي  newline أغني برحمته أبتهج بخلاصه</lines>
     </verse>
     <verse name="c1">
-      <lines>(ليس إله مثل الرب ... (2<br/>(ليس مثلك يا الله ... (2</lines>
+      <lines>(ليس إله مثل الرب ... (2 newline (ليس مثلك يا الله ... (2</lines>
     </verse>
     <verse name="v2">
-      <lines>نفسي تهتف للرب<br/>باسمه أعلن نصرتي<br/>خلصني بذراعه أرنم بمجده</lines>
+      <lines>نفسي تهتف للرب newline باسمه أعلن نصرتي newline خلصني بذراعه أرنم بمجده</lines>
     </verse>
   </lyrics>
 </song>

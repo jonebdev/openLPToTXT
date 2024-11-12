@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Savior, like a shepherd lead us;<br/>Much we need Your tender care.<br/>In Your pleasant pastures feed us,<br/>For our use Your folds prepare.<br/>Blessed Jesus, Blessed Jesus,<br/>You have bought us: Yours we are.</lines>
+      <lines>Savior, like a shepherd lead us; newline Much we need Your tender care. newline In Your pleasant pastures feed us, newline For our use Your folds prepare. newline Blessed Jesus, Blessed Jesus, newline You have bought us: Yours we are.</lines>
     </verse>
     <verse name="v2">
-      <lines>We are Yours; in love befriend us,<br/>Be the guardian of our way;<br/>Keep Your flock, from sin defend us,<br/>Seek us when we go astray.<br/>Blessed Jesus, blessed Jesus,<br/>Hear Your children when we pray.</lines>
+      <lines>We are Yours; in love befriend us, newline Be the guardian of our way; newline Keep Your flock, from sin defend us, newline Seek us when we go astray. newline Blessed Jesus, blessed Jesus, newline Hear Your children when we pray.</lines>
     </verse>
     <verse name="v3">
-      <lines>You have promised to receive us,<br/>Poor and sinful though we be;<br/>You have mercy to relieve us,<br/>Grace to cleanse, and power to free.<br/>Blessed Jesus, blessed Jesus,<br/>Early let us turn to You.</lines>
+      <lines>You have promised to receive us, newline Poor and sinful though we be; newline You have mercy to relieve us, newline Grace to cleanse, and power to free. newline Blessed Jesus, blessed Jesus, newline Early let us turn to You.</lines>
     </verse>
     <verse name="v4">
-      <lines>Early let us seek Your favor,<br/>Early let us do Your will;<br/>Blessed Lord and only Savior,<br/>With Your love our spirits fill.<br/>Blessed Jesus, blessed Jesus,<br/>You have loved us; love us still.</lines>
+      <lines>Early let us seek Your favor, newline Early let us do Your will; newline Blessed Lord and only Savior, newline With Your love our spirits fill. newline Blessed Jesus, blessed Jesus, newline You have loved us; love us still.</lines>
     </verse>
   </lyrics>
 </song>

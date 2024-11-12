@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>رنموا للرب<br/>باركوا أسمه<br/>بشروا من يوم إلى يوم<br/>بخلاصه<br/>حدثوا بين الأمم بمجده<br/>بين الشعوب بعجائبه</lines>
+      <lines>رنموا للرب newline باركوا أسمه newline بشروا من يوم إلى يوم newline بخلاصه newline حدثوا بين الأمم بمجده newline بين الشعوب بعجائبه</lines>
     </verse>
     <verse name="v2">
-      <lines>لان الرب عظيم جداً <br/>لان الرب حميد جداً<br/>لأنه مهوب هو<br/>مهوب على كل الآلهة<br/>رنموا للرب <br/>باركوا أسمه</lines>
+      <lines>لان الرب عظيم جداً  newline لان الرب حميد جداً newline لأنه مهوب هو newline مهوب على كل الآلهة newline رنموا للرب  newline باركوا أسمه</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>بأرفع أسم الهى<br/>عالى عالى لفوق<br/>تملك فى يا ربى<br/>يوم ورا يوم بتسود</lines>
+      <lines>بأرفع أسم الهى newline عالى عالى لفوق newline تملك فى يا ربى newline يوم ورا يوم بتسود</lines>
     </verse>
     <verse name="v1">
-      <lines>ينقص كل ما لى<br/>وتزيد أنت وحدك<br/>تعلن حقك فى<br/>ويظهر كل مجدك</lines>
+      <lines>ينقص كل ما لى newline وتزيد أنت وحدك newline تعلن حقك فى newline ويظهر كل مجدك</lines>
     </verse>
     <verse name="v2">
-      <lines>بخلع نعلى أمامك<br/>واقترب اليك<br/>طلبى مجد جلالك<br/>قلبى وعينى عليك</lines>
+      <lines>بخلع نعلى أمامك newline واقترب اليك newline طلبى مجد جلالك newline قلبى وعينى عليك</lines>
     </verse>
     <verse name="v3">
-      <lines>باسكب عندك طيبى<br/>وانا عند قدميك<br/>أنت طيبى ونصيبى<br/>كل جمالى فيك</lines>
+      <lines>باسكب عندك طيبى newline وانا عند قدميك newline أنت طيبى ونصيبى newline كل جمالى فيك</lines>
     </verse>
   </lyrics>
 </song>

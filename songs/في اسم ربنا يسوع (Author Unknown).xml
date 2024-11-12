@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>في اسم ربنا يسوع اتينا كلنا لنعبد 3<br/>يسوع نعبد ربنا يسوع</lines>
+      <lines>في اسم ربنا يسوع اتينا كلنا لنعبد 3 newline يسوع نعبد ربنا يسوع</lines>
     </verse>
     <verse name="v2">
-      <lines>فانس نفسك إذا وفكرن فيه واعبدن 3<br/>يسوع أعبد ربنا يسوع</lines>
+      <lines>فانس نفسك إذا وفكرن فيه واعبدن 3 newline يسوع أعبد ربنا يسوع</lines>
     </verse>
     <verse name="v3">
-      <lines>هو بري كله وفيه أصبحن كاملا 3<br/>لذا أعبد ربنا يسوع</lines>
+      <lines>هو بري كله وفيه أصبحن كاملا 3 newline لذا أعبد ربنا يسوع</lines>
     </verse>
     <verse name="v4">
-      <lines>فلنعظم اسمه ونرفع ايادي طاهرة 3<br/>له نعبد ربنا يسوع</lines>
+      <lines>فلنعظم اسمه ونرفع ايادي طاهرة 3 newline له نعبد ربنا يسوع</lines>
     </verse>
   </lyrics>
 </song>

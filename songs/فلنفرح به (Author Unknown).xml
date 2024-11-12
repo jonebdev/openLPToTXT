@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>فلنفرح به ... فلنفرح به<br/>ولنفتخر بمن فدانا<br/>فلنفرح به ... فلنفرح به<br/>ولنبتهج بإله خلاصنا</lines>
+      <lines>فلنفرح به ... فلنفرح به newline ولنفتخر بمن فدانا newline فلنفرح به ... فلنفرح به newline ولنبتهج بإله خلاصنا</lines>
     </verse>
     <verse name="v1b">
-      <lines>نعظم الملك نعلن مجده<br/>ملك الملوك نعلي اسمه<br/>فهو الإله</lines>
+      <lines>نعظم الملك نعلن مجده newline ملك الملوك نعلي اسمه newline فهو الإله</lines>
     </verse>
   </lyrics>
 </song>

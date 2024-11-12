@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Jingle bells jingle bells<br/>Jingle all the way<br/>O what fun it is to sing<br/>For baby Jesus birthday</lines>
+      <lines>Jingle bells jingle bells newline Jingle all the way newline O what fun it is to sing newline For baby Jesus birthday</lines>
     </verse>
     <verse name="v2">
-      <lines>Jingle bells jingle bells<br/>Jingle all the way<br/>O what fun it is to sing<br/>For Jesus Christ our Lord</lines>
+      <lines>Jingle bells jingle bells newline Jingle all the way newline O what fun it is to sing newline For Jesus Christ our Lord</lines>
     </verse>
   </lyrics>
 </song>

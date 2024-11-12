@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Lord, you have my heart<br/>And I will search for yours,<br/>Jesus take my life and lead me on</lines>
+      <lines>Lord, you have my heart newline And I will search for yours, newline Jesus take my life and lead me on</lines>
     </verse>
     <verse name="v2">
-      <lines>Lord you have my heart<br/>and I will search for yours<br/>Let me be to you a sacrifice</lines>
+      <lines>Lord you have my heart newline and I will search for yours newline Let me be to you a sacrifice</lines>
     </verse>
     <verse name="v3">
-      <lines>And I will praise you Lord<br/>And I will sing of love come down<br/>And as you show your face<br/>We'll see your glory here.</lines>
+      <lines>And I will praise you Lord newline And I will sing of love come down newline And as you show your face newline We'll see your glory here.</lines>
     </verse>
   </lyrics>
 </song>

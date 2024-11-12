@@ -11,19 +11,19 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Praise the Savior, ye who know Him!<br/>Who can tell how much we owe Him?<br/>Gladly let us render to Him<br/>All we are and have.</lines>
+      <lines>Praise the Savior, ye who know Him! newline Who can tell how much we owe Him? newline Gladly let us render to Him newline All we are and have.</lines>
     </verse>
     <verse name="v2">
-      <lines>Jesus is the name that charms us,<br/>He for conflict fits and arms us;<br/>Nothing moves and nothing harms us<br/>While we trust in Him.</lines>
+      <lines>Jesus is the name that charms us, newline He for conflict fits and arms us; newline Nothing moves and nothing harms us newline While we trust in Him.</lines>
     </verse>
     <verse name="v3">
-      <lines>Trust in Him, ye saints, forever;<br/>He is faithful, changing never.<br/>Neither force nor guile can sever<br/>Those He loves from Him.</lines>
+      <lines>Trust in Him, ye saints, forever; newline He is faithful, changing never. newline Neither force nor guile can sever newline Those He loves from Him.</lines>
     </verse>
     <verse name="v4">
-      <lines>Keep us, Lord,<br/>O keep us cleaving to Thyself<br/>And still believing;<br/>'Til the hour of our receiving,<br/>Promised joys with Thee.</lines>
+      <lines>Keep us, Lord, newline O keep us cleaving to Thyself newline And still believing; newline 'Til the hour of our receiving, newline Promised joys with Thee.</lines>
     </verse>
     <verse name="v5">
-      <lines>Then we shall be where we would be,<br/>Then we shall be what we should be;<br/>Things that are not now, nor could be,<br/>Soon shall be our own.</lines>
+      <lines>Then we shall be where we would be, newline Then we shall be what we should be; newline Things that are not now, nor could be, newline Soon shall be our own.</lines>
     </verse>
   </lyrics>
 </song>

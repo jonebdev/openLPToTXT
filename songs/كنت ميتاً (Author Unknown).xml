@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>كنت ميتاً و الأن أنت حي<br/>أسدٌ غالبُ .. أسدٌ ظافرٌ</lines>
+      <lines>كنت ميتاً و الأن أنت حي newline أسدٌ غالبُ .. أسدٌ ظافرٌ</lines>
     </verse>
     <verse name="v2">
       <lines>غلبت الموت بالقيامة .. تركت القبر فارغاً</lines>
     </verse>
     <verse name="v3">
-      <lines>إذ مات الذي كنا ممسكين فيه و قام يسوع من الأموات<br/>لنا حرية .. لنا حياة</lines>
+      <lines>إذ مات الذي كنا ممسكين فيه و قام يسوع من الأموات newline لنا حرية .. لنا حياة</lines>
     </verse>
     <verse name="v4">
-      <lines>أين شوكتك يا موتُ .. أين غلبتك يع هاوية<br/>قد غلب .. قد غلب ملكي</lines>
+      <lines>أين شوكتك يا موتُ .. أين غلبتك يع هاوية newline قد غلب .. قد غلب ملكي</lines>
     </verse>
   </lyrics>
 </song>

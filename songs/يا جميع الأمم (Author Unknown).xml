@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>يا جميع الأمم صفقوا بالأيادي<br/>أهتفوا لله بصوت الإبتهاج 2</lines>
+      <lines>يا جميع الأمم صفقوا بالأيادي newline أهتفوا لله بصوت الإبتهاج 2</lines>
     </verse>
     <verse name="v2">
-      <lines>لأن الرب علي مهوب<br/>ملك كبير علي كل الأرض 2</lines>
+      <lines>لأن الرب علي مهوب newline ملك كبير علي كل الأرض 2</lines>
     </verse>
   </lyrics>
 </song>

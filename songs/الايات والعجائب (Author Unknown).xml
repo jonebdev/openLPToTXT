@@ -10,13 +10,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>الأيات والعجائب التي صتعها<br/>معي الله العلي 2</lines>
+      <lines>الأيات والعجائب التي صتعها newline معي الله العلي 2</lines>
     </verse>
     <verse name="v2">
-      <lines>حسن عندي ان اخبر بها<br/>آياته ما أعظمها وعجائبه ما أقواها 2</lines>
+      <lines>حسن عندي ان اخبر بها newline آياته ما أعظمها وعجائبه ما أقواها 2</lines>
     </verse>
     <verse name="v3">
-      <lines>ملكوته ملكوت أبدي <br/>سلطانه الي دور فدور</lines>
+      <lines>ملكوته ملكوت أبدي  newline سلطانه الي دور فدور</lines>
     </verse>
   </lyrics>
 </song>

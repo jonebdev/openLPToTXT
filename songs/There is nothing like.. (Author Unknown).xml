@@ -10,22 +10,22 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Father true and merciful,<br/>Bound to me with Love,<br/>Adopted in, free from all sin,</lines>
+      <lines>Father true and merciful, newline Bound to me with Love, newline Adopted in, free from all sin,</lines>
     </verse>
     <verse name="v2">
-      <lines>Jesus savior glorified,<br/>Your offering none could give,<br/>I stand before you humbled and in awe,</lines>
+      <lines>Jesus savior glorified, newline Your offering none could give, newline I stand before you humbled and in awe,</lines>
     </verse>
     <verse name="v3">
-      <lines>And all to you God,<br/>for all You are to me..</lines>
+      <lines>And all to you God, newline for all You are to me..</lines>
     </verse>
     <verse name="v4">
-      <lines>There is nothing like,<br/>There is nothing like....<br/>Your Love, Your Love,</lines>
+      <lines>There is nothing like, newline There is nothing like.... newline Your Love, Your Love,</lines>
     </verse>
     <verse name="v5">
-      <lines>Holy Spirit gift of God,<br/>Teach my Soul to soar<br/>Train me in Your Holy ways oh Lord..</lines>
+      <lines>Holy Spirit gift of God, newline Teach my Soul to soar newline Train me in Your Holy ways oh Lord..</lines>
     </verse>
     <verse name="v6">
-      <lines>I'll love you forever<br/>I'll love you forever,<br/>I'll love you forever, Lord...</lines>
+      <lines>I'll love you forever newline I'll love you forever, newline I'll love you forever, Lord...</lines>
     </verse>
   </lyrics>
 </song>

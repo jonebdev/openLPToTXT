@@ -10,25 +10,25 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>باركي يا نفسي الرب<br/>وكل ما في باطني<br/>ليبارك اسمه<br/>اسمه القدوس</lines>
+      <lines>باركي يا نفسي الرب newline وكل ما في باطني newline ليبارك اسمه newline اسمه القدوس</lines>
     </verse>
     <verse name="v1a">
-      <lines>باركي يا نفسي الرب<br/>باركي الرب<br/>ولا تنسي كل حسناته</lines>
+      <lines>باركي يا نفسي الرب newline باركي الرب newline ولا تنسي كل حسناته</lines>
     </verse>
     <verse name="v1b">
-      <lines>الذي يغفر ذنوبك جميع ذنوبك<br/>الذي يشفي أمراضك كل أمراضك</lines>
+      <lines>الذي يغفر ذنوبك جميع ذنوبك newline الذي يشفي أمراضك كل أمراضك</lines>
     </verse>
     <verse name="v1c">
-      <lines>باركى يا نفسي الرب 3 <br/>باركى</lines>
+      <lines>باركى يا نفسي الرب 3  newline باركى</lines>
     </verse>
     <verse name="v1d">
-      <lines>الذى يشبع عمرك فيجدد شبابك<br/>ويكلك بالرحمة والرأفة</lines>
+      <lines>الذى يشبع عمرك فيجدد شبابك newline ويكلك بالرحمة والرأفة</lines>
     </verse>
     <verse name="v1e">
-      <lines>باركى يا نفسي الرب 3<br/>باركى</lines>
+      <lines>باركى يا نفسي الرب 3 newline باركى</lines>
     </verse>
     <verse name="v1f">
-      <lines>وكل ما فى باطنى ليبارك اسمك العلي<br/>وكل ما فى باطنى ليبارك اسمك القدوس</lines>
+      <lines>وكل ما فى باطنى ليبارك اسمك العلي newline وكل ما فى باطنى ليبارك اسمك القدوس</lines>
     </verse>
   </lyrics>
 </song>

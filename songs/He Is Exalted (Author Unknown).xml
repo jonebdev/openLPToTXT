@@ -13,13 +13,13 @@
       <lines/>
     </verse>
     <verse name="v1b">
-      <lines>He is exalted<br/>The King is exalted on high<br/>I will praise Him</lines>
+      <lines>He is exalted newline The King is exalted on high newline I will praise Him</lines>
     </verse>
     <verse name="v2">
-      <lines>He is exalted<br/>forever exalted<br/>and I will praise His name</lines>
+      <lines>He is exalted newline forever exalted newline and I will praise His name</lines>
     </verse>
     <verse name="c1">
-      <lines>He is the Lord<br/>Forever His truth shall reign<br/>Heaven and Earth<br/>Rejoice in His holy name<br/>He is exalted<br/>The King is exalted on high</lines>
+      <lines>He is the Lord newline Forever His truth shall reign newline Heaven and Earth newline Rejoice in His holy name newline He is exalted newline The King is exalted on high</lines>
     </verse>
   </lyrics>
 </song>

@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="c1">
-      <lines>Jesus is the sweetest name I know,<br/>And He's just the same as His lovely name,<br/>And that's the reason why I love Him so;<br/>Oh, Jesus is the sweetest name I know.</lines>
+      <lines>Jesus is the sweetest name I know, newline And He's just the same as His lovely name, newline And that's the reason why I love Him so; newline Oh, Jesus is the sweetest name I know.</lines>
     </verse>
     <verse name="v1">
-      <lines>There have been names that I have loved to hear,<br/>But never has there been a name so dear<br/>To this heart of mine as the name divine,<br/>The precious, precious name of Jesus.</lines>
+      <lines>There have been names that I have loved to hear, newline But never has there been a name so dear newline To this heart of mine as the name divine, newline The precious, precious name of Jesus.</lines>
     </verse>
     <verse name="v2">
-      <lines>There is no name in earth or heav'n above,<br/>That we should give such honor and such love,<br/>As the blessed name; let us all acclaim;<br/>That wondrous, glorious name of Jesus.</lines>
+      <lines>There is no name in earth or heav'n above, newline That we should give such honor and such love, newline As the blessed name; let us all acclaim; newline That wondrous, glorious name of Jesus.</lines>
     </verse>
     <verse name="v3">
-      <lines>And some day I shall see Him face to face,<br/>To thank and praise Him for His wondrous grace,<br/>Which He gave to me when He made me free;<br/>The blessed Son of God called Jesus.</lines>
+      <lines>And some day I shall see Him face to face, newline To thank and praise Him for His wondrous grace, newline Which He gave to me when He made me free; newline The blessed Son of God called Jesus.</lines>
     </verse>
   </lyrics>
 </song>

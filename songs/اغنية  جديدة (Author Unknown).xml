@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>أغنية جديدة أشدو<br/>بها فى عرشك 2<br/>فاض قلبى بحبك<br/>تعطى لسانى لحنك<br/>لحن السماء</lines>
+      <lines>أغنية جديدة أشدو newline بها فى عرشك 2 newline فاض قلبى بحبك newline تعطى لسانى لحنك newline لحن السماء</lines>
     </verse>
   </lyrics>
 </song>

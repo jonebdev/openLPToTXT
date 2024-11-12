@@ -10,16 +10,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>يا سيدي لما أرى نجومَك<br/>وكلَ ما يدورُ في الأفلاك<br/>أسمعُ صوتَ الرعدِ في غيومِك<br/>وكلَها قد صنعتْ يداك<br/>Ya sayyidy lama ara nijumak wa kulla ma yadooru fil aflak asma'u sawtal ra'dy fee ghiyumik wa kulaha kad sana'at yadak</lines>
+      <lines>يا سيدي لما أرى نجومَك newline وكلَ ما يدورُ في الأفلاك newline أسمعُ صوتَ الرعدِ في غيومِك newline وكلَها قد صنعتْ يداك newline Ya sayyidy lama ara nijumak wa kulla ma yadooru fil aflak asma'u sawtal ra'dy fee ghiyumik wa kulaha kad sana'at yadak</lines>
     </verse>
     <verse name="c1">
-      <lines>نفسي تغني يا مخلصي<br/>ما أعظمك ... ما أعظمك<br/>نفسي تغني يا مخلصي<br/>ما أعظمك ... ما أعظمك<br/><chord name="Nafsy tughany ya mukhalisy (ma athamak)2"/>2</lines>
+      <lines>نفسي تغني يا مخلصي newline ما أعظمك ... ما أعظمك newline نفسي تغني يا مخلصي newline ما أعظمك ... ما أعظمك newline <chord name="Nafsy tughany ya mukhalisy (ma athamak)2"/>2</lines>
     </verse>
     <verse name="v2">
-      <lines>وكلما أذكرُ كيف ربي<br/>قد بذلَ ابنَهُ عن الخطاة<br/>بدمِهِ أزالَ كلَ ذنبي <br/>وردَني للسيرِ في رضاه<br/>Wa indama athkuru kayfa rabby kad bathala ibnahu anil khuta bidamihy azala kulla danby wa raddany lissayry fee ridah</lines>
+      <lines>وكلما أذكرُ كيف ربي newline قد بذلَ ابنَهُ عن الخطاة newline بدمِهِ أزالَ كلَ ذنبي  newline وردَني للسيرِ في رضاه newline Wa indama athkuru kayfa rabby kad bathala ibnahu anil khuta bidamihy azala kulla danby wa raddany lissayry fee ridah</lines>
     </verse>
     <verse name="v3">
-      <lines>إذ يظهرُ المسيحُ بانتصارٍ<br/>يأخذُني إلى السماء هناك<br/>مبتهجا أسجدُ باعتبارٍ<br/>له مرددا ... ما أعظمك<br/>Ith yath-harul masihu bintisarin ya'khuthuny ilassama hunak mubtahijan asjudu bi'tibarin lahu murradidan ma athamak</lines>
+      <lines>إذ يظهرُ المسيحُ بانتصارٍ newline يأخذُني إلى السماء هناك newline مبتهجا أسجدُ باعتبارٍ newline له مرددا ... ما أعظمك newline Ith yath-harul masihu bintisarin ya'khuthuny ilassama hunak mubtahijan asjudu bi'tibarin lahu murradidan ma athamak</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>انا هنا لاعبدك احيا فقط لاكرمك<br/>لتجد مكان راحه لك</lines>
+      <lines>انا هنا لاعبدك احيا فقط لاكرمك newline لتجد مكان راحه لك</lines>
     </verse>
     <verse name="v2">
-      <lines>من كل قلبي بحبك من كل فكري بحبك<br/>من كل قدرتي بحبك بحبك<br/>بحبك بحبك يألله</lines>
+      <lines>من كل قلبي بحبك من كل فكري بحبك newline من كل قدرتي بحبك بحبك newline بحبك بحبك يألله</lines>
     </verse>
   </lyrics>
 </song>

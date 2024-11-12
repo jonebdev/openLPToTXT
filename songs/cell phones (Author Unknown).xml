@@ -10,7 +10,7 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Kindly silence your cell phones. Thank you<br/>يرجى اغلاق التليفون المحمول<br/>شكرا</lines>
+      <lines>Kindly silence your cell phones. Thank you newline يرجى اغلاق التليفون المحمول newline شكرا</lines>
     </verse>
   </lyrics>
 </song>

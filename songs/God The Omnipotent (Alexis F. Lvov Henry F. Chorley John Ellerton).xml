@@ -11,16 +11,16 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>God the Omnipotent!<br/>King who ordainest thunder Thy clarion,<br/>The lightning Thy sword,<br/>Show forth Thy pity<br/>On high where Thou reignest,<br/>Give to us peace in our time, O Lord.</lines>
+      <lines>God the Omnipotent! newline King who ordainest thunder Thy clarion, newline The lightning Thy sword, newline Show forth Thy pity newline On high where Thou reignest, newline Give to us peace in our time, O Lord.</lines>
     </verse>
     <verse name="v2">
-      <lines>God the All-merciful!<br/>Earth hath forsaken,<br/>Meekness and mercy and slighted Thy word,<br/>Let not Thy wrath in its terrors awaken,<br/>Give to us peace in our time, O Lord.</lines>
+      <lines>God the All-merciful! newline Earth hath forsaken, newline Meekness and mercy and slighted Thy word, newline Let not Thy wrath in its terrors awaken, newline Give to us peace in our time, O Lord.</lines>
     </verse>
     <verse name="v3">
-      <lines>God the All-righteous One!<br/>Man hath defied Thee,<br/>Yet to eternity standeth Thy word,<br/>Falsehood and wrong shall not tarry beside Thee,<br/>Give to us peace in our time, O Lord.</lines>
+      <lines>God the All-righteous One! newline Man hath defied Thee, newline Yet to eternity standeth Thy word, newline Falsehood and wrong shall not tarry beside Thee, newline Give to us peace in our time, O Lord.</lines>
     </verse>
     <verse name="v4">
-      <lines>So shall Thy people, with thankful devotion,<br/>Praise Him who saved them from peril and sword;<br/>Singing in chorus from ocean to ocean,<br/>Peace to the nations, and praise to the Lord.<br/>Amen.</lines>
+      <lines>So shall Thy people, with thankful devotion, newline Praise Him who saved them from peril and sword; newline Singing in chorus from ocean to ocean, newline Peace to the nations, and praise to the Lord. newline Amen.</lines>
     </verse>
   </lyrics>
 </song>

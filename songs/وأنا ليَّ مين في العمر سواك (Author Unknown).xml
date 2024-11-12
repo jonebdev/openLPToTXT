@@ -10,10 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1a">
-      <lines>وأنا ليَّ مين في العمر سواك<br/>غيرك انت يا ضامن أيامي<br/>رفيق وحبيب وأغلى نصيب<br/>بتداوي جراحي وآلامي</lines>
+      <lines>وأنا ليَّ مين في العمر سواك newline غيرك انت يا ضامن أيامي newline رفيق وحبيب وأغلى نصيب newline بتداوي جراحي وآلامي</lines>
     </verse>
     <verse name="v1b">
-      <lines>إنت ربي]<br/>مالك قلبي]2<br/>ما انت اللي ضامن أيامي<br/>وفي إيدك عمري وسلامي</lines>
+      <lines>إنت ربي] newline مالك قلبي]2 newline ما انت اللي ضامن أيامي newline وفي إيدك عمري وسلامي</lines>
     </verse>
     <verse name="c1a">
       <lines>أنا ليك</lines>
@@ -22,16 +22,16 @@
       <lines>يا ضامن أيامي</lines>
     </verse>
     <verse name="v2a">
-      <lines>تسبيح من قلبي وأغاني<br/>تشكر شخصك اللي فداني<br/>تعلن حبك عظمة شخصك<br/>وحنان قلبك اللي رعاني</lines>
+      <lines>تسبيح من قلبي وأغاني newline تشكر شخصك اللي فداني newline تعلن حبك عظمة شخصك newline وحنان قلبك اللي رعاني</lines>
     </verse>
     <verse name="v2b">
-      <lines>إنت عزي]<br/>مجدي ترسي]2<br/>يعجز لساني وكلامي<br/>عن وصف حبك السامي</lines>
+      <lines>إنت عزي] newline مجدي ترسي]2 newline يعجز لساني وكلامي newline عن وصف حبك السامي</lines>
     </verse>
     <verse name="v3a">
-      <lines>يصغر العالم في عينيَّ<br/>لما باشوف عملك علشاني<br/>أنسى نفسي كل ما عندي<br/>إنت غايتي وكل آمالي</lines>
+      <lines>يصغر العالم في عينيَّ newline لما باشوف عملك علشاني newline أنسى نفسي كل ما عندي newline إنت غايتي وكل آمالي</lines>
     </verse>
     <verse name="v3b">
-      <lines>إنت عالي]<br/>فوق كل غالي]2<br/>إيه يشبع نفسي ويغنيني<br/>غير نظرة حبك تكفيني</lines>
+      <lines>إنت عالي] newline فوق كل غالي]2 newline إيه يشبع نفسي ويغنيني newline غير نظرة حبك تكفيني</lines>
     </verse>
   </lyrics>
 </song>
