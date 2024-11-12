@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>نفسي تغني يا مخلصي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا سيدي لما أرى نجومَك<br/>وكلَ ما يدورُ في الأفلاك<br/>أسمعُ صوتَ الرعدِ في غيومِك<br/>وكلَها قد صنعتْ يداك<br/>Ya sayyidy lama ara nijumak wa kulla ma yadooru fil aflak asma'u sawtal ra'dy fee ghiyumik wa kulaha kad sana'at yadak</lines>
+    </verse>
+    <verse name="c1">
+      <lines>نفسي تغني يا مخلصي<br/>ما أعظمك ... ما أعظمك<br/>نفسي تغني يا مخلصي<br/>ما أعظمك ... ما أعظمك<br/><chord name="Nafsy tughany ya mukhalisy (ma athamak)2"/>2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>وكلما أذكرُ كيف ربي<br/>قد بذلَ ابنَهُ عن الخطاة<br/>بدمِهِ أزالَ كلَ ذنبي <br/>وردَني للسيرِ في رضاه<br/>Wa indama athkuru kayfa rabby kad bathala ibnahu anil khuta bidamihy azala kulla danby wa raddany lissayry fee ridah</lines>
+    </verse>
+    <verse name="v3">
+      <lines>إذ يظهرُ المسيحُ بانتصارٍ<br/>يأخذُني إلى السماء هناك<br/>مبتهجا أسجدُ باعتبارٍ<br/>له مرددا ... ما أعظمك<br/>Ith yath-harul masihu bintisarin ya'khuthuny ilassama hunak mubtahijan asjudu bi'tibarin lahu murradidan ma athamak</lines>
+    </verse>
+  </lyrics>
+</song>

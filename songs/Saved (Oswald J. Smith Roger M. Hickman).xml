@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>Saved</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Oswald J. Smith Roger M. Hickman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Saved! I'm saved thro' Christ,<br/>My all in all.<br/>Saved! I'm saved,<br/>Whatever may befall.<br/>He died upon the cross for me,<br/>He bore the awful penalty.<br/>And now I'm saved eternally,<br/>I'm saved! Saved! Saved!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Saved! Saved! Saved!<br/>My sins are all forgiv'n,<br/>Christ is mine!<br/>I'm on my way to heaven,<br/>Once a guilty sinner, lost, undone,<br/>Now a child of God,<br/>Saved thro' His Son.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Saved! Saved! Saved!<br/>By grace and grace alone.<br/>Oh, what wondrous love<br/>To me was shown,<br/>In my stead<br/>Christ Jesus bled and died.<br/>Bore my sins,<br/>For me was crucified.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Saved! Saved! Saved!<br/>Oh joy beyond compare!<br/>Christ my life,<br/>And I His constant care,<br/>Yielding all and trusting Him alone,<br/>Living now each moment as His own.</lines>
+    </verse>
+  </lyrics>
+</song>

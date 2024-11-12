@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>What A Wonderful Savior</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Elisha A. Hoffman</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>What a wonderful Savior,<br/>Is Jesus my Jesus!<br/>What a wonderful Savior,<br/>Is Jesus my Lord!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Christ has for sin atonement made;<br/>What a wonderful Savior!<br/>We are redeemed, the price is paid;<br/>What a wonderful Savior!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I praise Him for the cleansing blood;<br/>What a wonderful Savior!<br/>That reconciled my soul to God;<br/>What a wonderful Savior!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>He cleansed my heart from all its sin;<br/>What a wonderful Savior!<br/>And now He reigns and rules therein;<br/>What a wonderful Savior!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>He gives me overcoming power;<br/>What a wonderful Savior!<br/>And triumph in each trying hour;<br/>What a wonderful Savior!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To Him I've given all my heart;<br/>What a wonderful Savior!<br/>The world shall never share a part;<br/>What a wonderful Savior!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>He walks beside me in the way;<br/>What a wonderful Savior!<br/>And keeps me faithful day by day;<br/>What a wonderful Savior!</lines>
+    </verse>
+  </lyrics>
+</song>

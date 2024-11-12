@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>قلبه حنين</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>قلبه حنين حبه يبين<br/>إن صليبه دا كان تكفير<br/>عن خطايانا مات وفدانا<br/>نعمة غنية وحب كبير<br/>Albu hinayin hubbu yibayin inni saleebu da kan takfeer an khatayana mat wifadana ni'ma ghaniyaw hubbi kbeer</lines>
+    </verse>
+    <verse name="c1">
+      <lines>سر حياتنا دا هو يسوع<br/>بنرنمها بصوت مسموع<br/>هو الكلمة وهو الله<br/>هو بروحه عطانا حياة<br/>Sirri hayatna da hua yasoo' binranimhab soot masmoo' (2) hual kilmaw hual lah huab ruhu atana haya</lines>
+    </verse>
+    <verse name="v2">
+      <lines>وسط المحنة بسرعة لمحنا<br/>يسوع الحلو وجالنا قوام<br/>قال في وعوده إن وجوده<br/>تملى معانا أمان وسلام<br/>Wastil mihnab sur'ala mihna yasoo'il hilwy wijalna awam al fee wo'udu inni wijudu tamally ma'ana aman wi salam</lines>
+    </verse>
+    <verse name="v3">
+      <lines>نادي علينا وبقى لنا مينا<br/>ومرسى وشط وفلك نجاة<br/>صرنا سفينة في يد أمينة<br/>تعلى الموجة ونعلى معاه<br/>Nada alaynaw ba'a leena minaw marsaw shatty wifulky naja sirna safeena fiyaddy ameena ta'lal mowjaw na'la ma'ah</lines>
+    </verse>
+    <verse name="v4">
+      <lines>عين تحرسنا وأيد تواسينا<br/>وها يعدينا لحد سماه<br/>مهما الغربة تبان لنا صعبة<br/>هاترسى المركب وهانلقاه<br/>Een tuhrusnaw eed tiwasinaw hay adeena lihaddy samah mahmal ghurba tiban lina sa'ba hatirsil markib wahanil'ah</lines>
+    </verse>
+  </lyrics>
+</song>

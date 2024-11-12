@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>للرب الارض والسمــاء</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>للرب الأرض والسمــاء صانع كل الكــون<br/>يضع يرفع من يشــاء يأمر كن فيكـون</lines>
+    </verse>
+    <verse name="v1">
+      <lines>وعدك قال لاتخف لأني الـهك<br/>اتكل علي قادر ان احميــــك<br/>أحول لعناتك الي بركات لـــك<br/>وابيد العدو امامك في الطريق</lines>
+    </verse>
+    <verse name="v2">
+      <lines>وجهي يسير امامك هيبتي قدامك <br/>فيرتاع منك كل من عـــداك<br/>سورنار من حولك وأضمن سلامـك<br/>وبسحابة مجدي دائما أرعاك</lines>
+    </verse>
+    <verse name="v3">
+      <lines>انت الله الكائن انت من يكون<br/>عالي فوق العالي قديم الأيــام<br/>اسمك ازلي اسمك ابــــــدي<br/>إسمك سرمدي يســـوع المقام</lines>
+    </verse>
+  </lyrics>
+</song>

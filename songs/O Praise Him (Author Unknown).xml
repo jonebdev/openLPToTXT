@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>O Praise Him</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Turn your ear to heaven and hear the noise inside<br/>The sond of angel's awe, the sound of angel's song</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And all this for a King, we could join and sing<br/>All to Christ our King</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oh praise Him, oh, praise Him<br/>He is holy, He is Holy</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Turn your gaze to heaven and raise a joyous noise<br/>The sound of salvation come, the sound of rescued ones</lines>
+    </verse>
+    <verse name="v5">
+      <lines>All this for a king, angels join to sing<br/>All for Christ our King</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Alleluia, (4x)<br/>Alleluia, alleluia, He is holy, He is holy</lines>
+    </verse>
+  </lyrics>
+</song>

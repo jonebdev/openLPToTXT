@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>لم تري عين إلها غيرك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>لم تري عين إلها غيرك<br/>يفتح السجن وينزع القيود 2<br/>ويشق الغمر فأذا طريق<br/>لا تعوقه جبال أو سدود</lines>
+    </verse>
+    <verse name="c1">
+      <lines>لم تري عين إلها غيرك<br/>لم تري عين إلها غيرك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>من سواك يتراءي في الأتون<br/>أو ينجي النفس من جب الأسود 2<br/>من ينير القفر إن حل الظلام<br/>بلهيب حب في صورة عمود</lines>
+    </verse>
+    <verse name="v3">
+      <lines>كم تألمت علي عود الصليب<br/>كي تعد لي مكانا في السماء 2<br/>ووعدتني ستأتي عن قريب<br/>وتهبني ثقل مجد بالصعود</lines>
+    </verse>
+  </lyrics>
+</song>

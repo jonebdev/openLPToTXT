@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>الخمر الجيدة</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>الخمرالجيدة أبقيتها لنا<br/>ما أعظمْ جوداً قد ذخرتَه لنا<br/>غَدَتْ أيامُنا بك مجيدةً<br/>خيرُ ورحمةُ يتبعانَنا<br/>Alkhamral jayida abkaytaha lana ma atham judan kad thakhartahu lana ghadat ayamuna bika majeedatan khayrun wa rahmatun yatba'anana</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>نمسكْ بوعدِك نؤمن بحبِك<br/>أنت الاله الصادق الأمين<br/>نُقدمْ حَمدَنا أيضا تسبيحَنا<br/>لك أنت يسوعُنا العظيم<br/>Numsik biwa'dika nu'min bihubika antal illahul sadikul ameen nukadim hamdana aydan tasbeehana laka anta yasoo'unal atheem</lines>
+    </verse>
+  </lyrics>
+</song>

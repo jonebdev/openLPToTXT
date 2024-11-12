@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>O God Our Help In Ages Past</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Isaac Watts William Croft</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O God, our Help in ages past,<br/>Our Hope for years to come,<br/>Our Shelter from the stormy blast,<br/>And our eternal Home!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Under the shadow of Thy throne<br/>Still may we dwell secure;<br/>Sufficient is Thine arm alone,<br/>And our defense is sure.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Before the hills in order stood,<br/>Or earth received her frame,<br/>From everlasting Thou art God,<br/>To endless years the same.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O God, our Help in ages past,<br/>Our Hope for years to come,<br/>Be Thou my Guide while life shall last,<br/>And our eternal Home.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A thousand ages in Thy sight,<br/>Are like and evening gone;<br/>Short as the watch that ends the night,<br/>Before the rising sun.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Time like an ever rolling stream,<br/>Bears all its sons away;<br/>They fly, forgotten, as a dream<br/>Die at the op'ning day.</lines>
+    </verse>
+  </lyrics>
+</song>

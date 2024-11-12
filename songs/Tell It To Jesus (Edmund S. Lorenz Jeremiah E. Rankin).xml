@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>Tell It To Jesus</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Edmund S. Lorenz Jeremiah E. Rankin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Tell it to Jesus,<br/>Tell it to Jesus.<br/>He is a Friend that's well known.<br/>You have no other<br/>Such a friend or brother.<br/>Tell it to Jesus alone.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Are you weary,<br/>Are you heavy hearted?<br/>Tell it to Jesus,<br/>Tell it to Jesus.<br/>Are you grieving<br/>Over joys departed?<br/>Tell it to Jesus alone.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do the tears flow down<br/>Your cheeks unbidden?<br/>Tell it to Jesus,<br/>Tell it to Jesus.<br/>Have you sins that<br/>To men's eyes are hidden?<br/>Tell it to Jesus alone.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do you fear the<br/>Gathering clouds of sorrow?<br/>Tell it to Jesus,<br/>Tell it to Jesus.<br/>Are you anxious<br/>What shall be tomorrow?<br/>Tell it to Jesus alone.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Are you troubled<br/>At the thought of dying?<br/>Tell it to Jesus,<br/>Tell it to Jesus.<br/>For Christ's coming kingdom<br/>Are you sighing?<br/>Tell it to Jesus alone.</lines>
+    </verse>
+  </lyrics>
+</song>

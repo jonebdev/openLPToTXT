@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>We Bring The Sacrifice of Praise</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We bring the sacrifice of priase<br/>Into the house of the Lord.<br/>We bring the sacrifice of praise<br/>Into the house of the Lord.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And we offer up to You<br/>The sacrifices of thanksgiving;<br/>And we offer up to You<br/>The sacrifices of joy.</lines>
+    </verse>
+  </lyrics>
+</song>

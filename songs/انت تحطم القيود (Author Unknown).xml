@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>انت تحطم القيود</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أنت تحطم القيود وأنت تكشف الأسرار<br/>وكل قلب فى جمود بلمستك يحال نار<br/>أنت بالحب تسود أنت تهدم الأسوار<br/>وتخلص من يعود أنت قدوس وبار</lines>
+    </verse>
+    <verse name="c1">
+      <lines>والان أنت بيننا ولست عنا ببعيد<br/>فأسمع لنا واملأنا بروحك من جديد<br/>فتهتفن أعماقنا ومعك شيئا لا نريد<br/>ويشهد سلوكنا بأنك رب مجيد</lines>
+    </verse>
+    <verse name="v2">
+      <lines>بك تهدأ البحورأنت تمنح السلام<br/>أنت تغفر الشرور أنت تستر الآثام<br/>أنت للقلب سرور أنت للنفس شفاء<br/>والأيام اذ تدور أنت تضمن السماء</lines>
+    </verse>
+  </lyrics>
+</song>

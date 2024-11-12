@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>انت عالي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ملك الملوك وجلالك<br/>مالي الوجود حوالينا<br/>وجبال بتدوب قدامك<br/>أسمك عالي يا فادينا</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>الآنهار بتصقف لك كل الألآت تعزف لك<br/>ويارب بكلمة منك<br/>كل الملوك تخضع لك</lines>
+    </verse>
+    <verse name="c1">
+      <lines>انت عالي<br/>فوق كل أسم مهما يكون<br/>عالي<br/>فوق السحاب ومالي الكون<br/>عالي<br/>هاتشوف ملكك كل العيون<br/>عالي</lines>
+    </verse>
+  </lyrics>
+</song>

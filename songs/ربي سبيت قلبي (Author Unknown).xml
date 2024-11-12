@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>ربي سبيت قلبي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ربى سبيت قلبى بودادك<br/>أخذت كل عقلى بجمالك<br/>لذا فنفسى تهتفن فى ذهول<br/>وكل عرق فىّ ينبض يقول)2)<br/>أحبك)6 ... أحبك يسوع)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>يا من حملت عنى اثمى المشين<br/>حين فديت نفسى بالموت المهين<br/>لو ان كل ما عندى وهبتك<br/>فسوف أبقى )<br/>ما دمت لك مدين)2<br/>انى لك)6 ... انى لك يسوع)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>فخذ حياتى ربى املأنها<br/>بروحك بحبك اغمرنا<br/>وهبنى منك نعمة مدى الحياة<br/>لكى أعيش )<br/>فى رضاك للمات)2<br/>لمجدك)6 ... لمجدك يسوع)</lines>
+    </verse>
+    <verse name="e1">
+      <lines>أحبك)6 ... أحبك يسوع)<br/>انى لك)6 ... انى لك يسوع)<br/>لمجدك)6 ... لمجدك يسوع)</lines>
+    </verse>
+  </lyrics>
+</song>

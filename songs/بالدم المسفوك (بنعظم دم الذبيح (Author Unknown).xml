@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>بالدم المسفوك (بنعظم دم الذبيح</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>بنعظم دم الذبيح<br/>وبنرفع لاسمه التسبيح<br/>كل ركبة وكل لسان <br/>راح تسجد لاسم المسيح <br/>Bin addam dammil thabeeh wib nirfa' lismul tasbeeh kulli rukbaw kulli lisan rah tisjud lismil masih</lines>
+    </verse>
+    <verse name="c1">
+      <lines>بالدم المسفوك راح نرفع الرايات<br/>ولملك الملوك بنعلي التسبيحات<br/>Biddammil masfuk rah nirfa'il rayat wilmalikil mulook bin'allil tasbeehat</lines>
+    </verse>
+    <verse name="v2">
+      <lines>للمرضى والمأسورين<br/>بشرى بفرح وحب ثمين<br/>عن حرية في دم يسوع<br/>وشفاء للمتعبين<br/>Lil marda wil ma'sureen bushrab farah uhubbi thameen an hurriya fidammi yasoo' wi shifa' lil mut'abeen</lines>
+    </verse>
+    <verse name="v3">
+      <lines>من إبليس نخطف نفوس<br/>وبسلطاننا عليه بندوس<br/>وبقوة دم ابن الله<br/>راح نهتف لاسم القدوس<br/>Min iblis nikhtaf nifoos wibsultanna aleh bindoos wib'uwit dam ibnal lah rah nihtif lismul kudoos</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>We Will Worship the Lamb of Glory</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We will worship the Lamb of glory<br/>We will worship the King of kings<br/>We will worship the Lamb of glory<br/>We will worship the King</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And with our hands lifted high,<br/>We will worship and sing<br/>And with our hands lifted high,<br/>We come before You rejoicing.<br/>With our hands lifted high to the sky<br/>When the world wonders why<br/>We'll just tell them we're loving our King...Oh<br/>We'll just tell them that we're loving our King</lines>
+    </verse>
+  </lyrics>
+</song>

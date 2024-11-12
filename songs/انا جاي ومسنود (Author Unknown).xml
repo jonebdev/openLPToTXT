@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>انا جاي ومسنود</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنا جاي ومسنود علي وعدك)<br/>وعيني بتنظر لمجدك<br/>)واثق فيك وفي قوة حبك<br/>أنت إلهي واثق في وعدك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>طول ما إنت جوة حياتي<br/>يهرب خوفي ويعلي هتافي<br/>تهتف نفسي دا هو إلهي<br/>اللي ضامني بجبه الدافي</lines>
+    </verse>
+    <verse name="c1a">
+      <lines/>
+    </verse>
+    <verse name="c1b">
+      <lines>صادق صادق صادق ياربي<br/>إنت ياربي في مواعيدك</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>وإن كانت الريح شديدة<br/>أنا واثق إنك تبكمها<br/>في الحديد لو دخلت نفسي<br/>إلي رحبك ربي بتخرجها</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>ولو شفت نهايتي بعيني<br/>وماليش قوة إني أتكلم<br/>تحييني وتمد لي إيدك<br/>تعمل في لما أسلم</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>ومهماالتجارب بتجرحني<br/>لمسة حنانك بتريحني<br/>تزكي صبري وتفرحني<br/>في كل أموري وتنجحني</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>زمن الضيقة زمن محدود<br/>مهما حزنه وليله يسود<br/>أنا مستني فجر جديد<br/>يوم ما تحقق المواعيد</lines>
+    </verse>
+  </lyrics>
+</song>

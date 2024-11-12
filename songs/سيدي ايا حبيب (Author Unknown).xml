@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>سيدي ايا حبيب</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>سيدي أيا حبيب<br/>أشبعن قلبي بك<br/>وكذا أملان حياتي<br/>بفيض روحك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>فاحيا العمر كله مكرسأ لك<br/>واشدو بالترنيم مصغيا لصوتك<br/>والحمد لاسمك<br/>فيبقي المجد لك لك وحدك</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>انشد نشيد الحرية</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أنشد نشيد الحرية<br/>والعتق من العبودية<br/>نلت السعادة الأبدية<br/>حررني يسوع<br/>Anshid nasheedil hurya<br/>Wil'itky minil ubudya nilt issaadal abadia<br/>Hararny yasoo'</lines>
+    </verse>
+    <verse name="c1">
+      <lines>حررني يسوع <br/>حررني يسوع<br/>من عبودية إبليس حررني يسوع<br/>Hararny yasoo'(2)<br/>Min ubudiet iblis, hararny yasoo'</lines>
+    </verse>
+    <verse name="v2">
+      <lines>هو وحده محبوبي<br/>مات ومحا كل ذنوبي<br/>وفي دمه أخفى عيوبي<br/>حررني يسوع<br/>Huwa wahdu mahbuby mat wimaha kuli dunuby wifi damu akhfa iyuby<br/>Hararny yasoo'</lines>
+    </verse>
+    <verse name="v3">
+      <lines>حمل ثقيل ريحني<br/>قلب حزين فرحني<br/>وبروحه قد مسحني<br/>حررني يسوع<br/>Himli ti'eel rayahny albi hazeen farahny wibruhu kad masahny<br/>Hararny yasoo'</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>أعيش حياتي متهني<br/>مجيء حبيبي مستني<br/>نفسي تهلل وتغني<br/>حررني يسوع<br/>A'ish hayaty mit-hany majee' habiby mistanee nafsee tuhallil watughany<br/>Hararny yasoo'</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>ما فى شيء يشغل بالي<br/>ربي مدبر احوالي<br/>عزمي علي السما طوالي<br/>حررني يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

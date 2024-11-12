@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>اتكل عليك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أتكل عليك ألتجأ إليك ولا أخاف لا لا فراحتي لديك2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>أنا صغيرك طفلك وإبنك المدلل ومن شبابي إلي مشيبي على كتفيك أحمل2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>إيماني أنت وهبته ماضي أنت غفرته2<br/>ولي بيتً جميلاً بسمائك صنعته وضمنته لي ضمنته</lines>
+    </verse>
+    <verse name="v4">
+      <lines>وترتب قدامي مائدة إطعامي 2 وتطعمني يداك يا حلو اليدين2<br/>فلا عجب إن رقت الدنيا ولم تعنيني رقتها<br/>ولا عجب إن ضاقت الدنيا فزاد إيماني لأنني</lines>
+    </verse>
+  </lyrics>
+</song>

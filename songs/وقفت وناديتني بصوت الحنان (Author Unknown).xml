@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>وقفت وناديتني بصوت الحنان</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>وقفت وناديتني بصوت الحنان وقلت تعال ده عندي الأمان<br/>سمعت نداءك وبخطوه ايمان طلبت حضورك هنا في المكان</lines>
+    </verse>
+    <verse name="v2">
+      <lines>لغيت المسافه شطبت الزمن وجيتني في ضياعي دفعت الثمن<br/>وقمت لنجاتي عطيتني حياه بموتك عشاني هاعيش يالله</lines>
+    </verse>
+    <verse name="v3">
+      <lines>وخوفي في حبك يتوه ماالاقيه وحزني في حضورك راح اعبر عليه<br/>وقوه كلامك تشدد قلبي وفكر سلامك هيقود مركبي</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ولما التجارب تسبب الأم ولما يسدد عدوي السهام<br/>بقوه صليبك ترد الهجوم وتشرق بشمسك تضيع الغيوم</lines>
+    </verse>
+    <verse name="v5">
+      <lines>يسوع ياربي يا عيد الحياه يازارع في عمري طريق النجاه<br/>تعال وبدد حصون الظلام وازرع في قلبي زهور السلام</lines>
+    </verse>
+  </lyrics>
+</song>

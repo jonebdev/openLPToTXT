@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>Still</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hide me now under Your wings<br/>Cover me within Your mighty hand</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When the ocean's rise and the thunders roar<br/>I will soar with you above the storm<br/>Father you are King over the flood<br/>I will be still and know you are God</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Find rest my soul<br/>In Christ Alone<br/>Know his pow'r in quietness and trust</lines>
+    </verse>
+  </lyrics>
+</song>

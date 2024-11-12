@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>There Is No Name So Sweet On Earth</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>George W. Bethune William B. Bradbury</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>We love to sing of Christ our King<br/>And hail Him blessed Jesus;<br/>For there's no word ear ever heard,<br/>So dear, so sweet as Jesus.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>There is no name so sweet on earth,<br/>No name so sweet in heaven;<br/>The name before His wondrous birth,<br/>To Christ the Savior given.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>And when He hung upon the tree,<br/>They wrote this name above Him;<br/>That all might see the reason we,<br/>For evermore must love Him.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>So now upon His Father's throne,<br/>Almighty to release us;<br/>From sin and pain He ever reigns,<br/>The Prince and Savior Jesus.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O Jesus, by that matchless name,<br/>Thy grace shall fail us never;<br/>Today as yesterday the same,<br/>Thou art the same forever.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>ليه نعيش في الضعف</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ليه نعيش في الضعف ... أو نفضل مأسورين والرب شال خطايانا ومحاها بدم ثمين</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>مهما هاجت البحور ... مهما ساءت الأمور يقدر يسوع الغالي يشفي ويهدم أعلى سور</lines>
+    </verse>
+    <verse name="c1">
+      <lines>عشان أحزاننا حملها<br/>أوجاعنا اتحملها مجروح لمعاصينا ... مسحوق لآثامنا</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>إلهنا ع الصليب ... سدد كل الديون دفع ثمن حرية ... تعلى فوق الحصون</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>صلبه شق الحجاب فدانا م العقاب حول بدمه اللعنه لبركة ... يسوع صار لينا باب</lines>
+    </verse>
+  </lyrics>
+</song>

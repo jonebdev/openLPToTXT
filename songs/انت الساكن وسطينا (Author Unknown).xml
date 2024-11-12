@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>انت الساكن وسطينا</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>لالهنا بنعد طريق<br/>وهتافنا بيهد أسوار<br/>وسط القفر ووسط الضيق<br/>بنرنم ليسوع البار<br/>Li'ilahna bin'idi tareek wihtafna biyhid aswar wastil kafr wiwastil deek binranim liyasoo'il bar</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>باسم إلهنا باسم فادينا<br/>(رافعين راية الانتصار (2<br/>Bismi ilahna bismi fadeena raf'in raytil intisar (2)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>انت الساكن وسطينا<br/>وسط هتافنا وأغانينا<br/>إنت مصدر أفراحنا<br/>وسلامنا إللي مالينا<br/>Intal sakin wasteena wasti hutafnaw aghanina inta masdar afrahna wisalamna illy maleena</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>إحنا شعبك المنصور<br/>وبدمك إحنا غالبين<br/>بهتافنا العدو مأسور<br/>ولسلطان إبليس قاهرين<br/>Ihna sha'bakil mansoor wibdamak ihna ghalbeen bihtafna iladu ma'soor wilsultan iblis kahrin</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>إنت ملكنا وإنت قائدنا<br/>(وإحنا في حربنا منتصرين (2<br/>Inta malikna winta ka'idna wahnab harbina muntasireen (2)</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>كل أيامنا أفراح<br/>ليالينا أعياد بيسوع<br/>وإنت ضامن الأفراح<br/>وإنت رجانا يا يسوع<br/>Kulli ayamna afrah layalina a'yad biyasoo' winta daminil afrah winta rajana ya yasoo'</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>عابرين إحنا وبتسبيحنا<br/>(نجعل الوادي ينبوع (2<br/>Abreen ihna wib tasbihna nij'alil wady yanboo' (2)</lines>
+    </verse>
+  </lyrics>
+</song>

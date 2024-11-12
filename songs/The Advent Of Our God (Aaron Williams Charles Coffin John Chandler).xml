@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>The Advent Of Our God</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Aaron Williams Charles Coffin John Chandler</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The advent of our God,<br/>With eager hearts we greet;<br/>And we must praise Him in this hour,<br/>With hymns and anthems sweet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>All glory to the Son,<br/>Who comes to set us free;<br/>With Father, Spirit ever One,<br/>Through all eternity.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The everlasting Son,<br/>Incarnate stoops to be;<br/>Himself the servant's form<br/>Puts on to set his people free.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come, Zion's daughter,<br/>Rise to meet your lowly King;<br/>Nor let your faithless heart despise<br/>The peace He comes to bring.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>As judge, on clouds of light,<br/>He soon will come again;<br/>And all His scattered saints<br/>Unite with Him on high to reign.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Before the dawning day<br/>Let sin be put to flight;<br/>No longer let the law hold sway,<br/>But walk in freedom's light.</lines>
+    </verse>
+  </lyrics>
+</song>

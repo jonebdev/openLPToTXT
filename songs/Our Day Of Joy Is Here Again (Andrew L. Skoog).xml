@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>Our Day Of Joy Is Here Again</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Andrew L. Skoog</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Glory to our God, we sing,<br/>Glory to our Lord and King;<br/>Peace, goodwill with all abide,<br/>This holy Christmas tide.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Our day of joy is here again,<br/>With love and peace and song;<br/>Come, let us join the angelic strain<br/>With voices clear and strong.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When darkness lay upon the earth,<br/>A glorious light did shine;<br/>God sent a Gift of priceless worth<br/>And showed His love divine.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now to the manger let us go<br/>To worship and adore;<br/>The tender Babe upon the straw,<br/>Our Savior evermore.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>How wonderful that God's own Son<br/>Should so Himself abase!<br/>He thrust the mighty from their throne,<br/>And gave the lowly grace.</lines>
+    </verse>
+  </lyrics>
+</song>

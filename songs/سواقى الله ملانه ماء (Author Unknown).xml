@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>سواقى الله ملانه ماء</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>سواقي الله ملآنة ماء<br/> تفيض دائماً إله السماء<br/>انتظر امتلاء بقوة من روحك<br/> كي أحيا ملكك إلهي<br/>لتجري الآن أنهار الحياة</lines>
+    </verse>
+    <verse name="c1">
+      <lines>عطشت إليك نفسي ربي<br/>أريد أن أمتلئ بروحك<br/>عطشت إليك نفسي ربي<br/>املأني الآن بفيض روحك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>اشعلني بنار روحك أملك إرداتي<br/> ألهبني بنارك أريد مجدك<br/>أنير في هذا العالم شهادة لك<br/>إلهي لتجري الآن أنهار الحياة</lines>
+    </verse>
+  </lyrics>
+</song>

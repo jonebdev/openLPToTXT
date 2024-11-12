@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>هبني حباً</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>هبنى حباً.. زدنى قوة.. امتلكنى يا الله<br/>أعبدك ربي من كل قلبي<br/>أعبدك ربي من كل فكري<br/>أعبدك ربي من كل قدرتي<br/>فأنت إلهي.. نعم أنت الله</lines>
+    </verse>
+    <verse name="o1a">
+      <lines>تعال الهي بكل حبك<br/>تعال الهي بكل سُلطانك<br/>وسأسبحك من كل قلبي<br/>وسأسبحك من كل فكري<br/>وسأسبحك من كل قدرتي<br/>وأنت إلهي نعم أنت الله</lines>
+    </verse>
+    <verse name="o1b">
+      <lines>وسأطلب وجهك من كل قلبي<br/>وسأطلب وجهك من كل فكري<br/>وسأطلب وجهك من كل قدرتي<br/>وأنت إلهي نعم أنت الله</lines>
+    </verse>
+  </lyrics>
+</song>

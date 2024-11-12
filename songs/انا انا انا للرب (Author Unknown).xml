@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>انا انا انا للرب</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>أنا ... أنا ... أنا للرب<br/>(أهتف له من كل القلب ... (2<br/>Ana ana ana lirab<br/>Ahtif lahu min kullil kalb</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>على حساب النعمة<br/>قد سُتِرَتْ خطيتي<br/>على حساب النعمة<br/>صرتُ له وهو لي <br/>Alla hisab ilnimaty kad sutirat khatiyaty<br/>Alla hisab ilnimaty sirtu lahu wahuwa lee</lines>
+    </verse>
+    <verse name="v1">
+      <lines>وجه نظري أيا حبيب<br/>(إلى جمالك العجيب (2<br/>وأحصرني في شخصك<br/>(لأنظرن للصليب (2<br/>(Wajih nadary aya habib ila jamalikal ajeeb)2<br/>(Wahsurany fishakhsika lianduranna lisaleeb)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ما دمت قمت مع يسوع<br/>(أطلب ما فوق الربوع (2<br/>إلى السما إلى السما<br/>(يسوع لي كل المنى (2<br/>(Madumtu kumtu ma' yasoo' atlubu ma fowkal rubu')2<br/>(illa sama illa sama yasoo'u lee kullul muna)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ونطرح أكاليلنا<br/>عند أقدامك في السما<br/>ليس لنا ... ليس لنا<br/>الكل قد أعطيتنا<br/>(Wanatrahu akalilana inda akdamika fissama)2<br/>(Laysa lana laysa lana alkullu kad ataytana)2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>هـلـل وأرنـم لـك يـا ســيـدي أسـجـد<br/>شــاكـراً وعـابـداً<br/>كـل حـيــاتـي أمـجــد</lines>
+    </verse>
+    <verse name="v5">
+      <lines>وإن فقـدت أحبابي وإن تركني أصحابي<br/>وإن خـسـرت أمـوالي<br/>يبـقـى يسـوع الكل لي</lines>
+    </verse>
+  </lyrics>
+</song>

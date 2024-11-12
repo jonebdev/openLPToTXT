@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>مجدا لك عزا لك (علوت جدا</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>علوت جدا أيها الرب الإله<br/>علوت جدا في الأرض وفي السماء<br/>Alowta jiddan ayuhal rabbul illah alowta jiddan fil ardy wa fissama</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>علوت جدا ليس مثلك إله<br/>علوت جدا أيها الرب الإله<br/>Alowta jiddan laysa mithluka illah alowta jiddan ayuhal rabbul illah</lines>
+    </verse>
+    <verse name="c1">
+      <lines>مجدا لك ... عزا لك<br/>يعلو اسمك ... فوق السماء<br/>Majdan laka...izzan laka ya'lu usmuka fowkassama</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>جلالك يغطي كل ذا الوجود<br/>فإنك عظيم دونما حدود<br/>Jalaluka yughatty kulla thal wujood fa'innaka athemun dunama hudood</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>لا تقف أمامك أعلى السدود<br/>علوت وحدك لك كل السجود<br/>La takifu amamaka a'lal sidood alowta wahdaka laka kullal sijood</lines>
+    </verse>
+  </lyrics>
+</song>

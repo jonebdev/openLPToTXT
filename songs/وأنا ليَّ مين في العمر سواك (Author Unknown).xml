@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>وأنا ليَّ مين في العمر سواك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>وأنا ليَّ مين في العمر سواك<br/>غيرك انت يا ضامن أيامي<br/>رفيق وحبيب وأغلى نصيب<br/>بتداوي جراحي وآلامي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>إنت ربي]<br/>مالك قلبي]2<br/>ما انت اللي ضامن أيامي<br/>وفي إيدك عمري وسلامي</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>أنا ليك</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>يا ضامن أيامي</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>تسبيح من قلبي وأغاني<br/>تشكر شخصك اللي فداني<br/>تعلن حبك عظمة شخصك<br/>وحنان قلبك اللي رعاني</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>إنت عزي]<br/>مجدي ترسي]2<br/>يعجز لساني وكلامي<br/>عن وصف حبك السامي</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>يصغر العالم في عينيَّ<br/>لما باشوف عملك علشاني<br/>أنسى نفسي كل ما عندي<br/>إنت غايتي وكل آمالي</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>إنت عالي]<br/>فوق كل غالي]2<br/>إيه يشبع نفسي ويغنيني<br/>غير نظرة حبك تكفيني</lines>
+    </verse>
+  </lyrics>
+</song>

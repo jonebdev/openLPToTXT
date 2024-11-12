@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>صنع الكل في وقته</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>صنعَ الكلَ في وقـتهِ<br/>حسناً، مجداً لاسمهِ<br/>هو يدعو من العـدمِ<br/>أشياءْ نحنُ نثقْ فيهْ</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sana'al kulla fee waktihy hasanan majdan li ismihy huwa yad'u minal adamy ashya' nahnu nathik feeh</lines>
+    </verse>
+    <verse name="c1">
+      <lines>نسـبح نهتـف نعطيهِ المجد<br/>ولتمتلئْ منْ تسبيحِهِ كلُ الأرضْ<br/>لا يسقطُ وعدْ لا يسقطُ وعدْ<br/>حتماً سيأتي ونرى المجدْ<br/>Nusabihu nahtifu nu'teehil majd waltamtali' min tasbeehihy kullil ard (la yaskutu wa'd)2 hatman saya'ty wa naral majd</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>خلقَ كلَ هذا الكونِ<br/>بكلماتٍ منْ فمِهِ<br/>فما قالهُ لنا يكفي<br/>كى دوماً نرتفعْ بِه</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Khalaka kulla hathal kowny bikalimatin min famihy fama kalahu lana yakfee kay dowman nartafi' bih</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>عندما يعدْ هو يفي<br/>لا يُخزى منْ آمنَ بِه<br/>هو الربُ وهو العلي<br/>من سيمنعُ يدِيه</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Indama ya'id hua yafee la yukhza man amana bihy hual rabbu wahual ally man sayamna'u yadeeh</lines>
+    </verse>
+  </lyrics>
+</song>

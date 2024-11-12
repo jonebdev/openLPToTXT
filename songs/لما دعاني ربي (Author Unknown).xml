@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>لما دعاني ربي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>لما دعاني ربي<br/>قالي تعال إرتاح<br/>أنا عندي سلامك<br/>عندي لك أفراح</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>مال الهم يسودك<br/>ليه بيحني عودك<br/>خلني أمسك يدك (وأمشيك في فلاح)2</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>لما سمعت صوته<br/>قلت له يا ربي<br/>ليه بتنادي علي<br/>وأنا مش طايق ذنبي</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>قالي دم يطهر<br/>من كل الشرور<br/>أنا باحب الفاجر<br/>وأخرجه للنور)2)</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>قلبي سعتها أتهلل<br/>وامتلأ بالروح<br/>لما سمعت كلامه<br/>وشفت الجروح</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>يا ربي بحبك<br/>وها عيش لك طول عمري<br/>ها أفضل أغني وأهتف<br/>وأسلم لك قلبي)2)</lines>
+    </verse>
+  </lyrics>
+</song>

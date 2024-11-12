@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>لا مثل لك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>لا مثل لك ... بين الآلهة<br/>يا رب ولا مثل أعمالك<br/>La mithla laka baynal alihaty ya rabbu wala mithla amalika</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>لأنك عظيم ... عظيم أنت<br/>وصانع عجائب ... عجائب<br/>أنت الله ... أنت الله وحدك<br/>Li'anaka atheemun atheemun anta wasani'un aja'ib aja'iba antal lahu antal lahu wahdaka</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>لا مثل لك... بين الآلهة يا رب<br/>ولا مثل أعمالك ...<br/>لا مثل لك يا رب<br/>La mithla laka baynal alihaty ya rabbu wala mithla amalika<br/>la mithla laka ya rabbu</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:47">
+  <properties>
+    <titles>
+      <title>Hosanna</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I see the King of Glory<br/>Coming on the clouds with fire<br/>The whole earth shakes<br/>The whole earth shakes</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I see His love and mercy<br/>Washing over all our sin<br/>The people sing (2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hosanna Hosanna<br/>Hosanna in the highest (2x)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I see a generation<br/>Rising up to take their place<br/>With selfless faith (2x)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I see a near revival<br/>Stirring as we pray and seek<br/>We're on our knees (2x)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Heal my heart and make it clean<br/>open up my eyes to the things unseen<br/>show me how to love like You<br/>Have loved me</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Break my heart for what breaks Yours<br/>Everything I am for Your kingdom's cause<br/>As I walk from earth into eternity</lines>
+    </verse>
+  </lyrics>
+</song>

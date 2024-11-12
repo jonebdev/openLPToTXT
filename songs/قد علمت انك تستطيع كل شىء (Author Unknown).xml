@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>قد علمت انك تستطيع كل شىء</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>قد علمت أنك)<br/>تستطيع كل شيء)2<br/>قد علمت ... قد علمت<br/>أنك تستطيع كل شيء<br/>(Kad alimtu annaka tastatee'u kulla shay')2 kad alimtu (2) annaka tastatee'u kulla shay'</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>ولا يعسر عليك أمر4<br/>قد علمت ... قد علمت<br/>أنك تستطيع كل شيء<br/>(Wala ya'suru alayka amr)4 kad alimtu kad alimtu annaka (tastatee'u kulla shay') 2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>ضد الزيف بنعلي كلامك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ضد الزيف بنعلي كلامك<br/> ضد الخوف بيعلي سلامك <br/> في حروبنا نرفع اعلامك<br/> أنت الأقوى يا يسوع</lines>
+    </verse>
+    <verse name="c1">
+      <lines>انت الأعلى يا يسوع <br/> صوتك أعلى صوت مسموع <br/> انت الأقوى يا يسوع <br/> ضد كل زيف مرفوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ليك أراضينا بنملكها لك<br/> وبسلطانك نخضعها لك <br/> ليك هتافاتنا بنهتفها لك<br/> أنت الأقوى يا يسوع</lines>
+    </verse>
+    <verse name="v3">
+      <lines>مجد لمجد بيجري في أرضك <br/> يوم ورا يوم راح يعلى حقك<br/> كل الأرض تغني لأسمك<br/> أنت الأقوى يا يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>ايها القدوس يا رب الحياة</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أيها القدوس يا رب الحياة<br/>مستحق أن تحنى لك الجباه<br/>وتسبح اسمَك كلُ الشفاه <br/>أيها الرب الإله</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>كل ما في الكون يحكي قدرتك<br/>كل طير في السما يشدو لك<br/>أنت ترعاه وإن لم يسألك<br/>هكذا يسري غناك في دماه</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>انت بالحب الغني أوجدتني<br/>وبذات الحب قد أحييتني<br/>عندما أُسلمت فاشتريتني<br/>وأنا الموثوق قد فكت يداه</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>انت نهر سيدي يسمو مداه<br/>طهرن ذاتي وقدني للمياه<br/>عرفني العمق فيك واروني<br/>أيها القدوس يا رب الحياة</lines>
+    </verse>
+  </lyrics>
+</song>

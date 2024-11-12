@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:47">
+  <properties>
+    <titles>
+      <title>Hark The Herald Angels Sing</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Charles Wesley Felix Mendelssohn</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hark! the herald angels sing,<br/>"Glory to the newborn King;<br/>Peace on earth and mercy mild,<br/>God and sinners reconciled."<br/>Joyful, all ye nations, rise,<br/>Join the triumph of the skies;<br/>With angelic hosts proclaim,<br/>"Christ is born in Bethlehem."<br/>Hark! the herald angels sing,<br/>"Glory to the newborn King."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Christ, by highest heav'n adored,<br/>Christ, the everlasting Lord;<br/>Late in time behold Him come,<br/>Offspring of a virgin's womb.<br/>Veiled in flesh the Godhead see,<br/>Hail, the incarnate Deity!<br/>Pleased as man with men to dwell,<br/>Jesus our Emmanuel.<br/>Hark! the herald angels sing,<br/>"Glory to the newborn King."</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hail the heav'n born Prince of Peace!<br/>Hail the Sun of righteousness!<br/>Light and life to all He brings,<br/>Ris'n with healing in His wings.<br/>Mild He lays His glory by,<br/>Born that man no more may die;<br/>Born to raise the sons of earth,<br/>Born to give them second birth.<br/>Hark! the herald angels sing,<br/>"Glory to the newborn King!"</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come, Desire of nations, come!<br/>Fix in us Thy humble home.<br/>Rise, the woman's conqu'ring seed,<br/>Bruise in us the serpent's head;<br/>Adam's likeness now efface,<br/>Stamp Thine image in its place;<br/>Second Adam from above,<br/>Reinstate us in Thy love.<br/>Hark! the herald angels sing,<br/>"Glory to the newborn King."</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:47">
+  <properties>
+    <titles>
+      <title>HERE IN YOUR PRESENCE</title>
+    </titles>
+    <verseOrder>v1 v1 c1 v1 b1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines/>
+    </verse>
+    <verse name="v1b">
+      <lines>Found in Your hands, fullness of joy<br/>Every fear suddenly wiped away here in Your presence<br/>All of my gains now fade away<br/>Every crown no longer on display, here in Your presence<br/>Heaven is trembling in awe of Your wonders<br/>The kings and their kingdom arestanding amazed</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Here in Your presence, we are undone<br/>Here in Your presence, Heaven and Earth become one<br/>Here in Your presence, all things are new<br/>Here in Your presence, everything bows before You</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Wonderful, beautiful, glorious, matchlessin every way<br/>Wonderful, beautiful, glorious, matchlessin every way</lines>
+    </verse>
+  </lyrics>
+</song>

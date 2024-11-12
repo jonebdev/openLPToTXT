@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>لندخلن لمحضر الملك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>لندخلن لمحضر الملك<br/>ونسجدن أمامه<br/>لندخلن لمحضر الملك<br/>ونرفعن اسمه<br/>Lenadkholan lemahdarel malik wa nasjudan amamahu lenadkholan lemahdarel malik wa narfa'an ismahu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>بروحه سيغيرنا<br/>نصير مثله<br/>لندخلن لمحضر الملك<br/>ونسجدن له<br/>Beruhehy sayughayeruna naseeru methlahu lenadkholan lemahdarel malik wa nasjudan lahu</lines>
+    </verse>
+  </lyrics>
+</song>

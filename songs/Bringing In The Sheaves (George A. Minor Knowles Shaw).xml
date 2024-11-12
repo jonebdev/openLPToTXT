@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:47">
+  <properties>
+    <titles>
+      <title>Bringing In The Sheaves</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>George A. Minor Knowles Shaw</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Bringing in the sheaves bringing in the sheaves,<br/>We shall come rejoicing bringining in the sheaves.<br/>Bringing in the sheaves bringing in the sheaves,<br/>We shall come rejoicing bringing in the sheaves.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Sowing in the morning sowing seeds of kindness,<br/>Sowing in the noontide and the dewy eve.<br/>Waiting for the harvest and the time of reaping,<br/>We shall come rejoicing bringing in the sheaves.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sowing in the sunshine sowing in the shadows,<br/>Fearing neither clouds nor winter's chilling breeze,<br/>By and by the harvest and the labour ended,<br/>We shall come rejoicing bringing in the sheaves.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Go then even weeping sowing for the Master.<br/>Though the loss sustained our Spirit often grieves.<br/>When our weepings over He will bid us welcome,<br/>We shall come rejoicing bringing in the sheaves.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>الرب قد ملك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>الرب قد ملك فلنفرح به<br/>لأن هو الرب<br/>تكلم بنور فلاشى الظلام<br/>لأن هو الرب</lines>
+    </verse>
+    <verse name="c1">
+      <lines>ارسل قوتك يا ربنا 2<br/>الآن<br/>Arsil kuwatak ya rabbana (2)<br/>Al'an</lines>
+    </verse>
+    <verse name="v2">
+      <lines>من مثله يملك الى الأبد<br/>لأن هو الرب<br/>ندعوا باسمه فبقوة يأتي<br/>لأن هو الرب<br/>Man mithluhu yamliku ilal abad li'ana hual rab nad'u bismihy fabikuwa ya'ty li'ana hual rab</lines>
+    </verse>
+  </lyrics>
+</song>

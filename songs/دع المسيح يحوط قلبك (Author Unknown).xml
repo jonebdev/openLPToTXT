@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>دع المسيح يحوط قلبك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>دع المسيح يحوط قلبك<br/>بروح حبه<br/>وغامراً بفيض<br/>من سلامه</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>دع المسيح يحطم قيدك<br/>وبروحه الأمين<br/>هو يقود<br/>ويثبت خطاك</lines>
+    </verse>
+    <verse name="c1">
+      <lines>يسوع ... يا يسوع<br/>بارك شعبك<br/>يسوع ... يا يسوع<br/>بارك شعبك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>تعال أنشد له ورنم<br/>من عمق قلبكسمعاً لصوته<br/>مسلماً أمرك</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>سيمحو كل سنين تعبك<br/>ودموع حزنك<br/>وستحظى بالحياة<br/>فى اسمه</lines>
+    </verse>
+  </lyrics>
+</song>

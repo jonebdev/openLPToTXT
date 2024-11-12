@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>هو رائع هو بارع</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>من يسمع صرخة القلب الضعيف<br/>وحده الرب يسوع<br/>من يكسر قيد و يتلف النير<br/>وحده الرب يسوع<br/>Man yasma' sarkhatul kalbil tha'eef wahduhul rabbu yasoo' man yaksir kayda kully aseer wahduhul rabu yasoo'</lines>
+    </verse>
+    <verse name="v2">
+      <lines>من بجراحة شفائ أكيــــد<br/>وحده الرب يسوع<br/>من يعطي الروح ليبقى معين<br/>وحده الرب يسوع<br/>Man bgraho shefaa' akid wahdugul rabbu yasoo' man yea'tey al rooh lyabka mo'een</lines>
+    </verse>
+    <verse name="v3">
+      <lines>عرفوا بين الأمم به<br/>راحة كل النفوس فيه<br/>Arifu baynal umam bihy rahatu kullal nifoosy feehy</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>هو رائع هو بارع<br/>يلبس البر ممتليء نعمة<br/>تعال لنعبدن ولنسجدن له<br/>ولنترك روحه يملأ قلوبنا<br/>Hua rai'un hua bari'un yalbasul birra mumtali' ni'ma haya lina'budan wal nasjudan lahu wal natruk ruhahu yamla' kulubana</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>يسوع رائع يسوع بارع<br/>يلبس البر ممتليء نعمة<br/>تعال لنعبدن ولنسجدن له<br/>ولنترك روحه يملأ قلوبنا</lines>
+    </verse>
+  </lyrics>
+</song>

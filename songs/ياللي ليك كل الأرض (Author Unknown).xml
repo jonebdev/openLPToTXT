@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:55">
+  <properties>
+    <titles>
+      <title>ياللي ليك كل الأرض</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>حقك دا في أراضينا هيعلى<br/>ويعلى جلالك فوق الكون<br/>مجدك دا في وسطينا هيظهر<br/>بيك راح نهدم كل حصون<br/>Hakak daf aradina haya'law ya'la jalalak fo'il kown majdak daf wastina hayidhar beek rah nihdim kulli hsoon</lines>
+    </verse>
+    <verse name="c1">
+      <lines>ياللي ليك كل الأرض<br/>وبنرفعلك التسبيح<br/>نعلن عن نصرتنا فيك<br/>هي في دم المسيح<br/>Yalli leek kullil ard wibnirfa'lak ittasbeeh nu'lin an nusritna feek<br/>hia fee dammil masih</lines>
+    </verse>
+    <verse name="v2">
+      <lines>نرقص نهتف وبأغانينا<br/>داخلين حربنا بالتسبيح<br/>نعلن قوة دم فادينا<br/>قوة الجنب الجريح<br/>Nur'us nihtif wib aghanina dakhlin harbina bittasbeeh nu'lin 'uwit dammy fadeena 'uwit il janbil jareeh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>نادوا غنوا في الشعوب<br/>أنهضوا كل الأبطال<br/>دا الرب في وسطنا مهوب<br/>ليه العزة والجلال<br/>Nadoo ghannu fil shu'ub anhidu kullil abtal darrabif wasatna mahub leehil 'iza wijjalal</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>نحن لا نخشى ابدا لا نخاف</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>نحن لا نخشى أبداً لا نخاف فالحرب هي للرب فتسبيحنا مفتاح نصرنا فالحرب هي للرب</lines>
+    </verse>
+    <verse name="c1">
+      <lines>نشـدو مجـداً للـمـلـك مـجــداً لـك ربــنــا</lines>
+    </verse>
+    <verse name="v2">
+      <lines>إن شن الشيطان حرباً لا نخاف <br/> فالحرب هي للرب<br/> نتشجع فالخلاص قريب<br/>فالحرب هي للرب</lines>
+    </verse>
+    <verse name="v3">
+      <lines>نحن لا نهاب أجناد الظـلام فالحرب هي للرب لن تقوى علينا أبواب الجحيم فالحرب هي للرب</lines>
+    </verse>
+    <verse name="v4">
+      <lines>سننتصر نملك أرضنا فالحرب هي للرب نسترد ما سلبه عدونا فالحرب هي للرب</lines>
+    </verse>
+  </lyrics>
+</song>

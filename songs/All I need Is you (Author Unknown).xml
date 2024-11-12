@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:46">
+  <properties>
+    <titles>
+      <title>All I need Is you</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Left my fear by the side of the road,<br/>Hear You speak..won't let go<br/>Fall to my knees as I lift my hands to pray</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Got every reason to be here again,<br/>Father's love that draws me in<br/>And all my eyes wanna see is a glimpse of You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>All I need is You,<br/>All I need is You Lord...Is you Lord.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>One more day and it's not the same,<br/>Your Spirit calls my heart to sing<br/>Drawn to the voice of my Saviour once again,</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Where would my soul be without Your Son,<br/>Gave His life to save the earth<br/>Rest in the thought that You're watching over me</lines>
+    </verse>
+    <verse name="v6">
+      <lines>You hold the universe,<br/>and You hold everyone on earth</lines>
+    </verse>
+  </lyrics>
+</song>

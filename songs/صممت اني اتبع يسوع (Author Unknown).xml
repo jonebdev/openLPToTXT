@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>صممت اني اتبع يسوع</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>صممت آني أتبع يسوع 3<br/>أتبع يسوع بلا رجوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ولو خسرت كل أموالي 3<br/>أتبع يسوع بلا رجوع</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ولو تركني أهلي وخلاني<br/>أتبع يسوع بلا رجوع</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ولو قادوني حتي للموت 3<br/>أتبع يسوع بلا رجوع</lines>
+    </verse>
+    <verse name="v5">
+      <lines>الرب نوري وهو رجائي 3<br/>أحيا له إلي الأبد</lines>
+    </verse>
+    <verse name="v6">
+      <lines>الرب خلي والسماء داري 3<br/>أسكن هناك إلي الأبد</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:47">
+  <properties>
+    <titles>
+      <title>I Love To Walk With Jesus</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Charles F. Weigle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I will follow where He leadeth;<br/>I will pasture where He feedeth.<br/>I will follow all the way, Lord.<br/>I will follow Jesus ev'ry day.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Oh, I love to walk with Jesus,<br/>Like the publicans of old.<br/>When He gathered them about Him<br/>And the blessed tidings told:<br/>How He came to bring deliv'rance<br/>To the captives in distress.<br/>Take away our ev'ry burden,<br/>Giving perfect peace and rest.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O I love to walk with Jesus<br/>Like the man of long ago<br/>Who had tarried by the wayside<br/>Near the gates of Jericho.<br/>Jesus heard his cry for mercy,<br/>Gave him back his sight that day,<br/>And immediately he followed Jesus<br/>All along the way.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O I love to walk with Jesus<br/>All the way to Calv'ry's brow,<br/>Gaze upon that scene of suff'ring<br/>While my tears of sorrow flow.<br/>There He tells me how He loves me,<br/>Takes my ev'ry sin away;<br/>So I follow Him so gladly,<br/>Lead me anywhere He may.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O sometime I'll walk with Jesus<br/>In the land of endless day,<br/>When our journey here is over<br/>And we've reached our home to stay.<br/>Then I'll walk with Him forever,<br/>Sing His praises o'er and o'er,<br/>And with all the saints in glory<br/>Love and worship and adore.</lines>
+    </verse>
+  </lyrics>
+</song>

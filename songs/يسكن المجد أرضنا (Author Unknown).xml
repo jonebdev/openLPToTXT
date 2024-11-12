@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:55">
+  <properties>
+    <titles>
+      <title>يسكن المجد أرضنا</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>إله خلاصنا هو يشفي أرضنا يجعلُها تُعطي كل قوتها<br/>أنهار الحياة تجري من وسطها عظمة قدرته الفائقة</lines>
+    </verse>
+    <verse name="v2">
+      <lines>لا لن نقول يوماً قد زالَ مجدنا سنقول الرب زاد عظمتنا <br/>فمن الآكل يُخرج أكلاً لنا ومن صوان الصخر عسلاً</lines>
+    </verse>
+    <verse name="v3">
+      <lines>بصوت الفرح يعلو له تسبيحنا بالأيادي نصفقُ لمليكنا<br/>لا يتسلطُ علينا غيره ولا يسكن الأعداء أرضنا</lines>
+    </verse>
+    <verse name="c1">
+      <lines>يسكن المجد أرضنا</lines>
+    </verse>
+  </lyrics>
+</song>

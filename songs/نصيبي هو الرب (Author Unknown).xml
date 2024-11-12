@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>نصيبي هو الرب</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>نصيبي هو الرب<br/>(هكذا قالت نفسي (2<br/>Naseeby hual rabbu hakatha kalat nafsee (2)</lines>
+    </verse>
+    <verse name="v1">
+      <lines>من لي سواه في السما<br/>ومعه أيضا لا أريد<br/>شيئا فهو كفايتي<br/>وكنزي بل يزيد<br/>Man lee sewahu fissama wa ma'hu aythan la ureed shay'an fahua kifayaty wa kanzy bal yazeed</lines>
+    </verse>
+    <verse name="v2">
+      <lines>من أجله ألقي تبري<br/>على تراب الأودية<br/>فهو يكون تبرا لي<br/>قسمتي الغالية<br/>Min ajlihy olky tibry ala turabil awdiya fahua yakunu tibran lee kismatil ghalia</lines>
+    </verse>
+  </lyrics>
+</song>

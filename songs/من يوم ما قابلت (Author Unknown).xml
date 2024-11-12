@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>من يوم ما قابلت</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>من يوم ما قابلت حبيبي يسوع<br/>وأنا عايش دوما فرحان</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>فرح قلبي وغفر خطاياي<br/>وطرحها في بحر النسيان<br/>قلبي فرحان عايش في أمان<br/>من يوم ما حصلت على الغفران</lines>
+    </verse>
+    <verse name="c1">
+      <lines>مجدا ... مجدا ليسوع<br/>شكرا ... شكرا ليسوع<br/>قلبي فرحان بيسوع</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>ياما فتشت في كل مكان<br/>على السعادة الحقيقية</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>ولم أجد غير الأحزان<br/>والذل والعبودية<br/>لكن من يوم ما قابلت يسوع<br/>فرحني وفتح لي عيني</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>قال لي مغفورة لك خطاياك<br/>في الحال ساعة ما لجأت إليه</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>واعترفت بكل ذنوبي<br/>والنعمة انسكبت من شفتيه<br/>قال لي مبروك، مبروك عليك <br/>دي السما فرحانة جدا بيك</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>تعال ... تعال ... تعال إليه<br/>أخرج حالا من وسط النار</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>قول ارحمني أنا الخاطي<br/>وأخضع واتمثل بالعشار<br/>أخرج من النار وأترك العار<br/>وتعال انضم مع الأبرار</lines>
+    </verse>
+  </lyrics>
+</song>

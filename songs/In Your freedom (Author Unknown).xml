@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>In Your freedom</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I Search for You, God of Strength<br/>I bow to You, in brokeness.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>No other King could have so humbly come,<br/>To save my soul and heal my heart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I have nothing more, than all You offer me.<br/>There is nothing else, thats of worth to me.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I love you Lord, You rescued me.<br/>You are all that I want, Your all that I need.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I pray to You, God of peace.<br/>I rest in You, my cares released.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>In Your freedom, I will live, In Your freedom I will live<br/>I offer devotion, I offer devotion.</lines>
+    </verse>
+  </lyrics>
+</song>

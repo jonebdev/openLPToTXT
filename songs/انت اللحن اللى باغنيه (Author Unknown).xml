@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>انت اللحن اللى باغنيه</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنت اللحن اللى باغنيه هايم فى كلامه ومعانيه<br/>نبضه فى قلبى وعايش بيه هافضل عمرى الجاى أحكيه</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أنت غُنايا وسر غنايا والتسبيح اللى أهتف بيه<br/>شهوة قلبى وقلب سمايا ولذة عمرى وعمرى ده فيه</lines>
+    </verse>
+    <verse name="c1">
+      <lines>لحن الالحان اسمك يا يسوع نغم الأنغام حبك يا يسوع</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>رحلة حب تاخدنى اليه<br/>وفى ترحالى شاخص ليه<br/>عطش الروح بينادى عليه<br/> ساكن فينا و ساكنين فيه</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>انسا مكاني و انسا زماني و انسا الكل و أفكر فيه<br/>واسمع صوته بيملا كيانى دة اللحن الى أنا عايش ليه</lines>
+    </verse>
+  </lyrics>
+</song>

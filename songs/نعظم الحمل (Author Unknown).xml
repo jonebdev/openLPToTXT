@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>نعظم الحمل</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>تشدو لك قلوبنا<br/>هتافك في أفواهنا<br/>تشدو لك قلوبنا<br/>هتافك في أفواهنا</lines>
+    </verse>
+    <verse name="v1">
+      <lines>نعظم الحمل الحيّ للأبد<br/>يسوع شفيعنا أنت الملك</lines>
+    </verse>
+  </lyrics>
+</song>

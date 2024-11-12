@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>انا محتاج لمسة روحك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أنا محتاج لمسة روحك تغيرني<br/>أنا محتاج يايسوع دمك يطهرني 2</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>وأنا لما هاآجي وأشوفك وأشوف اسمي علي كفوفك<br/>بتفك الاسر وحقك بيحررني</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>إن كنت ضعيف قويني أن كنت حزين عزيني <br/>أن كنت خاطئ ابرءني وأشفيني<br/>ألمسني بسلطانك وريني مجد جلالك<br/>2 أغمرقلبي بحنانك وأرويني</lines>
+    </verse>
+    <verse name="v2">
+      <lines>لمسه من هدب ثوبك بتشفينى<br/>2 كلمة من فم جلالك بتحيينى</lines>
+    </verse>
+  </lyrics>
+</song>

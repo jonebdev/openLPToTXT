@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>انهار مياه</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>حول الرب نجتمع<br/>وعده لنا هيا أقبِلوا<br/>من يشرب مائي لا يعطش<br/>بل يرتوي ويشبع<br/>Howlal rabby najtami'u wa'duhu lana hayakbalu man yashrab ma'ee la ya'tashu bal yartawy wa yashba'u</lines>
+    </verse>
+    <verse name="c1">
+      <lines>أنهار مياه يسقينا الرب<br/>أنهار مياه تتدفق<br/>أنهار مياه تفيض بالفرح<br/>روح الحياة ينعشنا<br/>Anhar miyah yaskeenal rabbu anhar miyah tatadafaku anhar miyah tafedu bilfarhy ruhul haya yun ishuna</lines>
+    </verse>
+    <verse name="v2">
+      <lines>نأتي إليك ونُمسحُ<br/>نرى المياه ترتفع<br/>نهر سباحة لا يُعبرُ<br/>يحملُنا فنشهد<br/>Na'ty ilayka wa nurfa'u naral miyah tartafi'u nahru sibaha la yu'baru yahmiluna fanash hadu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>لن تنقطع أثمارُنا<br/>لن تذبُل أوراقُنا<br/>ستمتليء شباكُنا<br/>صيدا كثيرا وافرا<br/>Lan tankati' athmaruna lan tathbula awrakuna satamtaly shibakuna saydan katheeran wafiran</lines>
+    </verse>
+  </lyrics>
+</song>

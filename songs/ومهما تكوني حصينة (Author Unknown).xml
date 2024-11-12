@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>ومهما تكوني حصينة</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ومهما تكوني حصينة<br/>راح تقعي يا أسور<br/>ومهما تكون قدراتك واثقين في إله جبار 2</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>رافعين رايات الغلبة وعلامة الانتصار<br/>أعظم من منتصرين احنا بيسوع البار 2</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>هنلف احنا حوليكي وهننسي كل عيان<br/>وهنهتف باسم مليكنا ونشوفك بالإيمان 2</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>تحت الأقدام منداسه مهما طال الزمان<br/>أعظم من منتصرين احنا بشخص الحنان 2</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>لا غرورك دوه هيفضل وعنادك مش هايدوم<br/>هايجيلك يوم وهاتقعي ده اكيد راح ييجي اليوم</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>وجنودك تهرب خايفة تخرج من سور مهدوم<br/>أعظم من منتصرين ومليكك صار مهزوم 2</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>راح تبقي الاسوار ذكري وشهادة عظيمة لشخصك<br/>وشعبك يفرح بيك ويذيع افراحه بنصرك 2</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>وضعين ثقتنا فيك وتكالنا علي شخصك<br/>أعظم من منتصرين من يوم ما كسانا برك 2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>انا بيك خطايا مغفوره</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines/>
+    </verse>
+    <verse name="v1b">
+      <lines>(أنا بيك خطاياي مغفورة أنا بيك عيوبي مستورة وف قلبي وعمري محفورة وعود غفرانك) 2<br/>وأنا مش هابص على نفسي على عجزي وخوفي ويأسى وانت هتملاني يا ربي بحبك وسلامك</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>القرار- وأنا عند الآب بيك لي قبول ولعرش النعمة ولقدس الأقداس دخول</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>وهنرفعك في وسطينا وتفرح قلبك أغانينا شفايفنا هاتعترف باسمك ونقول بنحبك</lines>
+    </verse>
+  </lyrics>
+</song>

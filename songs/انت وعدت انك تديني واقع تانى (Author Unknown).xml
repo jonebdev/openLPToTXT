@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>انت وعدت انك تديني واقع تانى</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أنت وعدت انك تديني واقع تانى<br/>أنت وعدت تخلى قلبي فى حته تانى</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أنت وعدت هتملى يومى بالأغاني)<br/>وانت وعدت انك هتفرح نفسي تانى)2<br/>وأنا مستنيك رغم الظروف رغم الليالى</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>الناس قالولى ازاى هتصدق واقع تانى<br/>يمكن يحصل يمكن لأ يمكن تعانى</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>لكنى سامع صوت فى قلبى ملى كيانى)<br/>2(صوت واضح أقوى من أى واقع تانى<br/>هو اللى بيدعى الغير موجود وكأنة أمامى</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>أنا هغلب ضعفى ومرضى وخوفى بإيمانى<br/>وهصدق فى المجد اللى جاى ومش هدارى</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>هاشهد عنه واهتف لأسمه فى كل أحوالى)<br/>ولأنة معاياى فجرى جاى بالاغانى)2<br/>ولأنة معاياى الخير والرحمة هيتبعانى</lines>
+    </verse>
+    <verse name="e1">
+      <lines>وأنا مستنيك رغم الظروف رغم الليالى)2)<br/>أنت اللى بتدعى الغير موجود وكأنة أمامى)2)<br/>ولأنة معاياى الخير والرحمة هيتبعانى)2)</lines>
+    </verse>
+  </lyrics>
+</song>

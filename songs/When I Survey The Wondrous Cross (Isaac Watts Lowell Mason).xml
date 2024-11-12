@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>When I Survey The Wondrous Cross</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Isaac Watts Lowell Mason</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>When I survey the wondrous cross<br/>On which the Prince of glory died,<br/>My richest gain I count but loss,<br/>And pour contempt on all my pride.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Forbid it, Lord, that I should boast,<br/>Save in the death of Christ, my God;<br/>All the vain things that charm me most,<br/>I sacrifice them to His blood.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>See, from His head, His hands, His feet,<br/>Sorrow and love flow mingled down;<br/>Did e'er such love and sorrow meet,<br/>Or thorns compose so rich a crown?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Were the whole realm of nature mine,<br/>That were a present far too small;<br/>Love so amazing, so divine,<br/>Demands my soul, my life, my all.</lines>
+    </verse>
+  </lyrics>
+</song>

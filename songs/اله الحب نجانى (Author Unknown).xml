@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>اله الحب نجانى</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>اله الحب نجانى<br/>بموت الصلب أحيانى<br/>بروح القدس يهدينى )<br/>يعزينى ويرعانى)2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>فهل يا قوم من حب<br/>نظير ذلك الحب<br/>برغم الشر والبعد)<br/>لأجلى مات بالصلب)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>غدا ماضى مستورا<br/>وصار الاثم مغفورا<br/>وفاض القلب تسبيحا)<br/>2(وتهليلا وتقديرا</lines>
+    </verse>
+    <verse name="v3">
+      <lines>تعالوا واشهدوا الحب<br/>وذوقوا وانظروا الرب<br/>الى الحياة يدعوكم)<br/>فلبوا وافتحوا القلب)2</lines>
+    </verse>
+  </lyrics>
+</song>

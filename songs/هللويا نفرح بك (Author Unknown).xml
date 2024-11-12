@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>هللويا نفرح بك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>هللويا نفرح بك ونبتهج من قلوبنا<br/>هللويا نهتف لك يا مليكنا<br/>Hallelujah nafrahu bika wa nabtahiju min kulubina hallelujah nahtifu laka ya malikana</lines>
+    </verse>
+    <verse name="v1">
+      <lines>فالرب القدير في وسطنا يخلصنا<br/>يبتهج بنا في محبة <br/>يبتهج بنا بترنم<br/>Farrabul kadeeru fee wasatina yukhalisuna yabtahiju bina fee mahabatin yabtahiju bina bitarannumin</lines>
+    </verse>
+    <verse name="v2">
+      <lines>فهو يجعل أرض خزينا<br/>له تسبيحة<br/>يهرب الأعداء من أمامنا <br/>سبي أرضنا يرجع لنا<br/>Fahua yaj'alu arda khizyana lahu tasbeehatan yahrubul ada' min amamina sabya ardina yarji'u lana</lines>
+    </verse>
+  </lyrics>
+</song>

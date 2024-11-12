@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>يا عجيبا في محبته</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا عجيبا في محبته العظيمة<br/>يا مسيحي ... يا مسيحي<br/>قد حملتَ الإثمَ عن نفسي الأثيمة<br/>تفدي روحي ... تفدي روحي</lines>
+    </verse>
+    <verse name="c1">
+      <lines>يا عجيبا .. مشيرا .. إلها ... قديرا<br/>يا أبا أبديا .. يا رئيس السلام<br/>يا يسوعي</lines>
+    </verse>
+    <verse name="v2">
+      <lines>يا قويا قد غلبتَ القبرَ والموتَ<br/>حين قمتَ ... حين قمتَ<br/>بل سحقتَ الصلَ والأعداءَ أشهرتَ<br/>وانتصرتَ ... وانتصرتَ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>يا حبيبي حبُك يحلو لروحي<br/>فهو نوري ... فهو نوري<br/>بل شفاءٌ ودواءٌ لجروحي<br/>وسروري ... وسروري</lines>
+    </verse>
+  </lyrics>
+</song>

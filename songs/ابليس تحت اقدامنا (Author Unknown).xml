@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>ابليس تحت اقدامنا</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>إبليس تحت أقدامنا .. للأبدي تحت أقدامنا 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>يسوع قام حول الظلامَ إلي صبح والموتَ لحياة<br/>لنا الحياةُ به والقيامة لا يقدر إبليسْ أن يضُعفنَا</lines>
+    </verse>
+    <verse name="v2">
+      <lines>بين الشعوب لسنا نحسبُ من اجتمعْ علينا يسقطُ<br/>نري السهامَ وهي ترجعُ والشرُ منا لا يقتربُ</lines>
+    </verse>
+    <verse name="v3">
+      <lines>كل هادمونا ومخربونا يخرجونَ الآن من أرضنا<br/>لا عبودية لا شرور ردية فالربُ يُكَمل أيامنا</lines>
+    </verse>
+    <verse name="v4">
+      <lines>هيا نُعلي نهتفُ نغني لمُلك يسوعَ في وسطنا<br/>ربُ الأرباب رُفعَ في المجد سلطانه علي الكل أعتلي</lines>
+    </verse>
+    <verse name="c2">
+      <lines>يسوع فوق أعداءنا .. للأبدي فوق أعداءنا 2</lines>
+    </verse>
+  </lyrics>
+</song>

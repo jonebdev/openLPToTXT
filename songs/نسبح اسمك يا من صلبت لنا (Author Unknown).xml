@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>نسبح اسمك يا من صلبت لنا</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>نسبح اسمك يا من صلبت لنا<br/>نسبح اسمك أحزاننا حملتها<br/>نسبح اسمك يا من صعدت بنا<br/>إلى السماء منتصرين<br/>Nusabih ismaka yaman sulibta lana nusabih ismaka ahzanana hamaltaha nusabih ismaka ya man sa'atta bina ilassma muntasireen</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>نسبحك على الدوام<br/>فقد سحقت لنا الشيطان<br/>ونهتف واثقين<br/>Nusabihak alal dawam fakad sahakta lanal shaytan wanahtifu wathikeen</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>نسقط كل الأسوار<br/>بإيمان وإصرار<br/>باسمك ساحقين أعدائنا<br/>Nuskitu kullal aswar bi'imanin wa israr bi'ismika sahikeen ada'ana</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>نرفع أصواتنا<br/>نعلن نصرتنا <br/>ونشدو فرحين <br/>Narfa'u aswatana nu'linu nusratana wanashdu fariheen</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>هيبتك أمامنا<br/>ترعب أعدائنا<br/>وفيك منتصرين هللويا<br/>Haybatuk amamana tur'ibu ada'ana wafeeka muntasireen hallelujah</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>نعظمك يا ربنا<br/>بروحك غمرتنا<br/>فنخدم ممسوحين<br/>Nu'athimak ya rabana biruhika ghamartana fanakhdimu mamsuheen</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>كل قوتك لنا<br/>وسلطانك منحتنا<br/>وفيك ممتلئين بروحك<br/>Kully kuwatak lana wa sultanak manahtana wafeeka mumtali'een biruhika</lines>
+    </verse>
+  </lyrics>
+</song>

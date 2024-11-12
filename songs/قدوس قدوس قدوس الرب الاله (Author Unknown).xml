@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>قدوس قدوس قدوس الرب الاله</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>مستحق هو الحمل<br/>المذبوح عنا<br/>ان ياخذ المجد .. والكرامة<br/>والســلطان للأبد</lines>
+    </verse>
+    <verse name="c1a">
+      <lines/>
+    </verse>
+    <verse name="c1b">
+      <lines>قدوس قدوس قدوس<br/>هو الرب الاله القادر على كل شئ</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>الكائن وقد كان و الذى سوف ياتى<br/>أمام عرشك انحنى اعبدك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>وجه يلمع مثل الشمس<br/>عيناه لهيب نار<br/>صوته صوت مياه كثيره<br/>صوته يخلق الحياة</lines>
+    </verse>
+    <verse name="v3">
+      <lines>وجهه يلمع مثل الشمس<br/>عيناه لهيب نار<br/>حول عرشه نار بروق و رعود<br/>مجدا للحى للآبد</lines>
+    </verse>
+    <verse name="v4">
+      <lines>اسمك حلو .. يسبى قلبى<br/>و يملأنى عجبا<br/>يسوع اسمك قوة<br/>نهر مياه حية<br/>اســمك سر عجيب</lines>
+    </verse>
+  </lyrics>
+</song>

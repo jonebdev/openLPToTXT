@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>قوه في الضعف</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1- راحتي يا رب حقاً أن لي فيك مكان واثق لا أنسى منك مهما ضاق بي الزمان</lines>
+    </verse>
+    <verse name="v2">
+      <lines>القرار- (يا مسيحي يا حياتي يا شفيعي كل آن كلما خارت قواي منك عوني والأمان)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2- ثابت قلبي يا ربي ثابت يا صخرتي رافع عيني إليك منك تأتي قوتي</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3- قوة في الضعف فاضت منك يا ربي الحبيب يا رجائي أنت تشفي حينما القلب يخيب</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>يا حياة القلب يا</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>يا حياة القلب يا<br/>حبيب روحي ضامني<br/>إن مضى الأهل ستبقى<br/>أنت لي تضمني</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>فيك يا نبع سروري<br/>فيك أنت لذتي<br/>أنشد ما دمت موجوداً<br/>هنا ترنيمتي</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>فرحي فيك لا ينتهي<br/>ولي فيك ما أشتهي<br/>فرحتي يا نصرتي<br/>فرح ربي قوتي<br/>لا سواك بهجتي (فرحي فيك)2<br/>(فرحي فيك لا ينهي2)<br/> <br/>Verse 3<br/>فيك قد ودعت حزني<br/>واضطرابي أبدا<br/>فيك يا راعي حياتي<br/>لا احتياج أبدا</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>لي مع الأيام في الآلام<br/>عهدا قد رسا<br/>ربي بالعزاء للأفراح<br/>قلبي ، كرسا<br/> <br/>Verse 3<br/>ليس ما تعطي لنفسي<br/>يشغلني ههنا<br/>أنت موضوع انشغالي<br/>وسجودي والثنا</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>فيك يا كل طموحي<br/>لي رجاء قد سما<br/>أكمل هناك أفراحي <br/>عيانا في السما</lines>
+    </verse>
+  </lyrics>
+</song>

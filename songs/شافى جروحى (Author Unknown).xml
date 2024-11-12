@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>شافى جروحى</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>انا باطلب لمسة من هدب ثوبك<br/>انا بصدق فيك النجاه<br/>لمسة تشفينى لمسة تقوينى<br/>وتخرج منك قوة حياة</lines>
+    </verse>
+    <verse name="c1">
+      <lines>شافى جروحى) 2 انا باجى) وباسجد عند رجليك<br/>شافى جروحى) 2 انا باجى) وقلبى يحتمى فيك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>انا باجى يا ربى بجرح فى قلبى<br/>وآلام محفورة جوايا سنين<br/>انت رجايا فيك الكفاية<br/>انت شفايا وهاروح لمين</lines>
+    </verse>
+    <verse name="v3">
+      <lines>مسمار فى ايدك وحربة فى جنبك<br/>جلدات على ظهرك تدى شفاء<br/>مريت ب آلامى شلت اسقامى<br/>اخذت مكانى واديتنى عزاء</lines>
+    </verse>
+  </lyrics>
+</song>

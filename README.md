@@ -1,0 +1,9 @@
+# EasyWorship to OpenLyrics to TXT conversion
+
+## Why bother? What is the purpose?
+
+My church uses EasyWorship to show their lyrics every week. We have at least 1200 songs that we have added over the years. We recently acquired a subscription to [ProPresenter](https://renewedvision.com/propresenter) and we want to be able to use our old songs without having to enter them manually. Although most of the time, these songs can be purchased through a license so you don't have to enter them manually, in this case we do, since most of the songs are in Arabic. Thankfully, you are able to import .txt files into ProPresenter, so the goal of this project was to take the songs, parse them and convert them to .txt files.
+
+## What is the process?
+
+EasyWorship uses a database file to store the songs and lyrics. The way that this was acquired was that we exported the profile using [this process](https://support.easyworship.com/support/solutions/articles/24000043114-transfer-easyworship-profile).  Unfortunately, I couldn't really tell what kind of database it was actually using. Thankfully, with some research, I was able to get the lyrics of the songs using [OpenLP](https://openlp.org), an open source lyric software. In this case, I had to import the songs using the import wizard, and the type of format was EasyWorship 2007/2009 Database, using the SONGS.db file that was in the exported profile from EasyWorship. Then the output generated gave me all the XML files that are in the `songs/` folder. One caveat though, I did need to do some modifications to the XML files. Since the files are multilingual, and also I believe this was done with Windows in mind (I am using a Mac), the XML generated added a `<br/>` tag on each new line. I couldn't just replace all these with `\n` (I think this has to do with the fact that the encoding was in UFT-8) so I replaced all the `br` tags with `newline`.

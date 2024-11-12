@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>What God Hath Promised</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Annie Flint William M. Runyan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>But God hath promised strength for the day,<br/>Rest for the labor, light for the way,<br/>Grace for the trials, help from above,<br/>Unfailing sympathy, undying love.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>God hath not promised skies always blue,<br/>Flower strewn pathways all our lives through.<br/>God hath not promised sun without rain,<br/>Joy without sorrow, peace without pain.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>God hath not promised we shall not know<br/>Toil and temptation, trouble and woe.<br/>He hath not told us we shall not bear<br/>Many a burden many a care.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>God hath not promised smooth roads and wide,<br/>Swift, easy, travel needing no guide,<br/>Never a mountain, rocky and steep,<br/>Never a river, turbid and deep.</lines>
+    </verse>
+  </lyrics>
+</song>

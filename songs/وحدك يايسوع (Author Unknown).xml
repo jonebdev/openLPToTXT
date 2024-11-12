@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>وحدك يايسوع</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>يايسوع مجدك مجدك راح يعلي<br/>تسبيح لسمك الكون راح يملا<br/>أهتف اغنيلك أشهد بصنيعك المجد أديلك<br/>ده مفيش قوة في كل الكون توقف تسبيحك</lines>
+    </verse>
+    <verse name="v1">
+      <lines>مجدك هيعود لك مش للإنسان مجدك راح يحني كل الأوثانملكوتك قوة لا مش كلام تهتف لك ربي يهتفلك ربي كل لسان</lines>
+    </verse>
+    <verse name="v2">
+      <lines>يايسوع من زيك مين يساويك طرقك أحكامك عالية يامليك<br/>نرفع أغانينا ونعليك ملكك لن يفني كل الدهور ها يدوم كرسيك</lines>
+    </verse>
+    <verse name="v3">
+      <lines>كلامك ربي ده سيف في الايد أهزم بيه عدوي وأرفع أناشيد<br/>تنفك قيودي وأشوف مواعيد وبنصرة أغني<br/>مجدا لإسمك مجدا يا مليك</lines>
+    </verse>
+  </lyrics>
+</song>

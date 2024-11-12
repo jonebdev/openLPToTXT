@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>كان مرة في واحد مسافر لبعيد</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>كان مرة في واحد مسافر لبعيد<br/>قابله لصوص سرقوه و سابوه وحيد<br/>بين ميت او حي متألم و جريح<br/>مين يقدر يساعده و يمد له اية؟؟</lines>
+    </verse>
+    <verse name="v2">
+      <lines>مر الكاهن عليه مر اللاوي عليه<br/>ولا واحد فيهم قال ده قريبي و أداويه<br/>ولا واحد فيهم فكر لجراحه يشفيه</lines>
+    </verse>
+    <verse name="v3">
+      <lines>وسامري صالح كان مسافر شاف<br/>المجروح و شاله بكل حنان<br/>راح ضمد جراحه و اداله الأمان<br/>رغم انه كان غريب ساعده و دواه</lines>
+    </verse>
+  </lyrics>
+</song>

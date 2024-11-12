@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>سوف ادخل أبوابك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>سوف أدخل أبوابك<br/>بالحمد والتسبيح<br/>لك أهتف يا سيدي المسيح<br/>Sowfa adkhulu abwabaka bil hamdy wattasbeeh laka ahtifu ya sayyidil masih</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أشدو هذا هو اليوم الذي<br/>قد صنعته سأفرح بما أبدعته<br/>Ashdu hatha huwal yowmul lathy kad sana'tahu sa'afrahu bima abda'tahu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>أهتف لك يا من أحببتني<br/>أرنم لك يا من أبهجتني<br/>أخبر بك أذيع فضلك<br/>وهكذا أسبح اسمك<br/>Ahtifu laka ya man ahyaytany uranimu laka ya man ab-hajtany ukhbiru bika udee'u fadlaka wa hakatha usabih usmaka</lines>
+    </verse>
+  </lyrics>
+</song>

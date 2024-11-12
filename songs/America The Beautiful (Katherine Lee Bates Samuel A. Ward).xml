@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:46">
+  <properties>
+    <titles>
+      <title>America The Beautiful</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Katherine Lee Bates Samuel A. Ward</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>O beautiful for spacious skies,<br/>For amber waves of grain,<br/>For purple mountains majesties<br/>Above the fruited plain!<br/>America! America!<br/>God shed His grace on thee,<br/>And crown thy good with brotherhood<br/>From sea to shining sea!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O beautiful for pilgrim feet,<br/>Whose stern, impassioned stress<br/>A thoroughfare for freedom beat<br/>Across the wilderness!<br/>America! America!<br/>God mend thine ev'ry flaw.<br/>Confirm thy soul in self control,<br/>Thy liberty in law!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>O beautiful for heroes proved<br/>In liberating strife,<br/>Who more than self their country loved,<br/>And mercy more than life!<br/>America! America!<br/>May God thy gold refine<br/>Till all success be nobleness<br/>And every gain divine!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O beautiful for patriot dream<br/>That sees beyond the years<br/>Thine alabaster cities gleam,<br/>Undimmed by human tears!<br/>America! America!<br/>God shed His grace on thee,<br/>And crown thy good with brotherhood<br/>From sea to shining sea.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>O beautiful for men of faith<br/>Who founded this great land;<br/>Proclaimed for us, "In God we trust,"<br/>And held to God's strong hand.<br/>America! America!<br/>God shed His grace on thee<br/>Till lives confess His righteousness<br/>From sea to shining sea.</lines>
+    </verse>
+  </lyrics>
+</song>

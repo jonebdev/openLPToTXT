@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:47">
+  <properties>
+    <titles>
+      <title>I Will Sing Of My Redeemer</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>James McGranahan Philip Paul Bliss</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Sing, oh sing, of my Redeemer.<br/>With His blood He purchased me.<br/>On the cross He sealed my pardon,<br/>Paid the debt and made me free.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>I will sing of my Redeemer,<br/>And His wondrous love to me.<br/>On the cruel cross He suffered,<br/>From the curse to set me free.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will tell the wondrous story,<br/>How my lost estate to save,<br/>In His boundless love and mercy<br/>He the ransom freely gave.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will praise my dear Redeemer;<br/>His triumphant power I'll tell,<br/>How the victory He giveth<br/>Over sin and death and hell.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will sing of my Redeemer<br/>And His heavenly love to me;<br/>He from death to life hath brought me,<br/>Son of God, with Him to be.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>O Holy Night</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Adolphe Adam Chappeau de Roquemaure John S. Dwight</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Fall on your knees!<br/>Oh hear the angel voices!<br/>Oh night divine!<br/>Oh night when Christ was born,<br/>Oh night divine!<br/>Oh night, oh night divine!</lines>
+    </verse>
+    <verse name="v1">
+      <lines>O holy night!<br/>The stars are brightly shining;<br/>It is the night<br/>Of the dear Savior's birth.<br/>Long lay the world<br/>In sin and error pining;<br/>Till He appeared<br/>And the soul felt its worth.<br/>A thrill of hope,<br/>The weary world rejoices;<br/>For yonder breaks,<br/>A new and glorious morn.<br/>Fall on your knees,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Led by the light<br/>Of faith serenely beaming,<br/>With glowing hearts<br/>By His cradle we stand.<br/>So led by light<br/>Of a star sweetly gleaming,<br/>Here came the wise men<br/>From orient land.<br/>The King of kings<br/>Lay thus in lowly manger,<br/>In all our trials<br/>Born to be our Friend;<br/>He knows our need<br/>To our weakness is no stranger.<br/>Behold your King<br/>Before Him lowly bend;<br/>Behold your King<br/>Before Him lowly bend!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Truly He taught us<br/>To love one another,<br/>His law is love<br/>And His gospel is peace;<br/>Chains shall He break<br/>For the slave is our brother,<br/>And in His name<br/>All oppression shall cease.<br/>Sweet hymns of joy<br/>In grateful chorus raise we,<br/>Let all within us<br/>Praise His holy name.<br/>Christ is the Lord<br/>O praise His name forever.<br/>His power and glory evermore proclaim;<br/>His power and glory evermore proclaim.</lines>
+    </verse>
+  </lyrics>
+</song>

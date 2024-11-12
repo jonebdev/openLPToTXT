@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>نحبك زد حبنا</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>نأتي لك يا سيد الكون يا من أحببتنا<br/>نشكرك نجثو لك نهدي لك اكرامنا<br/>Na'ty laka ya sayyidal kowny ya man ahbabtana nashkuruka najthoo laka nuhdy laka ikramana</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>نشدو لك فأنت من تحيي لنا أرواحنا<br/>وأنت من ترعانا بل<br/>تحيي الرجا في قلبنا<br/>Nashdoo laka fa anta man tuhyee lana arwahana wa anta man tar'anabal tuhyil raja fee kalbina</lines>
+    </verse>
+    <verse name="c1">
+      <lines>نحبك زد حبنا نطيعك ياربنا<br/>يا سيد الكون لك سجودنا<br/>Nuhibuka zid hubana nutee'uka ya rabbana ya sayyidal kowny laka sojudana</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>نأتي لك يا أيها القدوس فأقبل حبنا<br/>اشعل بروح قدسك يا ربنا حياتنا<br/>Na'ty laka ya ayuhal kudoos fa'kbal hubana ash'il biruhy kudsika<br/>ya rabbana hayatana</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>أشفي النفوس كلها أدخل الي أعماقنا<br/>أعطي لنا ان نبصر<br/>أمجادك في وسطنا<br/>Ishfil nifoosa kullaha idkhul ila a'makina a'ty lana an nubsira amjadaka fee wastina</lines>
+    </verse>
+  </lyrics>
+</song>

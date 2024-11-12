@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:55">
+  <properties>
+    <titles>
+      <title>يسوع أنت تعلم أني أحبك من</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>طهرني 2<br/>يسوع أنت تعلم أني أحبك<br/>من قلبي 2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>يسوع أنت تعلم أن شهوات العالم تخدعني<br/>طهر قلبي طهر فكري أسمع صراخي وأنقذني</lines>
+    </verse>
+    <verse name="v2">
+      <lines>دنست قلبي دنست فكري صلبتك بجرمي<br/>أبعدتك نسيتك لم تعد أنت الكل لي</lines>
+    </verse>
+    <verse name="v3">
+      <lines>دنس ذاتي أخذ تاجي أضاع بهجة خلاصي<br/>ملك حياتي أخذ ثيابي سبب آلامي وأحزاني</lines>
+    </verse>
+    <verse name="v4">
+      <lines>التعب قد أعيا قلبي وحزن نفسي يقتلني<br/>والخجل قد غطي وجهي فأنظر إلي وأنقذني</lines>
+    </verse>
+    <verse name="v5">
+      <lines>إذا لا أري وجه الحبيب النور عندي كالظلام<br/>آن سرت في مرعي خصيب يبدو كحلم في منام</lines>
+    </verse>
+    <verse name="v6">
+      <lines>لكن متي الفادي المريح نظر بابتسام<br/>تصفو حياتي وتستريح أعيش دوما في سلام</lines>
+    </verse>
+    <verse name="v7">
+      <lines>من ضيق نفسي أنقذتني لما رأيت تذللي<br/>في حضنك ضممتني وقلبك قد رق لي</lines>
+    </verse>
+  </lyrics>
+</song>

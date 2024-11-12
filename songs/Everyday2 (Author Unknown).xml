@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:47">
+  <properties>
+    <titles>
+      <title>Everyday2</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>What to say Lord,<br/>It's you who gave me life and I<br/>Can't explain just how<br/>Much you mean to me now that<br/>You have saved me Lord<br/>I give all that I am to You<br/>that everyday I can<br/>Be a light that shines your name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Everday Lord I'll<br/>learn to stand upon your word<br/>And I pray that I<br/>That I might come to know you More<br/>That you would guide me<br/>In every single step I take<br/>that everday I can<br/>Be your light unto the world</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Everyday<br/>It's you I'll live for<br/>Everyday<br/>I'll follow after you<br/>Everyday<br/>I'll walk with you my Lord</lines>
+    </verse>
+    <verse name="v4">
+      <lines>It's you I live for everyday<br/>It's you I live for everyday<br/>It's you I live for everday</lines>
+    </verse>
+  </lyrics>
+</song>

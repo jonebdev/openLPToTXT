@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>تعال املانى الان</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ارفع يدي نحوك شفتاي تهتف لك<br/>كنسمة تلفني يا رباسجد امام عرشك<br/>ارفع تسبيحًا لاسمك كنسمة تلفني<br/>وترفع نفسي</lines>
+    </verse>
+    <verse name="v2">
+      <lines>الآن تعال املأني الآن تعال الي<br/> بروحك القدوس اتوق اليك<br/> الآن تعال املأني الآن تعال الي<br/>بروحك القدوس اياك وحدك رجوت</lines>
+    </verse>
+    <verse name="v3">
+      <lines>اسجد امام عرشك <br/>ارفع تسبيحًا لاسمك<br/>كنسمة تلفني وترفع نفسي</lines>
+    </verse>
+  </lyrics>
+</song>

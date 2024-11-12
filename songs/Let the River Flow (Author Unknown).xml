@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>Let the River Flow</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let the lost man say,<br/>"I am found in Him"<br/>Let the poor man say,<br/>"I am rich in Him"<br/>Oh, let the river flow</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Let the blind man say,<br/>"I can see again"<br/>Let the dead man say,<br/>"I am born again"<br/>Oh, let the river flow (2x)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Let the river flow, let the river flow<br/>Holy Spirit come and move in power<br/>Let the river flow (4x)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>نلتمس عطفك علينا</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>نلتمس (عطفك علينا)2 يا أعظم إله<br/>روحك خالقنا ومحيينا<br/> روحك محيينا وترس النجاة</lines>
+    </verse>
+    <verse name="c1">
+      <lines>محتاجين ( لمسة يسوع )2<br/> محتاجين لمستك2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>هل تييجي وتتحنن علينا<br/>تييجي إلينا بلمسة حياة<br/>تحيا قلوبنا تفوق تنبض<br/>عروق والماضي ننساه</lines>
+    </verse>
+    <verse name="v3">
+      <lines>حبك يجبر خواطرنا<br/>يشفي ضمايرنا ويملانا سلام<br/>شعبك يشوف بعنيه <br/>أمجادك فيه وتتحقق الأحلام</lines>
+    </verse>
+  </lyrics>
+</song>

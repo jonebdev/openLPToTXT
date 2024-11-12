@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>وحدك يا يسوع</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>وحدك يا يسوع وليس سواك<br/>أحبك يا يسوع (ولا حدش وياك )2</lines>
+    </verse>
+    <verse name="v1">
+      <lines>انت اللي فديتني في همومي وعزيتني<br/>بلمسة واحدة شفيتني(وبنظرة صرت معاك)2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>مسحت لي دموعي ضمدت لي جروحي<br/>حياتي وروحي (سابحة في أعلي سماك )2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>م الكسرة للنصرة وزالت الحصرة<br/>وسعدت بالحضرة (لما مشيت وياك )2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ده اسمك علي بالي دايما في خيالي<br/>والعيشة تهنا لي (لما أكون وياك)2</lines>
+    </verse>
+    <verse name="v5">
+      <lines>مجد وحرية وعيشة هنية<br/>محبة أبدية ( تربطني وياك )2</lines>
+    </verse>
+  </lyrics>
+</song>

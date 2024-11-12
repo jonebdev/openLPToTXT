@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>من الاف السنين</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>من آلاف السنين وعدك لشعبك صار<br/>ترد سبي النفوس وتخلي القفر أنهار</lines>
+    </verse>
+    <verse name="c1">
+      <lines>وتعود وتدِّي جمال عوضاً عن الرماد<br/>تغمرنا بشاير فرح تسبيح بدل النواح</lines>
+    </verse>
+    <verse name="v2">
+      <lines>تشفي برحمة القلوب وتشدد عزم الضعاف<br/>وسنين أكلها الجراد هاتعوض عنها أضعاف</lines>
+    </verse>
+    <verse name="v3">
+      <lines>نورك تشوفه العيون وصوتك يملا الودان<br/>وشعبك ينال الوعود ويملا قلبه الايمان</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>Jesus our savior kind and good</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus our savior kind and good<br/>was born in a manger of staw and woods<br/>and the friendly beasts around him stood<br/>Jesus our savior kind and good</lines>
+    </verse>
+    <verse name="v2">
+      <lines>"I" said the donkey shaggy and rown<br/>"I carried His mother up hill and down<br/>I carried her safely to Bethlehem town"<br/>"I" said the doneky shaggy and brown</lines>
+    </verse>
+    <verse name="v3">
+      <lines>"I" said the bow all white and red<br/>"I gave Him my manger for a bed<br/>I gave Him my hay to pillow His head<br/>"I" said the cow all white and red</lines>
+    </verse>
+    <verse name="v4">
+      <lines>"I" said the sheed with the curly horn<br/>"I gave Him my wool for a blanket warm<br/>And he wore my coat on that Christmas morn<br/>"I" said the sheep with the curly horn</lines>
+    </verse>
+    <verse name="v5">
+      <lines>"I" said the dove from the rafters high<br/>"I cooed Him to sleep so He would not cry<br/>We cooed Him to sleep my mate and I<br/>"I" said the dove form my rafters high</lines>
+    </verse>
+  </lyrics>
+</song>

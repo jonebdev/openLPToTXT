@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>دم يسوع يحيط بي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>دم يسوع يحيط بي<br/>حماية وسورا لي<br/>حب يسوع يرفعني<br/>سلام يسوع يملأني<br/>Dammu yasoo' yuhitu bee himayatan wa suran lee hubbu yasoo' yarfa'uny salam yasoo' yamla'uny</lines>
+    </verse>
+    <verse name="v2">
+      <lines>يسوع قام غالبا<br/>جرد إبليس ظافرا<br/>نهتف نقول بكل إيمان<br/>إبليس لا نخاف اهرب الآن<br/>Yasoo'u kama ghaliban jarrad iblisa thafiran nahtif nakul bikulli eman iblis lanakhaf ihrab il'an</lines>
+    </verse>
+    <verse name="b1">
+      <lines>بيسوع يعظم انتصاري<br/>يسحق إبليس دوما تحت اقدامي<br/>Biyasoo'a ya'thumu intisary yas-hak iblis dowman tahta akdamy</lines>
+    </verse>
+  </lyrics>
+</song>

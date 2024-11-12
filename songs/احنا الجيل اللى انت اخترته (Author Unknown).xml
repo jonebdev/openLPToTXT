@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>احنا الجيل اللى انت اخترته</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>احنا الجيل اللى انت اخترته<br/>وبروحك انت اقامته<br/>علشان يصنع تاريخ<br/>دعتنا ليك من قلب الضلمه<br/>للنور والمجد وحدنا<br/>جيلنا عايش ليك</lines>
+    </verse>
+    <verse name="v1">
+      <lines>عايشين<br/>بالنار والحب لاسمك عايشين<br/>احرار كسرت كل قيد<br/>الهنا ملكه هيدوم<br/>الهنا ملكه مش ممكن يتغير<br/>الجيل ده اختار يكون ليك نار</lines>
+    </verse>
+    <verse name="v2">
+      <lines>عشان انت الحياه كل اللى نتمناه<br/>جيلنا عايش ليك .. جيلنا عايش ليك<br/>العالم مايساويش لا ليه مش هاعيش<br/>جيلنا عايش ليك .. جيلنا عايش ليك</lines>
+    </verse>
+  </lyrics>
+</song>

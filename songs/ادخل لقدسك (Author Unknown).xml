@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>ادخل لقدسك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أدخل لقدسك<br/>أترجى وجهك<br/>طالباً حضور روحك<br/>أنت إلهي<br/>ملجأي وصخرة خلاصي<br/>ممن أخاف</lines>
+    </verse>
+    <verse name="c1">
+      <lines>فتعال بروحك أُبصر مجدك<br/>الآن سلطان الله<br/>لنا شفاء من يدك<br/>الآن أنهار مياه<br/>لنا حياة بروحك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ربّي أنت نهر تفيض بالحب<br/>تثمر فيّ فرحاً<br/>أنت سلامي فيك أماني<br/>ليس لي سواك يا الله</lines>
+    </verse>
+  </lyrics>
+</song>

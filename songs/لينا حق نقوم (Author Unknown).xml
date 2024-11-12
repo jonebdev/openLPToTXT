@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>لينا حق نقوم</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>لينا حق (نقوم 3) ونرنم لك<br/>لينا حق (اليوم 3) نشهد عنك</lines>
+    </verse>
+    <verse name="v1">
+      <lines>يا مكلل بالجود أيامنا وخيرك سابق ترانيمنا2<br/>وأثارك تقطر في دسمه2 على شعبك يشهد بجمايلك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ميلنا كغنم فضللنا واتحط عليك حمل أثامنا2<br/>خطايانا وكفة أحزانا 2 إترفعت عنا ف يوم صلبك</lines>
+    </verse>
+    <verse name="v3">
+      <lines>دي الصعبة معاك بتسهلها والمرة معاك بتحولها2<br/>وإن مالت بينا بتعدلها 2 وتعوض صبر اللى إنتظرك</lines>
+    </verse>
+    <verse name="v4">
+      <lines>رب الأفراح الحقيقية بتزيد شعبك بالتعزية2<br/>قدامك تهرب أحزانا 2 والحال يتبدل على يدك</lines>
+    </verse>
+  </lyrics>
+</song>

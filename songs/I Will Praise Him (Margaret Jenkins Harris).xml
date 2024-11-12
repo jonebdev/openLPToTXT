@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:47">
+  <properties>
+    <titles>
+      <title>I Will Praise Him</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Margaret Jenkins Harris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I will praise Him, I will praise Him,<br/>Praise the Lamb for sinners slain.<br/>Give Him glory all ye people,<br/>For His blood can wash away each stain.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>When I saw the cleansing fountain<br/>Open wide for all my sin,<br/>I obeyed the Spirit's wooing<br/>When He said "Wilt thou be clean?"</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tho' the way seemed straight and narrow,<br/>All I claimed was swept away;<br/>My ambitions, plans and wishes<br/>At my feet in ashes lay.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Then God's fire upon the altar<br/>Of my heart was set aflame.<br/>I shall never cease to praise Him.<br/>Glory, glory to His name!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blessed be the name of Jesus!<br/>I'm so glad He took me in.<br/>He's forgiven my transgressions;<br/>He has cleansed my heart from sin.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Glory, glory to the Father!<br/>Glory, glory to the Son!<br/>Glory, glory to the Spirit!<br/>Glory to the Three in One!</lines>
+    </verse>
+  </lyrics>
+</song>

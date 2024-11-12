@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>غنوا لله رنموا لاسمه</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>وإهتفوا أمامه)2)<br/>وإهتفوا ... وإهتفوا أمامه<br/>وإنشدوا ألحانه)2)<br/>وإنشدوا ... وإنشدوا ألحانه<br/>Wahtifu amamu (2) wahtifu wahtifu amamu<br/>wanshidu alhanu (2) wanshidu wanshidu alhanu</lines>
+    </verse>
+    <verse name="c1">
+      <lines>غنوا لله رنموا لاسمه2<br/>أعدوا طريقا للراكب في القفار 3<br/>باسمه ياه<br/>(Ghannu lilah ranimu lismihy)2<br/>(a'idu tareekan lirrakib fil kifar)3<br/>bismihy yah</lines>
+    </verse>
+    <verse name="v2">
+      <lines>وإسمعوا كلامه)2)<br/>وإسمعوا ... وإسمعوا كلامه<br/>وأرفعوا أعلامه)2)<br/>وأرفعوا ... وأرفعوا أعلامه<br/>Wasma'u kalamu (2) wasma'u wasma'u kalamu<br/>warfa'u a'lamu (2) warfa'u warfa'u a'lamu</lines>
+    </verse>
+  </lyrics>
+</song>

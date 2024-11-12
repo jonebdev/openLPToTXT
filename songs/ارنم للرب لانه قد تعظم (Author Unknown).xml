@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>ارنم للرب لانه قد تعظم</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أرنم للرب فانه قد تعظم<br/>الفرس وراكبه طرحهما في البحر<br/>الرب قوتي و نشيدي وقد صار خلاصي<br/>2 هذا إلهي فأمجده</lines>
+    </verse>
+    <verse name="v2">
+      <lines>الرب الرب رجل الحرب الرب اسمه</lines>
+    </verse>
+  </lyrics>
+</song>

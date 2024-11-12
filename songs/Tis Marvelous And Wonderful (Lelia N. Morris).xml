@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>Tis Marvelous And Wonderful</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Lelia N. Morris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Wonderful, wonderful,<br/>Marvelous and wonderful<br/>What He has done for my soul!<br/>The half has never been told<br/>Oh, it is wonderful.<br/>It is marvelous and wonderful<br/>What Jesus has done for this soul of mine!<br/>The half has never been told.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The Savior has come in His mighty power,<br/>And spoken peace to my soul.<br/>And all of my life from that very hour,<br/>I've yielded to His control.<br/>I've yielded to His control.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>'Twas only a foretaste of joys divine<br/>In Canaan waiting for me;<br/>Where sweetest honey and milk and wine<br/>Were dripping from ev'ry tree<br/>Were dripping from ev'ry tree.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>From glory to glory He leads me on<br/>From grace to grace ev'ry day;<br/>And brighter and brighter the glory dawns<br/>While pressing my homeward way<br/>While pressing my homeward way.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If fellowship here with my Lord can be<br/>So inexpressibly sweet<br/>Oh, what will it be when His face we see<br/>When 'round the white throne we meet.<br/>When 'round the white throne we meet.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:55">
+  <properties>
+    <titles>
+      <title>يقودك الرب على الدوام</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يقودك الرب على الدوام<br/>يشبع في الجدوب نفسك<br/>ينشط لك عظامك<br/>فتصير كجنة ... جنة ريا<br/>Yakudukal rabbu alal dawam yushbi'u bil juduby nafsaka yunashitu laka idamaka fataseer kajanna jannatun raya</lines>
+    </verse>
+    <verse name="c1">
+      <lines>شكرا لله الذي يقودنا<br/>في موكب النصرة كل حين<br/>كفقراء لا شئ لنا<br/>ونحن نغني ... نغني كثيرين<br/>Shukran lillahil lathy yakuduna fee mawkibbil nusraty kulla heen kafukara'a la shay'a lana wa nahnu nughny...nughny kathireen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>إذ نسعى عنه كسفراء<br/>كأن الله يعظ بنا<br/>لكي يكون ولنا اكتفاء<br/>من كل نعمة ... نعمة وغنى<br/>Ith nas'a anhu kasufara' ka'annal laha ya'idu bina likay yakuna wa lana ktifa' min kully ni'ma ni'ma wa ghina</lines>
+    </verse>
+    <verse name="v3">
+      <lines>اطلبوا الرب ما دام يوجد<br/>ادعوه دوما فهو قريب<br/>يعطي المعيّ ... المعيّ قدرة<br/>لعديم القوة يكثر شدة<br/>Utlubul rabba ma dama yujad ud'uhu dowman fahua kareeb yu'til mu'yal mu'ya kudratan li'adeemil kuwa yikathir shidatan</lines>
+    </verse>
+  </lyrics>
+</song>

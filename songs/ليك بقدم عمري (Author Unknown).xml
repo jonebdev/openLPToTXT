@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>ليك بقدم عمري</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>سد يا يسوع في حياتي<br/>نفسي معاك مرتاحة<br/>فيك بالاقي نجاتي<br/>وفي قربك الاقي الراحة</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Sood ya yasoo' fihayaty nafsy ma'ak mirtaha feek bala'ee najaty wifi urbak ala'il raha</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>انت ملك عمرى<br/>انت سيد قلبي<br/>انت وحدك ربي<br/>وكل حبي ليك</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Inta malik umry inta sayyid alby inta wahdak rabby wikully hubby leek</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>ليك باقدم عمري<br/>باهدي اليك أيامي<br/>وحدك مالك أمري<br/>وانت سر سلامي</lines>
+    </verse>
+    <verse name="v2c">
+      <lines>Leek ba'addim umry bahdilak ayamy wahdak malik amry winta sirry salamy</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>غالي يا رب عليّ<br/>غالي عملك فيّ<br/>حبك مالي كياني<br/>كنزي وكل ماليّ</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Ghaly ya rabb alaya ghaly amalak fiyya hubbak maly kayany kanzy wikully maliyya</lines>
+    </verse>
+  </lyrics>
+</song>

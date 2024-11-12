@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:47">
+  <properties>
+    <titles>
+      <title>Come Thou Long Expected Jesus</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Charles Wesley</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Come, Thou long expected Jesus,<br/>Born to set Thy people free.<br/>From our fears and sins release us;<br/>Let us find our rest in Thee.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Born Thy people to deliver,<br/>Born a Child, and yet a King.<br/>Born to reign in us forever,<br/>Now Thy gracious kingdom bring.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>By Thine own eternal Spirit<br/>Rule in all our hearts alone;<br/>By Thine all sufficient merit,<br/>Raise us to Thy glorious throne.</lines>
+    </verse>
+  </lyrics>
+</song>

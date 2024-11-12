@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>عندما روحك يفيض في قلبي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>عندما روحك يفيض في قلبي<br/>(أفرح مثل داود(2<br/>أفرح بك ... أفرح بك<br/>(أفرح مثل داود(2<br/>Indama ruhuka yafeedu fee kalby afrahu mithli dawood (2) afrahu bika afrahu bika afrahu mithly dawood (2)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>عندما روحك يفيض في قلبي<br/>(أرقص مثل داود (2<br/>أرقص لك ... أرقص لك<br/>(أرقص مثل داود (2<br/>Indama ruhuka yafeedu fee kalby arkusu mithli dawood (2) arkusu laka arkusu laka arkusu mithly dawood (2)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>عندما روحك يفيض في قلبي<br/>(أهتف مثل داود (2<br/>أهتف لك ... أهتف لك<br/>(أهتف مثل داود (2<br/>Indama ruhuka yafeedu fee kalby ahtifu mithly dawood (2) ahtifu laka ahtifu laka ahtifu mithly dawood (2)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>عندما روحك يفيض في قلبي<br/>(أقفز مثل داود (2<br/>أقفز لك... أقفز لك<br/>(أقفز مثل داود (2<br/>Indama ruhuka yafeedu fee kalby akfizu mithly dawood (2) akfizu laka akfizu laka akfizu mithly dawood (2)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>عندما روحك يفيض في قلبي<br/>(أصفق مثل داود (2<br/>أصفق لك ... أصفق لك<br/>(أصفق مثل داود (2<br/>Indama ruhuka yafeedu fee kalby usafiku mithly dawood (2) usafiku laka usafiku laka usafiku mithly dawood (2)</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>اوصانا في الأعالي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>أوصانا ... أوصانا)<br/>أوصانا في الأعالي)2<br/>(Usanna, usanna, usanna fil a'ally)2</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>نشدو نرفعُ أسمَك<br/>ونعلي مجدَك<br/>ونفتخرُ بشخصِك<br/>أوصانا في الأعالي<br/>Nashdoo narfa' usmaka wanu ally majdaka<br/>wa naftakhiru bishakhsika usanna fil a'ally</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>مجدا ... مجدا)<br/>مجدا لرب الأرباب)2<br/>(Majdan, majdan, majdan lirabbil arbab)2</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>نشدو نرفعُ أسمَك<br/>ونعلي مجدَك<br/>ونفتخرُ بشخصِك<br/>مجدا لرب الأرباب</lines>
+    </verse>
+  </lyrics>
+</song>

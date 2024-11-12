@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>الرب في علاه مكللاً</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>الرب في علاه مكللاً ببهاء عظيم القدرة شديد الرفعة<br/>يلتف بالمجد والظلمة تختفي .. من وجه ذا الإله<br/>من وجه ذا الإله</lines>
+    </verse>
+    <verse name="c1">
+      <lines>عظيم يا الله كم أنت عظيم يا الله<br/>كم أنت عظيم عظيم يا الله</lines>
+    </verse>
+    <verse name="v2">
+      <lines>من جيل لجيل تملك .. والكل سيخضع للألف والياء<br/>الكائن للأبد<br/>الأب السمائى .. الابن السرمدي .. الروح الأزلي<br/>الروح الأزلي</lines>
+    </verse>
+    <verse name="v3">
+      <lines>أنت ملك الملوك .. مستحق السجود وستبصر العيون<br/>كم أنت عظيم .. عظيم</lines>
+    </verse>
+  </lyrics>
+</song>

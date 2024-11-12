@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>لكي تكون لي الحياة</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c1 e1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>لكي تكونَ لي الحياةْ<br/>فيضُ الحياةْ أتيتَ<br/>على الصليبْ قد ارتفعتْ<br/>جذبتني اليكَ</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Likay takoon liyal haya faydul haya atayta alassaleeb kad irtafa't jathabtany ilayka</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>حُـبكَ يسـوع عجـيبْ<br/>حُــبكْ يسـوع عـظيمْ<br/>كشاةٍ قد ذُبحتْ اثامي قد حملتْ<br/>فديتـني</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Hubuka yasoo' ajeeb hubuka yasoo' atheem kashatin kad dubiht athamy kad hamalt fadaytany</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>للمنتهى أحببتني<br/>ومن أجلي سُحقْتَ<br/>لا منظرَ ولا جمالْ<br/>لا صورة بل لعنة<br/>أسبحك أعبدك</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Lilmuntaha ahbabtany wamin ajlee suhikta<br/>la mandaran wala jamal<br/>la suratan bal la'nata</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>أُسبِـــحُــــك وأعبُــدُكَ)4 )</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>(Usabihuka wa abuduka)4</lines>
+    </verse>
+  </lyrics>
+</song>

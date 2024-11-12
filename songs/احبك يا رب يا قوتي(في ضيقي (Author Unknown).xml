@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>احبك يا رب يا قوتي(في ضيقي</title>
+    </titles>
+    <verseOrder>c1 v1 c1 c1 v2 c1 c1 c1 v3 c1 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>أحبك يا رب يا قوتي<br/>صخرتي وحصني ومنقذي<br/>Uhibuka ya rabu ya kuwaty<br/>Sakhraty wa hisny wa munkithy</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>ترسي وقرن خلاصي وملجأي<br/>Ilahy sakhraty bihi ahtamy<br/>Tursy wa karnu khalasy wa malja'ee</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>أحبك 3 ربي للأبد<br/>(Uhibuka)3 raby lilabady</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>في ضيقي دعوتك يا ربي<br/>وصرخت يا سيدي إليك<br/>Fee deeky da'awtuka ya raby<br/>Wa sarakhtu ya sayidy ilayka</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>فسمعت من هيكلك صوتي<br/>ودخل صراخي أذنيك<br/>Fasama'ta min haykalika sawty<br/>Wa dakhala surakhy uthonayka</lines>
+    </verse>
+    <verse name="c1d">
+      <lines>إلهي صخرتي به أحتمي<br/>ترسي وقرن خلاصي وملجأي<br/>Ilahy sakhraty bihi ahtamy<br/>Tursy wa karnu khalasy wa malja'ee</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>أرسلت من العلى أخذتني<br/>من مياه كثيرة نشلتني<br/>Arsalta minal ula akhatany<br/>Min miyahin katheeratin nashaltany</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>إلى الرحب أخرجتني أسندتني<br/>لأنك سررت بي خلصتني<br/>Ilal rahby akhrajtany asnatany<br/>Li'anaka surirta bee khalastany</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>إلهي أنت تضيء سراجي<br/>وتبددُ الظلامَ من حياتي<br/>Ilahy anta tudyu seerajy wa<br/>tubadidul dalama min hayaty</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>بالقوة أنت تمنطقني<br/>وتثبتُ ربي خطواتي<br/>Bilkuwaty anta tumantikuny<br/>Wa tuthabitu raby khutuwaty</lines>
+    </verse>
+  </lyrics>
+</song>

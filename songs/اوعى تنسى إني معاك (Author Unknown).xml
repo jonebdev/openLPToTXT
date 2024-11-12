@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>اوعى تنسى إني معاك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أوعى تنسى إني معاك<br/>طول اليوم عيني بترعاك<br/>نقشتك يا ابني على كفي<br/>علشان كده يا ابني ما تخافشي</lines>
+    </verse>
+    <verse name="c1">
+      <lines>ما تخافشي<br/>في وعودي لك ما برجعشي</lines>
+    </verse>
+    <verse name="v2">
+      <lines>وعدتك يا ابني أحميك<br/>وفي خوفك سلامي ليك<br/>وفي ضعفك نعمتي تكفيك<br/>وفي مرضك أنا اللي شافيك</lines>
+    </verse>
+    <verse name="v3">
+      <lines>أنا ساندك وسط الأزمات<br/>أنا رافعك فوق الضيقات<br/>وأعوض عن اللي فات<br/>أنا إله المستحيلات</lines>
+    </verse>
+    <verse name="v4">
+      <lines>أنا جايلك على السحاب<br/>إستناني مع الأحباب<br/>ها أنسيك أرض الأتعاب<br/>تلقى الراحة في بيت الآب</lines>
+    </verse>
+  </lyrics>
+</song>

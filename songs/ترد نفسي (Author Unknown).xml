@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>ترد نفسي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ترد نفسي ... ترد نفسي ... ترد نفسي ... للحياة</lines>
+    </verse>
+    <verse name="v2">
+      <lines>حملت آلامي ... دعوتني بإسم جديد<br/>أخذت كل خزيي ... بدلته بأفراح</lines>
+    </verse>
+    <verse name="v3">
+      <lines>تاخذ نوحي تحوله لرقص<br/>تاخذ بكائي تبدله بضحكاً<br/>تاخذ نوحي تحوله لرقص<br/>ترفع حزني وتعطيني أفراح</lines>
+    </verse>
+    <verse name="e1a">
+      <lines>تعطيني افراح ... تعطيني أفراح ... تعطيني أفراح ... وحياة</lines>
+    </verse>
+    <verse name="e1b">
+      <lines>ترد نفسي ... ترد نفسي ... ترد نفسي ... للحياة<br/>هللويا هللويا ... صار الكل جديداً</lines>
+    </verse>
+  </lyrics>
+</song>

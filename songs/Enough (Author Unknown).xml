@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:47">
+  <properties>
+    <titles>
+      <title>Enough</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All of You, Is more than enough for<br/>All of Me<br/>For every thirst and need<br/>You satisy me with Your love<br/>and All I have in You<br/>Is more than enough.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are my supply<br/>My breath of life<br/>Still more awesome than I know<br/>You are my reward<br/>Worth living for<br/>Still more awesome than I know</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You're the sacrifice<br/>Of greatest price<br/>Still more awesome than I know<br/>You're my coming king<br/>You are everything<br/>Still more awesome than I know</lines>
+    </verse>
+    <verse name="v4">
+      <lines>More than all I want<br/>More than all I need<br/>You are more than enough for me<br/>More than all I know<br/>More than all I can say<br/>You are more than enough for me.</lines>
+    </verse>
+  </lyrics>
+</song>

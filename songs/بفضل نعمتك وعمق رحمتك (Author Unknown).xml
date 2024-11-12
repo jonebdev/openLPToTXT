@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>بفضل نعمتك وعمق رحمتك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>بفضل نعمتك وعمق رحمتك<br/>اتى لمحبتك وارتمى عليك<br/>اروى ظما قلبي وشوقى وحبي<br/>فراحتى يا ربي وحاجتى اليك</lines>
+    </verse>
+    <verse name="c1">
+      <lines>تحمدك الشفاه .. وتنحني الجباه<br/>لشخصك يا الله فانت خالقها<br/>تسبح القلوب امامك تذوب<br/>فاسمك مهوب وانت سيدها</lines>
+    </verse>
+    <verse name="v2">
+      <lines>الهي ما ابهاك .. ما اعظم غناك<br/>فعيشى في رضاك شوقى ولذتى<br/>لذا انتظرتك وعينى نحوك<br/>وتحت ظلك تطيب جلستى</lines>
+    </verse>
+    <verse name="v3">
+      <lines>الهى صخرتى حصنى وقوتى<br/>وكل بهجتى بقربك يسوع<br/>يا فرحتى بك فزت بحبك<br/>وقرب قلبك احبك يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

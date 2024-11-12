@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>عارفين اللى عمل</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>عارفين اللى عمل شمس وقمر وكل الدنيا<br/>واللى نسمة منه تدوب كل الكون فى ثانية<br/>واللى انفاسه تزلزل اساس الجبل<br/>واللى ما يعرف نهاية وبدايته الازل</lines>
+    </verse>
+    <verse name="c1">
+      <lines>اقدر اقوله يا ابويا واقدر اقوله حبيبى<br/>واقدر اقوله الهى وابويا وحبيبى</lines>
+    </verse>
+    <verse name="v2">
+      <lines>عارفين اللى كان مع موسى وشعبه فى البرية<br/>واللى شق بحر سوف وعداهم فى المية<br/>يوسف لما كان فى سجنه نجاه من الخطر<br/>والفتية عبروا فى النار ومعاهم عبر</lines>
+    </verse>
+    <verse name="v3">
+      <lines>عارفين لما كان مصيرى موت ونار ابدية<br/>نزل واتصلب بدالى وسحق رأس الحية<br/>شال عنى عار الخطية وناموس العمل<br/>وصار ليا فيه ضمان وشفاعة وامل</lines>
+    </verse>
+  </lyrics>
+</song>

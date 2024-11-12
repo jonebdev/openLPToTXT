@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>ليتك تباركنا</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>حسُ دويِ مطرٍ يغــمُـــرُنا<br/>حسُ دويِ مطرٍ في وسْطِـنا</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Hissu dawiyee matarin yaghmuruna hissu dawiyee matarin fee wastina</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>لــيــتــك تـُـبـــارِكـــنـا تــــوســــعُ تــُـخـــومَـــنـــا <br/>تـكـون يـدُك مـعـنـا)<br/>مـن الشـرِ تحفظُنا)2<br/>هللويا<br/>Laytaka tubarikuna tuwasi'u tukhumana (Takunu yaduka ma'na minal shary tahfathuna)2 hallelujah</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>و تـمـلأُ شــبـاكَـنــا<br/>نــســألـُـك فــتـُـعــطــيــنــا<br/>الأممَ مـيـــراثـَـنــا)<br/>أقاصي الأرض مُلكاً لنا)2 هــلـــلويــا<br/>Watamla'u shibakana nas'aluka fatu'tina (Al'umama mirathana akasil ard mulkan lana)2 hallelujah</lines>
+    </verse>
+    <verse name="e1">
+      <lines>حسُ دويِ مطرٍ يغــمُـــرُنا<br/>حسُ دويِ مطرٍ في وسْطِـنا<br/>لا بالقدرة ولا بالقوة بل بالروح<br/>لا بالقدرة ولا بالقوة بل بيسوع<br/>Hissu dawiyee matarin yaghmuruna hissu dawiyee matarin fee wastina<br/>La bilkudra wala bilkuwa bal bilruh<br/>la bilkudra wala bilkuwa bal biyasoo'</lines>
+    </verse>
+  </lyrics>
+</song>

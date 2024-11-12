@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>عالي لفوق أنا رافع إيدي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>عالي لفوق أنا رافع ايدي<br/>عندك ملكي وعزي وسيدي<br/>وبعز أنا مش عاوز حاجة)<br/>2(إن كانت مش راح ترضيك</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>أبدا أبدا ولا يغنيني)<br/>ولا يشبع قلبي ويرويني<br/>ولا يملى عينيا و يكفيني<br/>2(غير بس اللي تجود بيه إيديك</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>رافع إيدي بفرحة وبأعلن<br/>أنت يا صاحب الوعد بتضمن<br/> إنك تصنع للي فعلا) <br/>2(حط رجاء أيامه فيك</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>أبدا أبدا مش مستني)<br/>حد من الدنيا يطمني<br/>أو مسنود على غيرك لكن<br/>2(سندي هيكون كله عليك</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>رافع إيدي بفخر و بأهتف<br/>طاير زي النسر بارفرف<br/>عالي عالي ومليان قوة)<br/>2(إنت أمين وأنا بأشهد ليك</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>أبدا أبدا مش متساب)<br/>وحدي هنا في دنيا الأتعاب<br/>مليان قلبي سلام من وعدك<br/>2(رب المجد بذاته حاميك</lines>
+    </verse>
+  </lyrics>
+</song>

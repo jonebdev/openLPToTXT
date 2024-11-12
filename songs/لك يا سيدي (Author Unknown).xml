@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>لك يا سيدي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>لـك يا سـيـدي يا فرحتـي يا بسمتـي أقـدم تسبـيحتـي<br/>وكـل طـيـر فـي الـسـما وكـل عـشــب قـد نـمـا<br/>والـزهـر فـي أغـصـانـه لـك يـغـنـي بـاســمـاً</lines>
+    </verse>
+    <verse name="v2">
+      <lines>لـك يا سـيـدي محبـتـي وثقـتـي يا ضامـناً سلامتـي<br/>فـفـي طـريـق غـربـتـي عيـناك تحـمـي خـطـوتـي<br/>وإن ضـلـلـت تــائـهـا تـعـيـد لـي بـصـيـرتـي</lines>
+    </verse>
+    <verse name="v3">
+      <lines>لـك يا سـيـدي لك أنا بجمـلـتـي يا ملجأي وراحتـي<br/>أعطيـك آمـالـي الكـبـار أعطيـك لـيـلـى والنـهـار<br/>أعـطيـك قـلبـي خـالصـاً قـدسـه فـي نــور ونــار</lines>
+    </verse>
+  </lyrics>
+</song>

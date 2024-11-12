@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>You Are Holy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>You are holy<br/>(You are holy)<br/>You are mighty<br/>(You are mighty)<br/>You are worthy<br/>(You are worthy)<br/>Worthy of Praise<br/>(Worthy of praise)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I will follow<br/>(I will follow)<br/>I will listen<br/>(I will listen)<br/>I will love You<br/>(I will love You)<br/>All of my days<br/>(all of my days)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I will sing to<br/>(You're the Lord of Lords)<br/>And worship<br/>(You're the King of Kings)<br/>The King who<br/>(You are mighty God)<br/>Is worthy<br/>(Lord of everything)</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I will love and<br/>(You're Emmanuel)<br/>Adore Him<br/>(You're the Great I Am)<br/>I will bow down<br/>(You're the Prince of Peace)<br/>before Him<br/>(Who is the Lamb)</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I will sing to<br/>(You're the living God)<br/>And worship<br/>(You're my saving grace)<br/>The King who<br/>(You will reign forever)<br/>Is worthy<br/>(You are ancient of days)</lines>
+    </verse>
+    <verse name="v6">
+      <lines>I will love and<br/>(You are alpha, omega)<br/>Adore Him<br/>(Beginning and end)<br/>I will bow down<br/>(You're my Savior, Messiah)<br/>Before Him<br/>(Redeemer and friend)</lines>
+    </verse>
+    <verse name="v7">
+      <lines>You're my Prince of Peace<br/>and I will live my life for You</lines>
+    </verse>
+  </lyrics>
+</song>

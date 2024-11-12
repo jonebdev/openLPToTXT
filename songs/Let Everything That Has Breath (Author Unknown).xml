@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>Let Everything That Has Breath</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Let everything that, everything that<br/>everything that has breath<br/>praise the Lord</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Praise You in the morning<br/>Praise You in the evening<br/>Praise You when I'm young and when I'm old</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Praise You when I'm laughing<br/>Praise You when I'm grieving<br/>Praise You every season of the soul</lines>
+    </verse>
+    <verse name="v4">
+      <lines>If we could see how much Your worth<br/>Your power, Your might, Your endless love<br/>Then surely we would never cease to praise</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Praise You in the heavens<br/>Joining with the angels<br/>Praising You forever and a day</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Praise You on the earth now<br/>joining with creation<br/>Calling all the nations to Your praise</lines>
+    </verse>
+    <verse name="v7">
+      <lines>If they could see how much Your worth<br/>Your power, Your might, Your endless love<br/>Then surely they would never cease to praise</lines>
+    </verse>
+  </lyrics>
+</song>

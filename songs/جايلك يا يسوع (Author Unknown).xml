@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>جايلك يا يسوع</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>جايلك يا يسوع مشتاق أتغير فى إيدي قيود مهموم متحير 2<br/> شخصك وحدك هو اللي يغير ولا يوم إبليس يأسر ويعير</lines>
+    </verse>
+    <verse name="c1">
+      <lines>وحدك يا يسوع ترفع كل الأتعاب<br/>دمك يا يسوع مرشوش علي الأعتاب<br/>علي الماضي ندوس نكسر عندك أطياب</lines>
+    </verse>
+    <verse name="v2">
+      <lines>اسجد واركع يا يسوع قدامك<br/>وأنا زي فطيم يجري لأحضانك 2<br/>طعم الحرية هدوء وسلامك<br/>حاسس بأمان يرويني حنانك</lines>
+    </verse>
+    <verse name="v3">
+      <lines>أهتف لاسمك وأرفع له نشيدي<br/>حقه في قلبي سلطانه في إيدي 2<br/>نلت الحرية اليوم يوم عيدي<br/>قلبي فرحان مسرور بيغني</lines>
+    </verse>
+  </lyrics>
+</song>

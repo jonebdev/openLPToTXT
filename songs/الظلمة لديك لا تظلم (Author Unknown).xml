@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>الظلمة لديك لا تظلم</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>يارب إليك صرختي فاصغي إلى صلاتي<br/>في أزمتي ومحنتي أصغي لصلاتي</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>تعلقت بك أمسكك ترفعني واثق في وعدك تنقذني</lines>
+    </verse>
+    <verse name="c1">
+      <lines>الظلمة لديك لا تظلم والليل مثل النهار 2<br/>من خلف و قدام حصرتني ويمينك ترشدني وتمسكني</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>اجعل ربي ترنيمتي أحبك يا إلهي<br/>من كل فكري وقدرتي أحبك يا إلهي</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>وصايا سرًّا أحفظها تحفظني<br/>في أحلك الليالي تنيرني</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>في جب الأسود في بطن الحوت<br/>في أتون النار وسط وادي ظل الموت</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>يسوع معي صاحب السلطان معي<br/>الله معي</lines>
+    </verse>
+  </lyrics>
+</song>

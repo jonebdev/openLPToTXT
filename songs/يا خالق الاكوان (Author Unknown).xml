@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>يا خالق الاكوان</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا خالق الاكوان والناس بنسمة فيها حياة<br/>كل الخليقة والاجناس بتسبح اسم الله<br/>هللويا هللويا ..هللويا لاسم يسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines>المن النازل من السما ومشبع الجياع<br/>ايدك تشبعنا بالرضا وتخفف الاوجاع<br/>هللويا هللويا ..هللويا لاسم يسوع</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ابرع جمال من كل الناس وبالنعمة مليان<br/>واللى ينظرلك يستنير ومش بيكون خجلان<br/>هللويا هللويا ..هللويا لاسم يسوع</lines>
+    </verse>
+    <verse name="v4">
+      <lines>حنان ورحيم وطويل الروح وعاضد الساقطين<br/>شافى منكسرى القلوب ومقوم المنحنين<br/>هللويا هللويا ..هللويا لاسم يسوع</lines>
+    </verse>
+  </lyrics>
+</song>

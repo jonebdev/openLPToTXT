@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>The Bible Stands</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Haldor Lillenas</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>The Bible stands tho' the hills may tumble,<br/>It will firmly stand when the earth shall crumble.<br/>I will plant my feet on its firm foundation,<br/>For the Bible stands, the Bible stands.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>The Bible stands like a rock undaunted,<br/>Mid the raging storms of time.<br/>Its pages burn with the truth eternal,<br/>And they glow with a light sublime.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The Bible stands like a mountain towering,<br/>Far above the works of man.<br/>Its truth by none ever was refuted,<br/>And destroy it they never can.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>The Bible stands, and it will forever,<br/>When the world has passed away.<br/>By inspiration it has been given,<br/>All its precepts I will obey.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>The Bible stands every test we give it,<br/>For its Author is divine.<br/>By grace alone I expect to live it,<br/>And to prove it and make it mine.</lines>
+    </verse>
+  </lyrics>
+</song>

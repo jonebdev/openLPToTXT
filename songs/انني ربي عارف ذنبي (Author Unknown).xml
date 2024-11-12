@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>انني ربي عارف ذنبي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>إنني ربي عارفٌ ذنبي<br/>قد تقسيتُ وتهتُ عن دربي<br/>Innany raby arifun danby kad takasaytu wa tihtu an darby</lines>
+    </verse>
+    <verse name="c1">
+      <lines>اغسلني ربي بدما الصليب<br/>أنت يا من جئت بالفدا العجيب<br/>أدنو منك الآن يا مصدرَ الحنان<br/>أدنو منك الآن يا مانحَ الغفران<br/>Ighsilany raby bidimal saliby anta ya man ji'ta bilfidal ajeeby adnu minkal'an ya musdaral hanan adnoo minkal'an ya manihal ghufran</lines>
+    </verse>
+    <verse name="v2">
+      <lines>في رحابِك ... في صليبِك<br/>أحظى بالسلام ... في ظلِ دمِك<br/>Fee rihabika, fee salibika ahda bisalam fee thily damika</lines>
+    </verse>
+    <verse name="v3">
+      <lines>أنت تدعوني ... أنت تهديني<br/>فيك راحتي ... وأنت تحييني<br/>Anta tad'uny, anta tahdiny feeka rahaty wa anta tuhyeeny</lines>
+    </verse>
+  </lyrics>
+</song>

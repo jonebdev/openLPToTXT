@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>ربي انا عايز أرنم ليك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="i1">
+      <lines>ربي أنا عايز أرنم ليك<br/>نفسي اسبح وارفع اسمك<br/>انت في قلبي مفرحني<br/>فرحي علشان انت فديتنى<br/>Rabby ana ayiz arranim leek ayiz arranim warfa' ismak intaf alby mifarahny farahy alashan inta faditny</lines>
+    </verse>
+    <verse name="e1">
+      <lines>جيت م السما لأرضنا وريتنا الطريق<br/>من أرضنا للصليب رفعت الكل ليك<br/>ع الصليت اترفعت لكن للسما ارتفعت<br/>ربي أنا عايز أرنم ليك<br/>Jeet missama li'ardina warritnal tareek min ardina lissaleeb rafa'ty kulli deek assaleeb itrafa't lakin lissama irtafa't rabby ana ayiz arranim leek</lines>
+    </verse>
+  </lyrics>
+</song>

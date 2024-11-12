@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:55">
+  <properties>
+    <titles>
+      <title>يسوع أسمه عجيب</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يسوع أسمه عجيب هو المسيا<br/>يسوع هو القدير هو فاديا</lines>
+    </verse>
+    <verse name="c1">
+      <lines>علي الأرض السلام ومسرة لكل الناس<br/>المجد في العلي يسوع جه للخلاص</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>وملايكه في السما بتبشر أرضنا<br/>ملك الملوك جانا علشان يردنا ا</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>وجه للأرض فقير علشان بفقره نغنا<br/>زي العبد الأسير واخد مكنا أحنا</lines>
+    </verse>
+    <verse name="v3">
+      <lines>يا كنيسه أفرحي أملي قلبك أغاني<br/>بصلاتك أسهري ده عريسك جاي تاني</lines>
+    </verse>
+  </lyrics>
+</song>

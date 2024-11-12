@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>هل يستطيع الرب</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>هل يستطيع الرب بي أن يصنع العجائب<br/>وإن طلبت تكريسي هل يستجيبُ الطلب</lines>
+    </verse>
+    <verse name="c1">
+      <lines>نعم نعم نعم يقول ربنا<br/>تقدسوا للعمل غداً سأعمل بكم<br/>في وسطكم في وسطكم عجائبي</lines>
+    </verse>
+    <verse name="v2">
+      <lines>هل يستطيع الرب أن يقدس ذا الجسد<br/>مع ضعفه وإثمه به يحلُّ للمدى</lines>
+    </verse>
+    <verse name="v3">
+      <lines>هل يستطيع الرب أن يشغّل مواهبي<br/>مقدساً عواطفي لمجد من أحبني</lines>
+    </verse>
+    <verse name="v4">
+      <lines>هل يستطيع الرب أن يبارك في خدمتي<br/>مكرساً لمجده كلي له بجملتي</lines>
+    </verse>
+  </lyrics>
+</song>

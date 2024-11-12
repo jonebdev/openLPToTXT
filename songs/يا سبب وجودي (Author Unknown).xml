@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>يا سبب وجودي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>يا سبب وجودي ليك سجودي]<br/>فدتني بدم صليبك فكيت قيودي]2<br/>وحدك فادية حقك حرية<br/>نلت في حبك براءة وحياة ابدية</lines>
+    </verse>
+    <verse name="c1">
+      <lines>دمك غطـــــــاني برك كاســــــــاني<br/>حبك نجــــاني وملي قلبي اغـــــاني</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>عايش في خيرك ولا هعبد غيرك]<br/>حاضر في حياتي وأيامي وماليني عبيرك]2<br/>ساكن في قلبي ملكك يا ربي<br/>لا هتسبني ولا هاسيبك وده عهد ابدي</lines>
+    </verse>
+  </lyrics>
+</song>

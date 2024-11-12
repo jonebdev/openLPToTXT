@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:49">
+  <properties>
+    <titles>
+      <title>majesty</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Here I am<br/>Humbled by your majesty,<br/>Covered by your grace so I'm free<br/>Here I am, Knowing im a sinful man,<br/>Covered by the blood of the lamb</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Now I've found,<br/>The greatest love of all is mine<br/>Since you laid down your life<br/>the Greatest sacrifice,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Majesty, Majesty,<br/>Your grace has found me just as I am<br/>Empty handed but alive in your hand</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Majesty, Majesty<br/>forever I am changed by your love,<br/>In the presence of your majesty..</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Here I am, humbled by the love that you give,<br/>Forgiven so that I can forgive,<br/>Here I stand, knowing that I'm your desire<br/>Sanctified by glory and fire.</lines>
+    </verse>
+  </lyrics>
+</song>

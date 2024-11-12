@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>انا ملك الفادي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>أنا ملك الفادي اللي فداني<br/>وبصلبه وموته أحياني<br/>حررني وبدمه شراني<br/>انكسر الفخ ونجاني</lines>
+    </verse>
+    <verse name="c1">
+      <lines>مجدا ليسوع شكرا ليسوع<br/>مجدا ليسوع حمدا ليسوع<br/>هللويا...هللويا أنا ملك يسوع <br/>هللويا<br/>أنا ملك يسوع</lines>
+    </verse>
+    <verse name="v2">
+      <lines>أنا ملك الفادي اللي تألم<br/>عن كل العالم بآلامه<br/>لصليبه أنا هاخضع وأتعلم<br/>وطريقي بيوضح في كلامه</lines>
+    </verse>
+    <verse name="v3">
+      <lines>أنا ملك الفادي اللي دعاني<br/>من شر أراضي العبودية<br/>لحياة الطاعة في إيماني<br/>لحياة البر العملية</lines>
+    </verse>
+  </lyrics>
+</song>

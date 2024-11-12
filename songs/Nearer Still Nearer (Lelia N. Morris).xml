@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>Nearer Still Nearer</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Lelia N. Morris</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nearer, still nearer<br/>Close to Thy heart,<br/>Draw me, my Savior<br/>So precious Thou art!<br/>Fold me oh fold me<br/>To Thy breast,<br/>Shelter me safe<br/>In that "Haven of Rest";<br/>Shelter me safe<br/>In that "Haven of Rest."</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nearer, still nearer<br/>Nothing I bring,<br/>Naught as an offering<br/>To Jesus, my King;<br/>Only my sinful,<br/>Now contrite heart.<br/>Grant me the cleansing<br/>Thy blood doth impart,<br/>Grant me the cleansing<br/>Thy blood doth impart.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nearer, still nearer<br/>While life shall last,<br/>Till safe in glory<br/>My anchor is cast;<br/>Through endless ages ever to be,<br/>Nearer, my Savior<br/>Still nearer to Thee,<br/>Nearer my Savior<br/>Still nearer to Thee.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nearer, still nearer<br/>Lord to be Thine!<br/>Sin with its follies<br/>I gladly resign,<br/>All of its pleasures,<br/>Pomp and its pride.<br/>Give me but Jesus<br/>My Lord crucified;<br/>Give me but Jesus<br/>My Lord crucified.</lines>
+    </verse>
+  </lyrics>
+</song>

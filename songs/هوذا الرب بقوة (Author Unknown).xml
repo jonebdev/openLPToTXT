@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>هوذا الرب بقوة</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>هوذا الرب بقوة يملك في وسطنا<br/>يحكم بذراع مجد .. نملك ميراثنا</lines>
+    </verse>
+    <verse name="v2">
+      <lines>عراقيب تصير سهلاً .. معوجات تصير مستقيمة<br/>و يُرى مجد الرب علينا</lines>
+    </verse>
+    <verse name="v3">
+      <lines>صوت صارخ في المجد اعدوا طريق الرب<br/>كل جبل في القفر ينحني لصوت الرب</lines>
+    </verse>
+  </lyrics>
+</song>

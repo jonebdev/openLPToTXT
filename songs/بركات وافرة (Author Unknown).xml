@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>بركات وافرة</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>بركاتْ وافرة على رؤوسِنا<br/>بالمجدِ والغنى تملأْ حياتَنا<br/>لا للعناتْ لنا البركاتْ)<br/>تفتحْ كنزَ السماء تأتي بالتعويضاتْ)2<br/>Barakat wafera ala ru'usina bilmajdy wal ghena tamla' hayatana (La lilla'anat lanal barakat taftah kanza assama ta'ty bittaweethat)2</lines>
+    </verse>
+    <verse name="c1">
+      <lines>في الارتفاعِ في الارتفاع فقط نكون<br/>في الارتفاعِ في الارتفاعِ في الارتفاعِ<br/>(Fil irtifa'ee) 2 fakat nakoun<br/>(Fil irtifa')2 fil irtifa'ee</lines>
+    </verse>
+    <verse name="v2">
+      <lines>باسمك نذهب نقوى في كل يومْ<br/>لنا فرحُ الروحْ نغلبُ كلَ همْ<br/>نتشددْ بكَ فأنتَ الأعظمْ)<br/>2(أعداؤكَ يبنون وأنتَ تهدِمْ<br/>Bismika nath-habu nakwa fee kully yowm lana farah ilruh naghlebu kulla ham (natashadad bika fa'antal atham ada'uka yabnoun wa anta tahdem)2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>لن تنجح ضدنا كل آلاتِ الأعداءْ<br/>معك لن نرجع يوماً الي الوراءْ<br/>كلُ الأشياء معاً تعملْ لخيرِنا)<br/>رأساً لا ذنباً صارتْ حياتُنا)2<br/>Lan tanjah thedana kullu alat ila'da ma'ka lan narji'a yawman elal wara (kullil ashya' ma'an ta'mal lekhayrena ra'san la thanaban sarat hayatuna)2</lines>
+    </verse>
+  </lyrics>
+</song>

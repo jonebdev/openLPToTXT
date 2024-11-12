@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>اشرق علينا</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>اؤمر بالحياه للقلب الى مات<br/>حتى الذكريات نسينا و أشفينا<br/>قادر من العظام من كوم الحطام<br/>تخلق جيش لمجدك انفخ روحك فينا</lines>
+    </verse>
+    <verse name="c1">
+      <lines>أشرق علينا بإيدك داوينا<br/>استر ماضينا فى جنب المجرح<br/>شدد ايدينا ارفع عينينا<br/>والنصره لينا بقوة الروح</lines>
+    </verse>
+    <verse name="v2">
+      <lines>عشنا لروحنا وزادت جروحنا<br/>راجعين لك سامحنا وفى قلبك أقبلنا<br/>دا اللى فات كفايه عشناه للنفاية<br/>اكشف الخبايه قدسنا و طهرنا</lines>
+    </verse>
+    <verse name="v3">
+      <lines>رجائنا فى إيدك وفي قوة صليبك<br/>ندينا نجيلك على المياه تمشينا<br/>نتغير لصورتك ونفرح فى قربك<br/>ولو يوم ضعفنا من تاني تقوينا</lines>
+    </verse>
+  </lyrics>
+</song>

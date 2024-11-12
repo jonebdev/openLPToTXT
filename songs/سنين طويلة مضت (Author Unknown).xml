@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>سنين طويلة مضت</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>سنين طويلة مضت<br/>والرب معتني بي<br/>وكل يوم محمول<br/>على الأذرع الأبدية<br/>ويسوع بيده مسكني<br/>(في مراع الحب قايدني ... (2</lines>
+    </verse>
+    <verse name="v2">
+      <lines>يسوع سباني بحبه<br/>والقلب به فرحان<br/>وعد يجينا من مجده<br/>وتنتهي الأحزان<br/>تبقى السما كلها لي<br/>(وأعظم ما فيها فادي ... (2</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ملك الملوك يا يسوع<br/>يا ربنا المجروح<br/>نفوسنا في اشتياق<br/>أن تمتليء بالروح<br/>وتفيض يا ربي في<br/>(بمواهبك الروحية ... (2</lines>
+    </verse>
+    <verse name="v4">
+      <lines>على الآلات نعزف له<br/>بلحنه الجديد<br/>نغني ونرنم له<br/>بأعذب الأناشيد<br/>نسبى هناك في جماله<br/>(ونشاهد مجد جلاله ... (2</lines>
+    </verse>
+  </lyrics>
+</song>

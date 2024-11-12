@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>يا الله من مثلُك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>يا اللهُ من مثلُك4<br/>تبتهجُ شفتاي اذ ارنمُ لك)<br/>ونفسي التي فديتَها)2<br/>Ya allahu man mithluka (4) (tabtahiju shafataya ith uranimu laka wa nafsil laty fadaytaha)2</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>اذكر برك وحدَك اخبرُ بعجائبِك2<br/>Athkuru biraka wahdaka ukhbiru bi'aja'ibika (2)</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>وازيد على كلِ تسبيحِك2<br/>(wa azeedu ala kully tasbeehika)2</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>عالي هو</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>عاليٍ هو على كل الشعوب<br/>يحمدون اسمه العظيم المهوب<br/>تتزلزل الارض الرب مهوب</lines>
+    </verse>
+    <verse name="v2">
+      <lines>مهــــــــــــوب مهــــــــــــوب<br/>مهــــــــوب الرب</lines>
+    </verse>
+    <verse name="v3">
+      <lines>الرب قد ملك ترتعد الشعوب<br/>هو جالسٌ على الكروبيم<br/>تتزلزل الارض الرب عظيم</lines>
+    </verse>
+    <verse name="v4">
+      <lines>عظيـــــم عظيـــــم<br/>عظيـــــم الرب</lines>
+    </verse>
+  </lyrics>
+</song>

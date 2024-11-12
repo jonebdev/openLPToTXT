@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>الرب عزي وترسي</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>الربُ عزي وترسي<br/>عليه اتكلَ قلبي<br/>الربُ عزي وترسي<br/>عليه اتكلتُ فانتصرت</lines>
+    </verse>
+    <verse name="v1">
+      <lines>ويبتهج به قلبي<br/>وبأغنيتي أحمدُه<br/>مباركٌ الربُ<br/>لأنه سمعَ تضرعي</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>مين غيرك يهتم بأمري</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>مين غيرك يهتم بأمري<br/>مين غيرك فيه ملئي وغمري<br/>مين غيرك مديون له بعمري<br/>مين غيرك يا حبيبي يسوع<br/>Min gherak yihtammi bi'amry min gherak feeh mil'iy wighamry min gherak madyoon lu bi'umry min gherak ya habiby yasoo'</lines>
+    </verse>
+    <verse name="v1">
+      <lines>مين غيرك يسمع لصلاتي<br/>مين غيرك بيجيب طلباتي<br/>مين غيرك يسرع لنجاتي <br/>مين غيرك يا حبيبي يسوع<br/>Min gherak yisma' lisalaty min gherak biyijeeb tilbaty min gherak yisra' linajaty min gherak ya habiby yasoo'</lines>
+    </verse>
+    <verse name="v2">
+      <lines>مين غيرك يشفي لي جروحي <br/>مين غيرك عزائي في نوحي<br/>مين غيرك تشتاق له روحي <br/>مين غيرك يا حبيبي يسوع<br/>Min gherak yishfeely jiruhy min gherak aza'ee finuhy min gherak tishta' lu ruhy min gherak ya habiby yasoo'</lines>
+    </verse>
+    <verse name="v3">
+      <lines>مين غيرك حررني في أسري<br/>مين غيرك جبرني فى كسري<br/>مين غيرك فيه عزي ونصري<br/>مين غيرك يا حبيبي يسوع<br/>Min gherak hararny fi'asry min gherak jabarny fikasry min gherak feeh izy winasry min gherak ya habiby yasoo'</lines>
+    </verse>
+    <verse name="v4">
+      <lines>مين غيرك أفرح وياه <br/>مين غيرك أشتاق للقاه<br/>مين غيرك هايخدني معاه <br/>مين غيرك يا حبيبي يسوع<br/>Min gherak afrah wayah min gherak ashta' li lu'ah min gherak haykhudny ma'ah min gherak ya habiby yasoo'</lines>
+    </verse>
+  </lyrics>
+</song>

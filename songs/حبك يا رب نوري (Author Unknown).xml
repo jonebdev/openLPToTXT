@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>حبك يا رب نوري</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>حبُك يا رب نوري<br/>بل وزادي في المسير<br/>حبُك قد افتداني<br/>من عذابي المرير</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>فاقبلن ياربُ حبي<br/>ردُ حبِك الغزير<br/>وأسرن قلبي فأحيا<br/>صادقَ الحب لك</lines>
+    </verse>
+    <verse name="c1">
+      <lines>(صادق الحب لك(2<br/>أبقى ما حييتُ ربي حافظَ العهدِ أمين<br/>(صادقَ الحب لك(2<br/>فأحبُ من خلالك يا رب الآخرين<br/>صادق الحب)4 لك)</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>ربي لا اهبك<br/>باق حبٍ من بشر<br/>أنت من أشبعتَ نفسي<br/>كيف أعطيك الكِسر</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>كلا يا حبيب أنت<br/>ملء سمعي والبصر<br/>فلتعن ضعفي فأحيا<br/>صادق الحب لك</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>رؤيتي بل عزمَ قلبي<br/>ثبتن في شخصك<br/>حينما أنسى اهتمامي<br/>أسبى في حبي لك</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>هاك عهدي يبقى قلبي<br/>مخلصا في حبك<br/>واملأن عمري لاحيا<br/>صادق الحب لك</lines>
+    </verse>
+  </lyrics>
+</song>

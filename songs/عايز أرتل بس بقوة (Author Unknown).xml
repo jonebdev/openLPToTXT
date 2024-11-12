@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>عايز أرتل بس بقوة</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>عايز أرتل بس بقوة<br/> قوة كبيرة تهد جبال<br/> قوة تخلي الميت يصحى<br/> قوة تخلي الكل رجال</lines>
+    </verse>
+    <verse name="v2">
+      <lines>عايز أفرح فرحة كبيرة <br/> فرحة تساع كل الأجيال<br/> تملك قلبي وتملى كياني<br/> و تعزيني ليوم رؤياه</lines>
+    </verse>
+    <verse name="v3">
+      <lines>كل عظامي ترتل ليك ) <br/> عايش في و عايش فيك<br/> نفسي وروحي بيفرحوا بيك <br/> مجدا مجدا مجدا ليك ) 2</lines>
+    </verse>
+  </lyrics>
+</song>

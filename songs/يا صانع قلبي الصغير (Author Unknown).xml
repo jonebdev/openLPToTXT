@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>يا صانع قلبي الصغير</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>يا صانع قلبي الصغير انت تفهمني وتعرف ايا قدير ماذا يشغلني<br/>لذلك ان تهتُ وسط وادي ظل الموت سأثق بك راعيًا لي</lines>
+    </verse>
+    <verse name="v2">
+      <lines>يا من وهبتني الحياة انت هدفها وبحنان كالمياه انت تغمرها<br/>لذلك ان هاج نوّ وادي ظل الموت سأثق بك راعيًا لي</lines>
+    </verse>
+    <verse name="v3">
+      <lines>انت نوري في الظلام انت شمسي في الصباح<br/>وبقربك السلام وبحضنك ارتاح</lines>
+    </verse>
+  </lyrics>
+</song>

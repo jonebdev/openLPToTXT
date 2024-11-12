@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:47">
+  <properties>
+    <titles>
+      <title>He Hideth My Soul</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Fanny J. Crosby William J. Kirkpatrick</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>He hideth my soul<br/>In the cleft of the rock<br/>That shadows a dry, thirsty land.<br/>He hideth my life<br/>In the depths of His love.<br/>And covers me there with His hand.<br/>And covers me there with His hand.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A wonderful Savior is Jesus my Lord,<br/>A wonderful Savior to me.<br/>He hideth my soul<br/>In the cleft of the rock,<br/>Where rivers of pleasure I see.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A wonderful Savior is Jesus my Lord.<br/>He taketh my burden away.<br/>He holdeth me up<br/>And I shall not be moved.<br/>He giveth me strength as my day.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>With numberless blessings<br/>Each moment He crowns;<br/>And filled with His fullness divine,<br/>I sing in my rapture, "Oh, glory to God<br/>For such a Redeemer as mine!"</lines>
+    </verse>
+    <verse name="v4">
+      <lines>When clothed in His brightness<br/>Transported I rise,<br/>To meet Him in clouds of the sky,<br/>His perfect salvation,<br/>His wonderful love I'll shout<br/>With the millions on high.</lines>
+    </verse>
+  </lyrics>
+</song>

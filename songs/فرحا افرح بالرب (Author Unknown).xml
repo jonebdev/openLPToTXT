@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>فرحا افرح بالرب</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>فرحا أفرح بالرب</lines>
+    </verse>
+    <verse name="v1">
+      <lines>فرحا أفرح بالرب بهجة فرحي إلهي<br/>ثياب خلاص البسني ورداء البر كساني</lines>
+    </verse>
+    <verse name="v2">
+      <lines>فرحا يثبت رغم الكربة لا ينزعه انسان<br/>فرحا يرافقني في الغرة يملأ نفسي طمان</lines>
+    </verse>
+    <verse name="v3">
+      <lines>لاضيق ولا جوع ولااضطهاد يفصلني عن الحبيب<br/>في كل ظروفي أنا فرحان لأن الرب قريب</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:52">
+  <properties>
+    <titles>
+      <title>قربني ليك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>القرار- قربني ليك .. ألهب قلبي بيك<br/>اسبي نفسي فيك .. خليني هنا على طول معاك<br/>نادي .. نادي علي .. امسك إيدي افتح عيني<br/>خليني أشوف عرشك سماك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>خلاص مش عايز حاجة تاني .. هو دا مكاني<br/>قدام عرشك في حضورك<br/>خلاص مش عايز حد تاني .. هو دا أماني<br/>ساجد مبهور بنورك</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2- أشوف إله مافيش سواه .. هو رب الحياة<br/>كل الخليقة تعلن بهاه<br/>أشيل المجد وأنسى الوقت .. وأدوب في الحق<br/>كل الحياة تبقى في رضاه</lines>
+    </verse>
+  </lyrics>
+</song>

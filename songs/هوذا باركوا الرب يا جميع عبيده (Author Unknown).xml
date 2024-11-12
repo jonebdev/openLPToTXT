@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>هوذا باركوا الرب يا جميع عبيده</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>هوذا باركوا الرب يا جميع عبيده<br/>الواقفين في بيت الرب في الليالي باركوا اسمه</lines>
+    </verse>
+    <verse name="v1">
+      <lines>سبحوا الرب فهو صالح رنموا لاسمه فذلك حلو<br/>لان الرب كذ اخترنا فنحدث بعظامه</lines>
+    </verse>
+    <verse name="v2">
+      <lines>عرفت ان ربنا عظيم فوق جميع الالهة<br/>كل ما شاء ربنا صنع في السموات وعلى الأرض</lines>
+    </verse>
+  </lyrics>
+</song>

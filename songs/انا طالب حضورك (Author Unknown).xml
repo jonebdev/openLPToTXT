@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>انا طالب حضورك</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>انا طالب حضورك<br/>ولذة رضــــــاك<br/>تملاني بنـــــــورك<br/>بالقرب معــــاك</lines>
+    </verse>
+    <verse name="v1">
+      <lines>انا طالب اتغير لشخصك اتغير<br/>وان كان حبي صغير لمستك ترويه<br/>قلبي هيستناك طلبه يكون معاك<br/>حبك لا ســـــواك هواللي هيشفيه</lines>
+    </verse>
+    <verse name="v2">
+      <lines>قربك مجد ثاني في عشرتك اغاني<br/> حبك ليه معاني قلبى بيتهجـاه<br/>جلسة بين ايديك وسجودي لديـك<br/>نظرة من عنيـك كل مااتمنـــاه</lines>
+    </verse>
+    <verse name="v3">
+      <lines>يا أبرع جمال ليك مجد وجلال<br/>حبك فاق الخيال عنوانه الصليب<br/>ما لم تري عين او تسمع به اذان<br/>او يخطر ببــال حبـــك ياحبيب</lines>
+    </verse>
+    <verse name="v4">
+      <lines>يانهر سباحة بيت خمر وراحة<br/>يا محول المناحة في قلبي باديك <br/> لا للركبتيــــن ولا للحقويــــــــن<br/>بل بقرب قلبــــــــك عبرني اليـــك</lines>
+    </verse>
+  </lyrics>
+</song>

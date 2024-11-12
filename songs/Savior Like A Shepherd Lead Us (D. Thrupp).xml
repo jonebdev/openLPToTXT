@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>Savior Like A Shepherd Lead Us</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>D. Thrupp</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Savior, like a shepherd lead us;<br/>Much we need Your tender care.<br/>In Your pleasant pastures feed us,<br/>For our use Your folds prepare.<br/>Blessed Jesus, Blessed Jesus,<br/>You have bought us: Yours we are.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>We are Yours; in love befriend us,<br/>Be the guardian of our way;<br/>Keep Your flock, from sin defend us,<br/>Seek us when we go astray.<br/>Blessed Jesus, blessed Jesus,<br/>Hear Your children when we pray.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You have promised to receive us,<br/>Poor and sinful though we be;<br/>You have mercy to relieve us,<br/>Grace to cleanse, and power to free.<br/>Blessed Jesus, blessed Jesus,<br/>Early let us turn to You.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Early let us seek Your favor,<br/>Early let us do Your will;<br/>Blessed Lord and only Savior,<br/>With Your love our spirits fill.<br/>Blessed Jesus, blessed Jesus,<br/>You have loved us; love us still.</lines>
+    </verse>
+  </lyrics>
+</song>

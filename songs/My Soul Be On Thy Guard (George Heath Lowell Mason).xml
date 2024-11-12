@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>My Soul Be On Thy Guard</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>George Heath Lowell Mason</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My soul be on thy guard;<br/>Ten thousand foes arise;<br/>The hosts of sin are pressing hard<br/>To draw you from the skies.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Oh, watch and fight and pray;<br/>The battle ne'er give o'er.<br/>Renew it boldly ev'ry day,<br/>And help divine implore.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ne'er think the vict'ry won,<br/>Nor lay thine armor down;<br/>The work of faith will not be done<br/>Till thou obtain the crown.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Fight on, my soul, till death<br/>Shall bring thee to thy God;<br/>He'll take thee, at thy parting breath,<br/>To His divine abode.</lines>
+    </verse>
+  </lyrics>
+</song>

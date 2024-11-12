@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>انت ابرع جمال من كل بني البشر</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>انت أبرع جمال<br/>من كل بني البشر<br/>انسكبت النعمة على شفتيك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>مشتهي الأمم .. رجاء الشعوب .. نور العالم يا يسوع<br/>معلم بين ربوة .. الأبرع جمال .. ملكي وسيدي يسوع</lines>
+    </verse>
+    <verse name="v3">
+      <lines>يسوع ابرع جمال من كل بني البشر<br/>انسكبت النعمة على شفتيه<br/>أنت أبرع جمال من كل بني البشر<br/>ملكي وسيدي يسوع</lines>
+    </verse>
+    <verse name="v4">
+      <lines>. جميل .. جميل .. جميل .. جميل .. جميل .. يايسوع</lines>
+    </verse>
+    <verse name="v5">
+      <lines>. عظيم .. عظيم .. عظيم .. عظيم .. عظيم .. يايسوع</lines>
+    </verse>
+    <verse name="v6">
+      <lines>. قدير .. قدير .. قدير .. قدير .. قدير .. يايسوع</lines>
+    </verse>
+    <verse name="v7">
+      <lines>. جميل .. جميل .. جميل .. جميل .. جميل .. يايسوع مشتهى كل الأمم</lines>
+    </verse>
+  </lyrics>
+</song>

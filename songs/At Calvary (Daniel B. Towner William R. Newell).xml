@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:46">
+  <properties>
+    <titles>
+      <title>At Calvary</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Daniel B. Towner William R. Newell</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Mercy there was great and grace was free;<br/>Pardon there was multiplied to me;<br/>There my burdened soul found liberty,<br/>At Calvary.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Years I spent in vanity and pride,<br/>Caring not my Lord was crucified,<br/>Knowing not it was for me He died<br/>On Calvary.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By God's Word at last my sin I learned;<br/>Then I trembled at the law I'd spurned,<br/>Till my guilty soul imploring turned<br/>To Calvary.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Now I've giv'n to Jesus ev'rything;<br/>Now I gladly own Him as my King;<br/>Now my raptured soul can only sing<br/>Of Calvary.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O the love that drew salvation's plan!<br/>O the grace that brought it down to man!<br/>O the mighty gulf that God did span<br/>At Calvary!</lines>
+    </verse>
+  </lyrics>
+</song>

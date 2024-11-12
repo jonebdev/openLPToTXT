@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:47">
+  <properties>
+    <titles>
+      <title>For God So Loved The World</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Eliza E. Hewitt J. Lincoln Hall</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>For God so loved the world,<br/>That He gave His only begotten Son,<br/>That whosoever believeth in Him,<br/>Whosoever believeth in Him,<br/>Should not perish should not perish,<br/>But have everlasting life.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>A story sweet and wondrous,<br/>Like heavenly music swells.<br/>In chimings clear to all who will hear,<br/>Ring out the gospel bells.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>When, grieving brokenhearted,<br/>Because of sin and shame,<br/>We find a joy earth cannot destroy,<br/>Believing on His name.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>This love, beyond all measure,<br/>Of earth or sea or sky,<br/>Could only show its full overflow,<br/>When Jesus came to die.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Come, brother come to Jesus,<br/>His word was meant for you;<br/>His grace receive, His promise believe,<br/>And sing His praise anew.</lines>
+    </verse>
+  </lyrics>
+</song>

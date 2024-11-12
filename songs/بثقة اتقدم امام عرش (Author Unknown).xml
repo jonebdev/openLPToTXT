@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>بثقة اتقدم امام عرش</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>بثقه نتقدم امام عرش النعمه<br/>نسجد في محضرك نعلن مجداً لاسمك<br/>مجداً لاسمك ... مجداً لاسمك ... مجداً لاسمك</lines>
+    </verse>
+    <verse name="v2">
+      <lines>اسمع الملائكة تعلن مجد الحمل<br/>ترنم هللويا فسجدت مرنما معها<br/>هللويا هللويا هللويا هللويا</lines>
+    </verse>
+  </lyrics>
+</song>

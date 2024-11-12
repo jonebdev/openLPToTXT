@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>استطيع كل شيء</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>أستطيعْ كلَ شئٍ<br/>في المسيحْ قوتي<br/>الهي يريدْ أنْ أحيا في النَجاحِ<br/>ويُقيمُني على مُرتَفعاتي</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Astatee' kulla shay'in fil maseeh kuwaty<br/>Illahy yureed an ahya finnajahy wa yukeemuny ala murtafa'aty</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>لنْ أقبلَ روحَ الفشلْ)<br/>من أنتَ أيها الجبلْ)2<br/>ربي الهي يبني ايماني)2)<br/>ويصنعُ.. ويصنعُ مفتخراً</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>(Lan akbala ruhal fashal man anta ayuhal jabal)2<br/>(Rabby ilahy yabnee imany)2<br/>wayasna'u wayasna'u muftakharan</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>يجعلْ للظلمةْ نهايةً)<br/> يضيءْ سراجي ثانيةً)2<br/>لا للأوليات ولا للقديماتْ)2ً)<br/>أتى زمانْ.. أتى زمانِ التعويضاتْ</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>(Yaj'al lil thulma nihayatan, yudee' sirajy thaniyatan)2 (La lil awaliyat wala lil kadeemat)2 Ata zaman, ata zama ittaweethat</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>يعطي المعىَّ قدرةً)<br/>لعديمِ القوةِ شدةً)2<br/>مؤتي الأغاني في الليالي)2)<br/>فلا أكونْ .. فلا أكونْ الا فرحاً</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>(Yutil mu'ya kudratan liadimil kuwaty shidatan)2 (Mu'til aghany fil layaly)2<br/>Fala akoon fala akoon illa farihan</lines>
+    </verse>
+  </lyrics>
+</song>

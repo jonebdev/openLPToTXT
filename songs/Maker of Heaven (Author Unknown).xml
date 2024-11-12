@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:48">
+  <properties>
+    <titles>
+      <title>Maker of Heaven</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keep my heart amazed,<br/>let me see Your wonders everyday<br/>Teach me in Your ways,<br/>so that i may fear</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You are walking on water,<br/>You are calling me after<br/>You are standing beside me now</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You are the maker of Heaven<br/>you turn my world around<br/>You're making all things new again<br/>Through it all I know You are God alone</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Set my heart on fire,<br/>let me burn with passion for your name<br/>Take overmy life,<br/>I surrender now</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hallelujah, Hallelujah, Hallelujah,<br/>You are God Alone<br/>Hallelujah, Hallelujah, Hallelujah,<br/>You are God alone</lines>
+    </verse>
+  </lyrics>
+</song>

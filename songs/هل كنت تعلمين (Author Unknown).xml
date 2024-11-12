@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:54">
+  <properties>
+    <titles>
+      <title>هل كنت تعلمين</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>هل كنت تعلمين أن ابنك يسوع سيمشي فوق الماء</lines>
+    </verse>
+    <verse name="v2">
+      <lines>آه هل تعلمين أن ابنك الحبيب يخلص الخطاة</lines>
+    </verse>
+    <verse name="v3">
+      <lines>أو تعلمين أن يسوع جاء يمنحنا الفداء</lines>
+    </verse>
+    <verse name="v4">
+      <lines>أن ابنك الوليد يمنحنا الحياة</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+    <verse name="v1c">
+      <lines>هل كنت تعلمين أن ابنك الحنون سيفتح العُيون</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>وبيده يهدىء الرياح يأمرها بالسكون</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>لو تعلمين أن له تسجد كل الملائكة</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>و إذ تقبليه فذا وجه الآله</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>سيبصر سيسمع كذا يحي الأموات</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>بل و يمشون وينطقون دوماً بالتسبيحات</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>هل كنت تدركين أن ابنك الوليد صانع الوجود</lines>
+    </verse>
+    <verse name="v1j">
+      <lines>أو هل تعلمين أن الطفل الرضيع ملكه يسوع</lines>
+    </verse>
+    <verse name="v1k">
+      <lines>هل تعلمين أن ابنك الصغير ذبيحة الفداء</lines>
+    </verse>
+    <verse name="v1l">
+      <lines>النائم في حضنك هو الآله</lines>
+    </verse>
+    <verse name="v1m">
+      <lines>آه هل تعلمين</lines>
+    </verse>
+  </lyrics>
+</song>

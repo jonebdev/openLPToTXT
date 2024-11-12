@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:53">
+  <properties>
+    <titles>
+      <title>كسرت سهام العدو</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>كسرت سهام العدو<br/>عظمت الانتصار<br/>دسنا كل قواته<br/>شكرا لك يا بار<br/>Kassart sihamil adu athamtil intisar dusna kully kuwatu shukran laka ya bar</lines>
+    </verse>
+    <verse name="c1">
+      <lines>على حساب الدم<br/>وقوة الصليب<br/>لا نخشى لا نهتم<br/>ملجأنا الحبيب<br/>Ala hisabil dam wi uwit issaleeb<br/>la nakhsha la nahtam malja'unal habib</lines>
+    </verse>
+    <verse name="v2">
+      <lines>يا هنانا بالبنوة<br/>أطلقتنا أحرار<br/>والضعف أصبح قوة<br/>والأصغر صار جبار<br/>Ya hanana bil binuwa atlaktana ahrar wil da'fy asbah kuwa wil asghar sar jabbar</lines>
+    </verse>
+    <verse name="v3">
+      <lines>كجيش بألوية<br/>لنا سلاح الروح<br/>قوتنا علوية<br/>من قوة المجروح<br/>Kajayshun bi alwiya lana silahil ruh uwitna alawiya min uwitil majruh</lines>
+    </verse>
+    <verse name="v4">
+      <lines>في وادي ظل الموت<br/>يدك تمسك يدي<br/>أشدو بأعلى صوتي<br/>لأنك معي<br/>Fee wady dillil mowty yaduka tomsik yady ashdoo bi'ala sowty li'annaka ma'ee</lines>
+    </verse>
+  </lyrics>
+</song>

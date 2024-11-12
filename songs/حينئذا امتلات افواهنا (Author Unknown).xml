@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:51">
+  <properties>
+    <titles>
+      <title>حينئذا امتلات افواهنا</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>حينئذ امتلأت افواهنا ضحكا والسنتنا ترنما</lines>
+    </verse>
+    <verse name="v2">
+      <lines>حينئذ قالوا بين الأمم ان الرب قد عظم العمل مع هؤلاء</lines>
+    </verse>
+    <verse name="v3">
+      <lines>عظم الرب العمل معنا وصرنا فرحين فرحين بالرب</lines>
+    </verse>
+  </lyrics>
+</song>

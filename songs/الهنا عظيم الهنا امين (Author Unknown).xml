@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.3" modifiedIn="OpenLP 3.1.3" modifiedDate="2024-10-25T23:53:50">
+  <properties>
+    <titles>
+      <title>الهنا عظيم الهنا امين</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>يا إلهنا الصالح شكراً ليك<br/>مهما بنشكر مش ها نوفيك<br/>دى مراحمك جيل ورا جيل</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>وأمانتك ثابتة وما بتزول<br/>أعمالك تشهد لك وتقول<br/>يـارب ما لـكش مثيـــل</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>إلهنا عظيم إلهنا أمين<br/>وحافظ عهده سنين وسنين<br/>بيطعم شعبه ف برية<br/>ويطلق أسرى ومسبيين</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>إله دانيال ورب داود<br/>بنؤمن إنه مازال موجود<br/>ينجى عبيده حسب وعده<br/>من سيف جليات وجب أسود</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>فى قلب السجن ووسط الضيق<br/>بتيجى بقوة يا أوفى صديق<br/>وإن وقف البحر قصاد شعبك<br/>تشقه وتعمل منه طريق</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>ما فى أبواب ولا أسوار<br/>أمامك تقوى يا جبار<br/>وإن اضطهدوا ف مرة ولادك<br/>نشوفك وسط أتون النار</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>إله آبائنا وأجدادنا<br/>عهودك لينا ولولادنا<br/>يا فادى من الحفرة حياتنا<br/>ووعدتنا للسما ها تاخدنا</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>بنعلن إن إيماننا فيك<br/>وإن يوم أنكرنا وصاح الديك<br/>بنظرة حب تدوبنا<br/>ونرجع تانى بتوبة إليك</lines>
+    </verse>
+  </lyrics>
+</song>
